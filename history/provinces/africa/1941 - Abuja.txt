@@ -1,5 +1,5 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = OYO
+controller = OYO
+add_core = NUP
 trade_goods = wool
 life_rating = 35

@@ -1,4 +1,6 @@
-add_core = LUN
+owner = KSJ
+controller = KSJ
+add_core = KSJ
 trade_goods = grain
 life_rating = 10
 colonial = 2

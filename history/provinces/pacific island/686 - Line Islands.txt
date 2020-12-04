@@ -1,7 +1,6 @@
-owner = KHI
+owner = KHO
 controller = KHI
-add_core = KHI
-add_core = TKM
-terrain = desert
+add_core = TKS
 trade_goods = opium
 life_rating = 15
+terrain = desert

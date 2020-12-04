@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = HND
+owner = AUS
+controller = AUS
+add_core = ABO
 trade_goods = grain
 life_rating = 30
 colonial = 2

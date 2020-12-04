@@ -1,8 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = FOX
+controller = FOX
+add_core = FOX
 trade_goods = coal
 life_rating = 35
 colonial = 2
-1861.1.1 = { colonial = 0 }
-1861.1.1 = { railroad = 3 }

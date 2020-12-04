@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = COL
-terrain = new_world_montane_tundra
+owner = HDA
+controller = HDA
+add_core = HDA
 trade_goods = fish
 life_rating = 31
+terrain = new_world_montane_tundra

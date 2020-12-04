@@ -1,8 +1,6 @@
-owner = CHL
-
-controller = CHL
-add_core = CHL
-add_core = PTG
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = grain
-terrain = montane_forest
 life_rating = 35
+terrain = montane_forest

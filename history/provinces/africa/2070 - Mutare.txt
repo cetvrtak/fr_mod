@@ -1,4 +1,6 @@
-add_core = ZBW
+owner = POR
+controller = POR
+add_core = ZIM
 trade_goods = fruit
 life_rating = 10
 colonial = 1

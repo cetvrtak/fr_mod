@@ -1,5 +1,5 @@
-owner = PBC
-controller = PBC
-add_core = BOL
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = wool
 life_rating = 33

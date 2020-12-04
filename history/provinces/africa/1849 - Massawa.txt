@@ -1,11 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = ETH
-add_core = TIG
+owner = MED
+controller = MED
+add_core = MED
 trade_goods = fish
-terrain = semidesert
 life_rating = 32
-1861.1.1 = {
-    owner = ETH
-    controller = ETH
-}
+terrain = semidesert

@@ -1,8 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MTC
-add_core = RPL
+owner = QUE
+controller = QUE
 trade_goods = grain
-terrain = forest
 life_rating = 31
+terrain = forest
 colonial = 2

@@ -1,7 +1,6 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = SUD
+owner = NUB
+controller = ABB
+add_core = X01
 trade_goods = wool
 life_rating = 10
 terrain = desert

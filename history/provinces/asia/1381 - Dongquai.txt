@@ -1,5 +1,6 @@
-owner = DAI
-controller = DAI
-add_core = DAI
+owner = CHA
+controller = CHA
+add_core = CHA
+add_core = IDO
 trade_goods = wool
 life_rating = 34

@@ -1,4 +1,6 @@
-add_core = BUG
+owner = BSG
+controller = BSG
+add_core = BSG
 trade_goods = cattle
-terrain = savanna
 life_rating = 10
+terrain = savanna

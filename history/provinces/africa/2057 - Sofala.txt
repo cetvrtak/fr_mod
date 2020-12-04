@@ -1,7 +1,4 @@
-owner = GAZ
-controller = GAZ
-add_core = GAZ
-add_core = SHO
-add_core = AGC
+owner = POR
+controller = POR
 trade_goods = grain
 life_rating = 35

@@ -1,3 +1,6 @@
+owner = KBO
+controller = KBO
+add_core = YAO
 trade_goods = grain
-terrain = semidesert
 life_rating = 10
+terrain = semidesert

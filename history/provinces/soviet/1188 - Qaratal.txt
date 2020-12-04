@@ -1,3 +1,7 @@
-add_core = KAZ
+owner = QNG
+controller = QNG
+add_core = KHA
+add_core = MGL
+add_core = ZUN
 trade_goods = grain
 life_rating = 30

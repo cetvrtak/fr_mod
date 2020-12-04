@@ -1,9 +1,8 @@
-owner = KTH
-controller = KTH
-add_core = KTH
-add_core = MHR
-add_core = FDL
-add_core = LHJ
+owner = HDR
+controller = HDR
+add_core = ARA
+add_core = HDR
+add_core = RAS
 trade_goods = opium
 life_rating = 32
 terrain = semidesert

@@ -1,6 +1,7 @@
-owner = MAD
-controller = MAD
+owner = MIR
+controller = BTS
 add_core = MAD
-terrain = montane_forest
+add_core = MIR
 trade_goods = wool
 life_rating = 35
+terrain = montane_forest

@@ -1,6 +1,6 @@
-owner = CLM
-controller = CLM
-add_core = CLM
+owner = ECU
+controller = ECU
+add_core = ECU
 trade_goods = coal
-terrain = montane_forest
 life_rating = 34
+terrain = montane_forest

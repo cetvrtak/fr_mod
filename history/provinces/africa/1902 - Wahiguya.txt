@@ -1,7 +1,7 @@
-owner = MOS
-controller = MOS
+owner = YAT
+controller = YAT
 add_core = MOS
-add_core = MAS
+add_core = YAT
 trade_goods = fruit
-terrain = semidesert
 life_rating = 32
+terrain = semidesert

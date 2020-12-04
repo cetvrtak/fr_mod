@@ -1,5 +1,6 @@
-owner = MAL
-controller = MAL
+owner = TID
+controller = NET
 add_core = MAL
+add_core = TID
 trade_goods = fish
 life_rating = 31

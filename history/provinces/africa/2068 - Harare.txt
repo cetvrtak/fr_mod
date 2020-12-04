@@ -1,5 +1,7 @@
-add_core = ZBW
+owner = ZIM
+controller = ZIM
+add_core = ZIM
 trade_goods = fruit
-terrain = savanna
 life_rating = 10
+terrain = savanna
 colonial = 1

@@ -1,12 +1,10 @@
-owner = ENG
+owner = MRT
 controller = ENG
 add_core = HND
-add_core = MAH
+add_core = JAJ
+add_core = MRT
 trade_goods = tobacco
 life_rating = 32
 colonial = 2
-fort = 1
 naval_base = 1
-1861.1.1 = {
-    railroad = 3
-}
+fort = 1

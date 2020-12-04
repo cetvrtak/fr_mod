@@ -1,6 +1,8 @@
-owner = MCK
-controller = MCK
-add_core = CHI
-add_core = MCK
+owner = QNG
+controller = QNG
+add_core = KHA
+add_core = KRC
+add_core = MGL
+add_core = SOL
 trade_goods = cattle
 life_rating = 35

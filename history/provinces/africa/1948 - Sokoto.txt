@@ -1,6 +1,6 @@
-owner = SOK
-controller = SOK
-add_core = SOK
+owner = HAU
+controller = HAU
+add_core = HAU
 trade_goods = cattle
-terrain = semidesert
 life_rating = 35
+terrain = semidesert

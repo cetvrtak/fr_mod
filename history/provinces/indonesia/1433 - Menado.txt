@@ -1,5 +1,6 @@
-owner = NET
-controller = NET
-add_core = SLW
+owner = TTE
+controller = TTE
+add_core = MAL
+add_core = TTE
 trade_goods = dye
 life_rating = 32

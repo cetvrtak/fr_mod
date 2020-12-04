@@ -1,4 +1,6 @@
-add_core = PTG
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = cattle
-terrain = dryhills
 life_rating = 15
+terrain = dryhills

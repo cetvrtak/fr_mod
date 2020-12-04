@@ -1,8 +1,7 @@
-owner = PRU
-controller = PRU
-add_core = PRU
-add_core = RHI
+owner = NAS
+controller = NAS
 add_core = GER
+add_core = HRE
+add_core = NAS
 trade_goods = timber
 life_rating = 40
-1861.1.1 = { railroad = 3 }

@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MUG
+owner = BIK
+controller = PNJ
+add_core = BIK
 add_core = HND
 trade_goods = cattle
 life_rating = 32

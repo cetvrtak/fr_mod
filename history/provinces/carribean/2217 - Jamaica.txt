@@ -1,7 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = JAM
+owner = CRB
+controller = CRB
+add_core = CRB
 trade_goods = sulphur
 life_rating = 35
 colonial = 2
-1861.1.1 = { railroad = 2 }

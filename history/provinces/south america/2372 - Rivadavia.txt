@@ -1,3 +1,6 @@
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = timber
-terrain = savanna
 life_rating = 15
+terrain = savanna

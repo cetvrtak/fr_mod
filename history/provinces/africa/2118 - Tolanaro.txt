@@ -1,6 +1,7 @@
-owner = MAD
-controller = MAD
+owner = ANT
+controller = ANT
+add_core = ANT
 add_core = MAD
-terrain = jungle
 trade_goods = grain
 life_rating = 35
+terrain = jungle

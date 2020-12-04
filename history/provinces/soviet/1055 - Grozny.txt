@@ -1,9 +1,5 @@
-owner = DAG
-controller = DAG
-add_core = CHY
+owner = GZK
+controller = GZK
+add_core = GZK
 trade_goods = grain
 life_rating = 35
-1861.1.1 = {
-    owner = RUS
-    controller = RUS
-}

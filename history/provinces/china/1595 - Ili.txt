@@ -1,6 +1,6 @@
-owner = XIN
-controller = XIN
-add_core = CHI
+owner = QNG
+controller = QNG
 add_core = XIN
+add_core = ZUN
 trade_goods = sulphur
 life_rating = 32

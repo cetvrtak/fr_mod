@@ -1,6 +1,7 @@
-owner = NET
-controller = NET
+owner = MTR
+controller = MTR
 add_core = JAV
+add_core = MTR
 trade_goods = sulphur
 life_rating = 35
 colonial = 2

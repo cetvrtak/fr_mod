@@ -1,6 +1,7 @@
-owner = ENG
-controller = ENG
+owner = FRA
+controller = FRA
+add_core = FRA
 trade_goods = fish
 life_rating = 32
-colonial = 2
 terrain = small_island
+colonial = 2

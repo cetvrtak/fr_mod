@@ -1,6 +1,7 @@
 owner = RUS
 controller = RUS
-add_core = RUS
+add_core = PLC
 add_core = UKR
+add_core = ZAZ
 trade_goods = fish
 life_rating = 35

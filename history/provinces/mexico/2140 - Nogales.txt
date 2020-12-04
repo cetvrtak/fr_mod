@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-terrain = new_world_semidesert
-add_core = MEX
+owner = CAL
+controller = CAL
+add_core = CAL
 trade_goods = grain
 life_rating = 32
+terrain = new_world_semidesert

@@ -1,5 +1,8 @@
-owner = DAI
-controller = DAI
+owner = TOK
+controller = TOK
+add_core = ANN
 add_core = DAI
+add_core = IDO
+add_core = TOK
 trade_goods = grain
 life_rating = 34

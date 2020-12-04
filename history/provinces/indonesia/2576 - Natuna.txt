@@ -1,7 +1,8 @@
-owner = NET
-controller = NET
-add_core = SAK
+owner = LAN
+controller = LAN
+add_core = LAN
+add_core = MLY
 trade_goods = fish
-terrain = small_island
 life_rating = 31
+terrain = small_island
 colonial = 2

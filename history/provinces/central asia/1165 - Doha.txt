@@ -1,7 +1,8 @@
-owner = QAT
-controller = QAT
-add_core = BHR
-add_core = QAT
+owner = NEJ
+controller = NEJ
+add_core = ALH
+add_core = ARA
+add_core = NEJ
 trade_goods = fish
-terrain = semidesert
 life_rating = 34
+terrain = semidesert

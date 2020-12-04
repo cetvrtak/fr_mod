@@ -1,6 +1,5 @@
-owner = EGY
-controller = EGY
-add_core = EGY
-add_core = SUD
+owner = TUR
+controller = TUR
+add_core = X01
 trade_goods = fruit
 life_rating = 30

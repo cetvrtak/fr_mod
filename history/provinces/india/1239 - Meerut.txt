@@ -1,8 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = MUG
-add_core = AWA
+owner = RMP
+controller = RMP
+add_core = DLH
 add_core = HND
+add_core = RMP
 trade_goods = grain
 life_rating = 32
 colonial = 2

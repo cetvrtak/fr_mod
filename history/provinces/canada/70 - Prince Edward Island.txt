@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = MRU
+owner = QUE
+controller = QUE
 trade_goods = fish
 life_rating = 31
 colonial = 2

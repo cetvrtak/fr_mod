@@ -1,4 +1,6 @@
-add_core = KZB
+owner = TBK
+controller = TBK
+add_core = TBK
 trade_goods = fruit
-terrain = montane_forest
 life_rating = 10
+terrain = montane_forest

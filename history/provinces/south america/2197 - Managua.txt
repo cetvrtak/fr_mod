@@ -1,9 +1,4 @@
-owner = UCA
-controller = UCA
-add_core = NIC
+owner = ECU
+controller = ECU
 trade_goods = coffee
 life_rating = 39
-1861.1.1 = {
-    owner = NIC
-    controller = NIC
-}

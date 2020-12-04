@@ -1,5 +1,5 @@
 owner = PER
-controller = PER
+controller = KHO
 add_core = PER
 trade_goods = cotton
 life_rating = 35

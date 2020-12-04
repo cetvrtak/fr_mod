@@ -1,7 +1,8 @@
-owner = ENG
-controller = ENG
-add_core = KAR
+owner = BUR
+controller = BUR
 add_core = BUR
+add_core = IDO
+add_core = PEG
 trade_goods = grain
 life_rating = 33
 colonial = 2

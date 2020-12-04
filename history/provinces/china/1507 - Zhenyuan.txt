@@ -1,5 +1,7 @@
 owner = QNG
 controller = QNG
 add_core = CHI
+add_core = CMI
+add_core = ZHO
 trade_goods = silk
 life_rating = 32

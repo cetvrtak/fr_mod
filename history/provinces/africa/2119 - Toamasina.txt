@@ -1,6 +1,7 @@
-owner = MAD
-controller = MAD
+owner = BTS
+controller = BTS
+add_core = BTS
 add_core = MAD
-terrain = jungle
 trade_goods = fruit
 life_rating = 35
+terrain = jungle

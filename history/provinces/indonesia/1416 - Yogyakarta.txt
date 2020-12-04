@@ -1,5 +1,6 @@
-owner = JAV
-controller = JAV
+owner = MTR
+controller = MTR
 add_core = JAV
+add_core = MTR
 trade_goods = grain
 life_rating = 35

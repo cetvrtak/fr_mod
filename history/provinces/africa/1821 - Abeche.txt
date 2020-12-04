@@ -1,4 +1,7 @@
+owner = YAO
+controller = YAO
+add_core = YAO
 trade_goods = grain
-terrain = semidesert
 life_rating = 5
+terrain = semidesert
 colonial = 1

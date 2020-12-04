@@ -1,6 +1,7 @@
 owner = TKG
 controller = TKG
+add_core = JAP
 add_core = TKG
 trade_goods = precious_metal
-terrain = small_island
 life_rating = 31
+terrain = small_island

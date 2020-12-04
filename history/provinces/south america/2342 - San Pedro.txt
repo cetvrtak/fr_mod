@@ -1,6 +1,5 @@
-owner = PRG
-controller = PRG
-
-add_core = PRG
+owner = ENT
+controller = ENT
+add_core = ENT
 trade_goods = wool
 life_rating = 31

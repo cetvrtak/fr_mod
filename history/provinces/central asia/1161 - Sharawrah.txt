@@ -1,5 +1,6 @@
-owner = NEJ
-controller = NEJ
-add_core = NEJ
+owner = DAW
+controller = DAW
+add_core = ARA
+add_core = DAW
 trade_goods = wool
 life_rating = 10

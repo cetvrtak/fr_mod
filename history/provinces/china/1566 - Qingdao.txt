@@ -1,5 +1,7 @@
 owner = QNG
 controller = QNG
 add_core = CHI
+add_core = QIC
+add_core = QNG
 trade_goods = fruit
 life_rating = 32

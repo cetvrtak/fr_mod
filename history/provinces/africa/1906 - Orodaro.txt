@@ -1,6 +1,5 @@
-owner = MOS
-controller = MOS
-add_core = MOS
-add_core = MAS
+owner = KNG
+controller = KNG
+add_core = KNG
 trade_goods = fruit
 life_rating = 35

@@ -1,5 +1,6 @@
 owner = BUR
 controller = BUR
 add_core = BUR
+add_core = IDO
 trade_goods = wool
 life_rating = 35

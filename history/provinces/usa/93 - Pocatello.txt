@@ -1,12 +1,6 @@
-owner = USA
-controller = USA
-add_core = USA
-add_core = COL
-colonial = 2
+owner = SHS
+controller = SHS
+add_core = SHS
 trade_goods = cattle
 life_rating = 35
-1861.1.1 = {
-    owner = USA
-    controller = USA
-    remove_core = COL
-}
+colonial = 2

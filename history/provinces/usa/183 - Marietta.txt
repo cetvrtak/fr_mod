@@ -1,16 +1,5 @@
-owner = USA
-controller = USA
-add_core = USA
+owner = LEN
+controller = LEN
+add_core = LEN
 trade_goods = cotton
 life_rating = 35
-
-party_loyalty = {
-    ideology = conservative
-    loyalty_value = 5
-}
-party_loyalty = {
-    ideology = liberal
-    loyalty_value = 17
-}
-
-1861.1.1 = { railroad = 3 }

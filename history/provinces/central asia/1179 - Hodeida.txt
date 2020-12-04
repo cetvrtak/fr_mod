@@ -1,5 +1,6 @@
-owner = NYE
-controller = NYE
-add_core = NYE
+owner = RAS
+controller = RAS
+add_core = ARA
+add_core = RAS
 trade_goods = grain
 life_rating = 35

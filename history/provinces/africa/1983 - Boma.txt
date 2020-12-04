@@ -1,5 +1,4 @@
-owner = KON
-controller = KON
-add_core = KON
+owner = LOA
+controller = LOA
 trade_goods = timber
 life_rating = 35

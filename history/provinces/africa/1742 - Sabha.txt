@@ -1,3 +1,5 @@
-add_core = TRI
+owner = FZA
+controller = FZA
+add_core = FZA
 trade_goods = wool
 life_rating = 5

@@ -1,9 +1,9 @@
 owner = ENG
 controller = ENG
-add_core = ENG
-terrain = urban
+add_core = ADU
 trade_goods = fish
 life_rating = 35
+terrain = urban
 colonial = 2
 naval_base = 2
 fort = 1

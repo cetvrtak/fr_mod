@@ -1,2 +1,4 @@
+owner = SGU
+controller = SGU
 trade_goods = cattle
 life_rating = 5

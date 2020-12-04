@@ -1,7 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = RPL
+owner = WCR
+controller = WCR
+add_core = WCR
 trade_goods = timber
-terrain = new_world_boreal
 life_rating = 20
+terrain = new_world_boreal
 colonial = 2

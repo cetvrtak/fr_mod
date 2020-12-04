@@ -1,9 +1,7 @@
-owner = ENG
-controller = ENG
-add_core = RPL
-add_core = MTC
+owner = ASI
+controller = ASI
+add_core = ASI
 trade_goods = grain
-terrain = steppe
 life_rating = 31
+terrain = steppe
 colonial = 2
-1861.1.1 = { add_core = MTC }

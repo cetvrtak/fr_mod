@@ -1,6 +1,6 @@
-owner = ENG
-controller = ENG
-add_core = MRU
+owner = QUE
+controller = QUE
+add_core = QUE
 trade_goods = timber
 life_rating = 31
 colonial = 2

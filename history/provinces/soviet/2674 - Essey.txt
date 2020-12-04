@@ -1,8 +1,7 @@
-owner = RUS
-controller = RUS
-add_core = RUS
-add_core = SIB
-add_core = ALT
+owner = QNG
+controller = QNG
+add_core = YAK
+add_core = ZUN
 trade_goods = timber
 life_rating = 35
 colonial = 2

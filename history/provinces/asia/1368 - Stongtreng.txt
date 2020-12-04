@@ -1,5 +1,8 @@
-owner = CAM
-controller = CAM
+owner = CHK
+controller = CHK
+add_core = ANN
 add_core = CAM
+add_core = CHK
+add_core = IDO
 trade_goods = wool
 life_rating = 32

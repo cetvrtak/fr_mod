@@ -1,7 +1,6 @@
 owner = TRI
-controller = TUR
+controller = TRI
 add_core = TRI
 trade_goods = wool
 life_rating = 35
 terrain = semidesert
-#terrain = coastal_desert

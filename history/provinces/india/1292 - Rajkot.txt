@@ -1,6 +1,7 @@
-owner = BER
+owner = JGD
 controller = BER
-add_core = BER
+add_core = GUJ
 add_core = HND
+add_core = JGD
 trade_goods = fish
 life_rating = 32

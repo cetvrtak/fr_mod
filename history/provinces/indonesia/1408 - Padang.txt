@@ -1,6 +1,6 @@
-owner = ATJ
-controller = NET
-add_core = ATJ
-add_core = SAK
+owner = PGR
+controller = PGR
+add_core = MLY
+add_core = PGR
 trade_goods = fruit
 life_rating = 32

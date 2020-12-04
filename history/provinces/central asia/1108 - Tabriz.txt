@@ -1,6 +1,6 @@
-owner = PER
-controller = PER
-add_core = PER
+owner = X07
+controller = ARL
 add_core = AZB
+add_core = X07
 trade_goods = coal
 life_rating = 35

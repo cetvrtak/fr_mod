@@ -1,6 +1,7 @@
-owner = MAD
-controller = MAD
+owner = SKA
+controller = SKA
 add_core = MAD
-terrain = savanna
+add_core = SKA
 trade_goods = cattle
 life_rating = 35
+terrain = savanna

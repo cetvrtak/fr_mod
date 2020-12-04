@@ -1,6 +1,5 @@
-owner = ENG
-controller = ENG
-add_core = ASH
+owner = DEN
+controller = DEN
 trade_goods = coffee
 life_rating = 35
 colonial = 2

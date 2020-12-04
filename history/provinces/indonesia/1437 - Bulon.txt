@@ -1,5 +1,6 @@
-owner = SLW
-controller = SLW
-add_core = SLW
+owner = BTN
+controller = BTN
+add_core = BTN
+add_core = MAL
 trade_goods = fish
 life_rating = 31
