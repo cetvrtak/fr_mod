@@ -1,5 +1,14 @@
 bookmark =
 {
+    name = "FR_NAME"
+    desc = "FR_DESC"
+    date = 1783.9.4
+    cameraX = 2950
+    cameraY = 1550
+}
+
+bookmark =
+{
     name = "GC_NAME"
     desc = "GC_DESC"
     date = 1836.1.1
