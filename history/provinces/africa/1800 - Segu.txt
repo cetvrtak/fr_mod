@@ -1,6 +1,6 @@
-owner = SGU
-controller = SGU
-add_core = SGU
+owner = SEG
+controller = SEG
+add_core = SEG
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert

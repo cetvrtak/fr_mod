@@ -1,6 +1,6 @@
-owner = SGU
-controller = SGU
-add_core = SGU
+owner = SEG
+controller = SEG
+add_core = SEG
 trade_goods = wool
 life_rating = 20
 terrain = semidesert

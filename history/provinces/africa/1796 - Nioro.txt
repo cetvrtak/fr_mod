@@ -1,6 +1,6 @@
-owner = SGU
-controller = SGU
-add_core = SGU
+owner = SEG
+controller = SEG
+add_core = SEG
 add_core = ZAF
 trade_goods = cattle
 life_rating = 20

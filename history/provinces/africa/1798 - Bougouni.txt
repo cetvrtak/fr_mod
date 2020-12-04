@@ -1,6 +1,6 @@
-owner = SGU
-controller = SGU
+owner = SEG
+controller = SEG
 add_core = MLI
-add_core = SGU
+add_core = SEG
 trade_goods = grain
 life_rating = 35

@@ -1,4 +1,4 @@
-owner = SGU
-controller = SGU
+owner = SEG
+controller = SEG
 trade_goods = cattle
 life_rating = 5
