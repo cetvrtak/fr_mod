@@ -16,7 +16,7 @@ ENG_30 = { 30 31 32 33 34 35 } #Saskatchewan
 
 ENG_36 = { 42 36 37 38 39 40 41 } #Manitoba
 
-CAN_46 = { 46 50 51 57 55 56 52 53 54 } #Southern Ontario
+CAN_46 = { 46 50 51 57 55 56 52 54 } #Southern Ontario
 
 CAN_50 = { 49 47 48 2594 } #Northern Ontario
 
@@ -345,7 +345,7 @@ AUS_662 = { 702 951 952 953} #East Galicia
 
 RUS_715 = { 715 711 713 716 } #West Galicia
 
-AUS_726 = { 726 727 728 2669 } #Lombardia
+AUS_726 = { 726 727 728 2669 53 } #Lombardia
 
 AUS_733 = { 736 737 } #Friuli
 

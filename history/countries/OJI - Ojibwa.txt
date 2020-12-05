@@ -2,7 +2,6 @@ capital = 159
 primary_culture = central_algonquian
 culture = iroquoian
 culture = nouvellien
-culture = siouan
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

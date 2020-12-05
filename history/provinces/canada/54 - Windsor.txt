@@ -1,6 +1,6 @@
-owner = QUE
-controller = QUE
-add_core = QUE
+owner = OJI
+controller = OJI
+add_core = OJI
 trade_goods = grain
 life_rating = 35
 colonial = 2

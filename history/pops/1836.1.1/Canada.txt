@@ -1796,39 +1796,6 @@
         size = 2000
     }
 }
-#Barrie (4000/1000 POPS)
-53 = {
-    clergymen = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    artisans = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    soldiers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
-        culture = anglo_canadian
-        religion = protestant
-        size = 15
-    }
-
-    farmers = {
-        culture = cree
-        religion = animist
-        size = 990
-    }
-
-}
 #Pickle Lake (1200/3000 POPS)
 2594 = {
 

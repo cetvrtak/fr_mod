@@ -1,16 +1,31 @@
-owner = OJI
-controller = OJI
-add_core = OJI
-trade_goods = grain
-life_rating = 34
-colonial = 2
+owner = AUS
+controller = AUS
+add_core = AUS
+trade_goods = cotton
+life_rating = 45
+fort = 1
+state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}
 
 1836.1.1 = {
-	owner = ENG
-	controller = ENG
-	add_core = CAN
-	trade_goods = grain
-	life_rating = 34
-	colonial = 2
+	owner = AUS
+	controller = AUS
+	add_core = ITA
+	add_core = LOM
+	trade_goods = cotton
+	life_rating = 45
+	fort = 1
+	state_building = {
+    level = 1
+    building = fabric_factory
+    upgrade = yes
+}
+}
+
+1861.1.1 = {
+	railroad = 3
 }
 

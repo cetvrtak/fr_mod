@@ -574,6 +574,46 @@
         size = 160847.25
     }
 }
+#Mantua = Brescia (708000/177000 POPS)
+53 = {
+    aristocrats = {
+        culture = north_italian
+        religion = catholic
+        size = 4017.0
+    }
+
+    clergymen = {
+        culture = north_italian
+        religion = catholic
+        size = 1828.25
+    }
+
+    artisans = {
+        culture = north_italian
+        religion = catholic
+        size = 9115.5
+    }
+
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size= 3000
+
+    }
+
+    soldiers = {
+        culture = north_italian
+        religion = catholic
+        size= 1802
+
+    }
+
+    farmers = {
+        culture = north_italian
+        religion = catholic
+        size = 160847.25
+    }
+}
 #Venetia Region (2060000)
 #under the rule of Austria in 1836
 #Venice (448000/112000 POPS)
