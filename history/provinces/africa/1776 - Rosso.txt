@@ -1,6 +1,17 @@
 owner = FUL
 controller = FUL
+add_core = FUL
 add_core = WOL
 trade_goods = fish
 life_rating = 15
 terrain = semidesert
+
+1836.1.1 = {
+	owner = TRZ
+	controller = TRZ
+	add_core = TRZ
+	trade_goods = fish
+	life_rating = 15
+	terrain = semidesert
+}
+

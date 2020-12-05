@@ -1,7 +1,16 @@
 owner = MFY
 controller = MFY
-add_core = MAD
 add_core = MFY
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MAD
+	controller = MAD
+	add_core = MAD
+	trade_goods = grain
+	life_rating = 35
+	terrain = semidesert
+}
+

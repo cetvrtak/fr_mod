@@ -1,7 +1,16 @@
 owner = DAI
 controller = DAI
 add_core = DAI
-add_core = IDO
 trade_goods = cattle
 life_rating = 40
 naval_base = 1
+
+1836.1.1 = {
+	owner = DAI
+	controller = DAI
+	add_core = DAI
+	trade_goods = cattle
+	life_rating = 40
+	naval_base = 1
+}
+

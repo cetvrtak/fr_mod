@@ -1,7 +1,17 @@
 owner = RYU
 controller = RYU
-add_core = JAP
 add_core = RYU
 trade_goods = fish
 life_rating = 35
 terrain = small_island
+
+1836.1.1 = {
+	owner = SAT
+	controller = SAT
+	add_core = RYU
+	add_core = SAT
+	trade_goods = fish
+	life_rating = 35
+	terrain = small_island
+}
+

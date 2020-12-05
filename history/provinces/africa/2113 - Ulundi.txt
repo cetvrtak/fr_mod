@@ -1,2 +1,13 @@
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = ZUL
+	controller = ZUL
+	add_core = MAT
+	add_core = NAL
+	add_core = ZUL
+	trade_goods = wool
+	life_rating = 35
+}
+

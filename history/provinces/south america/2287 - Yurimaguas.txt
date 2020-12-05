@@ -4,3 +4,14 @@ add_core = BOL
 trade_goods = rubber
 life_rating = 33
 terrain = montane_forest
+
+1836.1.1 = {
+	owner = PEU
+	controller = PEU
+	add_core = ECU
+	add_core = PEU
+	trade_goods = rubber
+	life_rating = 33
+	terrain = montane_forest
+}
+

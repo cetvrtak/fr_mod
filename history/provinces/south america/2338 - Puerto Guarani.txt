@@ -4,3 +4,16 @@ add_core = ENT
 trade_goods = fish
 life_rating = 15
 terrain = savanna
+
+1836.1.1 = {
+	trade_goods = fish
+	life_rating = 15
+	terrain = savanna
+}
+
+1861.1.1 = {
+	owner = PRG
+	controller = PRG
+	add_core = PRG
+}
+

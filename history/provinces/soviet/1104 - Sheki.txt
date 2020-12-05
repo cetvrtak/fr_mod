@@ -1,5 +1,15 @@
 owner = SRV
 controller = SRV
-add_core = AZB
+add_core = GZK
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = TCA
+	controller = TCA
+	add_core = AZB
+	add_core = TCA
+	trade_goods = grain
+	life_rating = 35
+}
+

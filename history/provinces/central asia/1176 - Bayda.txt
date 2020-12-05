@@ -1,7 +1,19 @@
 owner = ADE
 controller = ADE
 add_core = ADE
-add_core = ARA
 trade_goods = fish
 life_rating = 32
 terrain = semidesert
+
+1836.1.1 = {
+	owner = FDL
+	controller = FDL
+	add_core = FDL
+	add_core = KTH
+	add_core = LHJ
+	add_core = MHR
+	trade_goods = fish
+	life_rating = 32
+	terrain = semidesert
+}
+

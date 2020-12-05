@@ -1,7 +1,18 @@
 owner = KHI
 controller = KHI
 add_core = KHI
-add_core = TKS
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
+
+1836.1.1 = {
+	owner = BUK
+	controller = BUK
+	add_core = BUK
+	add_core = KHI
+	add_core = TKM
+	trade_goods = grain
+	life_rating = 35
+	terrain = semidesert
+}
+

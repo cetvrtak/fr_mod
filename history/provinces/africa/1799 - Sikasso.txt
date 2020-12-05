@@ -3,3 +3,13 @@ controller = KNG
 add_core = KNG
 trade_goods = fruit
 life_rating = 35
+
+1836.1.1 = {
+	owner = MAS
+	controller = MAS
+	add_core = MAS
+	add_core = SEG
+	trade_goods = fruit
+	life_rating = 35
+}
+

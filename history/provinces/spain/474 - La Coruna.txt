@@ -1,6 +1,19 @@
 owner = SPA
 controller = SPA
-add_core = GLC
 add_core = SPA
 trade_goods = fish
 life_rating = 35
+
+1836.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	trade_goods = fish
+	life_rating = 35
+}
+
+1861.1.1 = {
+	naval_base = 1
+	railroad = 3
+}
+

@@ -1,7 +1,18 @@
 owner = OMA
 controller = HBY
 add_core = OMA
-add_core = SOM
 trade_goods = grain
 life_rating = 31
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MAJ
+	controller = MAJ
+	add_core = GEL
+	add_core = MAJ
+	add_core = WRL
+	trade_goods = grain
+	life_rating = 31
+	terrain = semidesert
+}
+

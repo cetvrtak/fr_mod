@@ -3,3 +3,13 @@ controller = POR
 trade_goods = fruit
 life_rating = 35
 terrain = savanna
+
+1836.1.1 = {
+	owner = GAZ
+	controller = GAZ
+	add_core = GAZ
+	trade_goods = fruit
+	life_rating = 35
+	terrain = savanna
+}
+

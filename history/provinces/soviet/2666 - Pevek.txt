@@ -1,2 +1,10 @@
 trade_goods = grain
 life_rating = 10
+
+1836.1.1 = {
+	add_core = KAM
+	add_core = RUS
+	trade_goods = grain
+	life_rating = 10
+}
+

@@ -4,3 +4,14 @@ add_core = KTS
 trade_goods = wool
 life_rating = 32
 terrain = semidesert
+
+1836.1.1 = {
+	owner = DAM
+	controller = DAM
+	add_core = DAM
+	add_core = DND
+	trade_goods = wool
+	life_rating = 32
+	terrain = semidesert
+}
+

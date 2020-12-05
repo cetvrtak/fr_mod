@@ -1,3 +1,24 @@
 trade_goods = fruit
 life_rating = 15
 terrain = mining_district
+
+1836.1.1 = {
+	owner = MAT
+	controller = MAT
+	add_core = BSH
+	add_core = GAZ
+	add_core = MAT
+	add_core = TRN
+	trade_goods = fruit
+	life_rating = 15
+	terrain = mining_district
+}
+
+1861.1.1 = {
+	owner = TRN
+	controller = TRN
+	add_core = SAF
+	add_core = TRN
+	life_rating = 35
+}
+

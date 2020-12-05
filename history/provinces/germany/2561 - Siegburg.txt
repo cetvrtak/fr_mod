@@ -1,7 +1,21 @@
 owner = BAV
 controller = BAV
 add_core = BAV
-add_core = GER
 add_core = HRE
 trade_goods = cattle
 life_rating = 40
+
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+	add_core = GER
+	add_core = PRU
+	add_core = RHI
+	trade_goods = cattle
+	life_rating = 40
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

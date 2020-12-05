@@ -5,3 +5,18 @@ trade_goods = coal
 life_rating = 40
 terrain = mining_district
 fort = 1
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	trade_goods = coal
+	life_rating = 40
+	terrain = mining_district
+	fort = 1
+}
+
+1861.1.1 = {
+	railroad = 2
+}
+

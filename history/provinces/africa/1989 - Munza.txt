@@ -3,3 +3,10 @@ controller = LBA
 add_core = LBA
 trade_goods = tropical_wood
 life_rating = 10
+
+1836.1.1 = {
+	add_core = LBA
+	trade_goods = tropical_wood
+	life_rating = 10
+}
+

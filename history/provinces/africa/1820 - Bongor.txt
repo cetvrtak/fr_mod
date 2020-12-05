@@ -1,5 +1,12 @@
 owner = KBO
 controller = KBO
+add_core = KBO
 add_core = YAO
 trade_goods = grain
 life_rating = 10
+
+1836.1.1 = {
+	trade_goods = grain
+	life_rating = 10
+}
+

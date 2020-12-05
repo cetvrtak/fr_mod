@@ -1,7 +1,17 @@
 owner = SWE
 controller = SWE
-add_core = SCA
-add_core = SMI
+add_core = SWE
 trade_goods = timber
 life_rating = 10
 terrain = boreal
+
+1836.1.1 = {
+	owner = FIN
+	controller = FIN
+	add_core = FIN
+	add_core = SWE
+	trade_goods = timber
+	life_rating = 10
+	terrain = boreal
+}
+

@@ -4,3 +4,10 @@ add_core = RWA
 trade_goods = fruit
 life_rating = 10
 terrain = montane_forest
+
+1836.1.1 = {
+	trade_goods = fruit
+	life_rating = 10
+	terrain = montane_forest
+}
+

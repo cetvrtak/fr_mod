@@ -1,8 +1,19 @@
 owner = MAJ
 controller = MAJ
 add_core = MAJ
-add_core = SOM
 add_core = WRL
 trade_goods = grain
 life_rating = 31
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MAJ
+	controller = MAJ
+	add_core = GEL
+	add_core = MAJ
+	add_core = WRL
+	trade_goods = grain
+	life_rating = 31
+	terrain = semidesert
+}
+

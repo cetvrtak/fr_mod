@@ -1,7 +1,17 @@
 owner = WIA
 controller = WIA
-add_core = IDO
-add_core = LUA
+add_core = SIA
 add_core = WIA
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = SIA
+	controller = SIA
+	add_core = LUA
+	add_core = SIA
+	add_core = WIA
+	trade_goods = wool
+	life_rating = 35
+}
+

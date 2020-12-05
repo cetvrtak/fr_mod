@@ -4,3 +4,10 @@ add_core = KRW
 trade_goods = grain
 life_rating = 10
 terrain = savanna
+
+1836.1.1 = {
+	trade_goods = grain
+	life_rating = 10
+	terrain = savanna
+}
+

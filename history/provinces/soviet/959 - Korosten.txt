@@ -2,6 +2,15 @@ owner = PLC
 controller = PLC
 add_core = KIE
 add_core = PLC
-add_core = UKR
 trade_goods = grain
 life_rating = 15
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = UKR
+	trade_goods = grain
+	life_rating = 15
+}
+

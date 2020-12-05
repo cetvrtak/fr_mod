@@ -1,6 +1,14 @@
 owner = UTS
 controller = UTS
-add_core = TIB
 add_core = UTS
 trade_goods = cattle
 life_rating = 30
+
+1836.1.1 = {
+	owner = TIB
+	controller = TIB
+	add_core = TIB
+	trade_goods = cattle
+	life_rating = 30
+}
+

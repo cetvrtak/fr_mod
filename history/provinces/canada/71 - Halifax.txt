@@ -1,7 +1,24 @@
 owner = QUE
 controller = QUE
+add_core = QUE
 trade_goods = fish
 life_rating = 31
 colonial = 2
 naval_base = 1
 fort = 1
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = MRU
+	trade_goods = fish
+	life_rating = 31
+	colonial = 2
+	naval_base = 1
+	fort = 1
+}
+
+1861.1.1 = {
+	railroad = 2
+}
+

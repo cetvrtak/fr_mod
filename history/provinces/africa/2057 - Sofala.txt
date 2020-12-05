@@ -2,3 +2,14 @@ owner = POR
 controller = POR
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = GAZ
+	controller = GAZ
+	add_core = AGC
+	add_core = GAZ
+	add_core = SHO
+	trade_goods = grain
+	life_rating = 35
+}
+

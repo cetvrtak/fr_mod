@@ -1,7 +1,20 @@
 owner = THU
 controller = THU
-add_core = GER
 add_core = HRE
 add_core = THU
 trade_goods = iron
 life_rating = 40
+
+1836.1.1 = {
+	owner = COB
+	controller = COB
+	add_core = COB
+	add_core = GER
+	trade_goods = iron
+	life_rating = 40
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

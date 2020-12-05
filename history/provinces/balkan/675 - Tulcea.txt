@@ -1,5 +1,22 @@
 owner = TUR
 controller = TUR
 add_core = BUL
+add_core = TUR
 trade_goods = coal
 life_rating = 35
+
+1836.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = ROM
+	add_core = TUR
+	add_core = WAL
+	trade_goods = coal
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ROM
+	controller = ROM
+}
+

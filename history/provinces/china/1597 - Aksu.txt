@@ -1,7 +1,17 @@
 owner = QNG
 controller = QNG
-add_core = XIN
+add_core = QNG
 add_core = YRK
 add_core = ZUN
 trade_goods = sulphur
 life_rating = 32
+
+1836.1.1 = {
+	owner = XIN
+	controller = XIN
+	add_core = CHI
+	add_core = XIN
+	trade_goods = sulphur
+	life_rating = 32
+}
+

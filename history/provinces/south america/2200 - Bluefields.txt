@@ -1,5 +1,16 @@
 owner = ENG
 controller = MEX
+add_core = ENG
 trade_goods = fruit
 life_rating = 33
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = NIC
+	trade_goods = fruit
+	life_rating = 33
+	colonial = 2
+}
+

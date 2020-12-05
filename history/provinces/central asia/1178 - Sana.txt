@@ -1,7 +1,22 @@
 owner = RAS
 controller = RAS
-add_core = ARA
 add_core = RAS
 trade_goods = coffee
 life_rating = 35
 terrain = steppe
+
+1836.1.1 = {
+	owner = NYE
+	controller = NYE
+	add_core = NYE
+	trade_goods = coffee
+	life_rating = 35
+	terrain = steppe
+}
+
+1861.1.1 = {
+	owner = TUR
+	controller = TUR
+	colonial = 2
+}
+

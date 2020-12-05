@@ -1,2 +1,11 @@
 trade_goods = fish
 life_rating = 31
+
+1836.1.1 = {
+	owner = KLM
+	controller = KLM
+	add_core = KLM
+	trade_goods = fish
+	life_rating = 31
+}
+

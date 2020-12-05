@@ -1,6 +1,14 @@
 owner = TTE
 controller = TTE
-add_core = MAL
 add_core = TTE
 trade_goods = dye
 life_rating = 32
+
+1836.1.1 = {
+	owner = NET
+	controller = NET
+	add_core = SLW
+	trade_goods = dye
+	life_rating = 32
+}
+

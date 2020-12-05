@@ -1,8 +1,19 @@
 owner = RMP
 controller = RMP
 add_core = DLH
-add_core = HND
 add_core = RMP
 trade_goods = grain
 life_rating = 32
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = AWA
+	add_core = HND
+	add_core = MUG
+	trade_goods = grain
+	life_rating = 32
+	colonial = 2
+}
+

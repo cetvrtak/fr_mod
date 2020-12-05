@@ -1,7 +1,17 @@
 owner = TUR
 controller = TUR
-add_core = IRQ
 add_core = MSY
+add_core = TUR
 add_core = X02
 trade_goods = fruit
 life_rating = 35
+
+1836.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = IRQ
+	add_core = TUR
+	trade_goods = fruit
+	life_rating = 35
+}
+

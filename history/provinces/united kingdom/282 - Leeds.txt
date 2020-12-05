@@ -1,7 +1,20 @@
 owner = ENG
 controller = ENG
 add_core = ENG
-add_core = ENL
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	trade_goods = coal
+	life_rating = 35
+	terrain = mining_district
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

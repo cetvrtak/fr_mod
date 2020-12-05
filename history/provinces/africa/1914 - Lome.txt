@@ -4,3 +4,10 @@ add_core = DAH
 trade_goods = fish
 life_rating = 10
 colonial = 1
+
+1836.1.1 = {
+	trade_goods = fish
+	life_rating = 10
+	colonial = 1
+}
+

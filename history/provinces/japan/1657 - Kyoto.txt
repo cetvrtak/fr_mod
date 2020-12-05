@@ -1,7 +1,17 @@
 owner = TKG
 controller = TKG
-add_core = JAP
 add_core = TKG
 trade_goods = fruit
 life_rating = 35
 fort = 1
+
+1836.1.1 = {
+	owner = JAP
+	controller = JAP
+	add_core = JAP
+	add_core = TKG
+	trade_goods = fruit
+	life_rating = 35
+	fort = 1
+}
+

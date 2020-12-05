@@ -4,3 +4,14 @@ add_core = SEG
 trade_goods = wool
 life_rating = 20
 terrain = semidesert
+
+1836.1.1 = {
+	owner = SEG
+	controller = SEG
+	add_core = MAS
+	add_core = SEG
+	trade_goods = wool
+	life_rating = 20
+	terrain = semidesert
+}
+

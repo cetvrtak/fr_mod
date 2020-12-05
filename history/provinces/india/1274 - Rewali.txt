@@ -1,5 +1,15 @@
 owner = NAG
 controller = NAG
-add_core = HND
 trade_goods = cattle
 life_rating = 32
+
+1836.1.1 = {
+	owner = BUN
+	controller = BUN
+	add_core = BUN
+	add_core = HND
+	add_core = MUG
+	trade_goods = cattle
+	life_rating = 32
+}
+

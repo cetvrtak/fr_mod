@@ -6,3 +6,59 @@ life_rating = 35
 naval_base = 1
 fort = 1
 railroad = 1
+state_building = {
+    level = 1
+    building = cement_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = lumber_mill
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = liquor_distillery
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = steamer_shipyard
+    upgrade = yes
+}
+
+1836.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	trade_goods = grain
+	life_rating = 35
+	naval_base = 1
+	fort = 1
+	railroad = 1
+	state_building = {
+    level = 1
+    building = cement_factory
+    upgrade = yes
+}
+	state_building = {
+    level = 1
+    building = lumber_mill
+    upgrade = yes
+}
+	state_building = {
+    level = 1
+    building = liquor_distillery
+    upgrade = yes
+}
+	state_building = {
+    level = 1
+    building = steamer_shipyard
+    upgrade = yes
+}
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

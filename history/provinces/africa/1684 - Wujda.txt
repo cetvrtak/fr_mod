@@ -1,5 +1,15 @@
 owner = MOR
 controller = MOR
+add_core = MOR
 add_core = TLC
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+	trade_goods = grain
+	life_rating = 35
+}
+

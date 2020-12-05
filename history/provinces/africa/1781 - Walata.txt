@@ -1,4 +1,12 @@
 owner = SEG
 controller = SEG
+add_core = SEG
 trade_goods = wool
 life_rating = 5
+
+1836.1.1 = {
+	add_core = TRZ
+	trade_goods = wool
+	life_rating = 5
+}
+

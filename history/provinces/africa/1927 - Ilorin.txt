@@ -3,3 +3,13 @@ controller = OYO
 add_core = OYO
 trade_goods = grain
 life_rating = 25
+
+1836.1.1 = {
+	owner = SOK
+	controller = SOK
+	add_core = OYO
+	add_core = SOK
+	trade_goods = grain
+	life_rating = 25
+}
+

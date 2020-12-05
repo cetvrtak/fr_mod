@@ -2,7 +2,21 @@ owner = ENG
 controller = ENG
 add_core = CRN
 add_core = ENG
-add_core = WHA
 trade_goods = fruit
 life_rating = 35
 naval_base = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	trade_goods = fruit
+	life_rating = 35
+	naval_base = 2
+}
+
+1861.1.1 = {
+	naval_base = 3
+	railroad = 3
+}
+

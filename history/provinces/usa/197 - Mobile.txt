@@ -3,3 +3,18 @@ controller = X09
 add_core = X09
 trade_goods = cotton
 life_rating = 35
+
+1836.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	trade_goods = cotton
+	life_rating = 35
+}
+
+1861.1.1 = {
+	naval_base = 1
+	fort = 1
+	railroad = 3
+}
+

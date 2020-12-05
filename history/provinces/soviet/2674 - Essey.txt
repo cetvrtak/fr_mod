@@ -1,7 +1,19 @@
 owner = QNG
 controller = QNG
-add_core = YAK
+add_core = QNG
 add_core = ZUN
 trade_goods = timber
 life_rating = 35
 colonial = 2
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = ALT
+	add_core = RUS
+	add_core = SIB
+	trade_goods = timber
+	life_rating = 35
+	colonial = 2
+}
+

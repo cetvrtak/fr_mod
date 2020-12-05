@@ -1,6 +1,18 @@
 owner = VEN
 controller = VEN
 add_core = GRE
+add_core = VEN
 trade_goods = fruit
 life_rating = 34
 terrain = small_island
+
+1836.1.1 = {
+	owner = ION
+	controller = ION
+	add_core = GRE
+	add_core = ION
+	trade_goods = fruit
+	life_rating = 34
+	terrain = small_island
+}
+

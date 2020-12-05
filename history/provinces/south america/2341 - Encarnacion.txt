@@ -1,5 +1,15 @@
 owner = ENT
 controller = ENT
+add_core = ENT
 add_core = GRI
 trade_goods = timber
 life_rating = 31
+
+1836.1.1 = {
+	owner = PRG
+	controller = PRG
+	add_core = PRG
+	trade_goods = timber
+	life_rating = 31
+}
+

@@ -1,6 +1,17 @@
 owner = PER
 controller = PER
-add_core = ARA
+add_core = PER
 trade_goods = fruit
 life_rating = 35
 terrain = dryhills
+
+1836.1.1 = {
+	owner = PER
+	controller = PER
+	add_core = BLC
+	add_core = PER
+	trade_goods = fruit
+	life_rating = 35
+	terrain = dryhills
+}
+

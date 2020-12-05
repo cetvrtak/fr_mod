@@ -1,6 +1,21 @@
 owner = AUS
 controller = AUS
-add_core = BEL
+add_core = AUS
 add_core = FLA
+add_core = NET
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = BEL
+	controller = BEL
+	add_core = BEL
+	add_core = FLA
+	add_core = NET
+	trade_goods = wool
+	life_rating = 35
+}
+
+1861.1.1 = {
+}
+

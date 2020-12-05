@@ -4,3 +4,13 @@ add_core = WOL
 trade_goods = fish
 life_rating = 35
 colonial = 2
+
+1836.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = GBU
+	trade_goods = fish
+	life_rating = 35
+	colonial = 2
+}
+

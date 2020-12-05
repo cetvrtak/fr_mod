@@ -1,8 +1,20 @@
 owner = HDR
 controller = HDR
-add_core = ARA
 add_core = HDR
 add_core = RAS
 trade_goods = opium
 life_rating = 32
 terrain = semidesert
+
+1836.1.1 = {
+	owner = KTH
+	controller = KTH
+	add_core = FDL
+	add_core = KTH
+	add_core = LHJ
+	add_core = MHR
+	trade_goods = opium
+	life_rating = 32
+	terrain = semidesert
+}
+

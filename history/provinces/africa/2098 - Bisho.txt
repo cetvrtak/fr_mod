@@ -1,2 +1,20 @@
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = XHO
+	controller = XHO
+	add_core = SAF
+	add_core = XHO
+	trade_goods = wool
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	add_core = SAF
+	colonial = 2
+}
+

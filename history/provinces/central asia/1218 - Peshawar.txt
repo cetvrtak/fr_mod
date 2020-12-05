@@ -3,3 +3,20 @@ controller = AFG
 add_core = AFG
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = PNJ
+	controller = PNJ
+	add_core = AFG
+	add_core = HND
+	add_core = PNJ
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
+

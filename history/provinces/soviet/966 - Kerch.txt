@@ -1,5 +1,16 @@
 owner = RUS
 controller = RUS
-add_core = TUR
+add_core = RUS
 trade_goods = iron
 life_rating = 35
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = CRI
+	add_core = RUS
+	add_core = UKR
+	trade_goods = iron
+	life_rating = 35
+}
+

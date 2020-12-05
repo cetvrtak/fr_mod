@@ -3,6 +3,14 @@ controller = DAI
 add_core = ANN
 add_core = CHA
 add_core = DAI
-add_core = IDO
 trade_goods = silk
 life_rating = 34
+
+1836.1.1 = {
+	owner = DAI
+	controller = DAI
+	add_core = DAI
+	trade_goods = silk
+	life_rating = 34
+}
+

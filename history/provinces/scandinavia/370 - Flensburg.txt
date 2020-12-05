@@ -1,7 +1,23 @@
 owner = DEN
 controller = DEN
 add_core = DEN
-add_core = SCA
 trade_goods = cattle
 life_rating = 35
 fort = 1
+
+1836.1.1 = {
+	owner = SWH
+	controller = SWH
+	add_core = DEN
+	add_core = GER
+	add_core = SCH
+	add_core = SWH
+	trade_goods = cattle
+	life_rating = 35
+	fort = 1
+}
+
+1861.1.1 = {
+	railroad = 2
+}
+

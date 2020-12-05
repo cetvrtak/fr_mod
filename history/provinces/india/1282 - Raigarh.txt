@@ -1,9 +1,20 @@
 owner = NAG
 controller = NAG
-add_core = HND
 add_core = NAG
 add_core = NGP
 add_core = SRG
 trade_goods = grain
 life_rating = 32
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = BUN
+	add_core = HND
+	add_core = NAG
+	trade_goods = grain
+	life_rating = 32
+	colonial = 2
+}
+

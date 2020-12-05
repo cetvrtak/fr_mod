@@ -1,8 +1,19 @@
 owner = NET
 controller = NET
-add_core = HND
 add_core = MLD
+add_core = NET
 trade_goods = fish
 life_rating = 32
 terrain = small_island
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = MLD
+	trade_goods = fish
+	life_rating = 32
+	terrain = small_island
+	colonial = 2
+}
+

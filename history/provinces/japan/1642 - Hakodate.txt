@@ -1,6 +1,15 @@
 owner = TKG
 controller = TKG
-add_core = JAP
+add_core = RUS
 add_core = TKG
 trade_goods = fish
 life_rating = 35
+
+1836.1.1 = {
+	owner = TKG
+	controller = TKG
+	add_core = TKG
+	trade_goods = fish
+	life_rating = 35
+}
+

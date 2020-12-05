@@ -1,8 +1,18 @@
 owner = NEJ
 controller = NEJ
 add_core = ALH
-add_core = ARA
 add_core = NEJ
 trade_goods = fish
 life_rating = 34
 terrain = semidesert
+
+1836.1.1 = {
+	owner = QAT
+	controller = QAT
+	add_core = BHR
+	add_core = QAT
+	trade_goods = fish
+	life_rating = 34
+	terrain = semidesert
+}
+

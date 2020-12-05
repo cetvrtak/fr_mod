@@ -1,4 +1,11 @@
 owner = ENT
 controller = ENT
+add_core = ENT
 trade_goods = grain
 life_rating = 15
+
+1836.1.1 = {
+	trade_goods = grain
+	life_rating = 15
+}
+

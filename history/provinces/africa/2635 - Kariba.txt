@@ -5,3 +5,12 @@ trade_goods = grain
 life_rating = 10
 terrain = dryhills
 colonial = 1
+
+1836.1.1 = {
+	add_core = ZBW
+	trade_goods = grain
+	life_rating = 10
+	terrain = dryhills
+	colonial = 1
+}
+

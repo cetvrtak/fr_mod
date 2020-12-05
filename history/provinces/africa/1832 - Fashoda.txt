@@ -1,4 +1,21 @@
 owner = NUB
 controller = NUB
+add_core = NUB
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = SHK
+	controller = SHK
+	add_core = EGY
+	add_core = SHK
+	add_core = SUD
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = EGY
+	controller = EGY
+}
+

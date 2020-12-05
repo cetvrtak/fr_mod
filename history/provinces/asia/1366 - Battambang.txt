@@ -1,6 +1,16 @@
 owner = CAM
 controller = CAM
 add_core = CAM
-add_core = IDO
+add_core = SIA
 trade_goods = fruit
 life_rating = 35
+
+1836.1.1 = {
+	owner = SIA
+	controller = SIA
+	add_core = CAM
+	add_core = SIA
+	trade_goods = fruit
+	life_rating = 35
+}
+

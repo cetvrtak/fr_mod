@@ -1,7 +1,17 @@
 owner = PRK
 controller = PRK
 add_core = MLC
-add_core = MLY
 add_core = PRK
 trade_goods = timber
 life_rating = 35
+
+1836.1.1 = {
+	owner = PRK
+	controller = PRK
+	add_core = JOH
+	add_core = PRK
+	add_core = SIA
+	trade_goods = timber
+	life_rating = 35
+}
+

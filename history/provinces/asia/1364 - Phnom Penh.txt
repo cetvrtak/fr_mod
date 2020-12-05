@@ -1,6 +1,14 @@
 owner = CAM
 controller = CAM
 add_core = CAM
-add_core = IDO
 trade_goods = grain
 life_rating = 40
+
+1836.1.1 = {
+	owner = CAM
+	controller = CAM
+	add_core = CAM
+	trade_goods = grain
+	life_rating = 40
+}
+

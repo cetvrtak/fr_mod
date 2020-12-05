@@ -3,3 +3,17 @@ controller = LOU
 add_core = LOU
 trade_goods = cattle
 life_rating = 35
+
+1836.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+	trade_goods = cattle
+	life_rating = 35
+}
+
+1861.1.1 = {
+	add_core = CSA
+	railroad = 3
+}
+

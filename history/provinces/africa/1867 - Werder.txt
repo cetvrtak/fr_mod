@@ -1,8 +1,17 @@
 owner = WRL
 controller = WRL
 add_core = ADA
-add_core = SOM
 add_core = WRL
 trade_goods = grain
 life_rating = 10
 terrain = dryhills
+
+1836.1.1 = {
+	add_core = ETH
+	add_core = HBY
+	add_core = SHW
+	trade_goods = grain
+	life_rating = 10
+	terrain = dryhills
+}
+

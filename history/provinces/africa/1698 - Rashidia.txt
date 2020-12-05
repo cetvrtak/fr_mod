@@ -5,3 +5,13 @@ add_core = TFL
 trade_goods = grain
 life_rating = 31
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+	trade_goods = grain
+	life_rating = 31
+	terrain = semidesert
+}
+

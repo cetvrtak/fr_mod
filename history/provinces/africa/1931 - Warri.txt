@@ -3,3 +3,15 @@ controller = BEN
 add_core = BEN
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = WRI
+	controller = WRI
+	add_core = ARO
+	add_core = BEN
+	add_core = CLA
+	add_core = WRI
+	trade_goods = grain
+	life_rating = 35
+}
+

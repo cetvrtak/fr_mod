@@ -4,3 +4,18 @@ add_core = MBA
 add_core = SWA
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = OMA
+	controller = OMA
+	add_core = OMA
+	add_core = ZAN
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ZAN
+	controller = ZAN
+}
+

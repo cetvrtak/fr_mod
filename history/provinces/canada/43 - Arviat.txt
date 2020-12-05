@@ -3,3 +3,13 @@ controller = CAD
 add_core = CAD
 trade_goods = cotton
 life_rating = 35
+
+1836.1.1 = {
+	owner = TEX
+	controller = TEX
+	add_core = MEX
+	add_core = TEX
+	trade_goods = cotton
+	life_rating = 35
+}
+

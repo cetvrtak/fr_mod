@@ -1,7 +1,16 @@
 owner = ABU
 controller = ABU
 add_core = ABU
-add_core = ARA
 trade_goods = fruit
 life_rating = 31
 terrain = semidesert
+
+1836.1.1 = {
+	owner = ABU
+	controller = ABU
+	add_core = ABU
+	trade_goods = fruit
+	life_rating = 31
+	terrain = semidesert
+}
+

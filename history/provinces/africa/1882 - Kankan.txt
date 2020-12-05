@@ -3,3 +3,12 @@ controller = MLI
 add_core = MLI
 trade_goods = fruit
 life_rating = 35
+
+1836.1.1 = {
+	owner = JAL
+	controller = JAL
+	add_core = JAL
+	trade_goods = fruit
+	life_rating = 35
+}
+

@@ -1,6 +1,14 @@
 owner = SAK
 controller = ATJ
-add_core = MLY
 add_core = SAK
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = SAK
+	controller = SAK
+	add_core = SAK
+	trade_goods = grain
+	life_rating = 35
+}
+

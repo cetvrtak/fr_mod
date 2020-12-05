@@ -1,6 +1,19 @@
 owner = PLC
 controller = PLC
 add_core = PLC
-add_core = POL
 trade_goods = coal
 life_rating = 40
+
+1836.1.1 = {
+	owner = KRA
+	controller = KRA
+	add_core = KRA
+	add_core = POL
+	trade_goods = coal
+	life_rating = 40
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

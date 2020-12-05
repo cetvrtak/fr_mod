@@ -1,6 +1,16 @@
 owner = SWI
 controller = SWI
 add_core = HRE
-add_core = SWI
 trade_goods = coal
 life_rating = 32
+
+1836.1.1 = {
+	owner = NEH
+	controller = NEH
+	add_core = NEH
+	add_core = PRU
+	add_core = SWI
+	trade_goods = coal
+	life_rating = 32
+}
+

@@ -1,7 +1,21 @@
 owner = ENG
 controller = ENG
 add_core = BNG
-add_core = HND
 trade_goods = fish
 life_rating = 32
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = BIH
+	add_core = HND
+	trade_goods = fish
+	life_rating = 32
+	colonial = 2
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

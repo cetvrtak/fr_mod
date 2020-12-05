@@ -5,3 +5,13 @@ add_core = TUN
 trade_goods = fruit
 life_rating = 35
 terrain = plains
+
+1836.1.1 = {
+	owner = TRI
+	controller = TUR
+	add_core = TRI
+	trade_goods = fruit
+	life_rating = 35
+	terrain = plains
+}
+

@@ -1,7 +1,21 @@
 owner = FRA
 controller = FRA
 add_core = AUS
-add_core = GER
+add_core = FRA
 add_core = HRE
 trade_goods = sulphur
 life_rating = 31
+
+1836.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = ALS
+	add_core = FRA
+	trade_goods = sulphur
+	life_rating = 31
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

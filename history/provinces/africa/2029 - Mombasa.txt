@@ -4,3 +4,19 @@ add_core = MBA
 trade_goods = fish
 life_rating = 35
 terrain = savanna
+
+1836.1.1 = {
+	owner = OMA
+	controller = OMA
+	add_core = OMA
+	add_core = ZAN
+	trade_goods = fish
+	life_rating = 35
+	terrain = savanna
+}
+
+1861.1.1 = {
+	owner = ZAN
+	controller = ZAN
+}
+

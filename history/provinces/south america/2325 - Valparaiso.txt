@@ -5,3 +5,19 @@ trade_goods = fruit
 life_rating = 35
 terrain = farmlands
 naval_base = 1
+
+1836.1.1 = {
+	owner = CHL
+	controller = CHL
+	add_core = CHL
+	trade_goods = fruit
+	life_rating = 35
+	terrain = farmlands
+	naval_base = 1
+}
+
+1861.1.1 = {
+	naval_base = 1
+	railroad = 1
+}
+

@@ -1,5 +1,16 @@
 owner = FRA
 controller = FRA
+add_core = FRA
 trade_goods = tropical_wood
 life_rating = 31
 colonial = 2
+
+1836.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = GUY
+	trade_goods = tropical_wood
+	life_rating = 31
+	colonial = 2
+}
+

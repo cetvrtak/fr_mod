@@ -4,3 +4,10 @@ add_core = LUN
 add_core = YKA
 trade_goods = fruit
 life_rating = 10
+
+1836.1.1 = {
+	add_core = KUB
+	trade_goods = fruit
+	life_rating = 10
+}
+

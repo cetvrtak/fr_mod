@@ -1,7 +1,20 @@
 owner = TKG
 controller = TKG
-add_core = CHI
-add_core = MCK
+add_core = RUS
+add_core = TKG
 trade_goods = fish
 life_rating = 15
 colonial = 1
+
+1836.1.1 = {
+	trade_goods = fish
+	life_rating = 15
+	colonial = 1
+}
+
+1861.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+}
+

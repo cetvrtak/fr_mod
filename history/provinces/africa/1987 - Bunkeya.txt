@@ -3,3 +3,10 @@ controller = KZB
 add_core = KZB
 trade_goods = grain
 life_rating = 10
+
+1836.1.1 = {
+	add_core = KZB
+	trade_goods = grain
+	life_rating = 10
+}
+

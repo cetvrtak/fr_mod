@@ -4,3 +4,15 @@ add_core = TMB
 trade_goods = cattle
 life_rating = 35
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MAS
+	controller = MAS
+	add_core = DND
+	add_core = MAS
+	add_core = SEG
+	trade_goods = cattle
+	life_rating = 35
+	terrain = semidesert
+}
+

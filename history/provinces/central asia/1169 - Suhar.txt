@@ -1,6 +1,14 @@
 owner = OMA
 controller = OMA
-add_core = ARA
 add_core = OMA
 trade_goods = grain
 life_rating = 20
+
+1836.1.1 = {
+	owner = OMA
+	controller = OMA
+	add_core = OMA
+	trade_goods = grain
+	life_rating = 20
+}
+

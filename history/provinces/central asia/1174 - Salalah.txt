@@ -1,7 +1,16 @@
 owner = OMA
 controller = OMA
-add_core = ARA
 add_core = MHR
 trade_goods = opium
 life_rating = 20
 terrain = desert
+
+1836.1.1 = {
+	owner = OMA
+	controller = OMA
+	add_core = OMA
+	trade_goods = opium
+	life_rating = 20
+	terrain = desert
+}
+

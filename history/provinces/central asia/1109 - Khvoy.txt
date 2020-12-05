@@ -1,6 +1,17 @@
 owner = X07
 controller = X07
-add_core = AZB
 add_core = X07
 trade_goods = cotton
 life_rating = 35
+
+1836.1.1 = {
+	owner = MKN
+	controller = MKN
+	add_core = AZB
+	add_core = KDS
+	add_core = MKN
+	add_core = PER
+	trade_goods = cotton
+	life_rating = 35
+}
+

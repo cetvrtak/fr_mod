@@ -1,5 +1,18 @@
 owner = TKG
 controller = TKG
-add_core = AIN
+add_core = RUS
+add_core = TKG
 trade_goods = timber
 life_rating = 10
+
+1836.1.1 = {
+	trade_goods = timber
+	life_rating = 10
+}
+
+1861.1.1 = {
+	owner = TKG
+	controller = TKG
+	add_core = TKG
+}
+

@@ -1,9 +1,21 @@
 owner = MWT
 controller = MWT
-add_core = HND
 add_core = MUG
 add_core = MWT
 trade_goods = dye
 life_rating = 32
 colonial = 2
 fort = 1
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = AWA
+	add_core = HND
+	add_core = MUG
+	trade_goods = dye
+	life_rating = 32
+	colonial = 2
+	fort = 1
+}
+

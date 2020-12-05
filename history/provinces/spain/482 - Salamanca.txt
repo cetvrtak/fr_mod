@@ -4,3 +4,16 @@ add_core = SPA
 add_core = X03
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

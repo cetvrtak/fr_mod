@@ -3,3 +3,18 @@ controller = MEX
 add_core = MEX
 trade_goods = coffee
 life_rating = 39
+
+1836.1.1 = {
+	owner = UCA
+	controller = UCA
+	add_core = GUA
+	add_core = UCA
+	trade_goods = coffee
+	life_rating = 39
+}
+
+1861.1.1 = {
+	owner = GUA
+	controller = GUA
+}
+

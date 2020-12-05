@@ -1,7 +1,24 @@
 owner = PLC
 controller = PLC
-add_core = GER
+add_core = PLC
 add_core = PRU
 trade_goods = fish
 life_rating = 40
 naval_base = 1
+
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+	add_core = DZG
+	add_core = GER
+	add_core = PML
+	add_core = PRU
+	trade_goods = fish
+	life_rating = 40
+	naval_base = 1
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

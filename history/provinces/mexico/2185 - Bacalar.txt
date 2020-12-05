@@ -3,3 +3,13 @@ controller = MEX
 add_core = MEX
 trade_goods = timber
 life_rating = 33
+
+1836.1.1 = {
+	owner = MEX
+	controller = MEX
+	add_core = MEX
+	add_core = YUC
+	trade_goods = timber
+	life_rating = 33
+}
+

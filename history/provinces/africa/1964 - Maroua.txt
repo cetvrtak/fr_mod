@@ -3,3 +3,9 @@ controller = KBO
 add_core = KBO
 trade_goods = fruit
 life_rating = 10
+
+1836.1.1 = {
+	trade_goods = fruit
+	life_rating = 10
+}
+

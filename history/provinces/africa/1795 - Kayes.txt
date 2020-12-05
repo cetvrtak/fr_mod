@@ -3,3 +3,13 @@ controller = FUL
 add_core = SEG
 trade_goods = precious_metal
 life_rating = 32
+
+1836.1.1 = {
+	owner = SEG
+	controller = SEG
+	add_core = MAS
+	add_core = SEG
+	trade_goods = precious_metal
+	life_rating = 32
+}
+

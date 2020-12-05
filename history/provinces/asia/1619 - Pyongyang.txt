@@ -1,5 +1,15 @@
 owner = KOR
 controller = KOR
 add_core = KOR
+add_core = QNG
 trade_goods = silk
 life_rating = 31
+
+1836.1.1 = {
+	owner = KOR
+	controller = KOR
+	add_core = KOR
+	trade_goods = silk
+	life_rating = 31
+}
+

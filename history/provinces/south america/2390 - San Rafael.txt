@@ -4,3 +4,16 @@ add_core = ENT
 trade_goods = fruit
 life_rating = 15
 terrain = dryhills
+
+1836.1.1 = {
+	trade_goods = fruit
+	life_rating = 15
+	terrain = dryhills
+}
+
+1861.1.1 = {
+	owner = ARG
+	controller = ARG
+	add_core = ARG
+}
+

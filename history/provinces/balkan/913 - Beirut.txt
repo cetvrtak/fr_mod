@@ -1,7 +1,27 @@
 owner = TUR
 controller = TUR
-add_core = IRQ
 add_core = SYR
+add_core = TUR
 trade_goods = silk
 life_rating = 35
 terrain = hills
+
+1836.1.1 = {
+	owner = EGY
+	controller = EGY
+	add_core = EGY
+	add_core = LBN
+	add_core = TUR
+	trade_goods = silk
+	life_rating = 35
+	terrain = hills
+}
+
+1861.1.1 = {
+	state_building = {
+        level = 1
+        building = fabric_factory
+        upgrade = yes
+    }
+}
+

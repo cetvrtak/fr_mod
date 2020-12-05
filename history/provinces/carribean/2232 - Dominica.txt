@@ -1,7 +1,18 @@
 owner = CRB
 controller = CRB
 add_core = CRB
+add_core = FRA
 trade_goods = cotton
 life_rating = 35
 terrain = new_world_plains
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	trade_goods = cotton
+	life_rating = 35
+	terrain = new_world_plains
+	colonial = 2
+}
+

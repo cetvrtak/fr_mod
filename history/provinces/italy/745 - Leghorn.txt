@@ -1,7 +1,21 @@
 owner = TUS
 controller = TUS
-add_core = ITA
 add_core = TUS
 trade_goods = fish
 life_rating = 35
 naval_base = 1
+
+1836.1.1 = {
+	owner = TUS
+	controller = TUS
+	add_core = ITA
+	add_core = TUS
+	trade_goods = fish
+	life_rating = 35
+	naval_base = 1
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

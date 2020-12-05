@@ -1,7 +1,16 @@
 owner = GWA
 controller = GWA
 add_core = GWA
-add_core = HND
 add_core = MAW
 trade_goods = opium
 life_rating = 32
+
+1836.1.1 = {
+	owner = IND
+	controller = IND
+	add_core = HND
+	add_core = IND
+	trade_goods = opium
+	life_rating = 32
+}
+

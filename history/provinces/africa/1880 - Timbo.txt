@@ -3,3 +3,12 @@ controller = REB
 add_core = FUL
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = JAL
+	controller = JAL
+	add_core = JAL
+	trade_goods = grain
+	life_rating = 35
+}
+

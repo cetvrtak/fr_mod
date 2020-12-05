@@ -1,7 +1,16 @@
 owner = ANT
 controller = ANT
 add_core = ANT
-add_core = MAD
 trade_goods = grain
 life_rating = 35
 terrain = jungle
+
+1836.1.1 = {
+	owner = MAD
+	controller = MAD
+	add_core = MAD
+	trade_goods = grain
+	life_rating = 35
+	terrain = jungle
+}
+

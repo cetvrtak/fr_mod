@@ -1,7 +1,19 @@
 owner = MRT
 controller = MRT
 add_core = GUJ
-add_core = HND
+add_core = MRT
 trade_goods = grain
 life_rating = 32
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = BER
+	add_core = HND
+	add_core = MAH
+	trade_goods = grain
+	life_rating = 32
+	colonial = 2
+}
+

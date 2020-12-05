@@ -3,6 +3,14 @@ controller = CHK
 add_core = ANN
 add_core = CAM
 add_core = CHK
-add_core = IDO
 trade_goods = wool
 life_rating = 32
+
+1836.1.1 = {
+	owner = CAM
+	controller = CAM
+	add_core = CAM
+	trade_goods = wool
+	life_rating = 32
+}
+

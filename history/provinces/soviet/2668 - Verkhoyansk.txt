@@ -1,3 +1,15 @@
 trade_goods = grain
 life_rating = 10
 terrain = boreal
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = YAK
+	trade_goods = grain
+	life_rating = 10
+	terrain = boreal
+	colonial = 2
+}
+

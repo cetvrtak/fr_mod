@@ -3,3 +3,10 @@ controller = KON
 add_core = YKA
 trade_goods = grain
 life_rating = 10
+
+1836.1.1 = {
+	add_core = KON
+	trade_goods = grain
+	life_rating = 10
+}
+

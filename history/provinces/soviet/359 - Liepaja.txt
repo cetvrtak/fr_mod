@@ -1,7 +1,16 @@
 owner = KUR
 controller = KUR
 add_core = KUR
-add_core = LAT
-add_core = UBD
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = UBD
+	controller = UBD
+	add_core = LAT
+	add_core = RUS
+	add_core = UBD
+	trade_goods = grain
+	life_rating = 35
+}
+

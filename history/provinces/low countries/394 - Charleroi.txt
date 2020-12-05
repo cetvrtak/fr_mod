@@ -1,9 +1,53 @@
 owner = AUS
 controller = AUS
-add_core = BEL
+add_core = AUS
 add_core = HAT
 add_core = HRE
-add_core = WLL
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}
+state_building = {
+    level = 1
+    building = small_arms_factory
+    upgrade = yes
+}
+
+1836.1.1 = {
+	owner = BEL
+	controller = BEL
+	add_core = BEL
+	add_core = NET
+	add_core = WLL
+	trade_goods = coal
+	life_rating = 35
+	terrain = mining_district
+	state_building = {
+    level = 1
+    building = steel_factory
+    upgrade = yes
+}
+	state_building = {
+    level = 1
+    building = ammunition_factory
+    upgrade = yes
+}
+	state_building = {
+    level = 1
+    building = small_arms_factory
+    upgrade = yes
+}
+}
+
+1861.1.1 = {
+}
+

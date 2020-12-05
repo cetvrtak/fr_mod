@@ -1,4 +1,14 @@
 owner = BRZ
 controller = BRZ
+add_core = BRZ
 trade_goods = tropical_wood
 life_rating = 31
+
+1836.1.1 = {
+	owner = CLM
+	controller = CLM
+	add_core = CLM
+	trade_goods = tropical_wood
+	life_rating = 31
+}
+

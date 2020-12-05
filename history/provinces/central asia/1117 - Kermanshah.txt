@@ -4,3 +4,13 @@ add_core = PER
 add_core = X04
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = PER
+	controller = PER
+	add_core = KDS
+	add_core = PER
+	trade_goods = wool
+	life_rating = 35
+}
+

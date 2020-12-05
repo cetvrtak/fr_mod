@@ -5,3 +5,18 @@ trade_goods = tobacco
 life_rating = 35
 colonial = 2
 naval_base = 1
+
+1836.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = CUB
+	trade_goods = tobacco
+	life_rating = 35
+	colonial = 2
+	naval_base = 1
+}
+
+1861.1.1 = {
+	naval_base = 2
+}
+

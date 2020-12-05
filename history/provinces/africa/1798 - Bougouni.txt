@@ -4,3 +4,13 @@ add_core = MLI
 add_core = SEG
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = SEG
+	controller = SEG
+	add_core = MAS
+	add_core = SEG
+	trade_goods = grain
+	life_rating = 35
+}
+

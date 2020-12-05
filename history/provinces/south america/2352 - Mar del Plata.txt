@@ -1,5 +1,23 @@
 owner = ENT
 controller = ENT
+add_core = ENT
 trade_goods = cattle
 life_rating = 35
 terrain = farmlands
+
+1836.1.1 = {
+	owner = ARC
+	controller = ARC
+	add_core = ARC
+	add_core = SBA
+	trade_goods = cattle
+	life_rating = 35
+	terrain = farmlands
+}
+
+1861.1.1 = {
+	owner = ARG
+	controller = ARG
+	add_core = ARG
+}
+

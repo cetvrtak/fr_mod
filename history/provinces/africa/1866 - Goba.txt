@@ -1,6 +1,14 @@
 owner = GEL
 controller = ETH
-add_core = SOM
 trade_goods = cattle
 life_rating = 10
 terrain = dryhills
+
+1836.1.1 = {
+	add_core = ETH
+	add_core = SHW
+	trade_goods = cattle
+	life_rating = 10
+	terrain = dryhills
+}
+

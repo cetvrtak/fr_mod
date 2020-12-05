@@ -1,8 +1,19 @@
 owner = DEN
 controller = DEN
-add_core = ICL
-add_core = SCA
+add_core = DEN
 trade_goods = fish
 life_rating = 30
 terrain = small_island
 colonial = 2
+
+1836.1.1 = {
+	owner = DEN
+	controller = DEN
+	add_core = DEN
+	add_core = FRO
+	trade_goods = fish
+	life_rating = 30
+	terrain = small_island
+	colonial = 2
+}
+

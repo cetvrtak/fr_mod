@@ -1,6 +1,16 @@
 owner = X07
 controller = ARL
-add_core = AZB
+add_core = PER
 add_core = X07
 trade_goods = coal
 life_rating = 35
+
+1836.1.1 = {
+	owner = PER
+	controller = PER
+	add_core = AZB
+	add_core = PER
+	trade_goods = coal
+	life_rating = 35
+}
+

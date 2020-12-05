@@ -1,4 +1,14 @@
 owner = BOL
 controller = BOL
+add_core = BOL
 trade_goods = tropical_wood
 life_rating = 15
+
+1836.1.1 = {
+	add_core = BOL
+	add_core = BRZ
+	add_core = PEU
+	trade_goods = tropical_wood
+	life_rating = 15
+}
+

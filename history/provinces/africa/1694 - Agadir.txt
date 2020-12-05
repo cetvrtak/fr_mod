@@ -1,6 +1,17 @@
 owner = MOR
 controller = MOR
+add_core = MOR
 add_core = SOS
 trade_goods = fish
 life_rating = 32
 terrain = semidesert
+
+1836.1.1 = {
+	owner = MOR
+	controller = MOR
+	add_core = MOR
+	trade_goods = fish
+	life_rating = 32
+	terrain = semidesert
+}
+

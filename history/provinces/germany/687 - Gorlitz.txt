@@ -1,8 +1,22 @@
 owner = SAX
 controller = SAX
+add_core = AUS
 add_core = HRE
-add_core = PLC
-add_core = POL
+add_core = SAX
 add_core = X06
 trade_goods = coal
 life_rating = 40
+
+1836.1.1 = {
+	owner = PRU
+	controller = PRU
+	add_core = GER
+	add_core = PRU
+	trade_goods = coal
+	life_rating = 40
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

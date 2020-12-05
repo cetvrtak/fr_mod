@@ -1,8 +1,18 @@
 owner = RUS
 controller = RUS
 add_core = EST
-add_core = LAT
-add_core = UBD
+add_core = RUS
 add_core = X05
 trade_goods = cattle
 life_rating = 35
+
+1836.1.1 = {
+	owner = UBD
+	controller = UBD
+	add_core = LAT
+	add_core = RUS
+	add_core = UBD
+	trade_goods = cattle
+	life_rating = 35
+}
+

@@ -3,3 +3,21 @@ controller = ENT
 add_core = ENT
 trade_goods = tobacco
 life_rating = 34
+
+1836.1.1 = {
+	owner = CRT
+	controller = CRT
+	add_core = ARC
+	add_core = CRT
+	trade_goods = tobacco
+	life_rating = 34
+}
+
+1861.1.1 = {
+	owner = ARG
+	controller = ARG
+	add_core = ARG
+	naval_base = 2
+	railroad = 1
+}
+

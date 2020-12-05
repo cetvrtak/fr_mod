@@ -1,6 +1,14 @@
 owner = MTR
 controller = MTR
-add_core = JAV
 add_core = MTR
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = JAV
+	controller = JAV
+	add_core = JAV
+	trade_goods = grain
+	life_rating = 35
+}
+

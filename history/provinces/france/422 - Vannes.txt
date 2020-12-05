@@ -4,3 +4,13 @@ add_core = BRT
 add_core = FRA
 trade_goods = fish
 life_rating = 31
+
+1836.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = BRT
+	add_core = FRA
+	trade_goods = fish
+	life_rating = 31
+}
+

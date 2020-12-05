@@ -2,6 +2,14 @@ owner = JOH
 controller = JOH
 add_core = JOH
 add_core = MLC
-add_core = MLY
 trade_goods = tropical_wood
 life_rating = 37
+
+1836.1.1 = {
+	owner = JOH
+	controller = JOH
+	add_core = JOH
+	trade_goods = tropical_wood
+	life_rating = 37
+}
+

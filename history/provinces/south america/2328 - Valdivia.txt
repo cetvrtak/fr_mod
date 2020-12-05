@@ -4,3 +4,14 @@ add_core = ENT
 trade_goods = grain
 life_rating = 35
 terrain = montane_forest
+
+1836.1.1 = {
+	owner = CHL
+	controller = CHL
+	add_core = CHL
+	add_core = PTG
+	trade_goods = grain
+	life_rating = 35
+	terrain = montane_forest
+}
+

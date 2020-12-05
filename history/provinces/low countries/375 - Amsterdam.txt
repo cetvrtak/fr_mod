@@ -5,3 +5,22 @@ trade_goods = cattle
 life_rating = 35
 naval_base = 2
 fort = 1
+
+1836.1.1 = {
+	owner = NET
+	controller = NET
+	add_core = NET
+	trade_goods = cattle
+	life_rating = 35
+	naval_base = 2
+	fort = 1
+}
+
+1861.1.1 = {
+	state_building = {
+        level = 1
+        building = paper_mill
+        upgrade = yes
+    }
+}
+

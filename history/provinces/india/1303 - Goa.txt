@@ -1,7 +1,17 @@
 owner = POR
 controller = POR
-add_core = HND
 add_core = MRT
 trade_goods = precious_goods
 life_rating = 32
 colonial = 2
+
+1836.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = HND
+	add_core = MAH
+	trade_goods = precious_goods
+	life_rating = 32
+	colonial = 2
+}
+

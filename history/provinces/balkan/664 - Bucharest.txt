@@ -1,6 +1,21 @@
 owner = WAL
 controller = WAL
-add_core = ROM
+add_core = TUR
 add_core = WAL
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = WAL
+	controller = WAL
+	add_core = ROM
+	add_core = WAL
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ROM
+	controller = ROM
+}
+

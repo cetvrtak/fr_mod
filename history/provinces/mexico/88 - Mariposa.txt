@@ -5,3 +5,21 @@ trade_goods = fruit
 life_rating = 31
 terrain = new_world_semidesert
 colonial = 2
+
+1836.1.1 = {
+	owner = MEX
+	controller = MEX
+	add_core = CAL
+	add_core = MEX
+	trade_goods = fruit
+	life_rating = 31
+	terrain = new_world_semidesert
+	colonial = 2
+}
+
+1861.1.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA
+}
+

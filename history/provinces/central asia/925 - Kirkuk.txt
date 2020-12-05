@@ -1,7 +1,21 @@
 owner = TUR
 controller = TUR
-add_core = KDS
 add_core = RDL
+add_core = TUR
 trade_goods = grain
 life_rating = 35
 terrain = steppe
+
+1836.1.1 = {
+	owner = BNB
+	controller = BNB
+	add_core = BNB
+	add_core = HTY
+	add_core = IRQ
+	add_core = KDS
+	add_core = TUR
+	trade_goods = grain
+	life_rating = 35
+	terrain = steppe
+}
+

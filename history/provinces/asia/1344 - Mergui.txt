@@ -1,7 +1,18 @@
 owner = BUR
 controller = BUR
 add_core = BUR
-add_core = IDO
+add_core = SIA
 trade_goods = fish
 life_rating = 31
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = BUR
+	add_core = KAR
+	trade_goods = fish
+	life_rating = 31
+	colonial = 2
+}
+

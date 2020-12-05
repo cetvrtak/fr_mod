@@ -1,6 +1,18 @@
 owner = SPA
 controller = SPA
+add_core = SPA
 trade_goods = fish
 life_rating = 25
 terrain = small_island
 colonial = 2
+
+1836.1.1 = {
+	owner = SPA
+	controller = SPA
+	add_core = PHL
+	trade_goods = fish
+	life_rating = 25
+	terrain = small_island
+	colonial = 2
+}
+

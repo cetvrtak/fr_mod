@@ -3,3 +3,18 @@ controller = FZA
 add_core = FZA
 trade_goods = fruit
 life_rating = 10
+
+1836.1.1 = {
+	owner = TRI
+	controller = TRI
+	add_core = TRI
+	trade_goods = fruit
+	life_rating = 10
+}
+
+1861.1.1 = {
+	owner = TUR
+	controller = TUR
+	colonial = 2
+}
+

@@ -1,8 +1,19 @@
 owner = RUS
 controller = RUS
 add_core = PLC
-add_core = UKR
+add_core = RUS
 add_core = ZAZ
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = UKR
+	trade_goods = coal
+	life_rating = 35
+	terrain = mining_district
+}
+

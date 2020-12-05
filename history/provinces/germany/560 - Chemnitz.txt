@@ -1,6 +1,15 @@
 owner = SAX
 controller = SAX
-add_core = GER
 add_core = HRE
 trade_goods = iron
 life_rating = 40
+
+1836.1.1 = {
+	owner = SAX
+	controller = SAX
+	add_core = GER
+	add_core = SAX
+	trade_goods = iron
+	life_rating = 40
+}
+

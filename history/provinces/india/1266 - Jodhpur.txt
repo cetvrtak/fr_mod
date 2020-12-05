@@ -1,7 +1,16 @@
 owner = JOD
 controller = JOD
-add_core = HND
 add_core = JOD
 add_core = MEW
 trade_goods = fruit
 life_rating = 32
+
+1836.1.1 = {
+	owner = JOD
+	controller = JOD
+	add_core = HND
+	add_core = JOD
+	trade_goods = fruit
+	life_rating = 32
+}
+

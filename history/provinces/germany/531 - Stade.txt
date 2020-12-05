@@ -1,7 +1,16 @@
 owner = HAN
 controller = HAN
-add_core = GER
 add_core = HAN
 add_core = HRE
 trade_goods = cattle
 life_rating = 40
+
+1836.1.1 = {
+	owner = HAN
+	controller = HAN
+	add_core = GER
+	add_core = HAN
+	trade_goods = cattle
+	life_rating = 40
+}
+

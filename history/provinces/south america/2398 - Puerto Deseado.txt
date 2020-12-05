@@ -1,5 +1,14 @@
 owner = ENT
 controller = ENT
+add_core = ENT
 trade_goods = wool
 life_rating = 15
 terrain = steppe
+
+1836.1.1 = {
+	add_core = PTG
+	trade_goods = wool
+	life_rating = 15
+	terrain = steppe
+}
+

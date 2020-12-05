@@ -1,7 +1,17 @@
 owner = TUR
 controller = TUR
-add_core = GRE
 add_core = TUR
 trade_goods = fish
 life_rating = 32
 terrain = small_island
+
+1836.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = GRE
+	add_core = TUR
+	trade_goods = fish
+	life_rating = 32
+	terrain = small_island
+}
+

@@ -3,3 +3,14 @@ controller = BLC
 add_core = BLC
 trade_goods = wool
 life_rating = 32
+
+1836.1.1 = {
+	owner = KAL
+	controller = KAL
+	add_core = BLC
+	add_core = HND
+	add_core = KAL
+	trade_goods = wool
+	life_rating = 32
+}
+

@@ -1,7 +1,15 @@
 owner = SLZ
 controller = SLZ
-add_core = GER
 add_core = HRE
 add_core = SLZ
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = AUS
+	controller = AUS
+	add_core = AUS
+	trade_goods = grain
+	life_rating = 35
+}
+

@@ -1,5 +1,14 @@
 owner = NET
 controller = NET
-add_core = MAL
+add_core = NET
 trade_goods = wool
 life_rating = 31
+
+1836.1.1 = {
+	owner = SLW
+	controller = SLW
+	add_core = SLW
+	trade_goods = wool
+	life_rating = 31
+}
+

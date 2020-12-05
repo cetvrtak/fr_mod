@@ -1,6 +1,14 @@
 owner = KBO
 controller = KBO
 add_core = AYR
+add_core = KBO
 trade_goods = cattle
 life_rating = 5
 colonial = 1
+
+1836.1.1 = {
+	trade_goods = cattle
+	life_rating = 5
+	colonial = 1
+}
+

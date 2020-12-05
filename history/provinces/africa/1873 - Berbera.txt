@@ -1,8 +1,19 @@
 owner = WRL
 controller = WRL
 add_core = ADA
-add_core = SOM
 add_core = WRL
 trade_goods = fish
 life_rating = 31
 terrain = semidesert
+
+1836.1.1 = {
+	owner = WRL
+	controller = WRL
+	add_core = GEL
+	add_core = MAJ
+	add_core = WRL
+	trade_goods = fish
+	life_rating = 31
+	terrain = semidesert
+}
+

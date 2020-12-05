@@ -3,3 +3,12 @@ controller = ENT
 add_core = ENT
 trade_goods = fish
 life_rating = 35
+
+1836.1.1 = {
+	owner = URU
+	controller = URU
+	add_core = URU
+	trade_goods = fish
+	life_rating = 35
+}
+

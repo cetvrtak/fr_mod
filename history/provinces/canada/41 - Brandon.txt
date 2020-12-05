@@ -1,5 +1,17 @@
 owner = QUE
 controller = QUE
+add_core = QUE
 trade_goods = grain
 life_rating = 31
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = MTC
+	add_core = RPL
+	trade_goods = grain
+	life_rating = 31
+	colonial = 2
+}
+

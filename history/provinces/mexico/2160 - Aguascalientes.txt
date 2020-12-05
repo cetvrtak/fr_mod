@@ -1,4 +1,14 @@
 owner = MEX
 controller = MEX
+add_core = MEX
 trade_goods = iron
 life_rating = 35
+
+1836.1.1 = {
+	owner = MEX
+	controller = MEX
+	add_core = MEX
+	trade_goods = iron
+	life_rating = 35
+}
+

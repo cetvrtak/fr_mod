@@ -3,3 +3,12 @@ controller = AST
 add_core = AST
 trade_goods = tobacco
 life_rating = 35
+
+1836.1.1 = {
+	owner = HAI
+	controller = HAI
+	add_core = HAI
+	trade_goods = tobacco
+	life_rating = 35
+}
+

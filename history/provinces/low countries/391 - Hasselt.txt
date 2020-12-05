@@ -1,9 +1,22 @@
 owner = LIG
 controller = LIG
-add_core = BEL
-add_core = FLA
 add_core = HRE
 add_core = LIG
 trade_goods = coal
 life_rating = 35
 terrain = mining_district
+
+1836.1.1 = {
+	owner = BEL
+	controller = BEL
+	add_core = BEL
+	add_core = FLA
+	add_core = NET
+	trade_goods = coal
+	life_rating = 35
+	terrain = mining_district
+}
+
+1861.1.1 = {
+}
+

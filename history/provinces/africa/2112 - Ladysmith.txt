@@ -1,2 +1,21 @@
 trade_goods = grain
 life_rating = 35
+
+1836.1.1 = {
+	owner = ZUL
+	controller = ZUL
+	add_core = MAT
+	add_core = NAL
+	add_core = ZUL
+	trade_goods = grain
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	add_core = SAF
+	colonial = 2
+}
+

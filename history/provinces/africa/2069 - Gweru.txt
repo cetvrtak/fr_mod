@@ -5,3 +5,17 @@ add_core = ZIM
 trade_goods = fruit
 life_rating = 10
 terrain = savanna
+
+1836.1.1 = {
+	add_core = ZBW
+	trade_goods = fruit
+	life_rating = 10
+	terrain = savanna
+}
+
+1861.1.1 = {
+	owner = MAT
+	controller = MAT
+	life_rating = 35
+}
+

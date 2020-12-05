@@ -1,9 +1,23 @@
 owner = ENG
 controller = ENG
-add_core = ADU
+add_core = ENG
+add_core = SPA
 trade_goods = fish
 life_rating = 35
 terrain = urban
 colonial = 2
 naval_base = 2
 fort = 1
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	trade_goods = fish
+	life_rating = 35
+	terrain = urban
+	colonial = 2
+	naval_base = 2
+	fort = 1
+}
+

@@ -1,8 +1,18 @@
 owner = GWA
 controller = GWA
 add_core = GWA
-add_core = HND
 add_core = JOD
 add_core = MEW
 trade_goods = cotton
 life_rating = 32
+
+1836.1.1 = {
+	owner = JAI
+	controller = JAI
+	add_core = HND
+	add_core = JAI
+	add_core = MEW
+	trade_goods = cotton
+	life_rating = 32
+}
+

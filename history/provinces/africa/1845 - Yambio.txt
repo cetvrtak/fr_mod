@@ -1,2 +1,10 @@
 trade_goods = tropical_wood
 life_rating = 15
+
+1836.1.1 = {
+	add_core = AZA
+	add_core = DAR
+	trade_goods = tropical_wood
+	life_rating = 15
+}
+

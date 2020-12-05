@@ -1,6 +1,14 @@
 owner = LAN
 controller = LAN
 add_core = LAN
-add_core = MLY
 trade_goods = wool
 life_rating = 31
+
+1836.1.1 = {
+	owner = KLM
+	controller = KLM
+	add_core = KLM
+	trade_goods = wool
+	life_rating = 31
+}
+

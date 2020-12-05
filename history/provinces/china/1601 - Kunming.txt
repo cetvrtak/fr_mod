@@ -1,6 +1,16 @@
 owner = QNG
 controller = QNG
 add_core = CDL
-add_core = CHI
+add_core = QNG
 trade_goods = precious_metal
 life_rating = 32
+
+1836.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = CHI
+	add_core = YNN
+	trade_goods = precious_metal
+	life_rating = 32
+}
+

@@ -1,7 +1,14 @@
 owner = KHI
 controller = KHI
 add_core = KHI
-add_core = TKS
 trade_goods = fish
 life_rating = 15
 terrain = desert
+
+1836.1.1 = {
+	add_core = TKM
+	trade_goods = fish
+	life_rating = 15
+	terrain = desert
+}
+

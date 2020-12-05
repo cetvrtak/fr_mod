@@ -1,5 +1,13 @@
 owner = LUN
 controller = LUN
 add_core = CKW
+add_core = LUN
 trade_goods = cattle
 life_rating = 10
+
+1836.1.1 = {
+	add_core = KZB
+	trade_goods = cattle
+	life_rating = 10
+}
+

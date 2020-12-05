@@ -1,6 +1,24 @@
 owner = TUR
 controller = TUR
 add_core = AWS
+add_core = TUR
 trade_goods = fish
 life_rating = 31
 terrain = desert
+
+1836.1.1 = {
+	owner = AWS
+	controller = AWS
+	add_core = AWS
+	add_core = ETH
+	add_core = TIG
+	trade_goods = fish
+	life_rating = 31
+	terrain = desert
+}
+
+1861.1.1 = {
+	owner = ETH
+	controller = ETH
+}
+

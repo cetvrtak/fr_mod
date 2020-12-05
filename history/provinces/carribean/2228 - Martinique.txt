@@ -6,3 +6,14 @@ life_rating = 35
 terrain = new_world_jungle
 colonial = 2
 naval_base = 1
+
+1836.1.1 = {
+	owner = FRA
+	controller = FRA
+	trade_goods = cotton
+	life_rating = 35
+	terrain = new_world_jungle
+	colonial = 2
+	naval_base = 1
+}
+

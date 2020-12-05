@@ -1,8 +1,22 @@
 owner = POR
 controller = POR
+add_core = POR
 add_core = YUE
 add_core = ZHO
 trade_goods = precious_goods
 life_rating = 35
 terrain = urban
 colonial = 2
+
+1836.1.1 = {
+	owner = POR
+	controller = POR
+	add_core = CHI
+	add_core = GNG
+	add_core = POR
+	trade_goods = precious_goods
+	life_rating = 35
+	terrain = urban
+	colonial = 2
+}
+

@@ -1,7 +1,17 @@
 owner = BLA
 controller = BLA
 add_core = BLA
-add_core = MTC
 trade_goods = timber
 life_rating = 31
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = MTC
+	add_core = RPL
+	trade_goods = timber
+	life_rating = 31
+	colonial = 2
+}
+

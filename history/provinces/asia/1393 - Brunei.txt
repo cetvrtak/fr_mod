@@ -1,6 +1,14 @@
 owner = BRU
 controller = BRU
 add_core = BRU
-add_core = MLY
 trade_goods = fish
 life_rating = 31
+
+1836.1.1 = {
+	owner = BRU
+	controller = BRU
+	add_core = BRU
+	trade_goods = fish
+	life_rating = 31
+}
+

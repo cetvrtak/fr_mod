@@ -1,8 +1,17 @@
 owner = QNG
 controller = QNG
-add_core = KHA
 add_core = KSD
-add_core = MGL
+add_core = QNG
 add_core = YRK
 trade_goods = grain
 life_rating = 32
+
+1836.1.1 = {
+	owner = XBI
+	controller = XBI
+	add_core = CHI
+	add_core = XBI
+	trade_goods = grain
+	life_rating = 32
+}
+

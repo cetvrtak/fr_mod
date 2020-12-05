@@ -1,7 +1,15 @@
 owner = TOK
 controller = TOK
 add_core = DAI
-add_core = IDO
 add_core = TOK
 trade_goods = grain
 life_rating = 40
+
+1836.1.1 = {
+	owner = DAI
+	controller = DAI
+	add_core = DAI
+	trade_goods = grain
+	life_rating = 40
+}
+

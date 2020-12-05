@@ -3,3 +3,12 @@ controller = ASH
 add_core = ASH
 trade_goods = fruit
 life_rating = 35
+
+1836.1.1 = {
+	owner = KNG
+	controller = KNG
+	add_core = KNG
+	trade_goods = fruit
+	life_rating = 35
+}
+

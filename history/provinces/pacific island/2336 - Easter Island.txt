@@ -1,3 +1,10 @@
 trade_goods = fish
 life_rating = 10
 terrain = new_world_plains
+
+1836.1.1 = {
+	trade_goods = fish
+	life_rating = 10
+	terrain = new_world_plains
+}
+

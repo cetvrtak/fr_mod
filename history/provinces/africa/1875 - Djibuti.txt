@@ -5,3 +5,13 @@ trade_goods = cattle
 life_rating = 10
 terrain = semidesert
 colonial = 1
+
+1836.1.1 = {
+	add_core = AWS
+	add_core = WRL
+	trade_goods = cattle
+	life_rating = 10
+	terrain = semidesert
+	colonial = 1
+}
+

@@ -5,3 +5,11 @@ trade_goods = cattle
 life_rating = 5
 terrain = semidesert
 colonial = 1
+
+1836.1.1 = {
+	trade_goods = cattle
+	life_rating = 5
+	terrain = semidesert
+	colonial = 1
+}
+

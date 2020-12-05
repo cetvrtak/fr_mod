@@ -1,4 +1,23 @@
 owner = ENT
 controller = ENT
+add_core = ENT
 trade_goods = timber
 life_rating = 35
+
+1836.1.1 = {
+	owner = ARC
+	controller = ARC
+	add_core = ARC
+	add_core = SBA
+	trade_goods = timber
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ARG
+	controller = ARG
+	add_core = ARG
+	naval_base = 2
+	railroad = 1
+}
+

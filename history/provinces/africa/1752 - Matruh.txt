@@ -5,3 +5,13 @@ add_core = TUR
 trade_goods = fruit
 life_rating = 35
 terrain = semidesert
+
+1836.1.1 = {
+	owner = EGY
+	controller = EGY
+	add_core = EGY
+	trade_goods = fruit
+	life_rating = 35
+	terrain = semidesert
+}
+

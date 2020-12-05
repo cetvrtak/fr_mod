@@ -3,3 +3,13 @@ controller = MOS
 add_core = MOS
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = MOS
+	controller = MOS
+	add_core = MAS
+	add_core = MOS
+	trade_goods = wool
+	life_rating = 35
+}
+

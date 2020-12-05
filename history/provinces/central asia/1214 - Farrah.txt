@@ -1,7 +1,17 @@
 owner = AFG
 controller = AFG
+add_core = AFG
 add_core = KHO
-add_core = PER
 trade_goods = cotton
 life_rating = 35
 terrain = dryhills
+
+1836.1.1 = {
+	owner = AFG
+	controller = AFG
+	add_core = AFG
+	trade_goods = cotton
+	life_rating = 35
+	terrain = dryhills
+}
+

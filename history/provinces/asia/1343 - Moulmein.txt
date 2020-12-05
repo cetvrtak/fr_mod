@@ -1,8 +1,19 @@
 owner = BUR
 controller = BUR
 add_core = BUR
-add_core = IDO
 add_core = PEG
+add_core = SIA
 trade_goods = grain
 life_rating = 33
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = BUR
+	add_core = KAR
+	trade_goods = grain
+	life_rating = 33
+	colonial = 2
+}
+

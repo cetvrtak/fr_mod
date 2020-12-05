@@ -1,7 +1,14 @@
 owner = MPH
 controller = LUA
-add_core = IDO
-add_core = LUA
 add_core = MPH
 trade_goods = grain
 life_rating = 31
+
+1836.1.1 = {
+	owner = LUA
+	controller = LUA
+	add_core = LUA
+	trade_goods = grain
+	life_rating = 31
+}
+

@@ -4,3 +4,16 @@ add_core = BRG
 add_core = FRA
 trade_goods = fruit
 life_rating = 33
+
+1836.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	trade_goods = fruit
+	life_rating = 33
+}
+
+1861.1.1 = {
+	railroad = 3
+}
+

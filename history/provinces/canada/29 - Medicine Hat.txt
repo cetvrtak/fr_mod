@@ -4,3 +4,13 @@ add_core = KAZ
 trade_goods = fruit
 life_rating = 15
 terrain = desert
+
+1836.1.1 = {
+	owner = BUK
+	controller = BUK
+	add_core = BUK
+	trade_goods = fruit
+	life_rating = 15
+	terrain = desert
+}
+

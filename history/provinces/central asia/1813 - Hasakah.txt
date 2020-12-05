@@ -1,7 +1,22 @@
 owner = TUR
 controller = TUR
-add_core = KDS
+add_core = TUR
 trade_goods = wool
 life_rating = 31
 terrain = dryhills
 colonial = 2
+
+1836.1.1 = {
+	owner = TUR
+	controller = TUR
+	add_core = ASY
+	add_core = HTY
+	add_core = KDS
+	add_core = SYR
+	add_core = TUR
+	trade_goods = wool
+	life_rating = 31
+	terrain = dryhills
+	colonial = 2
+}
+

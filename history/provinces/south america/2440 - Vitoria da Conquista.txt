@@ -4,3 +4,14 @@ add_core = BRZ
 trade_goods = cattle
 life_rating = 35
 terrain = dryhills
+
+1836.1.1 = {
+	owner = BRZ
+	controller = BRZ
+	add_core = BAH
+	add_core = BRZ
+	trade_goods = cattle
+	life_rating = 35
+	terrain = dryhills
+}
+

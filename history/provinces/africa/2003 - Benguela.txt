@@ -1,6 +1,21 @@
 owner = POR
 controller = POR
+add_core = POR
 trade_goods = grain
 life_rating = 35
 terrain = savanna
 colonial = 2
+
+1836.1.1 = {
+	owner = POR
+	controller = POR
+	trade_goods = grain
+	life_rating = 35
+	terrain = savanna
+	colonial = 2
+}
+
+1861.1.1 = {
+	naval_base = 1
+}
+

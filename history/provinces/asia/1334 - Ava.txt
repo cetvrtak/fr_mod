@@ -1,6 +1,14 @@
 owner = BUR
 controller = BUR
 add_core = BUR
-add_core = IDO
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = BUR
+	controller = BUR
+	add_core = BUR
+	trade_goods = wool
+	life_rating = 35
+}
+

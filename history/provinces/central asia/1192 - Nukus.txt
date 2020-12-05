@@ -3,3 +3,9 @@ controller = KHI
 add_core = KHI
 trade_goods = opium
 life_rating = 30
+
+1836.1.1 = {
+	trade_goods = opium
+	life_rating = 30
+}
+

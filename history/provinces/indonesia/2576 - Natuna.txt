@@ -1,8 +1,18 @@
 owner = LAN
 controller = LAN
 add_core = LAN
-add_core = MLY
 trade_goods = fish
 life_rating = 31
 terrain = small_island
 colonial = 2
+
+1836.1.1 = {
+	owner = NET
+	controller = NET
+	add_core = SAK
+	trade_goods = fish
+	life_rating = 31
+	terrain = small_island
+	colonial = 2
+}
+

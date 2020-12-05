@@ -1,7 +1,16 @@
 owner = KOK
 controller = KOK
+add_core = BUK
 add_core = CHG
 add_core = KOK
-add_core = TKS
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = KOK
+	controller = KOK
+	add_core = KOK
+	trade_goods = wool
+	life_rating = 35
+}
+

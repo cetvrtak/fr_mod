@@ -1,6 +1,16 @@
 owner = MRT
 controller = MRT
-add_core = HND
 add_core = MAW
+add_core = MRT
 trade_goods = dye
 life_rating = 32
+
+1836.1.1 = {
+	owner = BHO
+	controller = BHO
+	add_core = BHO
+	add_core = HND
+	trade_goods = dye
+	life_rating = 32
+}
+

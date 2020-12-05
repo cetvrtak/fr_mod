@@ -1,6 +1,14 @@
 owner = LUW
 controller = LUW
 add_core = LUW
-add_core = MAL
 trade_goods = grain
 life_rating = 31
+
+1836.1.1 = {
+	owner = SLW
+	controller = SLW
+	add_core = SLW
+	trade_goods = grain
+	life_rating = 31
+}
+

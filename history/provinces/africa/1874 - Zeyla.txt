@@ -1,7 +1,19 @@
 owner = ADE
 controller = ADE
 add_core = ADA
-add_core = SOM
+add_core = ADE
 trade_goods = grain
 life_rating = 35
 terrain = semidesert
+
+1836.1.1 = {
+	owner = EGY
+	controller = EGY
+	add_core = GEL
+	add_core = MAJ
+	add_core = WRL
+	trade_goods = grain
+	life_rating = 35
+	terrain = semidesert
+}
+

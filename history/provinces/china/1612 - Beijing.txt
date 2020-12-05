@@ -1,6 +1,5 @@
 owner = QNG
 controller = QNG
-add_core = CHI
 add_core = CSH
 add_core = JIN
 add_core = QNG
@@ -8,3 +7,14 @@ add_core = YAN
 trade_goods = tea
 life_rating = 32
 fort = 1
+
+1836.1.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = CHI
+	add_core = QNG
+	trade_goods = tea
+	life_rating = 32
+	fort = 1
+}
+

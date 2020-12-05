@@ -1,6 +1,14 @@
 owner = BTN
 controller = BTN
 add_core = BTN
-add_core = MAL
 trade_goods = fish
 life_rating = 31
+
+1836.1.1 = {
+	owner = SLW
+	controller = SLW
+	add_core = SLW
+	trade_goods = fish
+	life_rating = 31
+}
+

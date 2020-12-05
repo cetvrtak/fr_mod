@@ -1,6 +1,17 @@
 owner = MLK
 controller = MLK
-add_core = ARM
 add_core = MLK
+add_core = PER
 trade_goods = wool
 life_rating = 35
+
+1836.1.1 = {
+	owner = TCA
+	controller = TCA
+	add_core = ARM
+	add_core = AZB
+	add_core = TCA
+	trade_goods = wool
+	life_rating = 35
+}
+

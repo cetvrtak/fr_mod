@@ -1,4 +1,21 @@
 owner = DEN
 controller = DEN
+add_core = DEN
+add_core = SWE
 trade_goods = fish
 life_rating = 35
+
+1836.1.1 = {
+	owner = ASH
+	controller = ASH
+	add_core = ASH
+	trade_goods = fish
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ENG
+	controller = ENG
+	colonial = 2
+}
+

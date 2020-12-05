@@ -3,3 +3,18 @@ controller = ETH
 add_core = ETH
 trade_goods = cattle
 life_rating = 35
+
+1836.1.1 = {
+	owner = GON
+	controller = GON
+	add_core = ETH
+	add_core = GON
+	trade_goods = cattle
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = ETH
+	controller = ETH
+}
+

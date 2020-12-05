@@ -3,3 +3,13 @@ controller = RUS
 add_core = RUS
 trade_goods = cattle
 life_rating = 35
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = RUS
+	add_core = TAR
+	trade_goods = cattle
+	life_rating = 35
+}
+

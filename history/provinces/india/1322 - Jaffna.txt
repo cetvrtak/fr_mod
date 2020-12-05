@@ -1,7 +1,17 @@
 owner = NET
 controller = NET
-add_core = HND
+add_core = NET
 add_core = SRI
 trade_goods = coffee
 life_rating = 33
 colonial = 2
+
+1836.1.1 = {
+	owner = ENG
+	controller = ENG
+	add_core = SRI
+	trade_goods = coffee
+	life_rating = 33
+	colonial = 2
+}
+

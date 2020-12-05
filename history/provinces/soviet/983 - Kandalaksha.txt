@@ -1,6 +1,15 @@
 owner = RUS
 controller = RUS
-add_core = SCA
-add_core = SMI
+add_core = RUS
 trade_goods = sulphur
 life_rating = 10
+
+1836.1.1 = {
+	owner = RUS
+	controller = RUS
+	add_core = KRL
+	add_core = RUS
+	trade_goods = sulphur
+	life_rating = 10
+}
+
