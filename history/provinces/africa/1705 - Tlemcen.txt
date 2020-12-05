@@ -1,6 +1,4 @@
-owner = ALD
-controller = ALD
-add_core = ALD
-add_core = TLC
+owner = SPA
+controller = SPA
 trade_goods = fruit
 life_rating = 35

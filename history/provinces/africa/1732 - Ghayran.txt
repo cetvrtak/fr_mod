@@ -1,5 +1,5 @@
-owner = FZA
-controller = FZA
-add_core = FZA
+owner = GHD
+controller = GHD
+add_core = GHD
 trade_goods = fruit
 life_rating = 32

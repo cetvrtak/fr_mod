@@ -1,4 +1,5 @@
-owner = SEG
-controller = SEG
+owner = TMB
+controller = TMB
+add_core = TMB
 trade_goods = cattle
 life_rating = 5

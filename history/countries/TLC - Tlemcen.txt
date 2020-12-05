@@ -1,4 +1,4 @@
-capital = 1684
+capital = 1705
 primary_culture = berber
 culture = zzz_religion_sunni
 religion = sunni
