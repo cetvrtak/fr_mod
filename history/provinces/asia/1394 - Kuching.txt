@@ -16,5 +16,6 @@ life_rating = 31
 	owner = SWK
 	controller = SWK
 	add_core = SWK
+	remove_core = BRU
 }
 

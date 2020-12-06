@@ -20,5 +20,7 @@ colonial = 2
 
 1861.1.1 = {
 	add_core = ARG
+	remove_core = ARC
+	colonial = 0
 }
 

@@ -17,6 +17,8 @@ life_rating = 35
 	owner = ARG
 	controller = ARG
 	add_core = ARG
+	remove_core = ARC
+	remove_core = ENT
 	naval_base = 2
 	railroad = 1
 }

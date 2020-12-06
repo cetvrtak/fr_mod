@@ -27,6 +27,7 @@ state_building = {
 }
 
 1861.1.1 = {
+	remove_core = LOM
 	railroad = 3
 }
 

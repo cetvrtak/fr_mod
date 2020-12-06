@@ -18,5 +18,7 @@ life_rating = 31
 	owner = ARG
 	controller = ARG
 	add_core = ARG
+	remove_core = ARC
+	remove_core = BOL
 }
 

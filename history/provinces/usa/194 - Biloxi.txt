@@ -14,6 +14,14 @@ life_rating = 35
 }
 
 1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
 	railroad = 3
+	state_building = {
+        level = 1
+        building = fabric_factory
+        upgrade = yes
+    }
 }
 

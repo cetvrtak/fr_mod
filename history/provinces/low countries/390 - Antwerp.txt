@@ -22,5 +22,7 @@ railroad = 1
 }
 
 1861.1.1 = {
+	remove_core = NET
+	railroad = 3
 }
 

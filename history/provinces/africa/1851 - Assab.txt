@@ -21,5 +21,7 @@ terrain = desert
 1861.1.1 = {
 	owner = ETH
 	controller = ETH
+	remove_core = AWS
+	remove_core = TIG
 }
 

@@ -16,5 +16,7 @@ terrain = new_world_semidesert
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = MEX
+	colonial = 0
 }
 

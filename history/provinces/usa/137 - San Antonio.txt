@@ -21,5 +21,6 @@ fort = 1
 	controller = CSA
 	add_core = CSA
 	add_core = USA
+	remove_core = MEX
 }
 

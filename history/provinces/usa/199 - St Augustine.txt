@@ -21,6 +21,7 @@ is_slave = yes
 	owner = CSA
 	controller = CSA
 	add_core = CSA
+	colonial = 0
 	railroad = 3
 }
 

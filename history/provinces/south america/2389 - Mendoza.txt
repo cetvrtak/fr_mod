@@ -19,5 +19,6 @@ terrain = dryhills
 	owner = ARG
 	controller = ARG
 	add_core = ARG
+	remove_core = ARC
 }
 

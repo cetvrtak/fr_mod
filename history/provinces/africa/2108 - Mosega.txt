@@ -18,6 +18,7 @@ terrain = savanna
 	controller = TRN
 	add_core = SAF
 	add_core = TRN
+	remove_core = MAT
 	life_rating = 35
 }
 

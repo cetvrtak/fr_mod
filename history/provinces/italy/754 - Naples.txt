@@ -39,6 +39,7 @@ state_building = {
 1861.1.1 = {
 	owner = ITA
 	controller = ITA
+	remove_core = SIC
 	naval_base = 2
 	railroad = 2
 	state_building = {

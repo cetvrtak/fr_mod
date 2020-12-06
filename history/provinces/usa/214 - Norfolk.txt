@@ -15,6 +15,9 @@ naval_base = 2
 }
 
 1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
 	naval_base = 3
 	railroad = 3
 }

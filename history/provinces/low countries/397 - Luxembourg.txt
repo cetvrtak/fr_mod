@@ -21,5 +21,7 @@ terrain = mining_district
 1861.1.1 = {
 	owner = LUX
 	controller = LUX
+	remove_core = NET
+	railroad = 3
 }
 

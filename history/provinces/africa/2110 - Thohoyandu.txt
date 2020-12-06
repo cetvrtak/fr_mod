@@ -17,6 +17,7 @@ terrain = mountain
 	owner = TRN
 	controller = TRN
 	add_core = SAF
+	remove_core = MAT
 	life_rating = 35
 }
 

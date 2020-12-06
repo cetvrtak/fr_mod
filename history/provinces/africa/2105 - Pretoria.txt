@@ -17,6 +17,7 @@ terrain = mining_district
 	owner = TRN
 	controller = TRN
 	add_core = SAF
+	remove_core = BSH
 	life_rating = 35
 }
 

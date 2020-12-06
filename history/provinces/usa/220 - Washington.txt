@@ -17,6 +17,7 @@ fort = 1
 }
 
 1861.1.1 = {
+	add_core = CSA
 	railroad = 3
 }
 

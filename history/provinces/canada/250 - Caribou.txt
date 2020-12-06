@@ -20,5 +20,8 @@ colonial = 2
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = MRU
+	remove_core = NEN
+	colonial = 0
 }
 
