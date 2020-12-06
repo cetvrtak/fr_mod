@@ -15,6 +15,7 @@ state_building = {
 	controller = AUS
 	add_core = ITA
 	add_core = LOM
+	remove_core = AUS
 	trade_goods = cotton
 	life_rating = 45
 	fort = 1

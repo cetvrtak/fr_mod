@@ -11,6 +11,7 @@ colonial = 2
 	controller = MEX
 	add_core = MEX
 	add_core = TEX
+	remove_core = MSC
 	trade_goods = cotton
 	life_rating = 35
 	terrain = new_world_semidesert

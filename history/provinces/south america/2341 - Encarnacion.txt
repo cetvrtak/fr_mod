@@ -9,6 +9,8 @@ life_rating = 31
 	owner = PRG
 	controller = PRG
 	add_core = PRG
+	remove_core = ENT
+	remove_core = GRI
 	trade_goods = timber
 	life_rating = 31
 }

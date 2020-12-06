@@ -9,6 +9,7 @@ life_rating = 35
 	owner = MOR
 	controller = MOR
 	add_core = MOR
+	remove_core = SPA
 	trade_goods = fish
 	life_rating = 35
 }

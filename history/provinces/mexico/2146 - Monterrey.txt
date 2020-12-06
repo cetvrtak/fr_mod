@@ -10,6 +10,7 @@ terrain = urban
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = ENL
 	trade_goods = grain
 	life_rating = 35
 	terrain = urban

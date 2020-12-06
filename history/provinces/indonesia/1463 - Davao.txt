@@ -9,6 +9,7 @@ colonial = 2
 	owner = SPA
 	controller = SPA
 	add_core = PHL
+	remove_core = MGD
 	trade_goods = iron
 	life_rating = 35
 	colonial = 2

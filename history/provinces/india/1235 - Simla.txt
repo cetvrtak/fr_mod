@@ -12,6 +12,7 @@ colonial = 2
 	add_core = MUG
 	add_core = PNJ
 	add_core = SHI
+	remove_core = KGR
 	trade_goods = wool
 	life_rating = 32
 	colonial = 2

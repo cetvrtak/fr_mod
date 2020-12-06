@@ -6,6 +6,9 @@ life_rating = 15
 terrain = savanna
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = ENT
 	trade_goods = fish
 	life_rating = 15
 	terrain = savanna

@@ -8,6 +8,7 @@ life_rating = 31
 	owner = CLM
 	controller = CLM
 	add_core = CLM
+	remove_core = ECU
 	trade_goods = timber
 	life_rating = 31
 }

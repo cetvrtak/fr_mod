@@ -9,6 +9,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = SAF
+	remove_core = NET
 	trade_goods = fruit
 	life_rating = 35
 	colonial = 2

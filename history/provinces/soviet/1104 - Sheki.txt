@@ -9,6 +9,7 @@ life_rating = 35
 	controller = TCA
 	add_core = AZB
 	add_core = TCA
+	remove_core = GZK
 	trade_goods = grain
 	life_rating = 35
 }

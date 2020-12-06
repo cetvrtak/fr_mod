@@ -10,6 +10,7 @@ terrain = plains
 	owner = TRI
 	controller = TUR
 	add_core = TRI
+	remove_core = TUN
 	trade_goods = fruit
 	life_rating = 35
 	terrain = plains

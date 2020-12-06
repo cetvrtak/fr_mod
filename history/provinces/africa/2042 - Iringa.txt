@@ -3,6 +3,8 @@ life_rating = 10
 terrain = montane_forest
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	trade_goods = fruit
 	life_rating = 10
 	terrain = montane_forest

@@ -10,6 +10,7 @@ life_rating = 35
 	controller = TCA
 	add_core = ARM
 	add_core = TCA
+	remove_core = PER
 	trade_goods = wool
 	life_rating = 35
 }

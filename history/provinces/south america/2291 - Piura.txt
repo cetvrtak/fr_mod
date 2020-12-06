@@ -9,6 +9,7 @@ terrain = new_world_semidesert
 	owner = PEU
 	controller = PEU
 	add_core = PEU
+	remove_core = BOL
 	trade_goods = fish
 	life_rating = 32
 	terrain = new_world_semidesert

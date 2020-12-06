@@ -8,6 +8,7 @@ life_rating = 10
 	owner = ALD
 	controller = ALD
 	add_core = ALD
+	remove_core = TGT
 	trade_goods = wool
 	life_rating = 10
 }

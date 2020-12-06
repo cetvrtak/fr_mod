@@ -11,6 +11,7 @@ terrain = semidesert
 	controller = MOS
 	add_core = MAS
 	add_core = MOS
+	remove_core = YAT
 	trade_goods = cattle
 	life_rating = 32
 	terrain = semidesert

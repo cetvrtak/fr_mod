@@ -10,6 +10,7 @@ terrain = semidesert
 	controller = PER
 	add_core = IRQ
 	add_core = PER
+	remove_core = MSY
 	trade_goods = grain
 	life_rating = 35
 	terrain = semidesert

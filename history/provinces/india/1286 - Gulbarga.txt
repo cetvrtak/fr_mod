@@ -10,6 +10,7 @@ life_rating = 32
 	add_core = HND
 	add_core = HYD
 	add_core = MAH
+	remove_core = DEC
 	trade_goods = cotton
 	life_rating = 32
 }

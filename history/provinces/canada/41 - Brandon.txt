@@ -10,6 +10,7 @@ colonial = 2
 	controller = ENG
 	add_core = MTC
 	add_core = RPL
+	remove_core = QUE
 	trade_goods = grain
 	life_rating = 31
 	colonial = 2

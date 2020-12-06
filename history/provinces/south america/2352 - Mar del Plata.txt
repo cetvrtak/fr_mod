@@ -10,6 +10,7 @@ terrain = farmlands
 	controller = ARC
 	add_core = ARC
 	add_core = SBA
+	remove_core = ENT
 	trade_goods = cattle
 	life_rating = 35
 	terrain = farmlands

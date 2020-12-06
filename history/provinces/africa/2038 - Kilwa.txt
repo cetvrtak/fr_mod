@@ -10,6 +10,8 @@ life_rating = 35
 	controller = OMA
 	add_core = OMA
 	add_core = ZAN
+	remove_core = MBA
+	remove_core = SWA
 	trade_goods = grain
 	life_rating = 35
 }

@@ -10,6 +10,8 @@ life_rating = 32
 	controller = QNG
 	add_core = CHI
 	add_core = GNG
+	remove_core = QNG
+	remove_core = ZHO
 	trade_goods = fish
 	life_rating = 32
 }

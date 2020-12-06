@@ -10,6 +10,7 @@ terrain = montane_tundra
 	owner = NOR
 	controller = NOR
 	add_core = NOR
+	remove_core = DEN
 	trade_goods = timber
 	life_rating = 20
 	terrain = montane_tundra

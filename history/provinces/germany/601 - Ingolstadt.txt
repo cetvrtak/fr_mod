@@ -10,6 +10,7 @@ life_rating = 40
 	controller = BAV
 	add_core = BAV
 	add_core = GER
+	remove_core = HRE
 	trade_goods = grain
 	life_rating = 40
 }

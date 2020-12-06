@@ -10,6 +10,7 @@ terrain = farmlands
 	owner = EGY
 	controller = EGY
 	add_core = EGY
+	remove_core = TUR
 	trade_goods = grain
 	life_rating = 40
 	terrain = farmlands

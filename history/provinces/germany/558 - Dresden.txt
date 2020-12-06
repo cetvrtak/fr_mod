@@ -15,6 +15,7 @@ state_building = {
 	controller = SAX
 	add_core = GER
 	add_core = SAX
+	remove_core = HRE
 	trade_goods = coal
 	life_rating = 40
 	state_building = {

@@ -11,6 +11,8 @@ life_rating = 35
 	add_core = CRO
 	add_core = DLM
 	add_core = MON
+	remove_core = SER
+	remove_core = VEN
 	trade_goods = fish
 	life_rating = 35
 }

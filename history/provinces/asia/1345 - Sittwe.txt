@@ -9,6 +9,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = BUR
+	remove_core = ARK
 	trade_goods = grain
 	life_rating = 35
 	colonial = 2

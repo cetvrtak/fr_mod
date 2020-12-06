@@ -10,6 +10,8 @@ life_rating = 32
 	controller = BHO
 	add_core = BHO
 	add_core = HND
+	remove_core = MAW
+	remove_core = MRT
 	trade_goods = dye
 	life_rating = 32
 }

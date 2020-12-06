@@ -10,6 +10,7 @@ life_rating = 32
 	add_core = HND
 	add_core = JAI
 	add_core = MUG
+	remove_core = MWT
 	trade_goods = timber
 	life_rating = 32
 }

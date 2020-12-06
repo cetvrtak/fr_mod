@@ -9,6 +9,7 @@ terrain = savanna
 	owner = ARC
 	controller = ARC
 	add_core = ARC
+	remove_core = ENT
 	trade_goods = timber
 	life_rating = 35
 	terrain = savanna

@@ -8,6 +8,7 @@ life_rating = 35
 	owner = DAG
 	controller = DAG
 	add_core = DAG
+	remove_core = GZK
 	trade_goods = fruit
 	life_rating = 35
 }

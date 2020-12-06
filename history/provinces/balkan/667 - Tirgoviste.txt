@@ -10,6 +10,7 @@ life_rating = 35
 	controller = WAL
 	add_core = ROM
 	add_core = WAL
+	remove_core = TUR
 	trade_goods = wool
 	life_rating = 35
 }

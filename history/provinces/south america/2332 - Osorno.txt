@@ -10,6 +10,7 @@ terrain = montane_forest
 	controller = CHL
 	add_core = CHL
 	add_core = PTG
+	remove_core = ENT
 	trade_goods = fish
 	life_rating = 35
 	terrain = montane_forest

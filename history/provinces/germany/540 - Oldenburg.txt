@@ -10,6 +10,7 @@ life_rating = 40
 	controller = OLD
 	add_core = GER
 	add_core = OLD
+	remove_core = HRE
 	trade_goods = fish
 	life_rating = 40
 }

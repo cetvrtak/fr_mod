@@ -9,6 +9,7 @@ terrain = montane_forest
 	owner = MAD
 	controller = MAD
 	add_core = MAD
+	remove_core = MIR
 	trade_goods = wool
 	life_rating = 35
 	terrain = montane_forest

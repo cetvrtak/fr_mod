@@ -5,6 +5,9 @@ trade_goods = grain
 life_rating = 15
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = ENT
 	trade_goods = grain
 	life_rating = 15
 }

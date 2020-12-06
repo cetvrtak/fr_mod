@@ -11,6 +11,7 @@ terrain = farmlands
 	controller = RUS
 	add_core = RUS
 	add_core = UKR
+	remove_core = KIE
 	trade_goods = grain
 	life_rating = 40
 	terrain = farmlands

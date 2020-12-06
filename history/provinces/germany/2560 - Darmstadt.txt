@@ -10,6 +10,8 @@ life_rating = 40
 	controller = HES
 	add_core = GER
 	add_core = HES
+	remove_core = HRE
+	remove_core = MAI
 	trade_goods = fruit
 	life_rating = 40
 }

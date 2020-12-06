@@ -11,6 +11,8 @@ life_rating = 32
 	controller = PNJ
 	add_core = HND
 	add_core = PNJ
+	remove_core = AFG
+	remove_core = GWA
 	trade_goods = wool
 	life_rating = 32
 }

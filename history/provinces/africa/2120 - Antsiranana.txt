@@ -9,6 +9,7 @@ terrain = jungle
 	owner = MAD
 	controller = MAD
 	add_core = MAD
+	remove_core = BTS
 	trade_goods = fish
 	life_rating = 35
 	terrain = jungle

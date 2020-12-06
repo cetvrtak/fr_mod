@@ -8,6 +8,7 @@ life_rating = 35
 	owner = HAL
 	controller = HAL
 	add_core = HAL
+	remove_core = NEJ
 	trade_goods = wool
 	life_rating = 35
 }

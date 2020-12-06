@@ -2,6 +2,8 @@ trade_goods = grain
 life_rating = 20
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = AST
 	trade_goods = grain
 	life_rating = 20

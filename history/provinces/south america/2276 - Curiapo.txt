@@ -8,6 +8,7 @@ life_rating = 33
 	owner = VNZ
 	controller = VNZ
 	add_core = VNZ
+	remove_core = ECU
 	trade_goods = fish
 	life_rating = 33
 }

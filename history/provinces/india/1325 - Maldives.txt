@@ -11,6 +11,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = MLD
+	remove_core = NET
 	trade_goods = fish
 	life_rating = 32
 	terrain = small_island

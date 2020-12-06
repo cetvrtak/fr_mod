@@ -8,6 +8,7 @@ life_rating = 35
 	owner = ARC
 	controller = ARC
 	add_core = ARC
+	remove_core = ENT
 	trade_goods = iron
 	life_rating = 35
 }

@@ -10,6 +10,7 @@ colonial = 2
 	owner = NET
 	controller = NET
 	add_core = SAK
+	remove_core = LAN
 	trade_goods = fish
 	life_rating = 31
 	terrain = small_island

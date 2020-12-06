@@ -10,6 +10,7 @@ life_rating = 35
 	add_core = ARO
 	add_core = BEN
 	add_core = OYO
+	remove_core = NUP
 	trade_goods = cattle
 	life_rating = 35
 }

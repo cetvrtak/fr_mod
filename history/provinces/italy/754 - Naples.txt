@@ -20,6 +20,7 @@ state_building = {
 	controller = SIC
 	add_core = ITA
 	add_core = SIC
+	remove_core = NAP
 	trade_goods = grain
 	life_rating = 40
 	naval_base = 1

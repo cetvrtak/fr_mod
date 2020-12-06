@@ -32,6 +32,7 @@ state_building = {
 	controller = PRU
 	add_core = GER
 	add_core = PRU
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 45
 	fort = 1

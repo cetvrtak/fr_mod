@@ -9,6 +9,7 @@ life_rating = 35
 	controller = KOK
 	add_core = BUK
 	add_core = KOK
+	remove_core = KAZ
 	trade_goods = grain
 	life_rating = 35
 }

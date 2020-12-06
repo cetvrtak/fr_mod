@@ -9,6 +9,7 @@ terrain = montane_forest
 	owner = VNZ
 	controller = VNZ
 	add_core = VNZ
+	remove_core = ECU
 	trade_goods = coffee
 	life_rating = 33
 	terrain = montane_forest

@@ -9,6 +9,7 @@ terrain = dryhills
 	owner = PER
 	controller = PER
 	add_core = PER
+	remove_core = KHO
 	trade_goods = coal
 	life_rating = 35
 	terrain = dryhills

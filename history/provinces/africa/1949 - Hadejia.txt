@@ -9,6 +9,7 @@ terrain = semidesert
 	owner = SOK
 	controller = SOK
 	add_core = SOK
+	remove_core = KBO
 	trade_goods = wool
 	life_rating = 35
 	terrain = semidesert

@@ -12,6 +12,9 @@ life_rating = 32
 	controller = QNG
 	add_core = CHI
 	add_core = QNG
+	remove_core = CSH
+	remove_core = JIN
+	remove_core = YAN
 	trade_goods = tea
 	life_rating = 32
 }

@@ -11,6 +11,8 @@ life_rating = 35
 	controller = SER
 	add_core = SER
 	add_core = SIE
+	remove_core = AUS
+	remove_core = TUR
 	trade_goods = grain
 	life_rating = 35
 }

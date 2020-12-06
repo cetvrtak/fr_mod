@@ -7,6 +7,10 @@ life_rating = 10
 terrain = semidesert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = KBO
+	remove_core = YAO
 	trade_goods = grain
 	life_rating = 10
 	terrain = semidesert

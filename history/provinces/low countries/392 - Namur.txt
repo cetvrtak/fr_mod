@@ -12,6 +12,9 @@ life_rating = 35
 	add_core = BEL
 	add_core = NET
 	add_core = WLL
+	remove_core = AUS
+	remove_core = HAT
+	remove_core = HRE
 	trade_goods = iron
 	life_rating = 35
 }

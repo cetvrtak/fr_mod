@@ -10,6 +10,7 @@ life_rating = 35
 	controller = RUS
 	add_core = BYE
 	add_core = RUS
+	remove_core = PLT
 	trade_goods = grain
 	life_rating = 35
 }

@@ -11,6 +11,7 @@ naval_base = 1
 	controller = ENG
 	add_core = ENG
 	add_core = SCO
+	remove_core = HSC
 	trade_goods = sulphur
 	life_rating = 35
 	naval_base = 1

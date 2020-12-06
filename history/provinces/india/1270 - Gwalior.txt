@@ -11,6 +11,8 @@ life_rating = 32
 	add_core = GWA
 	add_core = HND
 	add_core = MUG
+	remove_core = MAW
+	remove_core = MRT
 	trade_goods = dye
 	life_rating = 32
 }

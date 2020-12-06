@@ -9,6 +9,7 @@ life_rating = 31
 	controller = ARC
 	add_core = ARC
 	add_core = BOL
+	remove_core = ENT
 	trade_goods = timber
 	life_rating = 31
 }

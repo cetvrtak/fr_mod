@@ -10,6 +10,8 @@ life_rating = 35
 	owner = DAI
 	controller = DAI
 	add_core = DAI
+	remove_core = ANN
+	remove_core = CHA
 	trade_goods = fish
 	life_rating = 35
 }

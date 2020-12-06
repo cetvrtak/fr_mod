@@ -8,6 +8,7 @@ life_rating = 10
 	owner = EGY
 	controller = EGY
 	add_core = EGY
+	remove_core = TUR
 	trade_goods = grain
 	life_rating = 10
 }

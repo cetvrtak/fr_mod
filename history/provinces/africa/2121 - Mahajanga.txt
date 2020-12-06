@@ -9,6 +9,7 @@ terrain = savanna
 	owner = MAD
 	controller = MAD
 	add_core = MAD
+	remove_core = SKA
 	trade_goods = cattle
 	life_rating = 35
 	terrain = savanna

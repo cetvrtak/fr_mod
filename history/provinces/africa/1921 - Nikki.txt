@@ -8,6 +8,7 @@ life_rating = 32
 	owner = DAH
 	controller = DAH
 	add_core = DAH
+	remove_core = OYO
 	trade_goods = grain
 	life_rating = 32
 }

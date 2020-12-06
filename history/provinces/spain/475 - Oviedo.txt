@@ -9,6 +9,7 @@ life_rating = 35
 	owner = SPA
 	controller = SPA
 	add_core = SPA
+	remove_core = X03
 	trade_goods = coal
 	life_rating = 35
 }

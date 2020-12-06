@@ -9,6 +9,7 @@ terrain = montane_forest
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = CHE
 	trade_goods = coal
 	life_rating = 35
 	terrain = montane_forest

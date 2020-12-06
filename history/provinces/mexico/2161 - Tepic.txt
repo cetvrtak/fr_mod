@@ -9,6 +9,7 @@ life_rating = 35
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = XAL
 	trade_goods = fish
 	life_rating = 35
 }

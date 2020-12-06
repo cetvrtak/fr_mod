@@ -10,6 +10,7 @@ naval_base = 1
 1836.1.1 = {
 	owner = FRA
 	controller = FRA
+	remove_core = FRA
 	trade_goods = coffee
 	life_rating = 35
 	terrain = mountain

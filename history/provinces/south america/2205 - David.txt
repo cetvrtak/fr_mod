@@ -9,6 +9,7 @@ life_rating = 35
 	controller = CLM
 	add_core = CLM
 	add_core = PNM
+	remove_core = ECU
 	trade_goods = coffee
 	life_rating = 35
 }

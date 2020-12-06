@@ -11,6 +11,8 @@ life_rating = 40
 	add_core = GER
 	add_core = HOL
 	add_core = SWH
+	remove_core = HAN
+	remove_core = HRE
 	trade_goods = grain
 	life_rating = 40
 }

@@ -10,6 +10,7 @@ life_rating = 32
 	controller = JOD
 	add_core = HND
 	add_core = JOD
+	remove_core = MEW
 	trade_goods = fruit
 	life_rating = 32
 }

@@ -8,6 +8,7 @@ life_rating = 31
 	owner = MAL
 	controller = MAL
 	add_core = MAL
+	remove_core = TTE
 	trade_goods = fish
 	life_rating = 31
 }

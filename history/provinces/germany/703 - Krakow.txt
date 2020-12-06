@@ -9,6 +9,7 @@ life_rating = 40
 	controller = KRA
 	add_core = KRA
 	add_core = POL
+	remove_core = PLC
 	trade_goods = coal
 	life_rating = 40
 }

@@ -13,6 +13,10 @@ life_rating = 35
 	add_core = BDK
 	add_core = BUK
 	add_core = KOK
+	remove_core = OIR
+	remove_core = QNG
+	remove_core = YRK
+	remove_core = ZUN
 	trade_goods = cattle
 	life_rating = 35
 }

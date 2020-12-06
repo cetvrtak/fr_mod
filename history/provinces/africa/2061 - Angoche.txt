@@ -8,6 +8,7 @@ life_rating = 35
 	owner = AGC
 	controller = AGC
 	add_core = AGC
+	remove_core = SWA
 	trade_goods = fish
 	life_rating = 35
 }

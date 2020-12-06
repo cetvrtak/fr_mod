@@ -6,7 +6,11 @@ trade_goods = fruit
 life_rating = 10
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KUB
+	remove_core = LUN
+	remove_core = YKA
 	trade_goods = fruit
 	life_rating = 10
 }

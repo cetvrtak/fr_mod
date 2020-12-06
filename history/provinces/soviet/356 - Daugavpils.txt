@@ -12,6 +12,8 @@ life_rating = 35
 	add_core = LAT
 	add_core = RUS
 	add_core = UBD
+	remove_core = PLC
+	remove_core = X05
 	trade_goods = grain
 	life_rating = 35
 }

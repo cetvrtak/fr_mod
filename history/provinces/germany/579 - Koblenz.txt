@@ -11,6 +11,8 @@ life_rating = 40
 	add_core = GER
 	add_core = PRU
 	add_core = RHI
+	remove_core = HRE
+	remove_core = NAS
 	trade_goods = timber
 	life_rating = 40
 }

@@ -10,6 +10,7 @@ life_rating = 33
 	controller = BUR
 	add_core = BUR
 	add_core = KCH
+	remove_core = SHA
 	trade_goods = grain
 	life_rating = 33
 }

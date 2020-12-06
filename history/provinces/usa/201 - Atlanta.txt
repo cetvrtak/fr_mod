@@ -18,6 +18,7 @@ state_building = {
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = CRK
 	trade_goods = cotton
 	life_rating = 35
 	state_building = {

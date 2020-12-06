@@ -7,8 +7,11 @@ life_rating = 10
 terrain = semidesert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KDS
 	add_core = SYR
+	remove_core = TUR
 	trade_goods = grain
 	life_rating = 10
 	terrain = semidesert

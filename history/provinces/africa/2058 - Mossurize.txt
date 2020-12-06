@@ -10,6 +10,8 @@ life_rating = 35
 	controller = GAZ
 	add_core = GAZ
 	add_core = SHO
+	remove_core = POR
+	remove_core = ZIM
 	trade_goods = grain
 	life_rating = 35
 }

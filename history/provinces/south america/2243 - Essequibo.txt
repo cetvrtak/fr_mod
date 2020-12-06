@@ -11,6 +11,7 @@ colonial = 2
 	controller = ENG
 	add_core = GUY
 	add_core = VNZ
+	remove_core = NET
 	trade_goods = fruit
 	life_rating = 35
 	terrain = jungle

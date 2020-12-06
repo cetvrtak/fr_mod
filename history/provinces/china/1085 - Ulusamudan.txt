@@ -10,6 +10,8 @@ life_rating = 32
 	controller = MCK
 	add_core = CHI
 	add_core = MCK
+	remove_core = QNG
+	remove_core = SOL
 	trade_goods = grain
 	life_rating = 32
 }

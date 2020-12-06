@@ -9,6 +9,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = MRU
+	remove_core = QUE
 	trade_goods = coal
 	life_rating = 31
 	colonial = 2

@@ -10,6 +10,8 @@ life_rating = 32
 	controller = ORI
 	add_core = HND
 	add_core = ORI
+	remove_core = NAG
+	remove_core = SBP
 	trade_goods = grain
 	life_rating = 32
 }

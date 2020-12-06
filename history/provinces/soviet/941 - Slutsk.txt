@@ -9,6 +9,7 @@ life_rating = 15
 	controller = RUS
 	add_core = BYE
 	add_core = RUS
+	remove_core = PLC
 	trade_goods = cattle
 	life_rating = 15
 }

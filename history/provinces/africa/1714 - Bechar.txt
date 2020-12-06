@@ -8,6 +8,7 @@ life_rating = 33
 	owner = PBC
 	controller = PBC
 	add_core = BOL
+	remove_core = ENT
 	trade_goods = wool
 	life_rating = 33
 }

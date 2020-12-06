@@ -10,6 +10,7 @@ life_rating = 35
 	controller = BUR
 	add_core = BUR
 	add_core = KAR
+	remove_core = SHA
 	trade_goods = opium
 	life_rating = 35
 }

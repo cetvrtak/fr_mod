@@ -9,6 +9,7 @@ colonial = 2
 1836.1.1 = {
 	owner = FRA
 	controller = FRA
+	remove_core = DEN
 	trade_goods = cotton
 	life_rating = 31
 	terrain = new_world_small_island

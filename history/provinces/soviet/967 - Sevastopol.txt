@@ -13,6 +13,7 @@ fort = 1
 	add_core = CRI
 	add_core = RUS
 	add_core = UKR
+	remove_core = FEO
 	trade_goods = fish
 	life_rating = 35
 	naval_base = 2

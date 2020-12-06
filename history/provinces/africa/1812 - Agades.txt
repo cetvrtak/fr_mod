@@ -6,6 +6,9 @@ life_rating = 5
 colonial = 1
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = AYR
 	trade_goods = wool
 	life_rating = 5
 	colonial = 1

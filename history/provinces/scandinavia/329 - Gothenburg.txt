@@ -9,6 +9,7 @@ life_rating = 35
 	owner = SWE
 	controller = SWE
 	add_core = SWE
+	remove_core = DEN
 	trade_goods = timber
 	life_rating = 35
 }

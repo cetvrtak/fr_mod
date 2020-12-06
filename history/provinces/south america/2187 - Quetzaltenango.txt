@@ -10,6 +10,7 @@ life_rating = 33
 	add_core = GUA
 	add_core = LOS
 	add_core = UCA
+	remove_core = MEX
 	trade_goods = iron
 	life_rating = 33
 }

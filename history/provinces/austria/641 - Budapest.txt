@@ -15,6 +15,7 @@ state_building = {
 	owner = AUS
 	controller = AUS
 	add_core = HUN
+	remove_core = AUS
 	trade_goods = cattle
 	life_rating = 35
 	fort = 1

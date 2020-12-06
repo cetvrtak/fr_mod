@@ -13,6 +13,7 @@ fort = 1
 	owner = ENG
 	controller = ENG
 	add_core = ENG
+	remove_core = SPA
 	trade_goods = fish
 	life_rating = 35
 	terrain = urban

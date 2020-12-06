@@ -10,6 +10,8 @@ life_rating = 40
 	controller = WEI
 	add_core = GER
 	add_core = WEI
+	remove_core = HRE
+	remove_core = THU
 	trade_goods = sulphur
 	life_rating = 40
 }

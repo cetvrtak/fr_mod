@@ -15,6 +15,7 @@ state_building = {
 	owner = SWI
 	controller = SWI
 	add_core = SWI
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 32
 	fort = 1

@@ -8,6 +8,7 @@ life_rating = 35
 	owner = JAL
 	controller = JAL
 	add_core = JAL
+	remove_core = MLI
 	trade_goods = fruit
 	life_rating = 35
 }

@@ -8,6 +8,7 @@ life_rating = 33
 	owner = DAI
 	controller = DAI
 	add_core = DAI
+	remove_core = TOK
 	trade_goods = tropical_wood
 	life_rating = 33
 }

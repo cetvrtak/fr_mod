@@ -9,6 +9,7 @@ terrain = savanna
 	owner = GAZ
 	controller = GAZ
 	add_core = GAZ
+	remove_core = POR
 	trade_goods = cattle
 	life_rating = 35
 	terrain = savanna

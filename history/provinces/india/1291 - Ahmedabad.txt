@@ -11,6 +11,7 @@ colonial = 2
 	controller = ENG
 	add_core = BER
 	add_core = HND
+	remove_core = GUJ
 	trade_goods = tobacco
 	life_rating = 32
 	colonial = 2

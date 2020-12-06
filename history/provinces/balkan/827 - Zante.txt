@@ -11,6 +11,7 @@ terrain = small_island
 	controller = ION
 	add_core = GRE
 	add_core = ION
+	remove_core = VEN
 	trade_goods = fruit
 	life_rating = 34
 	terrain = small_island

@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = ARM
 	add_core = AZB
 	add_core = TCA
+	remove_core = PER
 	trade_goods = iron
 	life_rating = 35
 }

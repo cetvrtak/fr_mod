@@ -10,6 +10,7 @@ life_rating = 35
 	controller = RGS
 	add_core = BRZ
 	add_core = RGS
+	remove_core = GRI
 	trade_goods = cattle
 	life_rating = 35
 }

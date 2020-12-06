@@ -7,7 +7,9 @@ colonial = 2
 
 1836.1.1 = {
 	owner = USA
+	controller = ---
 	add_core = USA
+	remove_core = WIC
 	trade_goods = grain
 	life_rating = 35
 	colonial = 2

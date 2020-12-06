@@ -8,6 +8,7 @@ life_rating = 34
 	owner = DAI
 	controller = DAI
 	add_core = DAI
+	remove_core = CHA
 	trade_goods = wool
 	life_rating = 34
 }

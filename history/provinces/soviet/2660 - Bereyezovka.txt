@@ -6,6 +6,8 @@ life_rating = 15
 terrain = boreal
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KAM
 	add_core = RUS
 	trade_goods = grain

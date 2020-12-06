@@ -3,6 +3,8 @@ life_rating = 15
 terrain = coral_island
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = SMO
 	trade_goods = fish
 	life_rating = 15

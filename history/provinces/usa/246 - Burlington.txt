@@ -10,6 +10,7 @@ life_rating = 35
 	controller = USA
 	add_core = NEN
 	add_core = USA
+	remove_core = ABE
 	trade_goods = timber
 	life_rating = 35
 }

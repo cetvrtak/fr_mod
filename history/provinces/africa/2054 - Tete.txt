@@ -9,6 +9,7 @@ colonial = 2
 	owner = POR
 	controller = POR
 	add_core = SHO
+	remove_core = LDU
 	trade_goods = precious_goods
 	life_rating = 35
 	colonial = 2

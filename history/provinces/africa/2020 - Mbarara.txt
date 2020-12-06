@@ -5,7 +5,10 @@ trade_goods = cattle
 life_rating = 10
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = BUG
+	remove_core = BNY
 	trade_goods = cattle
 	life_rating = 10
 }

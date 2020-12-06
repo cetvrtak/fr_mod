@@ -9,6 +9,7 @@ terrain = semidesert
 	owner = MAD
 	controller = MAD
 	add_core = MAD
+	remove_core = MFY
 	trade_goods = grain
 	life_rating = 35
 	terrain = semidesert

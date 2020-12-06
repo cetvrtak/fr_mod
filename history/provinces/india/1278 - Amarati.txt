@@ -11,6 +11,8 @@ life_rating = 32
 	add_core = HND
 	add_core = HYD
 	add_core = NAG
+	remove_core = DEC
+	remove_core = MRT
 	trade_goods = cattle
 	life_rating = 32
 }

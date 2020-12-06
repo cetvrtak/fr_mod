@@ -10,6 +10,7 @@ life_rating = 35
 	controller = SPA
 	add_core = CAT
 	add_core = SPA
+	remove_core = ENG
 	trade_goods = cattle
 	life_rating = 35
 }

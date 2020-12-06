@@ -10,6 +10,7 @@ life_rating = 35
 	controller = AUS
 	add_core = AUS
 	add_core = HUN
+	remove_core = HRE
 	trade_goods = grain
 	life_rating = 35
 }

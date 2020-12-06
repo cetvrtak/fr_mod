@@ -10,6 +10,7 @@ life_rating = 35
 	add_core = LAT
 	add_core = RUS
 	add_core = UBD
+	remove_core = KUR
 	trade_goods = fish
 	life_rating = 35
 }

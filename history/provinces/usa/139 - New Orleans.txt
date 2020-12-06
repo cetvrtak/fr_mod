@@ -9,6 +9,7 @@ naval_base = 1
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = LOU
 	trade_goods = grain
 	life_rating = 35
 	naval_base = 1

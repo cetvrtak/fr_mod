@@ -10,6 +10,7 @@ colonial = 2
 	owner = POR
 	controller = POR
 	add_core = TMR
+	remove_core = POR
 	trade_goods = fish
 	life_rating = 35
 	terrain = hills

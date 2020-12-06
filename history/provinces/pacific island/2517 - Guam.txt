@@ -10,6 +10,7 @@ colonial = 2
 	owner = SPA
 	controller = SPA
 	add_core = PHL
+	remove_core = SPA
 	trade_goods = fish
 	life_rating = 25
 	terrain = small_island

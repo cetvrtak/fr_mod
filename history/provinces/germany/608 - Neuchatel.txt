@@ -10,6 +10,7 @@ life_rating = 32
 	add_core = NEH
 	add_core = PRU
 	add_core = SWI
+	remove_core = HRE
 	trade_goods = coal
 	life_rating = 32
 }

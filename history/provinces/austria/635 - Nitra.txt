@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = CZH
 	add_core = HUN
 	add_core = SLV
+	remove_core = AUS
 	trade_goods = grain
 	life_rating = 35
 }

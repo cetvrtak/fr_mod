@@ -9,6 +9,7 @@ life_rating = 35
 	owner = NOR
 	controller = NOR
 	add_core = NOR
+	remove_core = DEN
 	trade_goods = fish
 	life_rating = 35
 }

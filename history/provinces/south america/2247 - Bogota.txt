@@ -8,6 +8,7 @@ life_rating = 39
 	owner = CLM
 	controller = CLM
 	add_core = CLM
+	remove_core = ECU
 	trade_goods = cattle
 	life_rating = 39
 }

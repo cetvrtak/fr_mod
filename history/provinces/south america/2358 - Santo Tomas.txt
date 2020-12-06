@@ -9,6 +9,7 @@ life_rating = 34
 	controller = CRT
 	add_core = ARC
 	add_core = CRT
+	remove_core = ENT
 	trade_goods = tobacco
 	life_rating = 34
 }

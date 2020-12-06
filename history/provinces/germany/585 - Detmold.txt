@@ -10,6 +10,8 @@ life_rating = 40
 	controller = LIP
 	add_core = GER
 	add_core = LIP
+	remove_core = HRE
+	remove_core = PRU
 	trade_goods = coal
 	life_rating = 40
 }

@@ -10,6 +10,7 @@ life_rating = 34
 	add_core = EGY
 	add_core = SHK
 	add_core = SUD
+	remove_core = NUB
 	trade_goods = grain
 	life_rating = 34
 }

@@ -12,6 +12,7 @@ life_rating = 35
 	add_core = KDS
 	add_core = MKN
 	add_core = PER
+	remove_core = MGR
 	trade_goods = wool
 	life_rating = 35
 }

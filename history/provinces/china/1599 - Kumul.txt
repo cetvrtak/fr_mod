@@ -12,6 +12,10 @@ life_rating = 32
 	controller = KML
 	add_core = CHI
 	add_core = KML
+	remove_core = OIR
+	remove_core = QNG
+	remove_core = YRK
+	remove_core = ZUN
 	trade_goods = grain
 	life_rating = 32
 }

@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = ARM
 	add_core = KDS
 	add_core = TUR
+	remove_core = GEO
 	trade_goods = wool
 	life_rating = 35
 }

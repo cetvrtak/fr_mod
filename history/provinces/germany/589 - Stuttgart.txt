@@ -11,6 +11,8 @@ life_rating = 40
 	controller = WUR
 	add_core = GER
 	add_core = WUR
+	remove_core = AUS
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 40
 }

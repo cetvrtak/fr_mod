@@ -9,6 +9,7 @@ life_rating = 30
 	controller = TIB
 	add_core = KCH
 	add_core = TIB
+	remove_core = ASM
 	trade_goods = cattle
 	life_rating = 30
 }

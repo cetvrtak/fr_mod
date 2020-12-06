@@ -10,6 +10,8 @@ life_rating = 35
 	controller = AUS
 	add_core = GLM
 	add_core = POL
+	remove_core = AUS
+	remove_core = PLC
 	trade_goods = grain
 	life_rating = 35
 }

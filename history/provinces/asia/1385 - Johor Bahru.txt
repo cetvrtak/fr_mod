@@ -9,6 +9,7 @@ life_rating = 37
 	owner = JOH
 	controller = JOH
 	add_core = JOH
+	remove_core = MLC
 	trade_goods = tropical_wood
 	life_rating = 37
 }

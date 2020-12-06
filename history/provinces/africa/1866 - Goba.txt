@@ -5,6 +5,8 @@ life_rating = 10
 terrain = dryhills
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = ETH
 	add_core = SHW
 	trade_goods = cattle

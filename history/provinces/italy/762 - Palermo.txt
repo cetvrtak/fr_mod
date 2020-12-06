@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = ITA
 	add_core = SIC
 	add_core = SYC
+	remove_core = NAP
 	trade_goods = grain
 	life_rating = 35
 }

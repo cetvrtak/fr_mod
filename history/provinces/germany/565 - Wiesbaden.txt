@@ -10,6 +10,7 @@ life_rating = 40
 	controller = NAS
 	add_core = GER
 	add_core = NAS
+	remove_core = HRE
 	trade_goods = sulphur
 	life_rating = 40
 }

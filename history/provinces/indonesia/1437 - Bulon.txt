@@ -8,6 +8,7 @@ life_rating = 31
 	owner = SLW
 	controller = SLW
 	add_core = SLW
+	remove_core = BTN
 	trade_goods = fish
 	life_rating = 31
 }

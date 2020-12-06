@@ -9,6 +9,7 @@ life_rating = 35
 	owner = BUR
 	controller = BUR
 	add_core = BUR
+	remove_core = PEG
 	trade_goods = fish
 	life_rating = 35
 }

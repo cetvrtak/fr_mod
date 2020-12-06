@@ -6,7 +6,10 @@ life_rating = 10
 terrain = savanna
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = BUG
+	remove_core = BNY
 	trade_goods = fruit
 	life_rating = 10
 	terrain = savanna

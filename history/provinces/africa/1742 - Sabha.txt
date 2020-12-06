@@ -2,6 +2,8 @@ trade_goods = wool
 life_rating = 5
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = TRI
 	trade_goods = wool
 	life_rating = 5

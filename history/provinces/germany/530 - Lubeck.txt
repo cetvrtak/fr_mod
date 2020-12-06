@@ -11,6 +11,7 @@ naval_base = 1
 	controller = LUB
 	add_core = GER
 	add_core = LUB
+	remove_core = HRE
 	trade_goods = fish
 	life_rating = 40
 	naval_base = 1

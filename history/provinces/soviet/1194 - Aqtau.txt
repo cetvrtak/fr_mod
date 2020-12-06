@@ -6,7 +6,10 @@ life_rating = 25
 terrain = semidesert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KAZ
+	remove_core = KHI
 	trade_goods = fish
 	life_rating = 25
 	terrain = semidesert

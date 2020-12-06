@@ -10,6 +10,7 @@ naval_base = 1
 	owner = TUN
 	controller = TUN
 	add_core = TUN
+	remove_core = ALD
 	trade_goods = grain
 	life_rating = 35
 	naval_base = 1

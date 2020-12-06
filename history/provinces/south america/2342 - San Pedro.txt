@@ -8,6 +8,7 @@ life_rating = 31
 	owner = PRG
 	controller = PRG
 	add_core = PRG
+	remove_core = ENT
 	trade_goods = wool
 	life_rating = 31
 }

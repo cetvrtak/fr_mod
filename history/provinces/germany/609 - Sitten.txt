@@ -8,6 +8,7 @@ life_rating = 31
 	owner = SWI
 	controller = SWI
 	add_core = SWI
+	remove_core = HRE
 	trade_goods = coal
 	life_rating = 31
 }

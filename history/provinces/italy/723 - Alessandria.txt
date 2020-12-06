@@ -10,6 +10,7 @@ life_rating = 35
 	controller = SAR
 	add_core = ITA
 	add_core = SAR
+	remove_core = LOM
 	trade_goods = fruit
 	life_rating = 35
 }

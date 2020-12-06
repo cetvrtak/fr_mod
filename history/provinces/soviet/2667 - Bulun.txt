@@ -3,6 +3,8 @@ life_rating = 10
 terrain = montane_tundra
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = RUS
 	add_core = YAK
 	trade_goods = timber

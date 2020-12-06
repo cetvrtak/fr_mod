@@ -10,6 +10,7 @@ terrain = plains
 	owner = EGY
 	controller = EGY
 	add_core = EGY
+	remove_core = TUR
 	trade_goods = cotton
 	life_rating = 35
 	terrain = plains

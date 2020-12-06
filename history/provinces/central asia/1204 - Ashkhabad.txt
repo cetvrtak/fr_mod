@@ -10,6 +10,8 @@ life_rating = 35
 	controller = PER
 	add_core = PER
 	add_core = TKM
+	remove_core = KHO
+	remove_core = TAB
 	trade_goods = fruit
 	life_rating = 35
 }

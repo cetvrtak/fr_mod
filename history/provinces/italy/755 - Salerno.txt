@@ -9,6 +9,7 @@ life_rating = 35
 	controller = SIC
 	add_core = ITA
 	add_core = SIC
+	remove_core = NAP
 	trade_goods = fruit
 	life_rating = 35
 }

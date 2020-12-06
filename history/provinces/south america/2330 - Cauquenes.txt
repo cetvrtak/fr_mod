@@ -8,6 +8,7 @@ life_rating = 35
 	owner = CHL
 	controller = CHL
 	add_core = CHL
+	remove_core = ENT
 	trade_goods = iron
 	life_rating = 35
 }

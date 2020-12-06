@@ -9,6 +9,7 @@ colonial = 2
 	owner = FRA
 	controller = FRA
 	add_core = ALD
+	remove_core = KBA
 	trade_goods = grain
 	life_rating = 35
 	colonial = 2

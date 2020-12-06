@@ -20,6 +20,7 @@ state_building = {
 	controller = HAN
 	add_core = GER
 	add_core = HAN
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 40
 	state_building = {

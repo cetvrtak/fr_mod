@@ -11,6 +11,7 @@ terrain = savanna
 	controller = OMA
 	add_core = OMA
 	add_core = ZAN
+	remove_core = SWA
 	trade_goods = fish
 	life_rating = 35
 	terrain = savanna

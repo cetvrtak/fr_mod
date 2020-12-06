@@ -8,6 +8,7 @@ life_rating = 35
 	owner = KNG
 	controller = KNG
 	add_core = KNG
+	remove_core = ASH
 	trade_goods = fruit
 	life_rating = 35
 }

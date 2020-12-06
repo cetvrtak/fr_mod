@@ -9,6 +9,7 @@ life_rating = 10
 	owner = TUN
 	controller = TUN
 	add_core = TUN
+	remove_core = ALD
 	trade_goods = wool
 	life_rating = 10
 }

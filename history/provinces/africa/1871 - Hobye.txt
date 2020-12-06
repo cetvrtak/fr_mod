@@ -11,6 +11,7 @@ terrain = semidesert
 	add_core = GEL
 	add_core = MAJ
 	add_core = WRL
+	remove_core = OMA
 	trade_goods = grain
 	life_rating = 31
 	terrain = semidesert

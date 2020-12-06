@@ -10,6 +10,8 @@ life_rating = 32
 	controller = IND
 	add_core = HND
 	add_core = IND
+	remove_core = GWA
+	remove_core = MAW
 	trade_goods = opium
 	life_rating = 32
 }

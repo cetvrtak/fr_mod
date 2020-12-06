@@ -10,6 +10,8 @@ life_rating = 32
 	controller = MAH
 	add_core = HND
 	add_core = MAH
+	remove_core = BIJ
+	remove_core = MRT
 	trade_goods = fruit
 	life_rating = 32
 }

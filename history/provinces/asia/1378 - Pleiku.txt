@@ -9,6 +9,7 @@ life_rating = 32
 	owner = DAI
 	controller = DAI
 	add_core = DAI
+	remove_core = ANN
 	trade_goods = fruit
 	life_rating = 32
 }

@@ -10,6 +10,7 @@ life_rating = 35
 	controller = TUR
 	add_core = GEO
 	add_core = TUR
+	remove_core = IME
 	trade_goods = fish
 	life_rating = 35
 }

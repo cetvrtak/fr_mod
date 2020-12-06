@@ -12,6 +12,9 @@ life_rating = 40
 	add_core = GER
 	add_core = PRU
 	add_core = WES
+	remove_core = HRE
+	remove_core = KOL
+	remove_core = MUN
 	trade_goods = cattle
 	life_rating = 40
 }

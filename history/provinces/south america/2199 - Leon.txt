@@ -8,6 +8,7 @@ life_rating = 35
 	owner = UCA
 	controller = UCA
 	add_core = NIC
+	remove_core = MEX
 	trade_goods = coffee
 	life_rating = 35
 }

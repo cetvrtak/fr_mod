@@ -10,6 +10,7 @@ life_rating = 35
 	controller = ENG
 	add_core = ENG
 	add_core = SCO
+	remove_core = HSC
 	trade_goods = coal
 	life_rating = 35
 }

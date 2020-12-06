@@ -11,6 +11,8 @@ life_rating = 35
 	controller = TUR
 	add_core = IRQ
 	add_core = TUR
+	remove_core = MSY
+	remove_core = X02
 	trade_goods = grain
 	life_rating = 35
 }

@@ -9,6 +9,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = NIC
+	remove_core = ENG
 	trade_goods = fruit
 	life_rating = 33
 	colonial = 2

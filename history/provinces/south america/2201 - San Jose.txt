@@ -8,6 +8,7 @@ life_rating = 39
 	owner = UCA
 	controller = UCA
 	add_core = COS
+	remove_core = ECU
 	trade_goods = fruit
 	life_rating = 39
 }

@@ -9,6 +9,7 @@ life_rating = 35
 	owner = TKG
 	controller = TKG
 	add_core = TKG
+	remove_core = RUS
 	trade_goods = fish
 	life_rating = 35
 }

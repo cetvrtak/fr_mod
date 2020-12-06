@@ -2,6 +2,8 @@ trade_goods = fish
 life_rating = 10
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	trade_goods = fish
 	life_rating = 10
 	colonial = 1

@@ -8,6 +8,7 @@ life_rating = 31
 	owner = KLM
 	controller = KLM
 	add_core = KLM
+	remove_core = LAN
 	trade_goods = wool
 	life_rating = 31
 }

@@ -11,6 +11,9 @@ life_rating = 35
 	controller = MCK
 	add_core = CHI
 	add_core = MCK
+	remove_core = KRC
+	remove_core = QNG
+	remove_core = SOL
 	trade_goods = cattle
 	life_rating = 35
 }

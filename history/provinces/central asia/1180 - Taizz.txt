@@ -8,6 +8,7 @@ life_rating = 35
 	owner = NYE
 	controller = NYE
 	add_core = NYE
+	remove_core = RAS
 	trade_goods = coffee
 	life_rating = 35
 }

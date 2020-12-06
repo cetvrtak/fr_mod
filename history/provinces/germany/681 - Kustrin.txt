@@ -13,6 +13,10 @@ life_rating = 40
 	controller = PRU
 	add_core = GER
 	add_core = PRU
+	remove_core = AUS
+	remove_core = HRE
+	remove_core = SAX
+	remove_core = X06
 	trade_goods = grain
 	life_rating = 40
 }

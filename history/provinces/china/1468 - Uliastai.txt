@@ -11,6 +11,9 @@ life_rating = 32
 	controller = MGL
 	add_core = CHI
 	add_core = MGL
+	remove_core = KHA
+	remove_core = KLK
+	remove_core = QNG
 	trade_goods = grain
 	life_rating = 32
 }

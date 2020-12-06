@@ -9,6 +9,7 @@ terrain = desert
 	owner = BUK
 	controller = BUK
 	add_core = BUK
+	remove_core = KAZ
 	trade_goods = fruit
 	life_rating = 15
 	terrain = desert

@@ -10,6 +10,8 @@ life_rating = 31
 	owner = FRA
 	controller = FRA
 	add_core = FRA
+	remove_core = PAP
+	remove_core = PRO
 	trade_goods = cattle
 	life_rating = 31
 }

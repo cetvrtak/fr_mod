@@ -11,6 +11,7 @@ naval_base = 1
 	owner = ENG
 	controller = ENG
 	add_core = MLT
+	remove_core = KNI
 	trade_goods = fish
 	life_rating = 32
 	terrain = small_island

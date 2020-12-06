@@ -11,6 +11,8 @@ life_rating = 35
 	add_core = GER
 	add_core = PRU
 	add_core = RHI
+	remove_core = HRE
+	remove_core = LIG
 	trade_goods = coal
 	life_rating = 35
 }

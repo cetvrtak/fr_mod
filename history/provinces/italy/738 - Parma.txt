@@ -10,6 +10,7 @@ life_rating = 35
 	controller = PAR
 	add_core = ITA
 	add_core = PAR
+	remove_core = PAP
 	trade_goods = iron
 	life_rating = 35
 }

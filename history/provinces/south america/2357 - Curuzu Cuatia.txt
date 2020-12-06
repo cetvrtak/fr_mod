@@ -9,6 +9,7 @@ life_rating = 35
 	controller = CRT
 	add_core = ARC
 	add_core = CRT
+	remove_core = ENT
 	trade_goods = tropical_wood
 	life_rating = 35
 }

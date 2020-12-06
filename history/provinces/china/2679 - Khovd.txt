@@ -13,6 +13,11 @@ life_rating = 32
 	controller = MGL
 	add_core = CHI
 	add_core = MGL
+	remove_core = KHA
+	remove_core = KLK
+	remove_core = OIR
+	remove_core = QNG
+	remove_core = ZUN
 	trade_goods = cotton
 	life_rating = 32
 }

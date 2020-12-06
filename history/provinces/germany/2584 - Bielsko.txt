@@ -12,6 +12,7 @@ life_rating = 40
 	add_core = BOH
 	add_core = CZH
 	add_core = SLS
+	remove_core = SLV
 	trade_goods = coal
 	life_rating = 40
 }

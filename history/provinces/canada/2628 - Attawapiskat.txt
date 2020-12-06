@@ -9,6 +9,7 @@ life_rating = 35
 	controller = UCA
 	add_core = GUA
 	add_core = UCA
+	remove_core = MEX
 	trade_goods = fish
 	life_rating = 35
 }

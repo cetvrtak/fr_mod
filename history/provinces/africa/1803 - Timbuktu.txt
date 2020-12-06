@@ -11,6 +11,7 @@ terrain = semidesert
 	add_core = DND
 	add_core = MAS
 	add_core = SEG
+	remove_core = TMB
 	trade_goods = cattle
 	life_rating = 35
 	terrain = semidesert

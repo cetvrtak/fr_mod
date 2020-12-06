@@ -7,9 +7,13 @@ life_rating = 10
 terrain = dryhills
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = ETH
 	add_core = HBY
 	add_core = SHW
+	remove_core = ADA
+	remove_core = WRL
 	trade_goods = grain
 	life_rating = 10
 	terrain = dryhills

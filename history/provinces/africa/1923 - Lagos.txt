@@ -8,6 +8,7 @@ life_rating = 35
 	owner = OYO
 	controller = OYO
 	add_core = OYO
+	remove_core = BEN
 	trade_goods = fish
 	life_rating = 35
 }

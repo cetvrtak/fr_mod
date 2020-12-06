@@ -12,6 +12,8 @@ life_rating = 32
 	add_core = HND
 	add_core = JAI
 	add_core = MEW
+	remove_core = GWA
+	remove_core = JOD
 	trade_goods = cotton
 	life_rating = 32
 }

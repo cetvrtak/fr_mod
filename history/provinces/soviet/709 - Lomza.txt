@@ -9,6 +9,7 @@ life_rating = 35
 	controller = RUS
 	add_core = CPL
 	add_core = POL
+	remove_core = PLC
 	trade_goods = grain
 	life_rating = 35
 }

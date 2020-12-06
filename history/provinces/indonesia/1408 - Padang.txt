@@ -9,6 +9,7 @@ life_rating = 32
 	controller = NET
 	add_core = ATJ
 	add_core = SAK
+	remove_core = PGR
 	trade_goods = fruit
 	life_rating = 32
 }

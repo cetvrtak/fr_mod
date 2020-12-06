@@ -5,6 +5,8 @@ trade_goods = coal
 life_rating = 30
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KAZ
 	trade_goods = coal
 	life_rating = 30

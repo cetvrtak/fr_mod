@@ -10,6 +10,8 @@ life_rating = 34
 	owner = DAI
 	controller = DAI
 	add_core = DAI
+	remove_core = ANN
+	remove_core = TOK
 	trade_goods = grain
 	life_rating = 34
 }

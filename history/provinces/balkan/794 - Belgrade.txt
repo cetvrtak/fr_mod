@@ -10,6 +10,8 @@ life_rating = 35
 	owner = SER
 	controller = SER
 	add_core = SER
+	remove_core = AUS
+	remove_core = TUR
 	trade_goods = grain
 	life_rating = 35
 }

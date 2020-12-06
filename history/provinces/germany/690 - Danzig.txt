@@ -13,6 +13,7 @@ naval_base = 1
 	add_core = GER
 	add_core = PML
 	add_core = PRU
+	remove_core = PLC
 	trade_goods = fish
 	life_rating = 40
 	naval_base = 1

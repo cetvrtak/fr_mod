@@ -14,6 +14,7 @@ fort = 1
 	add_core = ROM
 	add_core = RUS
 	add_core = UKR
+	remove_core = TUR
 	trade_goods = fish
 	life_rating = 35
 	fort = 1

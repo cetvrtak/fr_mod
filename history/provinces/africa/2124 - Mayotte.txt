@@ -3,6 +3,8 @@ life_rating = 30
 terrain = small_island
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = CMS
 	trade_goods = grain
 	life_rating = 30

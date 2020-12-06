@@ -11,6 +11,7 @@ fort = 1
 	owner = ENG
 	controller = ENG
 	add_core = MRU
+	remove_core = QUE
 	trade_goods = fish
 	life_rating = 31
 	colonial = 2

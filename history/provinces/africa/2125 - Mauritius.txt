@@ -9,6 +9,7 @@ colonial = 2
 1836.1.1 = {
 	owner = ENG
 	controller = ENG
+	remove_core = FRA
 	trade_goods = fruit
 	life_rating = 35
 	terrain = mountain

@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = EGY
 	add_core = LBN
 	add_core = TUR
+	remove_core = SYR
 	trade_goods = timber
 	life_rating = 35
 }

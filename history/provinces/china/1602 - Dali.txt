@@ -10,6 +10,8 @@ life_rating = 32
 	controller = YNN
 	add_core = CHI
 	add_core = YNN
+	remove_core = CDL
+	remove_core = QNG
 	trade_goods = timber
 	life_rating = 32
 }

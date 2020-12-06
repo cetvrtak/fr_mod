@@ -10,6 +10,7 @@ life_rating = 35
 	controller = BDK
 	add_core = AFG
 	add_core = BDK
+	remove_core = BUK
 	trade_goods = wool
 	life_rating = 35
 }

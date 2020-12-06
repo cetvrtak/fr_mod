@@ -12,6 +12,7 @@ terrain = desert
 	add_core = EGY
 	add_core = PLS
 	add_core = TUR
+	remove_core = SYR
 	trade_goods = grain
 	life_rating = 10
 	terrain = desert

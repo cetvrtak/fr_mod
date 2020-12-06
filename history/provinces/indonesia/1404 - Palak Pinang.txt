@@ -8,6 +8,7 @@ life_rating = 32
 	owner = NET
 	controller = NET
 	add_core = DJA
+	remove_core = PLB
 	trade_goods = timber
 	life_rating = 32
 }

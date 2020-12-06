@@ -11,6 +11,10 @@ life_rating = 35
 	owner = KOK
 	controller = KOK
 	add_core = KOK
+	remove_core = CHG
+	remove_core = QNG
+	remove_core = YRK
+	remove_core = ZUN
 	trade_goods = grain
 	life_rating = 35
 }

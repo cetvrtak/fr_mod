@@ -11,6 +11,7 @@ fort = 1
 1836.1.1 = {
 	owner = ENG
 	controller = ENG
+	remove_core = ENG
 	trade_goods = fish
 	life_rating = 35
 	terrain = new_world_small_island

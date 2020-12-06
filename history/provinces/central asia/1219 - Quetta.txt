@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = AFG
 	add_core = HND
 	add_core = KAL
+	remove_core = BLC
 	trade_goods = wool
 	life_rating = 35
 }

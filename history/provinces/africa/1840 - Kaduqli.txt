@@ -10,6 +10,7 @@ terrain = semidesert
 	controller = EGY
 	add_core = EGY
 	add_core = SUD
+	remove_core = NUB
 	trade_goods = fruit
 	life_rating = 32
 	terrain = semidesert

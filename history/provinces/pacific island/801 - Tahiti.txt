@@ -3,6 +3,8 @@ life_rating = 15
 terrain = plains
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = TMT
 	trade_goods = fish
 	life_rating = 15

@@ -9,6 +9,7 @@ terrain = new_world_semidesert
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = CAL
 	trade_goods = fish
 	life_rating = 32
 	terrain = new_world_semidesert

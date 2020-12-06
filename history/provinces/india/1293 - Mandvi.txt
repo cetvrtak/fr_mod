@@ -9,6 +9,7 @@ life_rating = 32
 	controller = KUT
 	add_core = HND
 	add_core = KUT
+	remove_core = KAT
 	trade_goods = cotton
 	life_rating = 32
 }

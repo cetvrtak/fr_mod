@@ -11,6 +11,8 @@ life_rating = 31
 	controller = FRA
 	add_core = BSQ
 	add_core = FRA
+	remove_core = GYN
+	remove_core = NAV
 	trade_goods = grain
 	life_rating = 31
 }

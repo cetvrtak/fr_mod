@@ -9,6 +9,7 @@ life_rating = 35
 	controller = SPU
 	add_core = PEU
 	add_core = SPU
+	remove_core = BOL
 	trade_goods = iron
 	life_rating = 35
 }

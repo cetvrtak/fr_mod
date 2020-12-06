@@ -3,6 +3,8 @@ life_rating = 15
 terrain = semidesert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	trade_goods = grain
 	life_rating = 15
 	terrain = semidesert

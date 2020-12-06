@@ -3,6 +3,8 @@ life_rating = 30
 terrain = montane_forest
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = NZL
 	trade_goods = wool
 	life_rating = 30

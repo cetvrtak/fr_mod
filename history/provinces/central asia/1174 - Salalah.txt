@@ -9,6 +9,7 @@ terrain = desert
 	owner = OMA
 	controller = OMA
 	add_core = OMA
+	remove_core = MHR
 	trade_goods = opium
 	life_rating = 20
 	terrain = desert

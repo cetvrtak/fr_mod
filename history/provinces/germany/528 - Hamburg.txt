@@ -12,6 +12,7 @@ fort = 1
 	controller = HAM
 	add_core = GER
 	add_core = HAM
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 40
 	naval_base = 1

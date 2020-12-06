@@ -9,6 +9,7 @@ life_rating = 32
 	controller = BAS
 	add_core = BAS
 	add_core = HND
+	remove_core = NAG
 	trade_goods = grain
 	life_rating = 32
 }

@@ -8,6 +8,7 @@ life_rating = 31
 	owner = PEU
 	controller = PEU
 	add_core = PEU
+	remove_core = BOL
 	trade_goods = rubber
 	life_rating = 31
 }

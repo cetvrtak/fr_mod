@@ -10,6 +10,8 @@ life_rating = 35
 	controller = SLG
 	add_core = JOH
 	add_core = SLG
+	remove_core = MLC
+	remove_core = PRK
 	trade_goods = timber
 	life_rating = 35
 }

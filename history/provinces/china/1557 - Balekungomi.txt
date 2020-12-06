@@ -11,6 +11,9 @@ life_rating = 32
 	controller = XBI
 	add_core = CHI
 	add_core = XBI
+	remove_core = KSD
+	remove_core = QNG
+	remove_core = YRK
 	trade_goods = coal
 	life_rating = 32
 }

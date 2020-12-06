@@ -12,6 +12,8 @@ life_rating = 35
 	add_core = POL
 	add_core = RUT
 	add_core = UKR
+	remove_core = AUS
+	remove_core = PLC
 	trade_goods = coal
 	life_rating = 35
 }

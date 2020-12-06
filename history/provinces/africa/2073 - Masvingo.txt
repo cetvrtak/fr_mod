@@ -7,7 +7,11 @@ life_rating = 10
 terrain = savanna
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = ZBW
+	remove_core = RZW
+	remove_core = ZIM
 	trade_goods = grain
 	life_rating = 10
 	terrain = savanna

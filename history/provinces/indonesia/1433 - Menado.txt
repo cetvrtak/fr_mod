@@ -8,6 +8,7 @@ life_rating = 32
 	owner = NET
 	controller = NET
 	add_core = SLW
+	remove_core = TTE
 	trade_goods = dye
 	life_rating = 32
 }

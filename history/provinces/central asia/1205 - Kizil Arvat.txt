@@ -6,7 +6,10 @@ life_rating = 15
 terrain = desert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = TKM
+	remove_core = KHI
 	trade_goods = fish
 	life_rating = 15
 	terrain = desert

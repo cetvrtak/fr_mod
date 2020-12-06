@@ -7,7 +7,11 @@ trade_goods = grain
 life_rating = 30
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = KAZ
+	remove_core = QNG
+	remove_core = ZUN
 	trade_goods = grain
 	life_rating = 30
 }

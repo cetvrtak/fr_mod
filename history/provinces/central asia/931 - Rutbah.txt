@@ -6,7 +6,10 @@ trade_goods = sulphur
 life_rating = 10
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = IRQ
+	remove_core = TUR
 	trade_goods = sulphur
 	life_rating = 10
 }

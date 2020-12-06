@@ -9,6 +9,7 @@ terrain = new_world_desert
 	owner = PBC
 	controller = PBC
 	add_core = BOL
+	remove_core = ENT
 	trade_goods = fish
 	life_rating = 31
 	terrain = new_world_desert

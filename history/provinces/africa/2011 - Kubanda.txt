@@ -6,7 +6,10 @@ life_rating = 10
 colonial = 2
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	add_core = LUN
+	remove_core = KSJ
 	trade_goods = grain
 	life_rating = 10
 	colonial = 2

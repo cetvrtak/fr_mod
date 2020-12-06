@@ -6,6 +6,9 @@ life_rating = 10
 terrain = dryhills
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
+	remove_core = UBH
 	trade_goods = fruit
 	life_rating = 10
 	terrain = dryhills

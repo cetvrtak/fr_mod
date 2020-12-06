@@ -9,6 +9,7 @@ terrain = semidesert
 	owner = TRZ
 	controller = TRZ
 	add_core = TRZ
+	remove_core = FUL
 	trade_goods = cattle
 	life_rating = 15
 	terrain = semidesert

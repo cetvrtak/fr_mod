@@ -9,6 +9,7 @@ life_rating = 31
 	owner = KOR
 	controller = KOR
 	add_core = KOR
+	remove_core = QNG
 	trade_goods = fish
 	life_rating = 31
 }

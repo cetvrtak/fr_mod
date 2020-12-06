@@ -10,6 +10,8 @@ life_rating = 32
 	owner = CAM
 	controller = CAM
 	add_core = CAM
+	remove_core = ANN
+	remove_core = CHK
 	trade_goods = wool
 	life_rating = 32
 }

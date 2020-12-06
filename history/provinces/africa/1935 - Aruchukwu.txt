@@ -9,6 +9,7 @@ life_rating = 35
 	controller = ARO
 	add_core = ARO
 	add_core = WRI
+	remove_core = NUP
 	trade_goods = grain
 	life_rating = 35
 }

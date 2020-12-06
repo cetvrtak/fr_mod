@@ -13,6 +13,7 @@ naval_base = 1
 	add_core = LHJ
 	add_core = MHR
 	add_core = NYE
+	remove_core = ADE
 	trade_goods = fish
 	life_rating = 35
 	naval_base = 1

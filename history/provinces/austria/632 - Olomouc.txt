@@ -11,6 +11,7 @@ life_rating = 35
 	add_core = AUS
 	add_core = BOH
 	add_core = CZH
+	remove_core = HRE
 	trade_goods = coal
 	life_rating = 35
 }

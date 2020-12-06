@@ -9,6 +9,7 @@ colonial = 2
 	owner = NET
 	controller = NET
 	add_core = DJA
+	remove_core = PLB
 	trade_goods = grain
 	life_rating = 35
 	colonial = 2

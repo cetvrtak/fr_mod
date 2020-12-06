@@ -10,6 +10,7 @@ colonial = 2
 	controller = ENG
 	add_core = MRU
 	add_core = NEN
+	remove_core = ABE
 	trade_goods = grain
 	life_rating = 35
 	colonial = 2

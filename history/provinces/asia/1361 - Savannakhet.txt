@@ -9,6 +9,7 @@ life_rating = 33
 	controller = SIA
 	add_core = SIA
 	add_core = WIA
+	remove_core = CHK
 	trade_goods = grain
 	life_rating = 33
 }

@@ -10,6 +10,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = QUE
+	remove_core = ABE
 	trade_goods = grain
 	life_rating = 32
 	colonial = 2

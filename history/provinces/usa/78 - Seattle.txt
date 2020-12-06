@@ -9,6 +9,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = COL
+	remove_core = SAL
 	trade_goods = timber
 	life_rating = 35
 	colonial = 2

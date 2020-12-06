@@ -3,6 +3,8 @@ life_rating = 10
 terrain = desert
 
 1836.1.1 = {
+	owner = ---
+	controller = ---
 	trade_goods = grain
 	life_rating = 10
 	terrain = desert

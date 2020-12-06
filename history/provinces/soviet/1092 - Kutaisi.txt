@@ -10,6 +10,7 @@ life_rating = 35
 	controller = TCA
 	add_core = GEO
 	add_core = TCA
+	remove_core = IME
 	trade_goods = fruit
 	life_rating = 35
 }

@@ -9,6 +9,7 @@ terrain = semidesert
 	owner = BHR
 	controller = BHR
 	add_core = BHR
+	remove_core = ALH
 	trade_goods = fruit
 	life_rating = 34
 	terrain = semidesert

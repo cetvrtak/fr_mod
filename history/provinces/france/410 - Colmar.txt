@@ -11,6 +11,8 @@ life_rating = 31
 	controller = FRA
 	add_core = ALS
 	add_core = FRA
+	remove_core = AUS
+	remove_core = HRE
 	trade_goods = sulphur
 	life_rating = 31
 }

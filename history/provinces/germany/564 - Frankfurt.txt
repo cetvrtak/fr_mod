@@ -11,6 +11,7 @@ fort = 1
 	controller = FRM
 	add_core = FRM
 	add_core = GER
+	remove_core = HRE
 	trade_goods = fruit
 	life_rating = 40
 	fort = 1

@@ -10,6 +10,7 @@ naval_base = 2
 	owner = ENG
 	controller = ENG
 	add_core = ENG
+	remove_core = CRN
 	trade_goods = fruit
 	life_rating = 35
 	naval_base = 2

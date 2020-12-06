@@ -9,6 +9,7 @@ life_rating = 32
 	controller = TRA
 	add_core = HND
 	add_core = TRA
+	remove_core = NET
 	trade_goods = grain
 	life_rating = 32
 }

@@ -8,6 +8,7 @@ life_rating = 31
 	owner = SLW
 	controller = SLW
 	add_core = SLW
+	remove_core = LUW
 	trade_goods = grain
 	life_rating = 31
 }

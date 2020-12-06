@@ -12,6 +12,7 @@ terrain = semidesert
 	add_core = GEL
 	add_core = MAJ
 	add_core = WRL
+	remove_core = ADA
 	trade_goods = fish
 	life_rating = 31
 	terrain = semidesert

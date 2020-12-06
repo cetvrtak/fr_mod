@@ -9,6 +9,7 @@ life_rating = 31
 	owner = FRA
 	controller = FRA
 	add_core = FRA
+	remove_core = LOR
 	trade_goods = iron
 	life_rating = 31
 }

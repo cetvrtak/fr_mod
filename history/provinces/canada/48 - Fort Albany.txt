@@ -10,6 +10,7 @@ colonial = 2
 	owner = ENG
 	controller = ENG
 	add_core = RPL
+	remove_core = QUE
 	trade_goods = fish
 	life_rating = 20
 	terrain = new_world_boreal

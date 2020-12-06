@@ -9,6 +9,7 @@ life_rating = 35
 	owner = TUR
 	controller = TUR
 	add_core = TUR
+	remove_core = GRE
 	trade_goods = tobacco
 	life_rating = 35
 }

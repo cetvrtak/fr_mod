@@ -9,6 +9,7 @@ colonial = 2
 1836.1.1 = {
 	owner = ENG
 	controller = ENG
+	remove_core = ENG
 	trade_goods = fish
 	life_rating = 20
 	terrain = small_island

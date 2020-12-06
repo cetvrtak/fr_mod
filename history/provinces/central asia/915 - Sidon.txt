@@ -12,6 +12,7 @@ terrain = dryhills
 	add_core = EGY
 	add_core = LBN
 	add_core = TUR
+	remove_core = SYR
 	trade_goods = fruit
 	life_rating = 35
 	terrain = dryhills

@@ -10,6 +10,8 @@ life_rating = 40
 	controller = BAV
 	add_core = BAV
 	add_core = GER
+	remove_core = HRE
+	remove_core = REG
 	trade_goods = coal
 	life_rating = 40
 }

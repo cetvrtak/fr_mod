@@ -11,6 +11,7 @@ naval_base = 1
 	controller = MEC
 	add_core = GER
 	add_core = MEC
+	remove_core = HRE
 	trade_goods = grain
 	life_rating = 40
 	naval_base = 1

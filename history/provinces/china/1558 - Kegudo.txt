@@ -9,6 +9,7 @@ life_rating = 32
 	controller = XBI
 	add_core = CHI
 	add_core = XBI
+	remove_core = UTS
 	trade_goods = grain
 	life_rating = 32
 }
