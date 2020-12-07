@@ -1593,36 +1593,79 @@
         size = 900
     }
 }
-#Pueblo (4000/1000 POPS)
+#Overmountain = Tampa (8000/2000 POPS)
 109 = {
     aristocrats = {
         culture = native_american_minor
         religion = animist
-        size = 10
+        size = 100
     }
 
     clergymen = {
         culture = native_american_minor
         religion = animist
-        size = 25
+        size = 100
     }
 
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 50
+        size = 100
     }
 
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 15
+        size = 100
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 900
+        size = 1800
+    }
+
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 100
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 100
+    }
+
+    soldiers = {
+        culture = dixie
+        religion = protestant
+        size = 100
+    }
+
+    farmers = {
+        culture = dixie
+        religion = protestant
+        size = 100
+    }
+
+    clergymen = {
+        culture = afro_american
+        religion = protestant
+        size = 300
+    }
+
+    artisans = {
+        culture = afro_american
+        religion = protestant
+        size = 100
+    }
+
+    slaves = {
+        culture = afro_american
+        religion = protestant
+        size = 200
     }
 }
 #Wyoming Region (28000)

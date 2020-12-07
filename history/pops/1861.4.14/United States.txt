@@ -2324,55 +2324,92 @@
         size = 900
     }
 }
-#Pueblo (7720/1930 POPS)
+#Overmountain = Tampa (29800/7450 POPS)
 109 = {
-    clergymen = {
-        culture = yankee
+    aristocrats = {
+        culture = dixie
         religion = protestant
-        size = 20
+        size = 80
+    }
+
+    clergymen = {
+        culture = dixie
+        religion = protestant
+        size = 75
     }
 
     artisans = {
-        culture = yankee
+        culture = dixie
         religion = protestant
-        size = 110
+        size = 175
     }
 
     soldiers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
-        size= 100
+        size= 400
 
     }
 
     farmers = {
-        culture = yankee
+        culture = dixie
         religion = protestant
-        size = 1200
+        size = 3700
+    }
+
+    clergymen = {
+        culture = afro_american
+        religion = protestant
+        size = 50
+    }
+
+    artisans = {
+        culture = afro_american
+        religion = protestant
+        size = 70
+    }
+
+    farmers = {
+        culture = afro_american
+        religion = protestant
+        size = 100
+    }
+
+    slaves = {
+        culture = afro_american
+        religion = protestant
+        size = 2500
     }
 
     aristocrats = {
         culture = native_american_minor
         religion = animist
-        size = 10
+        size = 15
     }
 
     clergymen = {
         culture = native_american_minor
         religion = animist
-        size = 10
+        size = 35
     }
 
     artisans = {
         culture = native_american_minor
         religion = animist
-        size = 30
+        size = 35
+    }
+
+    soldiers = {
+        culture = native_american_minor
+        religion = animist
+        size= 15
+
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 450
+        size = 200
     }
 }
 #Wyoming Region (34000)

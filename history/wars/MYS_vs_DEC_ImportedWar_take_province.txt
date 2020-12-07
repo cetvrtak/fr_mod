@@ -1,0 +1,13 @@
+name = "Second Mysore War"
+
+1780.1.1 = {
+	add_attacker = MYS
+	add_defender = DEC
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = MYS
+		receiver = DEC
+		state_province_id = 1308
+	}
+}

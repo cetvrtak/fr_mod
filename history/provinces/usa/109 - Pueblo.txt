@@ -1,19 +1,23 @@
-trade_goods = cattle
+owner = USA
+controller = CHE
+add_core = CHE
+add_core = USA
+trade_goods = coal
 life_rating = 35
 
 1836.1.1 = {
-	owner = MEX
-	controller = MEX
-	add_core = MEX
-	trade_goods = cattle
-	life_rating = 35
-	colonial = 2
-}
-
-1861.1.1 = {
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = MEX
+	remove_core = CHE
+	trade_goods = coal
+	life_rating = 35
+}
+
+1861.1.1 = {
+	owner = CSA
+	controller = CSA
+	add_core = CSA
+	railroad = 3
 }
 

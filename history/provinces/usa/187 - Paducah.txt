@@ -1,6 +1,7 @@
-owner = CHN
-controller = CHN
-add_core = CHN
+owner = USA
+controller = USA
+add_core = SHX
+add_core = USA
 trade_goods = cattle
 life_rating = 35
 
@@ -8,7 +9,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = CHN
+	remove_core = SHX
 	trade_goods = cattle
 	life_rating = 35
 }

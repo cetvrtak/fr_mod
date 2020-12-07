@@ -1,5 +1,6 @@
 owner = USA
 controller = USA
+add_core = CHE
 add_core = USA
 trade_goods = coal
 life_rating = 35
@@ -8,6 +9,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = CHE
 	trade_goods = coal
 	life_rating = 35
 }
