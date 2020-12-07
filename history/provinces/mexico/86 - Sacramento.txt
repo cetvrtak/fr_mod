@@ -1,11 +1,16 @@
+owner = YKT
+controller = YKT
+add_core = YKT
 trade_goods = fruit
 life_rating = 35
+colonial = 2
 
 1836.1.1 = {
 	owner = MEX
 	controller = MEX
 	add_core = CAL
 	add_core = MEX
+	remove_core = YKT
 	trade_goods = fruit
 	life_rating = 35
 	colonial = 2

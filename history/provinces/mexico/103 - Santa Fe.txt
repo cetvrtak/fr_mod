@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = ARP
+controller = ARP
+add_core = ARP
 trade_goods = fruit
 life_rating = 35
 colonial = 2
@@ -9,6 +9,7 @@ colonial = 2
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = ARP
 	trade_goods = fruit
 	life_rating = 35
 	colonial = 2

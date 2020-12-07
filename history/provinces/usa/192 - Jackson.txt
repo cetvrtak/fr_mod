@@ -1,6 +1,6 @@
-owner = LOU
+owner = CCW
 controller = CCW
-add_core = LOU
+add_core = CCW
 trade_goods = cotton
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = LOU
+	remove_core = CCW
 	trade_goods = cotton
 	life_rating = 35
 }

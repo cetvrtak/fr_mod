@@ -1,5 +1,5 @@
 owner = MSC
-controller = MEX
+controller = MSC
 add_core = MSC
 trade_goods = cotton
 life_rating = 35

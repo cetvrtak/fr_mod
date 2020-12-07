@@ -1,6 +1,7 @@
 capital = 135
 primary_culture = sonoran
 culture = na_dene
+culture = navajo
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

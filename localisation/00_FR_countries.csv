@@ -43,6 +43,15 @@ ANZ_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 ANZ_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 ANZ_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 ANZ_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+APA;Apache;Apaches;Apatschen;Apache;Apaches;Apache;Apache;Apache;Apache;Apache;Apache;Apache;Apache;x
+APA_ADJ;Apache;apache;Apatschisch;Apache;apache;Apache;Apache;Apache;Apache;Apache;Apache;Apache;Apache;x
+APA_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
+APA_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
+APA_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
+APA_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
+APA_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
+APA_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
+APA_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 ARK;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;x
 ARK_ADJ;Arakani;arakanaise;Arakanisch;Arakani;arakanés;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;x
 ARL;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;x
@@ -887,6 +896,15 @@ MWT_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 MWT_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 MWT_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 MWT_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+NAH;Navajo;Navajos;Navajo;Navajo;Navajos;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;x
+NAH_ADJ;Navajo;navajo;Navajotisch;Navajo;navajo;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;Navajo;x
+NAH_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
+NAH_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
+NAH_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
+NAH_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
+NAH_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
+NAH_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
+NAH_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 NAP;Naples;Naples;Neapel;Naples;Nápoles;Naples;Naples;Naples;Naples;Naples;Naples;Naples;Naples;x
 NAP_ADJ;Neapolitan;napolitaine;Neapolitanisch;Neapolitan;de Nápoles;Neapolitan;Neapolitan;Neapolitan;Neapolitan;Neapolitan;Neapolitan;Neapolitan;Neapolitan;x
 NAV;Navarra;Navarre;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;Navarra;x

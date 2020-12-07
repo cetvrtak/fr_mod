@@ -1,4 +1,4 @@
-capital = 88
+capital = 86
 primary_culture = penutian
 culture = zzz_religion_totemism
 religion = totemism

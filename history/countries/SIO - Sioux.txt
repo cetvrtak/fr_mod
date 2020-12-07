@@ -1,4 +1,4 @@
-capital = 120
+capital = 154
 primary_culture = dakota
 culture = zzz_religion_totemism
 religion = totemism

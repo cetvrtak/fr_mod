@@ -1,5 +1,6 @@
-owner = CRK
+owner = CHE
 controller = CHE
+add_core = CHE
 add_core = CRK
 trade_goods = cotton
 life_rating = 35
@@ -18,6 +19,7 @@ state_building = {
 	owner = USA
 	controller = USA
 	add_core = USA
+	remove_core = CHE
 	remove_core = CRK
 	trade_goods = cotton
 	life_rating = 35

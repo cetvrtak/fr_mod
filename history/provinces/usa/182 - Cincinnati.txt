@@ -1,6 +1,6 @@
-owner = LEN
-controller = LEN
-add_core = LEN
+owner = SHX
+controller = SHX
+add_core = SHX
 trade_goods = grain
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = LEN
+	remove_core = SHX
 	trade_goods = grain
 	life_rating = 35
 }

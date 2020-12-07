@@ -1,4 +1,4 @@
-capital = 2148
+capital = 100
 primary_culture = pueblo
 culture = zzz_religion_totemism
 religion = totemism
