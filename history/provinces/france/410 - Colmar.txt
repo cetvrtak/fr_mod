@@ -1,8 +1,7 @@
-owner = FRA
-controller = FRA
-add_core = AUS
-add_core = FRA
+owner = MLH
+controller = MLH
 add_core = HRE
+add_core = MLH
 trade_goods = sulphur
 life_rating = 31
 
@@ -11,8 +10,8 @@ life_rating = 31
 	controller = FRA
 	add_core = ALS
 	add_core = FRA
-	remove_core = AUS
 	remove_core = HRE
+	remove_core = MLH
 	trade_goods = sulphur
 	life_rating = 31
 }

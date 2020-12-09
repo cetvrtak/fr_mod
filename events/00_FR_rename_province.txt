@@ -1,0 +1,72 @@
+# Mulhausen - German
+country_event = {
+	id = 1200
+	title = "EVTNAME1200"
+	desc = "EVTDESC1200"
+	picture = "Administration"
+
+	trigger = {
+		NOT = { has_global_flag = mulhausen_german }
+		owns = 410
+		is_culture_group = germanic
+	}
+
+	mean_time_to_happen = {
+		days = 0.00001
+	}
+
+	option = {
+		name = "EVTOPTA1200"
+		410 = {
+			bureaucrats = {
+				limit = {
+					is_culture_group = THIS
+				}
+				reduce_pop = 1.2
+			}
+			change_province_name = "Mulhausen"
+		}
+		set_global_flag = mulhausen_german
+		clr_global_flag = colmar_french
+	}
+	option = {
+		name = "EVTOPTB1200"
+	}
+}
+
+# Colmar - French
+country_event = {
+	id = 1201
+	title = "EVTNAME1200"
+	desc = "EVTDESC1200"
+	picture = "Administration"
+
+	trigger = {
+		NOT = { has_global_flag = colmar_french }
+		owns = 410
+		is_culture_group = french
+	}
+
+	mean_time_to_happen = {
+		days = 0.00001
+	}
+
+	option = {
+		name = "EVTOPTA1200"
+		410 = {
+			bureaucrats = {
+				limit = {
+					is_culture_group = THIS
+				}
+				reduce_pop = 1.2
+			}
+			change_province_name = "Colmar"
+		}
+		set_global_flag = colmar_french
+		clr_global_flag = mulhausen_german
+	}
+
+	option = {
+		name = "EVTOPTB1200"
+	}
+}

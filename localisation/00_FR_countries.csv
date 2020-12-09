@@ -836,6 +836,15 @@ MKU;Makua;Makuas;Makua;Makua;Makua;Makua;Makua;Makua;Makua;Makua;Makua;Makua;Mak
 MKU_ADJ;Makuan;makua;Makuaisch;Makuan;makuano;Makuan;Makuan;Makuan;Makuan;Makuan;Makuan;Makuan;Makuan;x
 MLC;Malacca;Malacca;Malakka;Malacca;Malaca;Malacca;Malacca;Malacca;Malacca;Malacca;Malacca;Malacca;Malacca;x
 MLC_ADJ;Malaccan;malacaise;Malakkisch;Malaccan;malacano;Malaccan;Malaccan;Malaccan;Malaccan;Malaccan;Malaccan;Malaccan;Malaccan;x
+MLH;Mulhouse;Mulhouse;Mülhausen;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;Mulhouse;x
+MLH_ADJ;Mulhousian;mulhousienne;Mülhausisch;Mulhousian;mulhousiano;Mulhousian;Mulhousian;Mulhousian;Mulhousian;Mulhousian;Mulhousian;Mulhousian;Mulhousian;x
+MLH_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
+MLH_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
+MLH_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
+MLH_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
+MLH_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
+MLH_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
+MLH_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 MLK;Kharabakh;Karabagh;Bergkarabach;Kashen;Karabaj;Kashen;Kashen;Kashen;Kashen;Kashen;Kashen;Kashen;Kashen;x
 MLK_ADJ;Kharabakhi;karabaghtsie;Bergkarabachisch;Kharabakhi;karabajés;Kharabakhi;Kharabakhi;Kharabakhi;Kharabakhi;Kharabakhi;Kharabakhi;Kharabakhi;Kharabakhi;x
 MLK_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
