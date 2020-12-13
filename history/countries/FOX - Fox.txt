@@ -1,6 +1,6 @@
 capital = 162
-primary_culture = siouan
-culture = central_algonquian
+primary_culture = dakota
+culture = algonkian
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

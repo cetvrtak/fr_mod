@@ -1,5 +1,5 @@
 capital = 1602
-primary_culture = bai
+primary_culture = tibetan
 culture = zzz_religion_theravada
 religion = theravada
 government = absolute_monarchy

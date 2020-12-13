@@ -1,0 +1,519 @@
+# Oporto
+518 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1500
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 10000
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 150200
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2500
+	}
+
+}
+# Vila Real
+519 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1850
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 3250
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 625
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 69275
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+}
+# Covilha
+520 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 7250
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1500
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 86500
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1500
+	}
+
+}
+# Lisbon
+521 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 8500
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 68500
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 3000
+	}
+
+}
+# Coimbra
+522 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1200
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1200
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 99800
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2000
+	}
+
+}
+# Abrantes
+523 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2250
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 41550
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 400
+	}
+
+}
+# Setubal
+524 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 3000
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 42800
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1500
+	}
+
+}
+# Evora
+525 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 850
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 2250
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 44250
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+}
+# Beja
+526 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1250
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 42250
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 250
+	}
+
+}
+# Faro
+527 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1750
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 41025
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 350
+	}
+
+}
+# Azores
+2134 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 3000
+	}
+
+	bureaucrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 45975
+	}
+
+	officers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1100
+	}
+
+}
+# Madeira
+2135 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 23825
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 250
+	}
+
+}

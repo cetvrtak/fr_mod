@@ -3,8 +3,8 @@ bookmark =
     name = "FR_NAME"
     desc = "FR_DESC"
     date = 1783.9.4
-    cameraX = 2857
-    cameraY = 1520
+    cameraX = 2950
+    cameraY = 1550
 }
 
 bookmark =

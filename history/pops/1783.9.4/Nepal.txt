@@ -1,0 +1,251 @@
+# Katmandu
+1326 = {
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4050
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 475
+	}
+
+	artisans=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 1050
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 86250
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 10125
+	}
+
+	farmers=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 6000
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 225
+	}
+
+	slaves=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 15125
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 200
+	}
+
+}
+# Jumla
+1327 = {
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 900
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 700
+	}
+
+	aristocrats=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 2300
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1850
+	}
+
+	artisans=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 49250
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 33725
+	}
+
+	slaves=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 18300
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = asian_minor
+		religion = animist
+		size= 200
+	}
+
+}

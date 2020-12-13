@@ -1,5 +1,5 @@
 capital = 127
-primary_culture = sonoran
+primary_culture = pueblo
 culture = caddoan
 culture = zzz_religion_totemism
 religion = totemism

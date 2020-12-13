@@ -1,0 +1,359 @@
+# Freetown
+1884 = {
+	aristocrats=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 675
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 875
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1650
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 2300
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 4700
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 32125
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 48275
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 6800
+	}
+
+	officers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 100
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	officers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 150
+	}
+
+}
+# Falaba
+1885 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 925
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 800
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1900
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 1650
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 36600
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 37025
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 2300
+	}
+
+	slaves=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 13000
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = sunni
+		size= 425
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+}
+# Bo
+1886 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 900
+	}
+
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 800
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1875
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 36650
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 37675
+	}
+
+	slaves=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 425
+	}
+
+}

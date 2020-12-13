@@ -1,5 +1,5 @@
 capital = 93
-primary_culture = sonoran
+primary_culture = pueblo
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

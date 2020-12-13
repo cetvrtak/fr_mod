@@ -1,0 +1,1054 @@
+# Luanda
+1999 = {
+	aristocrats=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 3000
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 11550
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 40200
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 8600
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 2000
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = portuguese
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 100
+	}
+
+}
+# Cabinda
+2000 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 900
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 6375
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 15225
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 225
+	}
+
+}
+# Mbanza
+2001 = {
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7350
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 12450
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 13250
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 4000
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 3500
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1200
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 200
+	}
+
+}
+# Quibala
+2002 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 1200
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 21950
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 6000
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 300
+	}
+
+}
+# Benguela
+2003 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 20800
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 5800
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 300
+	}
+
+}
+# Mocamedes
+2004 = {
+	aristocrats=
+	{
+		culture = herero
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = herero
+		religion = animist
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = herero
+		religion = animist
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = herero
+		religion = animist
+		size= 21250
+	}
+
+	slaves=
+	{
+		culture = khoisan
+		religion = animist
+		size= 5800
+	}
+
+	soldiers=
+	{
+		culture = herero
+		religion = animist
+		size= 300
+	}
+
+}
+# Huambo
+2005 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 2600
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 36650
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 10000
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 600
+	}
+
+}
+# Kuito
+2006 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 1800
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 26700
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 7500
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 400
+	}
+
+}
+# Mavinga
+2007 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 2400
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 11450
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = animist
+		size= 1350
+	}
+
+	slaves=
+	{
+		culture = chokwe
+		religion = animist
+		size= 3200
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 200
+	}
+
+}
+# Ondjiva
+2008 = {
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 2205
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 4275
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 600
+	}
+
+	slaves=
+	{
+		culture = khoisan
+		religion = animist
+		size= 1250
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 75
+	}
+
+}
+# Malanje
+2009 = {
+	aristocrats=
+	{
+		culture = kavango
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = kavango
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = kavango
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 60
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = kavango
+		religion = animist
+		size= 4350
+	}
+
+	farmers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 2175
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 1400
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 1200
+	}
+
+	slaves=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 600
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = animist
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = kavango
+		religion = animist
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = ovimbundu
+		religion = animist
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = animist
+		size= 25
+	}
+
+}
+# Saurimo
+2010 = {
+	aristocrats=
+	{
+		culture = chokwe
+		religion = animist
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = animist
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = animist
+		size= 8000
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 10850
+	}
+
+	slaves=
+	{
+		culture = chokwe
+		religion = animist
+		size= 8000
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 50
+	}
+
+}
+# Kubanda
+2011 = {
+	aristocrats=
+	{
+		culture = lunda
+		religion = animist
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = chokwe
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = lunda
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = chokwe
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = lunda
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = chokwe
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = lunda
+		religion = animist
+		size= 8125
+	}
+
+	farmers=
+	{
+		culture = chokwe
+		religion = animist
+		size= 3600
+	}
+
+	slaves=
+	{
+		culture = lunda
+		religion = animist
+		size= 4700
+	}
+
+	slaves=
+	{
+		culture = kavango
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = lunda
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = chokwe
+		religion = animist
+		size= 50
+	}
+
+}

@@ -1,0 +1,257 @@
+# Antigua & Barbuda
+2224 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = british
+		religion = protestant
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5470
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 50
+	}
+
+}
+# Montserrat
+2225 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1380
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 10
+	}
+
+}
+# Tortola
+2226 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1040
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 10
+	}
+
+}
+# Saint Kitts
+2227 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5900
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 75
+	}
+
+}

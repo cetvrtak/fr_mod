@@ -1,0 +1,526 @@
+# Trondheim
+305 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 3250
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 31250
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 2000
+	}
+
+}
+# Bodo
+306 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 13100
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = protestant
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+}
+# Hammerfest
+307 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 5000
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = protestant
+		size= 2400
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = protestant
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 50
+	}
+
+}
+# Alesund
+308 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 17825
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+}
+# Bergen
+309 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 5000
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 39200
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 2000
+	}
+
+}
+# Christiansand
+310 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 38825
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 1100
+	}
+
+}
+# Skien
+311 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 17075
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+}
+# Drammen
+312 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 32125
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 250
+	}
+
+}
+# Christiania
+313 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 7000
+	}
+
+	bureaucrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 500
+	}
+
+	capitalists=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 18275
+	}
+
+	officers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 3000
+	}
+
+}
+# Hamar
+314 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 19750
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 150
+	}
+
+}
+# Lillehammer
+315 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 1250
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 23425
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 200
+	}
+
+}
+# Frederiksstad
+316 = {
+	aristocrats=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 750
+	}
+
+	clergymen=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 17025
+	}
+
+	soldiers=
+	{
+		culture = norwegian
+		religion = protestant
+		size= 150
+	}
+
+}

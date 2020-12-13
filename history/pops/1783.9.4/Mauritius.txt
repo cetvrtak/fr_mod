@@ -1,0 +1,111 @@
+# Mauritius
+2125 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 130
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = kreol
+		religion = protestant
+		size= 1100
+	}
+
+	bureaucrats=
+	{
+		culture = british
+		religion = protestant
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = kreol
+		religion = protestant
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 22375
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = kreol
+		religion = protestant
+		size= 250
+	}
+
+}
+# Diego Garcia
+2128 = {
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 175
+	}
+
+}

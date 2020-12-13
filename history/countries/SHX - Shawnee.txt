@@ -1,5 +1,5 @@
 capital = 169
-primary_culture = central_algonquian
+primary_culture = algonkian
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

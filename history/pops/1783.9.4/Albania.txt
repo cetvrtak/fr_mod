@@ -1,0 +1,330 @@
+# Tirana
+849 = {
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 614
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size= 1310
+	}
+
+	bureaucrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 143
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 40947
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 4065
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 122
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 819
+	}
+
+}
+# Shkoder
+850 = {
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 880
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size= 1556
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = catholic
+		size= 430
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size= 307
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 30566
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = catholic
+		size= 10127
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 819
+	}
+
+}
+# Durres
+851 = {
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 245
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size= 491
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 5632
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = catholic
+		size= 2355
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 450
+	}
+
+}
+# Vlore
+852 = {
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 573
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size= 1331
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size= 256
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 10947
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 2232
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 286
+	}
+
+}
+# Gjirokaster
+853 = {
+	aristocrats=
+	{
+		culture = albanian
+		religion = sunni
+		size= 307
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = sunni
+		size= 122
+	}
+
+	artisans=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = greek
+		religion = orthodox
+		size= 245
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = sunni
+		size= 102
+	}
+
+	clergymen=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = greek
+		religion = orthodox
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 9246
+	}
+
+	farmers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 3379
+	}
+
+	farmers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 1799
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = sunni
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = albanian
+		religion = orthodox
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = greek
+		religion = orthodox
+		size= 122
+	}
+
+}

@@ -1,0 +1,194 @@
+# Managua
+2197 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1050
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2400
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 43425
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1475
+	}
+
+}
+# Rivas
+2198 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 9025
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+}
+# Leon
+2199 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 11825
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+}
+# Bluefields
+2200 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = animist
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 100
+	}
+
+}

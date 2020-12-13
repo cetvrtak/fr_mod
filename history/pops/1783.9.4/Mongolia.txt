@@ -1,0 +1,503 @@
+# Urga
+1465 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1850
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 4500
+	}
+
+	artisans=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 4000
+	}
+
+	clergymen=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 84350
+	}
+
+	farmers=
+	{
+		culture = beifaren
+		religion = gelugpa
+		size= 3300
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 325
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 6000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = beifaren
+		religion = mahayana
+		size= 100
+	}
+
+}
+# Dalandzadgad
+1466 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1050
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 2650
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 44200
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 550
+	}
+
+}
+# Bayan Tumen
+1467 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 825
+	}
+
+	aristocrats=
+	{
+		culture = yakut
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 2050
+	}
+
+	artisans=
+	{
+		culture = yakut
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = yakut
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 37275
+	}
+
+	slaves=
+	{
+		culture = yakut
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 425
+	}
+
+	soldiers=
+	{
+		culture = yakut
+		religion = animist
+		size= 25
+	}
+
+}
+# Uliastai
+1468 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1750
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 31900
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 350
+	}
+
+}
+# Uriankhai
+1469 = {
+	aristocrats=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 7300
+	}
+
+	slaves=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = tatar
+		religion = gelugpa
+		size= 75
+	}
+
+}
+# Sainshand
+2207 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 875
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 16200
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 175
+	}
+
+}
+# Khatgal
+2608 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 35000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 375
+	}
+
+}
+# Bulgan
+2678 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 1050
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 17125
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 225
+	}
+
+}
+# Khovd
+2679 = {
+	aristocrats=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = kazak
+		religion = sunni
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 900
+	}
+
+	artisans=
+	{
+		culture = kazak
+		religion = sunni
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = kazak
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 16400
+	}
+
+	farmers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 10975
+	}
+
+	slaves=
+	{
+		culture = kazak
+		religion = sunni
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gelugpa
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = kazak
+		religion = sunni
+		size= 125
+	}
+
+}

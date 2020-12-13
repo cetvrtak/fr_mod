@@ -1,5 +1,5 @@
 capital = 1424
-primary_culture = bornean
+primary_culture = malay
 culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy

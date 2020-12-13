@@ -1,0 +1,66 @@
+# Belize
+2190 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1058
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 250
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+}

@@ -1,5 +1,5 @@
 capital = 932
-primary_culture = mashriqi
+primary_culture = bedouin
 culture = zzz_religion_shiite
 religion = shiite
 government = absolute_monarchy

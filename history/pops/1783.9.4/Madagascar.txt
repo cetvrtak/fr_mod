@@ -1,0 +1,682 @@
+# Tananarive
+2115 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3675
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 2125
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 144075
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 235
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1000
+	}
+
+}
+# Fianarantsoa
+2116 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1350
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3500
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 725
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 60425
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1000
+	}
+
+}
+# Ampanihy
+2117 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 625
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1600
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 22775
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 28450
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+}
+# Tolanaro
+2118 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 950
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 15025
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 27300
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = animist
+		size= 8000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+}
+# Toamasina
+2119 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 4025
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 12750
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = catholic
+		size= 925
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = protestant
+		size= 1800
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = animist
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 150
+	}
+
+}
+# Antsiranana
+2120 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3125
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 14600
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = animist
+		size= 6000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 175
+	}
+
+}
+# Mahajanga
+2121 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 525
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 375
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 13275
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 44225
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = animist
+		size= 5550
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 275
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 200
+	}
+
+}
+# Toliara
+2122 = {
+	aristocrats=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = malagasy
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1350
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = malagasy
+		religion = animist
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 3725
+	}
+
+	farmers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 52975
+	}
+
+	slaves=
+	{
+		culture = malagasy
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = sunni
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = malagasy
+		religion = animist
+		size= 1100
+	}
+
+}

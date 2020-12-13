@@ -1,5 +1,5 @@
 capital = 299
-primary_culture = welsh
+primary_culture = british
 culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy

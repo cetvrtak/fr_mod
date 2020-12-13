@@ -1,7 +1,8 @@
 capital = 197
-primary_culture = dixie
-culture = americano
+primary_culture = british_north_america_superregion_culture
+culture = british
 culture = muskogean
+culture = spanish
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship

@@ -1,5 +1,5 @@
 capital = 149
-primary_culture = siouan
+primary_culture = dakota
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

@@ -1,0 +1,10 @@
+# Christimas & Cocos
+2244 = {
+	farmers=
+	{
+		culture = malay
+		religion = sunni
+		size= 15
+	}
+
+}

@@ -1,5 +1,5 @@
 capital = 1732
-primary_culture = berber
+primary_culture = maghrebi
 culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy

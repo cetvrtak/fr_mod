@@ -1,0 +1,128 @@
+# San Jose
+2201 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 650
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 11725
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 525
+	}
+
+}
+# Liberia
+2202 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 4500
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+}
+# Limon
+2203 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+}

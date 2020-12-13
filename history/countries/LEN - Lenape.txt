@@ -1,7 +1,6 @@
 capital = 178
-primary_culture = eastern_algonquian
-culture = central_algonquian
-culture = iroquoian
+primary_culture = algonkian
+culture = cherokee
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

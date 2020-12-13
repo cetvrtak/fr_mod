@@ -1,0 +1,90 @@
+# San Salvador
+2191 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1425
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 3250
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 650
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 58350
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1100
+	}
+
+}
+# San Miguel
+2192 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2200
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 39950
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 450
+	}
+
+}

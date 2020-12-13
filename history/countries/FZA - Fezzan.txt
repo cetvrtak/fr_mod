@@ -1,5 +1,5 @@
 capital = 1741
-primary_culture = berber
+primary_culture = maghrebi
 culture = african_minor
 culture = zzz_religion_sunni
 religion = sunni

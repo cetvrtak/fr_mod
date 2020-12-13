@@ -1,0 +1,358 @@
+# Guantanamo Bay
+44 = {
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 879
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 100
+	}
+
+}
+# Havana
+2209 = {
+	aristocrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3103
+	}
+
+	artisans=
+	{
+		culture = spanish
+		religion = catholic
+		size= 4325
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 4000
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 6000
+	}
+
+	bureaucrats=
+	{
+		culture = spanish
+		religion = catholic
+		size= 300
+	}
+
+	bureaucrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = spanish
+		religion = catholic
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 28625
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2500
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 38000
+	}
+
+	soldiers=
+	{
+		culture = spanish
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+}
+# Jagua
+2210 = {
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 1200
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2000
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 21575
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 11850
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 25000
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 150
+	}
+
+}
+# Camaguey
+2211 = {
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3500
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8500
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2200
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 25000
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 300
+	}
+
+}
+# Santiago de Cuba
+2212 = {
+	aristocrats=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 3500
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 8975
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3300
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 14000
+	}
+
+	soldiers=
+	{
+		culture = caribeno
+		religion = catholic
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 200
+	}
+
+}

@@ -1,7 +1,7 @@
 capital = 30
-primary_culture = siouan
+primary_culture = dakota
+culture = algonkian
 culture = metis
-culture = plains_algonquian
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

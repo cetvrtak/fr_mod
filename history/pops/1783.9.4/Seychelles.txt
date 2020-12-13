@@ -1,0 +1,45 @@
+# Seychelles
+2127 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = kreol
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = kreol
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kreol
+		religion = catholic
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 1175
+	}
+
+	soldiers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 30
+	}
+
+}

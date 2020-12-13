@@ -1,0 +1,491 @@
+# Reval
+349 = {
+	aristocrats=
+	{
+		culture = estonian
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 375
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 425
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 34425
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 100
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 125
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 100
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 1600
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}
+# Narva
+350 = {
+	aristocrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 800
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size= 2300
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 39825
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 1450
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+}
+# Parnu
+351 = {
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 20800
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 200
+	}
+
+}
+# Dorpat
+352 = {
+	aristocrats=
+	{
+		culture = north_german
+		religion = protestant
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 34500
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 1325
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 100
+	}
+
+}
+# Kuressaare
+353 = {
+	artisans=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = estonian
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = estonian
+		religion = protestant
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 3225
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = estonian
+		religion = protestant
+		size= 100
+	}
+
+}

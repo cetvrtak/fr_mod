@@ -1,0 +1,358 @@
+# Guatemala City
+2186 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 925
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 600
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 165
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 16200
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 15525
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 785
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 50
+	}
+
+}
+# La Mesilla
+2187 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1050
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5400
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 19625
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 225
+	}
+
+}
+# Puerto Barrios
+2188 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5425
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 11225
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 475
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 125
+	}
+
+}
+# Sayaxche
+2189 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 2800
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 25
+	}
+
+}
+# Ocos
+2628 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = catholic
+		size= 1500
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = catholic
+		size= 165
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 7150
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 23725
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 315
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = catholic
+		size= 375
+	}
+
+}

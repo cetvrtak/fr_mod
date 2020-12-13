@@ -1,0 +1,355 @@
+# Phnom Penh
+1364 = {
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 2000
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 5500
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 1250
+	}
+
+	bureaucrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1125
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 93025
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2675
+	}
+
+	officers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 200
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 9000
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1000
+	}
+
+}
+# Battambang
+1366 = {
+	aristocrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = thai
+		religion = theravada
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 2000
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 750
+	}
+
+	bureaucrats=
+	{
+		culture = thai
+		religion = theravada
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = thai
+		religion = theravada
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = thai
+		religion = theravada
+		size= 725
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 39425
+	}
+
+	farmers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 2150
+	}
+
+	officers=
+	{
+		culture = thai
+		religion = theravada
+		size= 75
+	}
+
+	slaves=
+	{
+		culture = khmer
+		religion = theravada
+		size= 3100
+	}
+
+	soldiers=
+	{
+		culture = thai
+		religion = theravada
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 425
+	}
+
+	soldiers=
+	{
+		culture = yue
+		religion = mahayana
+		size= 50
+	}
+
+}
+# Kampot
+1367 = {
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 725
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1750
+	}
+
+	artisans=
+	{
+		culture = yue
+		religion = mahayana
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 375
+	}
+
+	clergymen=
+	{
+		culture = yue
+		religion = mahayana
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 34150
+	}
+
+	farmers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 1475
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 1100
+	}
+
+}
+# Stongtreng
+1368 = {
+	aristocrats=
+	{
+		culture = khmer
+		religion = theravada
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = khmer
+		religion = theravada
+		size= 900
+	}
+
+	artisans=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = khmer
+		religion = theravada
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 16450
+	}
+
+	farmers=
+	{
+		culture = asian_minor
+		religion = mahayana
+		size= 2750
+	}
+
+	slaves=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = khmer
+		religion = theravada
+		size= 175
+	}
+
+	soldiers=
+	{
+		culture = vietnamese
+		religion = mahayana
+		size= 25
+	}
+
+}

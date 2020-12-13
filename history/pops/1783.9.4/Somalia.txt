@@ -1,0 +1,458 @@
+# Mogadishu
+1868 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 1050
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 2175
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 58000
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = sunni
+		size= 75
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 6000
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 1125
+	}
+
+}
+# Baidoa
+1869 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 20000
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 1175
+	}
+
+}
+# Kismayo
+1870 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 275
+	}
+
+	aristocrats=
+	{
+		culture = cushitic
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = cushitic
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 13775
+	}
+
+	farmers=
+	{
+		culture = cushitic
+		religion = animist
+		size= 4575
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = cushitic
+		religion = animist
+		size= 50
+	}
+
+}
+# Hobye
+1871 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 775
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 15500
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 200
+	}
+
+}
+# Busaso
+1872 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 540
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 1175
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 20950
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = sunni
+		size= 50
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 1000
+	}
+
+}
+# Berbera
+1873 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 890
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 1850
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 32000
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = sunni
+		size= 50
+	}
+
+	slaves=
+	{
+		culture = oromo
+		religion = animist
+		size= 7000
+	}
+
+	slaves=
+	{
+		culture = cushitic
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 1750
+	}
+
+}
+# Zeyla
+1874 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 7300
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 75
+	}
+
+}
+# Djibuti
+1875 = {
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = afar
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = afar
+		religion = sunni
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = afar
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 2700
+	}
+
+	farmers=
+	{
+		culture = afar
+		religion = sunni
+		size= 3625
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = afar
+		religion = sunni
+		size= 50
+	}
+
+}

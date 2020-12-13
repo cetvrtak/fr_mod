@@ -1,0 +1,94 @@
+# Thimpu
+1329 = {
+	aristocrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 575
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1500
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 80
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 24575
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 25
+	}
+
+	serfs=
+	{
+		culture = nepali
+		religion = hindu
+		size= 3650
+	}
+
+	slaves=
+	{
+		culture = assamese
+		religion = hindu
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = gelugpa
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 25
+	}
+
+}

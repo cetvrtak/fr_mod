@@ -1,0 +1,2272 @@
+# Santa Rosa
+1714 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 300
+	}
+
+	farmers=
+	{
+		culture = south_andean
+		religion = catholic
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 60
+	}
+
+}
+# Buenos Aires
+2348 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1625
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15000
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 375
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 105825
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 6000
+	}
+
+}
+# Junin
+2349 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5100
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25550
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4000
+	}
+
+}
+# Azul
+2350 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15700
+	}
+
+}
+# Magdalena
+2351 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 19000
+	}
+
+}
+# Mar del Plata
+2352 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 20700
+	}
+
+}
+# Trenque Lanquen
+2353 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1800
+	}
+
+}
+# Bahia Blanca
+2354 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2725
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2700
+	}
+
+}
+# Carmen
+2355 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1875
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 5700
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Corrientes
+2356 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3000
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 45015
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 22750
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 35
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3000
+	}
+
+}
+# Curuzu Cuatia
+2357 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2500
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1825
+	}
+
+}
+# Santo Tomas
+2358 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1875
+	}
+
+	farmers=
+	{
+		culture = brazilian
+		religion = catholic
+		size= 1825
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2700
+	}
+
+}
+# Colon
+2359 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1900
+	}
+
+}
+# Parana
+2360 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 36825
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 500
+	}
+
+}
+# Santa Espiritu
+2361 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10800
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Reconquista
+2362 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4000
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14350
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 150
+	}
+
+}
+# Rosario
+2363 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Resistencia
+2364 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 23
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2700
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1200
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Villa Angela
+2365 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2700
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Formosa
+2366 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 23
+	}
+
+	labourers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2300
+	}
+
+	labourers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 1075
+	}
+
+	labourers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 500
+	}
+
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 800
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Xolotas
+2367 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = catholic
+		size= 75
+	}
+
+	labourers=
+	{
+		culture = guarani
+		religion = animist
+		size= 4075
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = catholic
+		size= 550
+	}
+
+}
+# Salta
+2368 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1000
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1600
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+}
+# Jujuy
+2369 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Cochinoca
+2370 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+}
+# Uquia
+2371 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+}
+# Rivadavia
+2372 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+}
+# Tucuman
+2373 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1500
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 4225
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+}
+# Catamarca
+2374 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2000
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Vinchina
+2375 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+}
+# Santiago del Estero
+2376 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3005
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+}
+# Anatuya
+2377 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 25
+	}
+
+}
+# Mailin
+2378 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+}
+# Cordoba de Argentina
+2379 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1000
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 76300
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 500
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 7000
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5000
+	}
+
+}
+# Villa Nueva
+2380 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+}
+# Rio Cuarto
+2381 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+}
+# Laboulaye
+2382 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1825
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 175
+	}
+
+}
+# San Luis
+2383 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+}
+# Mercedes
+2384 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 5
+	}
+
+}
+# La Rioja
+2385 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3000
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 700
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 250
+	}
+
+}
+# Santa Rita
+2386 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+}
+# San Juan
+2387 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2000
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+}
+# Calingasta
+2388 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 60
+	}
+
+}
+# Mendoza
+2389 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 2060
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 200
+	}
+
+}
+# San Rafael
+2390 = {
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 125
+	}
+
+}
+# Neuquen
+2391 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 125
+	}
+
+}
+# Viedma
+2392 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 175
+	}
+
+}
+# Telen
+2393 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 175
+	}
+
+}
+# Bariloche
+2394 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 3675
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 250
+	}
+
+}
+# Curaco
+2395 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 175
+	}
+
+}
+# Rawson
+2396 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 65
+	}
+
+}
+# Esquel
+2397 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 65
+	}
+
+}
+# Puerto Deseado
+2398 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 65
+	}
+
+}
+# Rio Gallegos
+2399 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 65
+	}
+
+}
+# Rio Grande
+2400 = {
+	aristocrats=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = patagonian
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 65
+	}
+
+}
+# Misiones
+2554 = {
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 175
+	}
+
+}

@@ -1,6 +1,6 @@
-owner = CRK
-controller = CRK
-add_core = CRK
+owner = USA
+controller = USA
+add_core = USA
 trade_goods = cotton
 life_rating = 35
 
@@ -8,7 +8,6 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = CRK
 	trade_goods = cotton
 	life_rating = 35
 }

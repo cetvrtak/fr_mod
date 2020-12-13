@@ -1,0 +1,17 @@
+# Falkland & South Georgia
+2131 = {
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 25
+	}
+
+}

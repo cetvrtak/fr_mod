@@ -1,6 +1,5 @@
 capital = 1902
-primary_culture = gur
-culture = mossi
+primary_culture = mossi
 culture = zzz_religion_shamanism
 religion = shamanism
 government = absolute_monarchy

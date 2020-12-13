@@ -1,5 +1,5 @@
 capital = 24
-primary_culture = plains_algonquian
+primary_culture = algonkian
 culture = metis
 culture = zzz_religion_totemism
 religion = totemism

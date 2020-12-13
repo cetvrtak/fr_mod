@@ -1,0 +1,174 @@
+# Fernando Po
+1955 = {
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = ibo
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = ibo
+		religion = animist
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = ibo
+		religion = animist
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 530
+	}
+
+	farmers=
+	{
+		culture = ibo
+		religion = animist
+		size= 700
+	}
+
+	officers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ibo
+		religion = animist
+		size= 20
+	}
+
+	slaves=
+	{
+		culture = kru
+		religion = animist
+		size= 630
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = ibo
+		religion = animist
+		size= 50
+	}
+
+}
+# Bata
+1973 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 1500
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 31500
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 1000
+	}
+
+	slaves=
+	{
+		culture = ibo
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+}

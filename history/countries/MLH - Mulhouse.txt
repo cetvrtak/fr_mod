@@ -79,4 +79,3 @@ prestige=0
 oob = "MLH_OOB.txt"
 set_country_flag = member_hre
 set_country_flag = religi
-set_global_flag = mulhausen_german

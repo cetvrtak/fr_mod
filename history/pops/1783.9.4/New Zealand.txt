@@ -1,0 +1,366 @@
+# Auckland
+2509 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 4975
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 100
+	}
+
+}
+# Ngamotu
+2510 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 2580
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+}
+# Ahuriri
+2511 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 2675
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+}
+# Te Upoko-o-te-Ika
+2512 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 2675
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+}
+# Otepoti
+2513 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 15
+	}
+
+}
+# Hokitika
+2514 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 15
+	}
+
+}
+# Otautahi
+2515 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1775
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+}
+# Whakatu
+2516 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 2675
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+}
+# Kirikiriroa
+2524 = {
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1488
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+}
+# Tauranga
+2571 = {
+	aristocrats=
+	{
+		culture = maori
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maori
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = maori
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maori
+		religion = animist
+		size= 1487
+	}
+
+	soldiers=
+	{
+		culture = maori
+		religion = animist
+		size= 75
+	}
+
+}

@@ -1,0 +1,80 @@
+# Bourbon
+2126 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = kreol
+		religion = catholic
+		size= 850
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = kreol
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 5825
+	}
+
+	farmers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 1825
+	}
+
+	slaves=
+	{
+		culture = kreol
+		religion = catholic
+		size= 14000
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = kreol
+		religion = catholic
+		size= 200
+	}
+
+}

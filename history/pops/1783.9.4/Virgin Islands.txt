@@ -1,0 +1,52 @@
+# Saint Thomas
+2223 = {
+	aristocrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = protestant
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = protestant
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 350
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 500
+	}
+
+}

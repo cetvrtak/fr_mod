@@ -1,0 +1,125 @@
+# Comoros
+2123 = {
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 325
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 3425
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 8219
+	}
+
+	slaves=
+	{
+		culture = kilombero
+		religion = animist
+		size= 281
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 50
+	}
+
+}
+# Maore
+2124 = {
+	aristocrats=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 500
+	}
+
+	slaves=
+	{
+		culture = kilombero
+		religion = animist
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = kilombero
+		religion = sunni
+		size= 10
+	}
+
+}

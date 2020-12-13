@@ -1,5 +1,5 @@
 capital = 1985
-primary_culture = kuba
+primary_culture = lunda
 culture = zzz_religion_shamanism
 religion = shamanism
 government = absolute_monarchy

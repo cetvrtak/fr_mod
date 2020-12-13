@@ -1,0 +1,104 @@
+# Jamaica
+2217 = {
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 1890
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 3250
+	}
+
+	bureaucrats=
+	{
+		culture = british
+		religion = protestant
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 625
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 2190
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 84375
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 1100
+	}
+
+}
+# Cayman Islands
+2218 = {
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = afro_caribbean
+		religion = protestant
+		size= 280
+	}
+
+}

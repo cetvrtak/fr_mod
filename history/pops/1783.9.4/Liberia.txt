@@ -1,0 +1,351 @@
+# Monrovia
+1887 = {
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 875
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 2350
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = protestant
+		size= 2775
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 45875
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 5225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 1625
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 450
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+}
+# Harper
+1888 = {
+	aristocrats=
+	{
+		culture = western_nigritic
+		religion = protestant
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = protestant
+		size= 1900
+	}
+
+	artisans=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 24600
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 21850
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 375
+	}
+
+	soldiers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 125
+	}
+
+}
+# Bopolu
+1889 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 475
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 32775
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 35475
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+}
+# Gbarnga
+1890 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 15025
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 65025
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 125
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 225
+	}
+
+}
+# Zwedru
+1891 = {
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 5975
+	}
+
+	farmers=
+	{
+		culture = western_nigritic
+		religion = animist
+		size= 32300
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 250
+	}
+
+}

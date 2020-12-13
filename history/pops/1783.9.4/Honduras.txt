@@ -1,0 +1,166 @@
+# Comayagua
+2193 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 950
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2250
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 40675
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1450
+	}
+
+}
+# San Pedro Sula
+2194 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 550
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 20850
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 225
+	}
+
+}
+# La Ceiba
+2195 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 15375
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 175
+	}
+
+}
+# Puerto Lempira
+2196 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 2700
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+}

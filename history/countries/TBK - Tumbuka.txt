@@ -1,7 +1,5 @@
 capital = 2067
 primary_culture = nyasa
-culture = sena
-culture = tonga
 culture = zzz_religion_shamanism
 religion = shamanism
 government = absolute_monarchy

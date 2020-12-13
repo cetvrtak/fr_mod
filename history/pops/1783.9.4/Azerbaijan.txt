@@ -1,0 +1,543 @@
+# Baku
+1102 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = orthodox
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 740
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 245
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = orthodox
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = orthodox
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 5350
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 10985
+	}
+
+	soldiers=
+	{
+		culture = russian
+		religion = orthodox
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 125
+	}
+
+}
+# Siyazen
+1103 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 125
+	}
+
+	aristocrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 2725
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 6400
+	}
+
+	farmers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 3600
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 100
+	}
+
+}
+# Sheki
+1104 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 45
+	}
+
+	clergymen=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 1800
+	}
+
+	farmers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 900
+	}
+
+	farmers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 2600
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = georgian
+		religion = orthodox
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = dagestani
+		religion = sunni
+		size= 100
+	}
+
+}
+# Ganja
+1105 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 9100
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 6425
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 75
+	}
+
+}
+# Agdam
+1106 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = armenian
+		religion = coptic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = armenian
+		religion = coptic
+		size= 300
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = armenian
+		religion = coptic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 8225
+	}
+
+	farmers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 5475
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = sunni
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = armenian
+		religion = coptic
+		size= 75
+	}
+
+}
+# Lankaran
+1107 = {
+	aristocrats=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 12800
+	}
+
+	soldiers=
+	{
+		culture = azerbaijani
+		religion = shiite
+		size= 150
+	}
+
+}

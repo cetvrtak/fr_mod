@@ -1,5 +1,5 @@
 capital = 106
-primary_culture = plains_algonquian
+primary_culture = algonkian
 culture = caddoan
 culture = zzz_religion_totemism
 religion = totemism

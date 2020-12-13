@@ -1,5 +1,5 @@
 capital = 2147
-primary_culture = na_dene
+primary_culture = navajo
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

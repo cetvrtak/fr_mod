@@ -1,5 +1,5 @@
 capital = 2158
-primary_culture = mayan
+primary_culture = nahua
 culture = zzz_religion_animist
 religion = animist
 government = absolute_monarchy

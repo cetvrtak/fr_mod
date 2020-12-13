@@ -1,0 +1,143 @@
+# Luxembourg
+397 = {
+	aristocrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = north_german
+		religion = catholic
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1750
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = north_german
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = north_german
+		religion = catholic
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 13580
+	}
+
+	farmers=
+	{
+		culture = north_german
+		religion = protestant
+		size= 1320
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 23375
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	officers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 50
+	}
+
+	officers=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = north_german
+		religion = catholic
+		size= 2000
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}

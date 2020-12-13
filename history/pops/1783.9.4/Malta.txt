@@ -1,0 +1,66 @@
+# Malta
+854 = {
+	aristocrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = maltese
+		religion = catholic
+		size= 5500
+	}
+
+	bureaucrats=
+	{
+		culture = british
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = maltese
+		religion = catholic
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = maltese
+		religion = catholic
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 20475
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = maltese
+		religion = catholic
+		size= 340
+	}
+
+}

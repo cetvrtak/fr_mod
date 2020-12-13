@@ -1,0 +1,1956 @@
+# Cape Town
+2087 = {
+	aristocrats=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 300
+	}
+
+	aristocrats=
+	{
+		culture = british
+		religion = protestant
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 2100
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = british
+		religion = protestant
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 1100
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = british
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 9050
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 15575
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 1250
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 16245
+	}
+
+	officers=
+	{
+		culture = boer
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = british
+		religion = protestant
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 1100
+	}
+
+}
+# O'okiep
+2088 = {
+	aristocrats=
+	{
+		culture = khoisan
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 2750
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 25
+	}
+
+}
+# Worcester
+2089 = {
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 1000
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 40
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 7500
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 6700
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 3725
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 9800
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 260
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 100
+	}
+
+}
+# Swettenham
+2090 = {
+	aristocrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 600
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = boer
+		religion = protestant
+		size= 30
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 65
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 6525
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 4325
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 14675
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 260
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 100
+	}
+
+}
+# Mossel Bay
+2091 = {
+	artisans=
+	{
+		culture = boer
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = boer
+		religion = protestant
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 35
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = boer
+		religion = protestant
+		size= 2775
+	}
+
+	farmers=
+	{
+		culture = british
+		religion = protestant
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 2890
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = boer
+		religion = protestant
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = protestant
+		size= 100
+	}
+
+}
+# Beaufort
+2092 = {
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 4800
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+}
+# Hantam
+2093 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 2900
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 1875
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 25
+	}
+
+}
+# Griqualand
+2094 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 1600
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 36200
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 400
+	}
+
+}
+# Dikathong
+2095 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 4650
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+}
+# Port Elizabeth
+2096 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 3900
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 860
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 2800
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+}
+# Graaf Reinet
+2097 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 3700
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 750
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 3750
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = animist
+		size= 100
+	}
+
+}
+# Bisho
+2098 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 17500
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1200
+	}
+
+}
+# Mathele
+2099 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 17500
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1200
+	}
+
+}
+# Umtata
+2100 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1800
+	}
+
+	bureaucrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 32000
+	}
+
+	slaves=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1350
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1400
+	}
+
+}
+# Thaba Nchu
+2101 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 925
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 2375
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 32900
+	}
+
+	slaves=
+	{
+		culture = tswana
+		religion = animist
+		size= 2450
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 1475
+	}
+
+}
+# Qwa-Qwa
+2102 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 18225
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 4575
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = animist
+		size= 1750
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+}
+# Lephoi
+2103 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 1025
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 18775
+	}
+
+	slaves=
+	{
+		culture = tswana
+		religion = animist
+		size= 1350
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 200
+	}
+
+}
+# Thaba Bosiu
+2104 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 1250
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 3200
+	}
+
+	bureaucrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 58000
+	}
+
+	officers=
+	{
+		culture = sotho
+		religion = animist
+		size= 250
+	}
+
+	slaves=
+	{
+		culture = zulu
+		religion = animist
+		size= 1420
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 1100
+	}
+
+}
+# Ga-Rankuwa
+2105 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 1350
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 21300
+	}
+
+	slaves=
+	{
+		culture = sotho
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 350
+	}
+
+}
+# Saan
+2106 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 1250
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 18775
+	}
+
+	slaves=
+	{
+		culture = sotho
+		religion = animist
+		size= 1500
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 250
+	}
+
+}
+# Makwasi
+2107 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 225
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 1600
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 600
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 14925
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 8925
+	}
+
+	slaves=
+	{
+		culture = tswana
+		religion = animist
+		size= 567
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 125
+	}
+
+}
+# Mosega
+2108 = {
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 350
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 26625
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 62375
+	}
+
+	slaves=
+	{
+		culture = sotho
+		religion = animist
+		size= 6972
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 8000
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 100
+	}
+
+}
+# Ga-Riba
+2109 = {
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 650
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 81850
+	}
+
+	slaves=
+	{
+		culture = sotho
+		religion = animist
+		size= 2347
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 150
+	}
+
+}
+# Tsaneng
+2110 = {
+	aristocrats=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 4700
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 1750
+	}
+
+	slaves=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 1350
+	}
+
+	soldiers=
+	{
+		culture = southern_bantu
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+}
+# Durban
+2111 = {
+	aristocrats=
+	{
+		culture = xhosa
+		religion = animist
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = zulu
+		religion = animist
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = xhosa
+		religion = animist
+		size= 400
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = animist
+		size= 1050
+	}
+
+	clergymen=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 7275
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = animist
+		size= 11150
+	}
+
+	slaves=
+	{
+		culture = xhosa
+		religion = animist
+		size= 1725
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 250
+	}
+
+}
+# Emnambithi
+2112 = {
+	aristocrats=
+	{
+		culture = zulu
+		religion = animist
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = animist
+		size= 1950
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = animist
+		size= 19100
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = animist
+		size= 712
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 1000
+	}
+
+}
+# uMgungundlovu
+2113 = {
+	aristocrats=
+	{
+		culture = zulu
+		religion = animist
+		size= 1550
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = animist
+		size= 4000
+	}
+
+	bureaucrats=
+	{
+		culture = zulu
+		religion = animist
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = animist
+		size= 825
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = animist
+		size= 77450
+	}
+
+	officers=
+	{
+		culture = zulu
+		religion = animist
+		size= 150
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = animist
+		size= 1376
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 3000
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 1000
+	}
+
+}
+# Mbabane
+2114 = {
+	aristocrats=
+	{
+		culture = zulu
+		religion = animist
+		size= 250
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = animist
+		size= 700
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = animist
+		size= 1300
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = animist
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = zulu
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = animist
+		size= 12750
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = animist
+		size= 22950
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = animist
+		size= 2450
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = animist
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = animist
+		size= 1000
+	}
+
+}
+# Emthanjeni
+2558 = {
+	aristocrats=
+	{
+		culture = sotho
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = sotho
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = animist
+		size= 5700
+	}
+
+	soldiers=
+	{
+		culture = sotho
+		religion = animist
+		size= 50
+	}
+
+}

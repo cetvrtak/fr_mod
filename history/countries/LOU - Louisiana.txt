@@ -1,8 +1,9 @@
 capital = 139
-primary_culture = nouvellien
-culture = americano
-culture = central_algonquian
+primary_culture = french_north_america_superregion_culture
+culture = algonkian
+culture = french
 culture = muskogean
+culture = spanish
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

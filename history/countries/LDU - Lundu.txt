@@ -1,6 +1,5 @@
 capital = 2053
-primary_culture = sena
-culture = nyasa
+primary_culture = nyasa
 culture = zzz_religion_shamanism
 religion = shamanism
 government = absolute_monarchy

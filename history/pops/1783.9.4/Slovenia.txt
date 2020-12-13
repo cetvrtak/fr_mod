@@ -1,0 +1,219 @@
+# Maribor
+767 = {
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1600
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 450
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 3150
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 45000
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	serfs=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 500
+	}
+
+	serfs=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 450
+	}
+
+}
+# Ljubljana
+768 = {
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 825
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 4000
+	}
+
+	bureaucrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 700
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 43150
+	}
+
+	officers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 100
+	}
+
+	serfs=
+	{
+		culture = slovene
+		religion = catholic
+		size= 20000
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 1100
+	}
+
+}
+# Postojna
+769 = {
+	aristocrats=
+	{
+		culture = slovene
+		religion = catholic
+		size= 500
+	}
+
+	artisans=
+	{
+		culture = slovene
+		religion = catholic
+		size= 2100
+	}
+
+	clergymen=
+	{
+		culture = slovene
+		religion = catholic
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 39075
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = catholic
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1975
+	}
+
+	soldiers=
+	{
+		culture = slovene
+		religion = catholic
+		size= 425
+	}
+
+}

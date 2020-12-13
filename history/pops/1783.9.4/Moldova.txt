@@ -1,0 +1,209 @@
+# Chisinau
+676 = {
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1400
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 10000
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1600
+	}
+
+	artisans=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 46750
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 6250
+	}
+
+	farmers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 4625
+	}
+
+	officers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 175
+	}
+
+	serfs=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 10000
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = turkish
+		religion = orthodox
+		size= 50
+	}
+
+}
+# Balti
+677 = {
+	aristocrats=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 3600
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 1800
+	}
+
+	clergymen=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 700
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = gypsy
+		religion = orthodox
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 45675
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 7050
+	}
+
+	serfs=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 20000
+	}
+
+	soldiers=
+	{
+		culture = romanian
+		religion = orthodox
+		size= 725
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 75
+	}
+
+}

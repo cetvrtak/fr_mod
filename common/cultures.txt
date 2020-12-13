@@ -1794,21 +1794,21 @@ native_american = {
         last_names = { Riel Bruce Lépine Dumont Clarence Martin
         }
     }
-    dakota = {
-        color = {117 84 13}
+    dakota = {  #Siouan
+        color = {139 201 190}
         first_names = { Sinté Thaóyate Thathanka Thasunke Mahpiya Istahba Hehaka Thahca Ohiyes Wanbdi Tamaha Inkpaduta
         }
         last_names = { Gleská Duta Iyotake Witko Luta Kohkophapi Sapa Huste Thankja
         }
     }
-    cherokee = {
-        color = {136 114 173}
+    cherokee = {    #Iroquois
+        color = {158 71 140}
         first_names = { John Tahlonteeskee Takatoka Charles William Lweis Dennis Joel Thomas Frank Andrew Edward
         }
         last_names = { Ross Downing Potter Thompson Wolf Mayes Buffington Harris Rogers Boudinot
         }
     }
-    pueblo = {
+    pueblo = {  #Aztec-Tanoan
         color = {222 238 156}
         first_names = { Cochise Mangas Loco Taza Nana chihuahua Geronimo Alchesay Naiche Victorio
         }
@@ -1829,7 +1829,7 @@ native_american = {
         last_names = { Piche Kiskiyew Crane Saddleback Buffalo Rain
         }
     }
-    navajo = {
+    navajo = {  #Athabaskan
         color = {83 111 191}
         first_names = { Narbona Mariano Zarcillos Manuelito Herrero Barboncito Ganado "Henry Chee" "Digul Chee"
         }
@@ -1838,6 +1838,55 @@ native_american = {
     }
     native_american_minor = {
         color = {128 55 98}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    algonkian = {
+        color = {233 160 180}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    caddoan = {
+        color = {253 254 150}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    eskaleut = {
+        color = {55 137 201}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    iroquois = {
+        color = {158 71 140}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    muskogean = {
+        color = {211 87 113}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    penutian = {
+        color = {248 129 97}
+        first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
+        }
+        last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet
+        }
+    }
+    siouan = {
+        color = {139 201 190}
         first_names = { John Paul José Louis Mariano James David Jack Joel Charles Henry Ganado Herandez
         }
         last_names = { Piche Ross Alvarez Smith Crane Mayes Thompson Delgado Dagardo Lafayet

@@ -1,0 +1,414 @@
+# Panama Canal
+1723 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 895
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1325
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 25
+	}
+
+}
+# Panama City
+2204 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 450
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 8050
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 2675
+	}
+
+	officers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 50
+	}
+
+}
+# David
+2205 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 5375
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 670
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 75
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10
+	}
+
+}
+# Penonome
+2206 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 4500
+	}
+
+	farmers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 670
+	}
+
+	slaves=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = afro_caribeno
+		religion = catholic
+		size= 10
+	}
+
+}
+# Yaviza
+2208 = {
+	aristocrats=
+	{
+		culture = central_american
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = nahua
+		religion = animist
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = nahua
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = central_american
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = nahua
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 895
+	}
+
+	farmers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 895
+	}
+
+	farmers=
+	{
+		culture = nahua
+		religion = animist
+		size= 900
+	}
+
+	soldiers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = north_andean
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = nahua
+		religion = animist
+		size= 10
+	}
+
+}

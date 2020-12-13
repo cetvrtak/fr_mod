@@ -1,0 +1,191 @@
+# Marigot
+45 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 500
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = catholic
+		size= 120
+	}
+
+}
+# Martinique
+2228 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 750
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 900
+	}
+
+	artisans=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 1250
+	}
+
+	bureaucrats=
+	{
+		culture = french
+		religion = catholic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 400
+	}
+
+	farmers=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3400
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 20000
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 250
+	}
+
+}
+# Guadeloupe
+2230 = {
+	aristocrats=
+	{
+		culture = french
+		religion = catholic
+		size= 850
+	}
+
+	artisans=
+	{
+		culture = french
+		religion = catholic
+		size= 1300
+	}
+
+	artisans=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 1500
+	}
+
+	clergymen=
+	{
+		culture = french
+		religion = catholic
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = french
+		religion = catholic
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 3050
+	}
+
+	slaves=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 24000
+	}
+
+	soldiers=
+	{
+		culture = french
+		religion = catholic
+		size= 300
+	}
+
+	soldiers=
+	{
+		culture = afro_antillean
+		religion = catholic
+		size= 300
+	}
+
+}

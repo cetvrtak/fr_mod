@@ -1,0 +1,219 @@
+# Khujand
+1201 = {
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 775
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2000
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 500
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 400
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 36425
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 9150
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 100
+	}
+
+}
+# Kulob
+1207 = {
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 575
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1450
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 275
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 27450
+	}
+
+	slaves=
+	{
+		culture = tajik
+		religion = sunni
+		size= 2000
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 4000
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 250
+	}
+
+}
+# Khorug
+1208 = {
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 350
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 850
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 25450
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 3650
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 100
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 5000
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1000
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = sunni
+		size= 500
+	}
+
+}

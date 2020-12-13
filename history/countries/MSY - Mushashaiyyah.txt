@@ -1,5 +1,5 @@
 capital = 1131
-primary_culture = mashriqi
+primary_culture = bedouin
 culture = persian
 culture = zzz_religion_shiite
 religion = shiite
