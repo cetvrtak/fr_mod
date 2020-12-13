@@ -1,4 +1,4 @@
-capital = 134
+capital = 131
 primary_culture = caddoan
 culture = zzz_religion_totemism
 religion = totemism

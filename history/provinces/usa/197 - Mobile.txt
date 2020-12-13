@@ -1,6 +1,6 @@
-owner = X09
-controller = X09
-add_core = X09
+owner = LOU
+controller = LOU
+add_core = LOU
 trade_goods = cotton
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = X09
+	remove_core = LOU
 	trade_goods = cotton
 	life_rating = 35
 }

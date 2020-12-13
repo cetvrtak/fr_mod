@@ -1,5 +1,5 @@
 owner = WIC
-controller = WIC
+controller = MEX
 add_core = WIC
 trade_goods = grain
 life_rating = 35

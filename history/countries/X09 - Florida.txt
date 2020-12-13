@@ -1,6 +1,8 @@
 capital = 197
 primary_culture = british_north_america_superregion_culture
+culture = afro_caribeno
 culture = british
+culture = iberian_north_america_superregion_culture
 culture = muskogean
 culture = spanish
 culture = zzz_religion_protestant

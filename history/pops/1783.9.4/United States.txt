@@ -1280,42 +1280,42 @@
 105 = {
 	aristocrats=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = catholic
 		size= 2
 	}
 
 	clergymen=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = catholic
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = catholic
 		size= 170
 	}
 
 	farmers=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = animist
 		size= 450
 	}
 
 	farmers=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = animist
 		size= 750
 	}
 
 	soldiers=
 	{
-		culture = pueblo
+		culture = navajo
 		religion = catholic
 		size= 3
 	}
@@ -2739,49 +2739,49 @@
 134 = {
 	artisans=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = protestant
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = protestant
 		size= 15
 	}
 
 	farmers=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = animist
 		size= 700
 	}
 
 	slaves=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = protestant
 		size= 2
 	}
 
 	soldiers=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = protestant
 		size= 1
 	}
 
 	soldiers=
 	{
-		culture = caddoan
+		culture = pueblo
 		religion = animist
 		size= 15
 	}
