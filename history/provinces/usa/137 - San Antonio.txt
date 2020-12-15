@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = cattle
 life_rating = 35
 fort = 1
@@ -10,6 +10,7 @@ fort = 1
 	controller = TEX
 	add_core = MEX
 	add_core = TEX
+	remove_core = NSP
 	trade_goods = cattle
 	life_rating = 35
 	fort = 1

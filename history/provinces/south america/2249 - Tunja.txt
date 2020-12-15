@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = NGD
+controller = NGD
+add_core = NGD
 trade_goods = grain
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = CLM
 	controller = CLM
 	add_core = CLM
-	remove_core = ECU
+	remove_core = NGD
 	trade_goods = grain
 	life_rating = 35
 }

@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = NGD
+controller = NGD
+add_core = NGD
 trade_goods = timber
 life_rating = 31
 
@@ -8,7 +8,7 @@ life_rating = 31
 	owner = VNZ
 	controller = VNZ
 	add_core = VNZ
-	remove_core = ECU
+	remove_core = NGD
 	trade_goods = timber
 	life_rating = 31
 }

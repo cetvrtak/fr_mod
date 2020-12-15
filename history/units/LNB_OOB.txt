@@ -12,11 +12,11 @@ ANH = {
 	value = 0
 	level = 2
 }
-ANS = {
+ANL = {
 	value = 0
 	level = 2
 }
-AST = {
+ANS = {
 	value = 0
 	level = 2
 }
@@ -36,10 +36,6 @@ BAV = {
 	value = 0
 	level = 2
 }
-BOL = {
-	value = 0
-	level = 2
-}
 BRA = {
 	value = 0
 	level = 2
@@ -48,7 +44,7 @@ BRE = {
 	value = 0
 	level = 2
 }
-BRZ = {
+BWI = {
 	value = 0
 	level = 2
 }
@@ -56,31 +52,15 @@ BYT = {
 	value = 0
 	level = 2
 }
-CAL = {
-	value = 0
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CUB = {
-	value = 0
-	level = 2
-}
 DEN = {
 	value = 0
 	level = 2
 }
-ECU = {
-	value = 0
-	level = 2
-}
-ENT = {
-	value = 0
-	level = 2
-}
 FLA = {
+	value = 0
+	level = 2
+}
+FLO = {
 	value = 0
 	level = 2
 }
@@ -116,15 +96,19 @@ HOL = {
 	value = 0
 	level = 2
 }
+IJU = {
+	value = 0
+	level = 2
+}
 KOL = {
 	value = 0
 	level = 2
 }
-LIG = {
+LAP = {
 	value = 0
 	level = 2
 }
-LOU = {
+LIG = {
 	value = 0
 	level = 2
 }
@@ -137,10 +121,6 @@ MAI = {
 	level = 2
 }
 MEC = {
-	value = 0
-	level = 2
-}
-MEX = {
 	value = 0
 	level = 2
 }
@@ -168,6 +148,14 @@ NET = {
 	value = 0
 	level = 2
 }
+NGD = {
+	value = 0
+	level = 2
+}
+NSP = {
+	value = 0
+	level = 2
+}
 NUM = {
 	value = 0
 	level = 2
@@ -180,15 +168,19 @@ PAL = {
 	value = 0
 	level = 2
 }
+PBR = {
+	value = 0
+	level = 2
+}
 PLC = {
 	value = 0
 	level = 2
 }
-PRU = {
+PQU = {
 	value = 0
 	level = 2
 }
-QUE = {
+PRU = {
 	value = 0
 	level = 2
 }
@@ -212,7 +204,15 @@ SAX = {
 	value = 0
 	level = 2
 }
+SCL = {
+	value = 0
+	level = 2
+}
 SLZ = {
+	value = 0
+	level = 2
+}
+SPR = {
 	value = 0
 	level = 2
 }
@@ -253,10 +253,6 @@ WUR = {
 	level = 2
 }
 X00 = {
-	value = 0
-	level = 2
-}
-X09 = {
 	value = 0
 	level = 2
 }

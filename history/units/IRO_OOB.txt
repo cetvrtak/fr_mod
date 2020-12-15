@@ -24,10 +24,6 @@ CAD = {
 	value = 0
 	level = 2
 }
-CAL = {
-	value = 0
-	level = 2
-}
 CCW = {
 	value = 0
 	level = 2
@@ -64,6 +60,10 @@ ENL = {
 	value = 0
 	level = 2
 }
+FLO = {
+	value = 0
+	level = 2
+}
 FOX = {
 	value = 0
 	level = 2
@@ -96,15 +96,7 @@ LEN = {
 	value = 0
 	level = 2
 }
-LOU = {
-	value = 0
-	level = 2
-}
 LPN = {
-	value = 0
-	level = 2
-}
-MEX = {
 	value = 0
 	level = 2
 }
@@ -117,6 +109,10 @@ MSC = {
 	level = 2
 }
 NAH = {
+	value = 0
+	level = 2
+}
+NSP = {
 	value = 0
 	level = 2
 }
@@ -144,11 +140,15 @@ POT = {
 	value = 0
 	level = 2
 }
-QUE = {
+PQU = {
 	value = 0
 	level = 2
 }
 SAL = {
+	value = 0
+	level = 2
+}
+SCL = {
 	value = 0
 	level = 2
 }
@@ -173,10 +173,6 @@ WCR = {
 	level = 2
 }
 WIC = {
-	value = 0
-	level = 2
-}
-X09 = {
 	value = 0
 	level = 2
 }

@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = PBR
+controller = PBR
+add_core = PBR
 trade_goods = tobacco
 life_rating = 35
 
@@ -9,6 +9,7 @@ life_rating = 35
 	controller = RGS
 	add_core = BRZ
 	add_core = RGS
+	remove_core = PBR
 	trade_goods = tobacco
 	life_rating = 35
 }

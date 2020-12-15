@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 add_core = XAL
 trade_goods = fish
 life_rating = 35
@@ -9,6 +9,7 @@ life_rating = 35
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = NSP
 	remove_core = XAL
 	trade_goods = fish
 	life_rating = 35

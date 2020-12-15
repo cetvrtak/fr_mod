@@ -4,7 +4,7 @@ ADE = {
 	value = 0
 	level = 2
 }
-AST = {
+ANL = {
 	value = 0
 	level = 2
 }
@@ -12,35 +12,15 @@ AWS = {
 	value = 0
 	level = 2
 }
-BOL = {
-	value = 0
-	level = 2
-}
-BRZ = {
-	value = 0
-	level = 2
-}
-CAL = {
-	value = 0
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CUB = {
-	value = 0
-	level = 2
-}
-ECU = {
-	value = 0
-	level = 2
-}
-ENT = {
+BWI = {
 	value = 0
 	level = 2
 }
 ETH = {
+	value = 0
+	level = 2
+}
+FLO = {
 	value = 0
 	level = 2
 }
@@ -56,6 +36,10 @@ HBY = {
 	value = 0
 	level = 2
 }
+IJU = {
+	value = 0
+	level = 2
+}
 JJI = {
 	value = 0
 	level = 2
@@ -64,7 +48,7 @@ KAF = {
 	value = 0
 	level = 2
 }
-LOU = {
+LAP = {
 	value = 0
 	level = 2
 }
@@ -80,10 +64,6 @@ MED = {
 	value = 0
 	level = 2
 }
-MEX = {
-	value = 0
-	level = 2
-}
 MPH = {
 	value = 0
 	level = 2
@@ -92,11 +72,31 @@ MRE = {
 	value = 0
 	level = 2
 }
+NGD = {
+	value = 0
+	level = 2
+}
+NSP = {
+	value = 0
+	level = 2
+}
 OMA = {
 	value = 0
 	level = 2
 }
-QUE = {
+PBR = {
+	value = 0
+	level = 2
+}
+PQU = {
+	value = 0
+	level = 2
+}
+SCL = {
+	value = 0
+	level = 2
+}
+SPR = {
 	value = 0
 	level = 2
 }
@@ -109,10 +109,6 @@ WLY = {
 	level = 2
 }
 WRL = {
-	value = 0
-	level = 2
-}
-X09 = {
 	value = 0
 	level = 2
 }

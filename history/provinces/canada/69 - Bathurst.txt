@@ -1,6 +1,6 @@
-owner = QUE
+owner = PQU
 controller = ABE
-add_core = QUE
+add_core = PQU
 trade_goods = cattle
 life_rating = 31
 colonial = 2
@@ -10,7 +10,7 @@ colonial = 2
 	controller = ENG
 	add_core = MRU
 	add_core = NEN
-	remove_core = QUE
+	remove_core = PQU
 	trade_goods = cattle
 	life_rating = 31
 	colonial = 2

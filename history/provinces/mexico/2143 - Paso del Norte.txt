@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = grain
 life_rating = 31
 terrain = new_world_semidesert
@@ -9,6 +9,7 @@ terrain = new_world_semidesert
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = NSP
 	trade_goods = grain
 	life_rating = 31
 	terrain = new_world_semidesert

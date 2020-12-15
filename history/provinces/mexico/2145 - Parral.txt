@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = cattle
 life_rating = 35
 terrain = montane_forest
@@ -9,6 +9,7 @@ terrain = montane_forest
 	owner = MEX
 	controller = MEX
 	add_core = MEX
+	remove_core = NSP
 	trade_goods = cattle
 	life_rating = 35
 	terrain = montane_forest

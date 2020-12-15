@@ -1,6 +1,6 @@
 #Sphere of Influence
 
-AST = {
+ANL = {
 	value = 0
 	level = 2
 }
@@ -12,27 +12,11 @@ BIK = {
 	value = 0
 	level = 2
 }
-BOL = {
-	value = 0
-	level = 2
-}
-BRZ = {
-	value = 0
-	level = 2
-}
 BUN = {
 	value = -15
 	level = 2
 }
-CAL = {
-	value = 0
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CUB = {
+BWI = {
 	value = 0
 	level = 2
 }
@@ -44,15 +28,11 @@ DLH = {
 	value = -15
 	level = 2
 }
-ECU = {
-	value = 0
-	level = 2
-}
 ENG = {
 	value = 0
 	level = 2
 }
-ENT = {
+FLO = {
 	value = 0
 	level = 2
 }
@@ -73,6 +53,10 @@ HAD = {
 	level = 2
 }
 IDR = {
+	value = 0
+	level = 2
+}
+IJU = {
 	value = 0
 	level = 2
 }
@@ -100,15 +84,11 @@ KAT = {
 	value = 0
 	level = 2
 }
-LOU = {
+LAP = {
 	value = 0
 	level = 2
 }
 MEW = {
-	value = 0
-	level = 2
-}
-MEX = {
 	value = 0
 	level = 2
 }
@@ -128,11 +108,27 @@ NAG = {
 	value = 0
 	level = 2
 }
+NGD = {
+	value = 0
+	level = 2
+}
+NSP = {
+	value = 0
+	level = 2
+}
 NVR = {
 	value = 0
 	level = 2
 }
+PBR = {
+	value = 0
+	level = 2
+}
 POR = {
+	value = 0
+	level = 2
+}
+PQU = {
 	value = 0
 	level = 2
 }
@@ -144,11 +140,11 @@ PTL = {
 	value = 0
 	level = 2
 }
-QUE = {
+RJP = {
 	value = 0
 	level = 2
 }
-RJP = {
+SCL = {
 	value = 0
 	level = 2
 }
@@ -156,11 +152,11 @@ SIN = {
 	value = 0
 	level = 2
 }
-VIJ = {
+SPR = {
 	value = 0
 	level = 2
 }
-X09 = {
+VIJ = {
 	value = 0
 	level = 2
 }

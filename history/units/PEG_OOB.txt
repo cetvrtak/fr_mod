@@ -1,5 +1,9 @@
 #Sphere of Influence
 
+ANL = {
+	value = 0
+	level = 2
+}
 ARK = {
 	value = 0
 	level = 2
@@ -8,19 +12,7 @@ ASM = {
 	value = 0
 	level = 2
 }
-AST = {
-	value = 0
-	level = 2
-}
 BNG = {
-	value = 0
-	level = 2
-}
-BOL = {
-	value = 0
-	level = 2
-}
-BRZ = {
 	value = 0
 	level = 2
 }
@@ -28,19 +20,7 @@ BUR = {
 	value = 0
 	level = 2
 }
-CAL = {
-	value = 0
-	level = 2
-}
-CRB = {
-	value = 0
-	level = 2
-}
-CUB = {
-	value = 0
-	level = 2
-}
-ECU = {
+BWI = {
 	value = 0
 	level = 2
 }
@@ -48,7 +28,11 @@ ENG = {
 	value = 0
 	level = 2
 }
-ENT = {
+FLO = {
+	value = 0
+	level = 2
+}
+IJU = {
 	value = 0
 	level = 2
 }
@@ -56,11 +40,7 @@ KAC = {
 	value = 0
 	level = 2
 }
-LOU = {
-	value = 0
-	level = 2
-}
-MEX = {
+LAP = {
 	value = 0
 	level = 2
 }
@@ -72,15 +52,31 @@ MPH = {
 	value = 0
 	level = 2
 }
-QUE = {
+NGD = {
+	value = 0
+	level = 2
+}
+NSP = {
+	value = 0
+	level = 2
+}
+PBR = {
+	value = 0
+	level = 2
+}
+PQU = {
+	value = 0
+	level = 2
+}
+SCL = {
+	value = 0
+	level = 2
+}
+SPR = {
 	value = 0
 	level = 2
 }
 TPR = {
-	value = 0
-	level = 2
-}
-X09 = {
 	value = 0
 	level = 2
 }

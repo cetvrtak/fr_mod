@@ -1,6 +1,6 @@
-owner = AST
-controller = AST
-add_core = AST
+owner = ANL
+controller = ANL
+add_core = ANL
 trade_goods = tobacco
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = HAI
 	controller = HAI
 	add_core = HAI
-	remove_core = AST
+	remove_core = ANL
 	trade_goods = tobacco
 	life_rating = 35
 }

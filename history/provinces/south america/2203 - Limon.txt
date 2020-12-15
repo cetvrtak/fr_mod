@@ -1,6 +1,6 @@
-owner = ECU
-controller = ECU
-add_core = ECU
+owner = NGD
+controller = NGD
+add_core = NGD
 trade_goods = coffee
 life_rating = 33
 
@@ -8,7 +8,7 @@ life_rating = 33
 	owner = UCA
 	controller = UCA
 	add_core = COS
-	remove_core = ECU
+	remove_core = NGD
 	trade_goods = coffee
 	life_rating = 33
 }

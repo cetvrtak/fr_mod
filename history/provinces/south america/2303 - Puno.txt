@@ -1,6 +1,6 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = SPR
+controller = SPR
+add_core = SPR
 trade_goods = iron
 life_rating = 35
 
@@ -9,7 +9,7 @@ life_rating = 35
 	controller = SPU
 	add_core = PEU
 	add_core = SPU
-	remove_core = BOL
+	remove_core = SPR
 	trade_goods = iron
 	life_rating = 35
 }

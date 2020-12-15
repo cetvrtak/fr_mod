@@ -1,6 +1,6 @@
-owner = CAL
-controller = CAL
-add_core = CAL
+owner = SCL
+controller = SCL
+add_core = SCL
 trade_goods = fruit
 life_rating = 35
 colonial = 2
@@ -10,6 +10,7 @@ colonial = 2
 	controller = MEX
 	add_core = CAL
 	add_core = MEX
+	remove_core = SCL
 	trade_goods = fruit
 	life_rating = 35
 	colonial = 2

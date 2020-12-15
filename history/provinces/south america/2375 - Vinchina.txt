@@ -1,6 +1,6 @@
-owner = ENT
-controller = ENT
-add_core = ENT
+owner = LAP
+controller = LAP
+add_core = LAP
 trade_goods = iron
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = ARC
 	controller = ARC
 	add_core = ARC
-	remove_core = ENT
+	remove_core = LAP
 	trade_goods = iron
 	life_rating = 35
 }

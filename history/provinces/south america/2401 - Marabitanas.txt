@@ -1,6 +1,6 @@
-owner = BRZ
-controller = BRZ
-add_core = BRZ
+owner = PBR
+controller = PBR
+add_core = PBR
 trade_goods = tropical_wood
 life_rating = 31
 
@@ -8,7 +8,7 @@ life_rating = 31
 	owner = CLM
 	controller = CLM
 	add_core = CLM
-	remove_core = BRZ
+	remove_core = PBR
 	trade_goods = tropical_wood
 	life_rating = 31
 }

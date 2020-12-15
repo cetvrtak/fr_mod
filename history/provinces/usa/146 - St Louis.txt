@@ -1,6 +1,6 @@
-owner = LOU
-controller = LOU
-add_core = LOU
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = cattle
 life_rating = 35
 
@@ -8,7 +8,7 @@ life_rating = 35
 	owner = USA
 	controller = USA
 	add_core = USA
-	remove_core = LOU
+	remove_core = NSP
 	trade_goods = cattle
 	life_rating = 35
 }

@@ -1,6 +1,6 @@
-owner = BOL
-controller = BOL
-add_core = BOL
+owner = SPR
+controller = SPR
+add_core = SPR
 trade_goods = fruit
 life_rating = 35
 
@@ -8,6 +8,7 @@ life_rating = 35
 	owner = PBC
 	controller = PBC
 	add_core = BOL
+	remove_core = SPR
 	trade_goods = fruit
 	life_rating = 35
 }

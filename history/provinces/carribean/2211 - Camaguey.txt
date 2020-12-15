@@ -1,6 +1,6 @@
-owner = CUB
-controller = CUB
-add_core = CUB
+owner = IJU
+controller = IJU
+add_core = IJU
 trade_goods = tobacco
 life_rating = 35
 colonial = 2
@@ -9,6 +9,7 @@ colonial = 2
 	owner = SPA
 	controller = SPA
 	add_core = CUB
+	remove_core = IJU
 	trade_goods = tobacco
 	life_rating = 35
 	colonial = 2

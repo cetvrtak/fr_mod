@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = iron
 life_rating = 33
 
@@ -10,7 +10,7 @@ life_rating = 33
 	add_core = GUA
 	add_core = LOS
 	add_core = UCA
-	remove_core = MEX
+	remove_core = NSP
 	trade_goods = iron
 	life_rating = 33
 }

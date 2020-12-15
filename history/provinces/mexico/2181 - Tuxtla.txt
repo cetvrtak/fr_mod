@@ -1,6 +1,6 @@
-owner = MEX
-controller = MEX
-add_core = MEX
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = cotton
 life_rating = 34
 
@@ -9,6 +9,7 @@ life_rating = 34
 	controller = MEX
 	add_core = CHP
 	add_core = MEX
+	remove_core = NSP
 	trade_goods = cotton
 	life_rating = 34
 }

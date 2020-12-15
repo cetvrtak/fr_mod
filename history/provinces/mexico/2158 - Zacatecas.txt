@@ -1,7 +1,7 @@
-owner = MEX
-controller = MEX
+owner = NSP
+controller = NSP
 add_core = GAM
-add_core = MEX
+add_core = NSP
 trade_goods = grain
 life_rating = 35
 
@@ -10,6 +10,7 @@ life_rating = 35
 	controller = MEX
 	add_core = MEX
 	remove_core = GAM
+	remove_core = NSP
 	trade_goods = grain
 	life_rating = 35
 }
