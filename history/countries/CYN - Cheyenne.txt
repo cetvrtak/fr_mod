@@ -1,4 +1,4 @@
-capital = 121
+capital = 112
 primary_culture = algonkian
 culture = caddoan
 culture = pueblo

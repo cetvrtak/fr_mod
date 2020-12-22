@@ -47,8 +47,8 @@ upper_house =
 }
 
 # Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0.025
+consciousness = 2.00078
+nonstate_consciousness= 0.0250097
 
 # Technologies
 land_reform=no_land_reform

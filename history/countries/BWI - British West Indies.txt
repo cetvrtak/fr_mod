@@ -1,8 +1,7 @@
 capital = 2409
-primary_culture = british_central_america_superregion_culture
+primary_culture = british
 culture = afro_caribbean
 culture = afro_caribeno
-culture = british
 culture = carribean
 culture = zzz_religion_protestant
 religion = protestant

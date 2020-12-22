@@ -24,10 +24,6 @@ ETH = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
 GEL = {
 	value = 0
 	level = 2
@@ -37,10 +33,6 @@ HAR = {
 	level = 2
 }
 HBY = {
-	value = 0
-	level = 2
-}
-IJU = {
 	value = 0
 	level = 2
 }
@@ -101,10 +93,6 @@ PBR = {
 	level = 2
 }
 PQU = {
-	value = 0
-	level = 2
-}
-SCL = {
 	value = 0
 	level = 2
 }

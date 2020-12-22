@@ -48,14 +48,6 @@ ENG = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
-IJU = {
-	value = 0
-	level = 2
-}
 JOH = {
 	value = 0
 	level = 2
@@ -141,10 +133,6 @@ QNG = {
 	level = 2
 }
 SAK = {
-	value = 0
-	level = 2
-}
-SCL = {
 	value = 0
 	level = 2
 }

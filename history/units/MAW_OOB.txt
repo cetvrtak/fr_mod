@@ -32,10 +32,6 @@ ENG = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
 GDW = {
 	value = -15
 	level = 2
@@ -53,10 +49,6 @@ HAD = {
 	level = 2
 }
 IDR = {
-	value = 0
-	level = 2
-}
-IJU = {
 	value = 0
 	level = 2
 }
@@ -141,10 +133,6 @@ PTL = {
 	level = 2
 }
 RJP = {
-	value = 0
-	level = 2
-}
-SCL = {
 	value = 0
 	level = 2
 }

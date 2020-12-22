@@ -1,6 +1,6 @@
-owner = X07
-controller = X07
-add_core = X07
+owner = TBR
+controller = TBR
+add_core = TBR
 trade_goods = cotton
 life_rating = 35
 
@@ -11,7 +11,7 @@ life_rating = 35
 	add_core = KDS
 	add_core = MKN
 	add_core = PER
-	remove_core = X07
+	remove_core = TBR
 	trade_goods = cotton
 	life_rating = 35
 }

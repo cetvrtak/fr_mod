@@ -1,5 +1,5 @@
 owner = MGD
-controller = MGD
+controller = NSP
 add_core = MGD
 trade_goods = iron
 life_rating = 35

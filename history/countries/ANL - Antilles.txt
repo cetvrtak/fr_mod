@@ -1,9 +1,8 @@
 capital = 2230
-primary_culture = french_central_america_superregion_culture
+primary_culture = french
 culture = afro_antillean
 culture = afro_caribeno
 culture = carribean
-culture = french
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

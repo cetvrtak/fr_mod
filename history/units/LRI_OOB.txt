@@ -1,0 +1,94 @@
+#Sphere of Influence
+
+AFG = {
+	value = 0
+	level = 2
+}
+ANL = {
+	value = 0
+	level = 2
+}
+ARL = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BWI = {
+	value = 0
+	level = 2
+}
+KHO = {
+	value = 0
+	level = 2
+}
+LAP = {
+	value = 0
+	level = 2
+}
+MGR = {
+	value = 0
+	level = 2
+}
+MPH = {
+	value = 0
+	level = 2
+}
+MSY = {
+	value = 0
+	level = 2
+}
+NGD = {
+	value = 0
+	level = 2
+}
+NSP = {
+	value = 0
+	level = 2
+}
+PBR = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PQU = {
+	value = 0
+	level = 2
+}
+RDL = {
+	value = 0
+	level = 2
+}
+SPR = {
+	value = 0
+	level = 2
+}
+SRV = {
+	value = 0
+	level = 2
+}
+TAB = {
+	value = 0
+	level = 2
+}
+TBR = {
+	value = 0
+	level = 2
+}
+TUR = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

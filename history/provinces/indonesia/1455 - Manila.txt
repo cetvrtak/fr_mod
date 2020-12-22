@@ -1,5 +1,6 @@
-owner = SPA
-controller = SPA
+owner = NSP
+controller = NSP
+add_core = NSP
 trade_goods = coffee
 life_rating = 40
 colonial = 2
@@ -10,6 +11,7 @@ fort = 1
 	owner = SPA
 	controller = SPA
 	add_core = PHL
+	remove_core = NSP
 	trade_goods = coffee
 	life_rating = 40
 	colonial = 2

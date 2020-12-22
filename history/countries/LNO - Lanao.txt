@@ -20,12 +20,12 @@ school_reforms = no_schools
 # political reforms
 slavery=yes_slavery
 vote_franschise=landed_voting
-upper_house_composition=appointed
+upper_house_composition=state_equal_weight
 voting_system=jefferson_method
 public_meetings=no_meeting
 press_rights=censored_press
-trade_unions=state_controlled
-political_parties=harassment
+trade_unions=non_socialist
+political_parties=gerrymandering
 
 #Mod Reforms
 firearms_production=no_firearms_production

@@ -1,7 +1,7 @@
-owner = X08
-controller = X08
+owner = TEN
+controller = TEN
 add_core = HRE
-add_core = X08
+add_core = TEN
 trade_goods = grain
 life_rating = 35
 
@@ -11,7 +11,7 @@ life_rating = 35
 	add_core = AUS
 	add_core = VEN
 	remove_core = HRE
-	remove_core = X08
+	remove_core = TEN
 	trade_goods = grain
 	life_rating = 35
 }

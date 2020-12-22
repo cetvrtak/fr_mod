@@ -1,6 +1,5 @@
 capital = 2373
-primary_culture = iberian_andes_superregion_culture
-culture = spanish
+primary_culture = spanish
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship
@@ -51,7 +50,7 @@ upper_house =
 
 # Starting Consciousness
 consciousness = 2
-nonstate_consciousness= 0.61416
+nonstate_consciousness= 0.63428
 
 # Technologies
 ad_hoc_money_bill_printing = 1

@@ -1,8 +1,7 @@
 capital = 2436
-primary_culture = iberian_south_america_superregion_culture
+primary_culture = portuguese
 culture = afro_brazilian
 culture = guarani
-culture = portuguese
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

@@ -32,6 +32,10 @@ BAD = {
 	value = 0
 	level = 2
 }
+BAM = {
+	value = 0
+	level = 2
+}
 BAV = {
 	value = 0
 	level = 2
@@ -57,10 +61,6 @@ DEN = {
 	level = 2
 }
 FLA = {
-	value = 0
-	level = 2
-}
-FLO = {
 	value = 0
 	level = 2
 }
@@ -93,10 +93,6 @@ HES = {
 	level = 2
 }
 HOL = {
-	value = 0
-	level = 2
-}
-IJU = {
 	value = 0
 	level = 2
 }
@@ -200,10 +196,6 @@ SAX = {
 	value = 0
 	level = 2
 }
-SCL = {
-	value = 0
-	level = 2
-}
 SLZ = {
 	value = 0
 	level = 2
@@ -245,10 +237,6 @@ WBG = {
 	level = 2
 }
 WUR = {
-	value = 0
-	level = 2
-}
-X00 = {
 	value = 0
 	level = 2
 }

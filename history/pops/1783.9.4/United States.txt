@@ -1780,6 +1780,27 @@
 }
 # Fort Van Buren
 116 = {
+	artisans=
+	{
+		culture = dakota
+		religion = protestant
+		size= 2
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 10
+	}
+
 	farmers=
 	{
 		culture = dakota
@@ -1789,9 +1810,16 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 1800
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 10
 	}
 
 	soldiers=
@@ -1803,7 +1831,7 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 200
 	}
@@ -1813,7 +1841,14 @@
 117 = {
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
@@ -1825,11 +1860,46 @@
 		size= 100
 	}
 
+	artisans=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 6
+	}
+
 	farmers=
 	{
 		culture = dakota
 		religion = animist
 		size= 1800
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 4
 	}
 
 	soldiers=
@@ -1915,6 +1985,27 @@
 }
 # Fort Union
 119 = {
+	artisans=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 6
+	}
+
 	farmers=
 	{
 		culture = dakota
@@ -1924,9 +2015,16 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 900
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 4
 	}
 
 	soldiers=
@@ -1938,7 +2036,7 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 100
 	}
@@ -1949,15 +2047,43 @@
 	aristocrats=
 	{
 		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 100
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 6
 	}
 
 	farmers=
@@ -1969,9 +2095,23 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 900
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 4
 	}
 
 	soldiers=
@@ -1983,7 +2123,7 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 100
 	}
@@ -1993,42 +2133,42 @@
 121 = {
 	artisans=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = protestant
 		size= 1
 	}
 
 	clergymen=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = protestant
 		size= 1
 	}
 
 	farmers=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = protestant
 		size= 6
 	}
 
 	farmers=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = animist
 		size= 1800
 	}
 
 	soldiers=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = protestant
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = algonkian
+		culture = dakota
 		religion = animist
 		size= 100
 	}
@@ -2098,15 +2238,43 @@
 	aristocrats=
 	{
 		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 100
+	}
+
+	artisans=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 6
 	}
 
 	farmers=
@@ -2118,9 +2286,23 @@
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 900
+	}
+
+	officers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 4
 	}
 
 	soldiers=
@@ -2132,7 +2314,7 @@
 
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 150
 	}
@@ -4100,41 +4282,90 @@
 	aristocrats=
 	{
 		culture = dakota
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = native_american_minor
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = native_american_minor
+		culture = dakota
+		religion = protestant
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
+	bureaucrats=
+	{
+		culture = dakota
+		religion = protestant
+		size= 2
+	}
+
 	clergymen=
 	{
-		culture = native_american_minor
+		culture = dakota
+		religion = protestant
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = native_american_minor
+		culture = dakota
+		religion = protestant
+		size= 180
+	}
+
+	farmers=
+	{
+		culture = dakota
 		religion = animist
 		size= 1800
 	}
 
+	officers=
+	{
+		culture = dakota
+		religion = protestant
+		size= 1
+	}
+
 	soldiers=
 	{
-		culture = native_american_minor
+		culture = dakota
+		religion = protestant
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = dakota
 		religion = animist
 		size= 100
 	}

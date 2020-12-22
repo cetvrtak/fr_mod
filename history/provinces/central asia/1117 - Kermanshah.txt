@@ -1,7 +1,7 @@
 owner = PER
 controller = PER
+add_core = LRI
 add_core = PER
-add_core = X04
 trade_goods = wool
 life_rating = 35
 
@@ -10,7 +10,7 @@ life_rating = 35
 	controller = PER
 	add_core = KDS
 	add_core = PER
-	remove_core = X04
+	remove_core = LRI
 	trade_goods = wool
 	life_rating = 35
 }

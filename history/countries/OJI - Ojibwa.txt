@@ -1,7 +1,7 @@
 capital = 159
 primary_culture = algonkian
 culture = dakota
-culture = french_north_america_superregion_culture
+culture = french
 culture = zzz_religion_totemism
 religion = totemism
 government = absolute_monarchy

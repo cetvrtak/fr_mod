@@ -8,14 +8,6 @@ BWI = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
-IJU = {
-	value = 0
-	level = 2
-}
 LAP = {
 	value = 0
 	level = 2
@@ -41,10 +33,6 @@ PQU = {
 	level = 2
 }
 RUS = {
-	value = 0
-	level = 2
-}
-SCL = {
 	value = 0
 	level = 2
 }

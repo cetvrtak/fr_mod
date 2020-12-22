@@ -3,7 +3,7 @@ controller = SAX
 add_core = AUS
 add_core = HRE
 add_core = SAX
-add_core = X06
+add_core = SOR
 trade_goods = coal
 life_rating = 40
 
@@ -15,7 +15,7 @@ life_rating = 40
 	remove_core = AUS
 	remove_core = HRE
 	remove_core = SAX
-	remove_core = X06
+	remove_core = SOR
 	trade_goods = coal
 	life_rating = 40
 }

@@ -1,0 +1,15 @@
+name = "Cherokee War"
+
+1444.11.11 = {
+	add_attacker = CHE
+	add_attacker = CRK
+	add_attacker = CCW
+	add_defender = USA
+
+	war_goal = {
+		casus_belli = acquire_core_state
+		actor = CHE
+		receiver = USA
+		state_province_id = 109
+	}
+}

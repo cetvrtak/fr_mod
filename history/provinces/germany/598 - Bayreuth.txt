@@ -1,5 +1,5 @@
 owner = BYT
-controller = X00
+controller = BAM
 add_core = BYT
 add_core = HRE
 trade_goods = timber

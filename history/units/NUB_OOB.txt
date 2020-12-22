@@ -56,6 +56,10 @@ APA = {
 	value = 0
 	level = 2
 }
+ARI = {
+	value = 0
+	level = 2
+}
 ARK = {
 	value = 0
 	level = 2
@@ -120,7 +124,15 @@ BAL = {
 	value = 0
 	level = 2
 }
+BAM = {
+	value = 0
+	level = 2
+}
 BAV = {
+	value = 0
+	level = 2
+}
+BEJ = {
 	value = 0
 	level = 2
 }
@@ -260,6 +272,10 @@ CRK = {
 	value = 0
 	level = 2
 }
+CRW = {
+	value = 0
+	level = 2
+}
 CYN = {
 	value = 0
 	level = 2
@@ -309,10 +325,6 @@ ENG = {
 	level = 2
 }
 ETH = {
-	value = 0
-	level = 2
-}
-FLO = {
 	value = 0
 	level = 2
 }
@@ -404,6 +416,10 @@ HES = {
 	value = 0
 	level = 2
 }
+HID = {
+	value = 0
+	level = 2
+}
 HUR = {
 	value = 0
 	level = 2
@@ -412,15 +428,15 @@ IDR = {
 	value = 0
 	level = 2
 }
-IJU = {
-	value = 0
-	level = 2
-}
 ILL = {
 	value = 0
 	level = 2
 }
 IME = {
+	value = 0
+	level = 2
+}
+IOW = {
 	value = 0
 	level = 2
 }
@@ -716,6 +732,10 @@ MMI = {
 	value = 0
 	level = 2
 }
+MND = {
+	value = 0
+	level = 2
+}
 MNP = {
 	value = 0
 	level = 2
@@ -849,6 +869,10 @@ OLD = {
 	level = 2
 }
 OMA = {
+	value = 0
+	level = 2
+}
+OMH = {
 	value = 0
 	level = 2
 }
@@ -1004,10 +1028,6 @@ SAX = {
 	value = 0
 	level = 2
 }
-SCL = {
-	value = 0
-	level = 2
-}
 SEG = {
 	value = 0
 	level = 2
@@ -1077,6 +1097,14 @@ SYO = {
 	level = 2
 }
 TBK = {
+	value = 0
+	level = 2
+}
+TBR = {
+	value = 0
+	level = 2
+}
+TEN = {
 	value = 0
 	level = 2
 }
@@ -1196,22 +1224,6 @@ WUR = {
 	value = 0
 	level = 2
 }
-X00 = {
-	value = 0
-	level = 2
-}
-X01 = {
-	value = 0
-	level = 2
-}
-X07 = {
-	value = 0
-	level = 2
-}
-X08 = {
-	value = 0
-	level = 2
-}
 YAO = {
 	value = 0
 	level = 2
@@ -1246,16 +1258,16 @@ ZZZ = {
 #Armies
 army = {
 	name="1st Army"
-	location=1828
+	location=1827
 	regiment = {
 		name="1st  Irregulars"
 		type=irregular
-		home=1827
+		home=1829
 	}
 	regiment = {
 		name="1st  Irregulars"
 		type=irregular
-		home=1838
+		home=1830
 	}
 }
 

@@ -24,19 +24,15 @@ BWI = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
-IJU = {
-	value = 0
-	level = 2
-}
 KHO = {
 	value = 0
 	level = 2
 }
 LAP = {
+	value = 0
+	level = 2
+}
+LRI = {
 	value = 0
 	level = 2
 }
@@ -76,10 +72,6 @@ RDL = {
 	value = 0
 	level = 2
 }
-SCL = {
-	value = 0
-	level = 2
-}
 SPR = {
 	value = 0
 	level = 2
@@ -88,15 +80,11 @@ SRV = {
 	value = 0
 	level = 2
 }
+TBR = {
+	value = 0
+	level = 2
+}
 TUR = {
-	value = 0
-	level = 2
-}
-X04 = {
-	value = 0
-	level = 2
-}
-X07 = {
 	value = 0
 	level = 2
 }

@@ -36,6 +36,10 @@ ANH = {
 	value = 0
 	level = 2
 }
+ANL = {
+	value = 0
+	level = 2
+}
 ANS = {
 	value = 0
 	level = 2
@@ -197,6 +201,10 @@ BUN = {
 	level = 2
 }
 BUR = {
+	value = 0
+	level = 2
+}
+BWI = {
 	value = 0
 	level = 2
 }
@@ -388,6 +396,10 @@ IDR = {
 	value = 0
 	level = 2
 }
+IJU = {
+	value = 0
+	level = 2
+}
 ILL = {
 	value = 0
 	level = 2
@@ -553,6 +565,10 @@ LAD = {
 	level = 2
 }
 LAN = {
+	value = 0
+	level = 2
+}
+LAP = {
 	value = 0
 	level = 2
 }
@@ -776,11 +792,19 @@ NET = {
 	value = 0
 	level = 2
 }
+NGD = {
+	value = 0
+	level = 2
+}
 NJR = {
 	value = 0
 	level = 2
 }
 NKO = {
+	value = 0
+	level = 2
+}
+NSP = {
 	value = 0
 	level = 2
 }
@@ -840,6 +864,10 @@ PAW = {
 	value = 0
 	level = 2
 }
+PBR = {
+	value = 0
+	level = 2
+}
 PER = {
 	value = 0
 	level = 2
@@ -873,6 +901,10 @@ POR = {
 	level = 2
 }
 POT = {
+	value = 0
+	level = 2
+}
+PQU = {
 	value = 0
 	level = 2
 }
@@ -956,7 +988,15 @@ SAX = {
 	value = 0
 	level = 2
 }
+SCL = {
+	value = 0
+	level = 2
+}
 SEG = {
+	value = 0
+	level = 2
+}
+SFL = {
 	value = 0
 	level = 2
 }
@@ -995,6 +1035,10 @@ SLZ = {
 SPA = {
 	value = 0
 	military_access = yes
+	level = 2
+}
+SPR = {
+	value = 0
 	level = 2
 }
 SRM = {
@@ -1150,50 +1194,6 @@ X07 = {
 	level = 2
 }
 X08 = {
-	value = 0
-	level = 2
-}
-PQU = {
-	value = 0
-	level = 2
-}
-BWI = {
-	value = 0
-	level = 2
-}
-ANL = {
-	value = 0
-	level = 2
-}
-PBR = {
-	value = 0
-	level = 2
-}
-FLO = {
-	value = 0
-	level = 2
-}
-SCL = {
-	value = 0
-	level = 2
-}
-NSP = {
-	value = 0
-	level = 2
-}
-IJU = {
-	value = 0
-	level = 2
-}
-NGD = {
-	value = 0
-	level = 2
-}
-SPR = {
-	value = 0
-	level = 2
-}
-LAP = {
 	value = 0
 	level = 2
 }

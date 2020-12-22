@@ -28,6 +28,8 @@ ADE_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socj
 _ADJ;;;;;;;;;;;;;;x
 ALH;Haasa;al-Ahsâ';Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;Haasa;x
 ALH_ADJ;Haasalese;hasâlî;Haasaisch;Haasalese;haasí;Haasalese;Haasalese;Haasalese;Haasalese;Haasalese;Haasalese;Haasalese;Haasalese;x
+ANL;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;Antilles;x
+ANL_ADJ;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;Antillean;x
 ANN;Annam;Daï Nam;Annam;Annam;Annam;Annam;Annam;Annam;Annam;Annam;Annam;Annam;Annam;x
 ANN_ADJ;Annamese;annamite;Annamesisch;Annamese;annam;Annamese;Annamese;Annamese;Annamese;Annamese;Annamese;Annamese;Annamese;x
 ANT;Antemoro;Antaimoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;Antemoro;x
@@ -50,6 +52,8 @@ APA_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 APA_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 APA_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 APA_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+ARI;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;x
+ARI_ADJ;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;Arikara;x
 ARK;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;Arakan;x
 ARK_ADJ;Arakani;arakanaise;Arakanisch;Arakani;arakanés;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;Arakani;x
 ARL;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;Ardabil;x
@@ -90,6 +94,8 @@ AYR_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 AYR_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 AYR_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 AYR_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+BEJ;Beja;Bedjas;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;x
+BEJ_ADJ;Bejan;bedja;Bejaisch;Bejan;bejano;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;x
 BIJ;Bijapur;Bîjâpur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;Bijapur;x
 BIJ_ADJ;Bijapuri;bîjâpuri;Bijapurisch;Bijapuri;bijapur;Bijapuri;Bijapuri;Bijapuri;Bijapuri;Bijapuri;Bijapuri;Bijapuri;Bijapuri;x
 BLA;Blackfoot;Pieds-Noirs;Niitsítapi;Blackfoot;Pies negros;Blackfoot;Blackfoot;Blackfoot;Blackfoot;Blackfoot;Blackfoot;Blackfoot;Blackfoot;x
@@ -118,6 +124,8 @@ BRG;Burgundy;Bourgogne;Burgund;Burgundy;Borgoña;Burgundy;Burgundy;Burgundy;Burgu
 BRG_ADJ;Burgundian;bourguignonne;Burgundisch;Burgundian;borgoñés;Burgundian;Burgundian;Burgundian;Burgundian;Burgundian;Burgundian;Burgundian;Burgundian;x
 BSG;Busoga;Busoga;Busoga;Basoga;Busoga;Basoga;Basoga;Basoga;Basoga;Basoga;Basoga;Basoga;Basoga;x
 BSG_ADJ;Busogan;basoga;Busogaische;Busogan;busogano;Busogan;Busogan;Busogan;Busogan;Busogan;Busogan;Busogan;Busogan;x
+BSR;Basra;Bassora;Basra;Basra;Basora;Basra;Basra;Basra;Basra;Basra;Basra;Basra;Basra;x
+BSR_ADJ;Basran;bassorienne;Basranisch;Basran;basorí;Basran;Basran;Basran;Basran;Basran;Basran;Basran;Basran;x
 BTN;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;Buton;x
 BTN_ADJ;Butoni;butoni;Butonisch;Butoni;butono;Butoni;Butoni;Butoni;Butoni;Butoni;Butoni;Butoni;Butoni;x
 BTN_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -129,6 +137,8 @@ BTN_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 BTN_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 BTS;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;Betsimisaraka;x
 BTS_ADJ;Betsimisarakan;betsimisaraka;Betsimisarakaisch;Betsimisarakan;betsimisarakano;Betsimisarakan;Betsimisarakan;Betsimisarakan;Betsimisarakan;Betsimisarakan;Betsimisarakan;Betsimisarakan;Betsimisarakan;x
+BWI;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;British West Indies;x
+BWI_ADJ;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;British West Indian;x
 BYT;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;Bayreuth;x
 BYT_ADJ;Bayreuther;bayreuthienne;Bayreuthisch;Bayreuther;bayreutés;Bayreuther;Bayreuther;Bayreuther;Bayreuther;Bayreuther;Bayreuther;Bayreuther;Bayreuther;x
 BYT_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -247,6 +257,8 @@ CRK;Creek;Creeks;Creek;Creek;Creeks;Creek;Creek;Creek;Creek;Creek;Creek;Creek;Cr
 CRK_ADJ;Creek;creek;Creekisch;Creek;creek;Creek;Creek;Creek;Creek;Creek;Creek;Creek;Creek;x
 CRN;Cornwall;Cornouailles;Cornwall;Cornwall;Cornualles;Cornwall;Cornwall;Cornwall;Cornwall;Cornwall;Cornwall;Cornwall;Cornwall;x
 CRN_ADJ;Cornish;cornouaillaise;Cornwallisch;Cornish;córnico;Cornish;Cornish;Cornish;Cornish;Cornish;Cornish;Cornish;Cornish;x
+CRW;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;x
+CRW_ADJ;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;Crow;x
 CSH;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;x
 CSH_ADJ;Shun;Shun;Shunsch;Shun;shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;Shun;x
 CSH_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -469,6 +481,8 @@ HDR_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 HDR_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 HDR_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 HDR_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+HID;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;x
+HID_ADJ;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;Hidatsa;x
 ;;;;;;;;;;;;;;x
 _ADJ;;;;;;;;;;;;;;x
 HSC;Gaeldom;Gàidhealtachd;Inverness;Highlands;Inverness;Highlands;Highlands;Highlands;Highlands;Highlands;Highlands;Highlands;Highlands;x
@@ -504,6 +518,8 @@ IME_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 IME_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 IME_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 IME_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+IOW;Iowa;;;;;;;;;;;;;x
+IOW_ADJ;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;Iowa;x
 IRO;Iroquois;Iroquois;Irokesen;Iroquois;Iroqueses;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;x
 IRO_ADJ;Iroquois;iroquoise;Irokesisch;Iroquois;iroqués;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;Iroquois;x
 JAJ;Habsan;Habsân;Habsan;Janjira;Habsan;Janjira;Janjira;Janjira;Janjira;Janjira;Janjira;Janjira;Janjira;x
@@ -673,6 +689,8 @@ KTS_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 KTS_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 KUR;Kurland;Courlande;Kurland;Kurland;Curlandia;Kurland;Kurland;Kurland;Kurland;Kurland;Kurland;Kurland;Kurland;x
 KUR_ADJ;Kurlandian;courlandaise;Kurländisch;Kurlandian;curlandés;Kurlandian;Kurlandian;Kurlandian;Kurlandian;Kurlandian;Kurlandian;Kurlandian;Kurlandian;x
+LAP;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;Spanish La Plata;x
+LAP_ADJ;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;Spanish La Platan;x
 LDU;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;Lundu;x
 LDU_ADJ;Lundian;lundu;Lunduisch;Lundian;lunduno;Lundian;Lundian;Lundian;Lundian;Lundian;Lundian;Lundian;Lundian;x
 LEN;Lenape;Lénapes;Lenape;Lenape;Lenapes;Lenape;Lenape;Lenape;Lenape;Lenape;Lenape;Lenape;Lenape;x
@@ -708,6 +726,8 @@ LNO_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 LNO_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 LNO_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 LNO_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+LON;León;León;León;Leon;León;Leon;Leon;Leon;Leon;Leon;Leon;Leon;Leon;x
+LON_ADJ;Leonese;léonaise;Leonesisch;Leonese;leonés;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;x
 LPN;Lipan;Lipans;Lipan;Lipan;Lipán;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;x
 LPN_ADJ;Lipan;lipane;Lipanisch;Lipan;lipán;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;Lipan;x
 LPN_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -717,6 +737,8 @@ LPN_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 LPN_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 LPN_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 LPN_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+LRI;Luristan;Lorestan;Luristan;Luristan;Luristán;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;x
+LRI_ADJ;Luristani;lorestanie;Luristanisch;Luristani;luro;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;x
 LUW;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;Luwu;x
 LUW_ADJ;Luwan;luwéenne;Luwanisch;Luwan;luwu;Luwan;Luwan;Luwan;Luwan;Luwan;Luwan;Luwan;Luwan;x
 LUW_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -726,6 +748,8 @@ LUW_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 LUW_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 LUW_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 LUW_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+LVA;Livonia;Livonie;Livland;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;x
+LVA_ADJ;Livonian;livonienne;Livländisch;Livonian;livonio;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;x
 MAB;Calicut;Calicut;Calicut;Malabar;Calicut;Malabar;Malabar;Malabar;Malabar;Malabar;Malabar;Malabar;Malabar;x
 MAB_ADJ;Calicuti;calicutienne;Calicutisch;Calicuti;calicutí;Calicuti;Calicuti;Calicuti;Calicuti;Calicuti;Calicuti;Calicuti;Calicuti;x
 MAB_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -857,6 +881,8 @@ MMI_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 MMI_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 MMI_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 MMI_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+MND;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;x
+MND_ADJ;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;Mandan;x
 MPH;Muan Phuang;Muan Phuang;Muan-Phuang;MuanPhuang;Muan Phuang;MuanPhuang;MuanPhuang;MuanPhuang;MuanPhuang;MuanPhuang;MuanPhuang;MuanPhuang;MuanPhuang;x
 MPH_ADJ;Muan Phuang;muan phuang;Muan-Phuangisch;Muan Phuang;muanphuangués;Muan Phuang;Muan Phuang;Muan Phuang;Muan Phuang;Muan Phuang;Muan Phuang;Muan Phuang;Muan Phuang;x
 MPH_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -921,6 +947,8 @@ NDO_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 NDO_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 NDO_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 NDO_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+NGD;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;New Granada;x
+NGD_ADJ;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;New Granadan;x
 NGP;Jharkhand;Jhârkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;Jharkhand;x
 NGP_ADJ;Jharkhandi;jhârkhandi;Jharkhandisch;Jharkhandi;jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;Jharkhandi;x
 NGP_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -941,6 +969,8 @@ NNG_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 NNG_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 NRM;Normandy;Normandie;Normandie;Normandy;Normandía;Normandy;Normandy;Normandy;Normandy;Normandy;Normandy;Normandy;Normandy;x
 NRM_ADJ;Norman;normande;Normannisch;Norman;normando;Norman;Norman;Norman;Norman;Norman;Norman;Norman;Norman;x
+NSP;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;New Spain;x
+NSP_ADJ;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;New Spanish;x
 NUB;Funj;Funj;Sannar;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;x
 NUB_ADJ;Funj;funj;Sannarisch;Funj;funjés;Funj;Funj;Funj;Funj;Funj;Funj;Funj;Funj;x
 NUM;Nuremberg;Nuremberg;Nürnberg;Nuremberg;Núremburg;Nuremberg;Nuremberg;Nuremberg;Nuremberg;Nuremberg;Nuremberg;Nuremberg;Nuremberg;x
@@ -965,6 +995,8 @@ OJI_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 OJI_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 OJI_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 OJI_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+OMH;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;x
+OMH_ADJ;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;Omaha;x
 OSA;Osage;Osages;Osage;Osage;Osages;Osage;Osage;Osage;Osage;Osage;Osage;Osage;Osage;x
 OSA_ADJ;Osage;osage;Osagisch;Osage;osage;Osage;Osage;Osage;Osage;Osage;Osage;Osage;Osage;x
 OSA_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -1005,6 +1037,8 @@ PAW_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 PAW_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 PAW_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 PAW_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+PBR;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;Portuguese Brazil;x
+PBR_ADJ;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;Portuguese Brazilian;x
 PEG;Pegu;Pégou;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;x
 PEG_ADJ;Pegu;pégouane;Peguisch;Pegu;peguano;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;Pegu;x
 PGR;Pagarruyung;Pagaruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;Pagarruyung;x
@@ -1045,6 +1079,8 @@ POT_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 POT_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 POT_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 POT_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+PQU;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;Newfoundland;x
+PQU_ADJ;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;Newfoundlandian;x
 PRO;Provence;Provence;Provence;Provence;Provenza;Provence;Provence;Provence;Provence;Provence;Provence;Provence;Provence;x
 PRO_ADJ;Provencal;provençale;Provenzalisch;Provencal;provenzal;Provencal;Provencal;Provencal;Provencal;Provencal;Provencal;Provencal;Provencal;x
 QIC;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;Qi;x
@@ -1173,6 +1209,8 @@ SOL_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 SOL_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 SOL_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 SOL_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+SOR;Lusatia;Lusace;Lausitz;Sorbia;Lusacia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;x
+SOR_ADJ;Lusatian;lusacienne;Lausitzisch;Lusatian;lusaciano;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;x
 SOS;Sus;Souss;Sus;Sus;Sus;Sus;Sus;Sus;Sus;Sus;Sus;Sus;Sus;x
 SOS_ADJ;Susian;soussî;Susianisch;Susian;suso;Susian;Susian;Susian;Susian;Susian;Susian;Susian;Susian;x
 SOS_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -1182,6 +1220,8 @@ SOS_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowsk
 SOS_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
 SOS_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
 SOS_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
+SPR;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;Spanish Peru;x
+SPR_ADJ;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;Spanish Peruvian;x
 SRG;Surguja;Saragujâ;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;Surguja;x
 SRG_ADJ;Surgujan;saragujî;Surgujanisch;Surgujan;surgujano;Surgujan;Surgujan;Surgujan;Surgujan;Surgujan;Surgujan;Surgujan;Surgujan;x
 SRG_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
@@ -1215,6 +1255,10 @@ TAB_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 TAB_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 TBK;Tumbuka;Tumbukas;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;Tumbuka;x
 TBK_ADJ;Tumbukan;tumbuka;Tumbukaisch;Tumbukan;tumbukano;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Tumbukan;Tumbukan;x
+TBR;Tabriz;Tabriz;Täbris;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;x
+TBR_ADJ;Tabrizi;taurisienne;Täbrisisch;Tabrizi;tabrizlí;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;x
+TEN;Trent;Trente;Trent;Trent;Trento;Trent;Trent;Trent;Trent;Trent;Trent;Trent;Trent;x
+TEN_ADJ;Trentan;tridentine;Trentisch;Trentan;trentino;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;x
 TER;Trier;Trèves;Trier;Trier;Tréveris;Trier;Trier;Trier;Trier;Trier;Trier;Trier;Trier;x
 TER_ADJ;Trierian;trévoise;Trierisch;Trierian;treviriano;Trierian;Trierian;Trierian;Trierian;Trierian;Trierian;Trierian;Trierian;x
 TFL;Tafilalt;Tafilalet;Tafilalet;Tafilalt;Tafilalet;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;Tafilalt;x
@@ -1343,78 +1387,6 @@ WIC_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;P
 WIC_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 WLY;Welayta;Welaytas;Wolaytta;Welayta;Welayta;Welayta;Welayta;Welayta;Welayta;Welayta;Welayta;Welayta;Welayta;x
 WLY_ADJ;Welaytan;welayta;Wolayttaisch;Welaytan;welaytano;Welaytan;Welaytan;Welaytan;Welaytan;Welaytan;Welaytan;Welaytan;Welaytan;x
-X01;Beja;Bedjas;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;Beja;x
-X01_ADJ;Bejan;bedja;Bejaisch;Bejan;bejano;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;Bejan;x
-X01_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X01_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X01_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X01_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X01_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X01_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X01_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X02;Basra;Bassora;Basra;Basra;Basora;Basra;Basra;Basra;Basra;Basra;Basra;Basra;Basra;x
-X02_ADJ;Basran;bassorienne;Basranisch;Basran;basorí;Basran;Basran;Basran;Basran;Basran;Basran;Basran;Basran;x
-X02_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X02_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X02_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X02_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X02_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X02_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X02_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X03;León;León;León;Leon;León;Leon;Leon;Leon;Leon;Leon;Leon;Leon;Leon;x
-X03_ADJ;Leonese;léonaise;Leonesisch;Leonese;leonés;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;Leonese;x
-X03_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X03_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X03_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X03_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X03_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X03_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X03_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X04;Luristan;Lorestan;Luristan;Luristan;Luristán;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;Luristan;x
-X04_ADJ;Luristani;lorestanie;Luristanisch;Luristani;luro;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;Luristani;x
-X04_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X04_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X04_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X04_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X04_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X04_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X04_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X05;Livonia;Livonie;Livland;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;Livonia;x
-X05_ADJ;Livonian;livonienne;Livländisch;Livonian;livonio;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;Livonian;x
-X05_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X05_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X05_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X05_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X05_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X05_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X05_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X06;Lusatia;Lusace;Lausitz;Sorbia;Lusacia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;Sorbia;x
-X06_ADJ;Lusatian;lusacienne;Lausitzisch;Lusatian;lusaciano;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;Lusatian;x
-X06_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X06_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X06_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X06_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X06_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X06_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X06_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X07;Tabriz;Tabriz;Täbris;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;Tabriz;x
-X07_ADJ;Tabrizi;taurisienne;Täbrisisch;Tabrizi;tabrizlí;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;Tabrizi;x
-X07_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X07_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X07_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X07_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X07_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X07_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X07_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
-X08;Trent;Trente;Trent;Trent;Trento;Trent;Trent;Trent;Trent;Trent;Trent;Trent;Trent;x
-X08_ADJ;Trentan;tridentine;Trentisch;Trentan;trentino;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;Trentan;x
-X08_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x
-X08_communist;Communist Party;Parti Communiste;Kommunistische Partei;Partia Komunistyczna;Partido Comunista;Partito Comunista;Kommunista Párt;Komunistická Strana;Kommunista Párt;Communistische Partij;Partido Comunista;Êîììóíèñòè÷åñêàÿ Ïàğòèÿ;Kommunistinenpuolue;x
-X08_conservative;Conservative Party;Parti Conservateur;Konservative Partei;Partia Konserwatywna;Partido Conservador;Partito Conservatore;Konzervatív Párt;Konzervativní Strana;Konzervatív Párt;Conservatieve Partij;Partido Conservador;Êîíñåğâàòèâíàÿ Ïàğòèÿ;Konservatiivipuolue;x
-X08_fascist;Fascist Party;Parti Fasciste;Faschistische Partei;Partia Faszystowska;Partido Fascista;Partito Fascista;Fasiszta Párt;Fašistická Strana;Fasiszta Párt;Fascistische Partij;Partido Fascista;Ôàøèñòñêàÿ Ïàğòèÿ;Fasistinenpuolue;x
-X08_liberal;Liberal Party;Parti Libéral;Liberale Partei;Partia Liberalna;Partido Liberal;Partito Liberale;Liberális Párt;Liberální Strana;Liberális Párt;Liberale Partij;Partido Liberal;Ëèáåğàëüíàÿ Ïàğòèÿ;Liberaalipuolue;x
-X08_reactionary;National Party;Parti National;Nationale Partei;Partia Narodowa;Partido Nacional;Partito Nazionale;Nemzeti Párt;Národní Strana;Nemzeti Párt;Nationale Partij;Partido Nacional;Íàöèîíàëüíàÿ Ïàğòèÿ;Kansallispuolue;x
-X08_socialist;Socialist Party;Parti Socialiste;Sozialistische Partei;Partia Socjalistyczna;Partido Socialista;Partito Socialista;Szocialista Párt;Socialistická Strana;Szocialista Párt;Socialistische Partij;Partido Socialista;Ñîöèàëèñòè÷åñêàÿ Ïàğòèÿ;Sosialistinenpuolue;x
 XAL;Xalisco;Xalisco;Xalisco;Xalisco;Jalisco;Xalisco;Xalisco;Xalisco;Xalisco;Xalisco;Xalisco;Xalisco;Xalisco;x
 XAL_ADJ;Xaliscan;xaliscane;Xaliscanisch;Xaliscan;jalisciense;Xaliscan;Xaliscan;Xaliscan;Xaliscan;Xaliscan;Xaliscan;Xaliscan;Xaliscan;x
 XAL_anarcho_liberal;Radical Party;Parti Radical;Radikale Partei;Partia Radykalna;Partido Radical;Partito Radicale;Radikális Párt;Radikální Strana;Radikális Párt;Radicale Partij;Partido Radical;Ğàäèêàëüíàÿ Ïàğòèÿ;Radikaalipuolue;x

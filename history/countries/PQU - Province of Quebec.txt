@@ -1,9 +1,8 @@
 capital = 65
-primary_culture = british_north_america_superregion_culture
+primary_culture = british
 culture = algonkian
-culture = british
 culture = cherokee
-culture = french_north_america_superregion_culture
+culture = french
 culture = zzz_religion_protestant
 religion = protestant
 government = presidential_dictatorship

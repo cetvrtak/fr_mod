@@ -1,6 +1,5 @@
 capital = 2302
-primary_culture = iberian_andes_superregion_culture
-culture = spanish
+primary_culture = spanish
 culture = zzz_religion_catholic
 religion = catholic
 government = presidential_dictatorship

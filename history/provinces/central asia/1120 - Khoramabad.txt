@@ -1,8 +1,8 @@
 owner = PER
 controller = PER
+add_core = LRI
 add_core = MSY
 add_core = PER
-add_core = X04
 trade_goods = cotton
 life_rating = 35
 
@@ -10,8 +10,8 @@ life_rating = 35
 	owner = PER
 	controller = PER
 	add_core = PER
+	remove_core = LRI
 	remove_core = MSY
-	remove_core = X04
 	trade_goods = cotton
 	life_rating = 35
 }

@@ -1,7 +1,7 @@
 owner = SPA
 controller = SPA
+add_core = LON
 add_core = SPA
-add_core = X03
 trade_goods = fruit
 life_rating = 35
 
@@ -9,7 +9,7 @@ life_rating = 35
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	remove_core = X03
+	remove_core = LON
 	trade_goods = fruit
 	life_rating = 35
 }

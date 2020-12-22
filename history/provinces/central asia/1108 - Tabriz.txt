@@ -1,7 +1,7 @@
-owner = X07
+owner = TBR
 controller = ARL
 add_core = PER
-add_core = X07
+add_core = TBR
 trade_goods = coal
 life_rating = 35
 
@@ -10,7 +10,7 @@ life_rating = 35
 	controller = PER
 	add_core = AZB
 	add_core = PER
-	remove_core = X07
+	remove_core = TBR
 	trade_goods = coal
 	life_rating = 35
 }

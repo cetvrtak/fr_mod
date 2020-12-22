@@ -8,14 +8,6 @@ BWI = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
-IJU = {
-	value = 0
-	level = 2
-}
 KHA = {
 	value = 0
 	level = 2
@@ -57,10 +49,6 @@ PQU = {
 	level = 2
 }
 QNG = {
-	value = 0
-	level = 2
-}
-SCL = {
 	value = 0
 	level = 2
 }

@@ -12,19 +12,11 @@ BWI = {
 	value = 0
 	level = 2
 }
-FLO = {
-	value = 0
-	level = 2
-}
 FRA = {
 	value = 0
 	level = 2
 }
 GEN = {
-	value = 0
-	level = 2
-}
-IJU = {
 	value = 0
 	level = 2
 }
@@ -88,15 +80,15 @@ SAR = {
 	value = 0
 	level = 2
 }
-SCL = {
-	value = 0
-	level = 2
-}
 SPR = {
 	value = 0
 	level = 2
 }
 SVY = {
+	value = 0
+	level = 2
+}
+TEN = {
 	value = 0
 	level = 2
 }
@@ -109,10 +101,6 @@ URB = {
 	level = 2
 }
 VEN = {
-	value = 0
-	level = 2
-}
-X08 = {
 	value = 0
 	level = 2
 }

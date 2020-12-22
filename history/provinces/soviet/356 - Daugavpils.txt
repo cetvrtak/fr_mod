@@ -1,8 +1,8 @@
 owner = RUS
 controller = RUS
+add_core = LVA
 add_core = PLC
 add_core = RUS
-add_core = X05
 trade_goods = grain
 life_rating = 35
 
@@ -12,8 +12,8 @@ life_rating = 35
 	add_core = LAT
 	add_core = RUS
 	add_core = UBD
+	remove_core = LVA
 	remove_core = PLC
-	remove_core = X05
 	trade_goods = grain
 	life_rating = 35
 }

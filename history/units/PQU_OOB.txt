@@ -36,6 +36,10 @@ ANH = {
 	value = 0
 	level = 2
 }
+ANL = {
+	value = 0
+	level = 2
+}
 ANS = {
 	value = 0
 	level = 2
@@ -49,6 +53,10 @@ ANZ = {
 	level = 2
 }
 APA = {
+	value = 0
+	level = 2
+}
+ARI = {
 	value = 0
 	level = 2
 }
@@ -73,10 +81,6 @@ ASI = {
 	level = 2
 }
 ASM = {
-	value = 0
-	level = 2
-}
-AST = {
 	value = 0
 	level = 2
 }
@@ -109,6 +113,10 @@ BAD = {
 	level = 2
 }
 BAL = {
+	value = 0
+	level = 2
+}
+BAM = {
 	value = 0
 	level = 2
 }
@@ -152,10 +160,6 @@ BNY = {
 	value = 0
 	level = 2
 }
-BOL = {
-	value = 0
-	level = 2
-}
 BRA = {
 	value = 0
 	level = 2
@@ -169,10 +173,6 @@ BRE = {
 	level = 2
 }
 BRU = {
-	value = 0
-	level = 2
-}
-BRZ = {
 	value = 0
 	level = 2
 }
@@ -204,15 +204,15 @@ BUR = {
 	value = 0
 	level = 2
 }
+BWI = {
+	value = 0
+	level = 2
+}
 BYT = {
 	value = 0
 	level = 2
 }
 CAD = {
-	value = 0
-	level = 2
-}
-CAL = {
 	value = 0
 	level = 2
 }
@@ -256,15 +256,15 @@ COM = {
 	value = 0
 	level = 2
 }
-CRB = {
-	value = 0
-	level = 2
-}
 CRK = {
 	value = 0
 	level = 2
 }
-CUB = {
+CRW = {
+	value = 0
+	level = 2
+}
+CYN = {
 	value = 0
 	level = 2
 }
@@ -296,16 +296,9 @@ DTI = {
 	value = 0
 	level = 2
 }
-ECU = {
-	value = 0
-	level = 2
-}
 ENG = {
 	value = 0
-	level = 2
-}
-ENT = {
-	value = 0
+	military_access = yes
 	level = 2
 }
 ETH = {
@@ -376,6 +369,10 @@ HBY = {
 	value = 0
 	level = 2
 }
+HDA = {
+	value = 0
+	level = 2
+}
 HDJ = {
 	value = 0
 	level = 2
@@ -385,6 +382,10 @@ HDR = {
 	level = 2
 }
 HES = {
+	value = 0
+	level = 2
+}
+HID = {
 	value = 0
 	level = 2
 }
@@ -401,6 +402,10 @@ ILL = {
 	level = 2
 }
 IME = {
+	value = 0
+	level = 2
+}
+IOW = {
 	value = 0
 	level = 2
 }
@@ -532,6 +537,10 @@ LAN = {
 	value = 0
 	level = 2
 }
+LAP = {
+	value = 0
+	level = 2
+}
 LBA = {
 	value = 0
 	level = 2
@@ -553,10 +562,6 @@ LNA = {
 	level = 2
 }
 LOA = {
-	value = 0
-	level = 2
-}
-LOU = {
 	value = 0
 	level = 2
 }
@@ -605,10 +610,6 @@ MED = {
 	level = 2
 }
 MEW = {
-	value = 0
-	level = 2
-}
-MEX = {
 	value = 0
 	level = 2
 }
@@ -661,6 +662,10 @@ MLW = {
 	level = 2
 }
 MMI = {
+	value = 0
+	level = 2
+}
+MND = {
 	value = 0
 	level = 2
 }
@@ -752,11 +757,19 @@ NET = {
 	value = 0
 	level = 2
 }
+NGD = {
+	value = 0
+	level = 2
+}
 NJR = {
 	value = 0
 	level = 2
 }
 NKO = {
+	value = 0
+	level = 2
+}
+NSP = {
 	value = 0
 	level = 2
 }
@@ -777,6 +790,10 @@ OLD = {
 	level = 2
 }
 OMA = {
+	value = 0
+	level = 2
+}
+OMH = {
 	value = 0
 	level = 2
 }
@@ -801,6 +818,10 @@ PAT = {
 	level = 2
 }
 PAW = {
+	value = 0
+	level = 2
+}
+PBR = {
 	value = 0
 	level = 2
 }
@@ -840,6 +861,10 @@ POT = {
 	value = 0
 	level = 2
 }
+PQU = {
+	value = 0
+	level = 2
+}
 PRK = {
 	value = 0
 	level = 2
@@ -853,10 +878,6 @@ PTE = {
 	level = 2
 }
 QNG = {
-	value = 0
-	level = 2
-}
-QUE = {
 	value = 0
 	level = 2
 }
@@ -958,7 +979,10 @@ SLZ = {
 }
 SPA = {
 	value = 0
-	military_access = yes
+	level = 2
+}
+SPR = {
+	value = 0
 	level = 2
 }
 SRM = {
@@ -986,6 +1010,14 @@ SYO = {
 	level = 2
 }
 TBK = {
+	value = 0
+	level = 2
+}
+TBR = {
+	value = 0
+	level = 2
+}
+TEN = {
 	value = 0
 	level = 2
 }
@@ -1097,22 +1129,6 @@ WUR = {
 	value = 0
 	level = 2
 }
-X00 = {
-	value = 0
-	level = 2
-}
-X07 = {
-	value = 0
-	level = 2
-}
-X08 = {
-	value = 0
-	level = 2
-}
-X09 = {
-	value = 0
-	level = 2
-}
 YKA = {
 	value = 0
 	level = 2
@@ -1133,9 +1149,49 @@ ZNI = {
 #Leaders
 
 #Armies
+army = {
+	name="1st Army"
+	location=65
+	regiment = {
+		name="1st  Infantry"
+		type=infantry
+		home=58
+	}
+	regiment = {
+		name="1st  Infantry"
+		type=infantry
+		home=65
+	}
+}
+
 navy = {
 	name="1st Fleet"
-	location=197
+	location=65
+	ship = {
+		name="1st  Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd  Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd  Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=65
 	ship = {
 		name="1st  Frigate"
 		type=frigate
