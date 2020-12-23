@@ -1,0 +1,40 @@
+#flintlock_rifles
+levee_en_masse = {
+    limit = { flintlock_rifles = 1 }
+    chance = {
+        base = 2
+        modifier = {
+            factor = -2
+            NOT = { year = 1793 }   #To be tied to liberal ideology
+        }
+    }
+    effect = {
+        mobilisation_size = 0.1
+    }
+}
+#rocket_artillery
+vauban = {
+    limit = { rocket_artillery = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        activate_building = fort
+        activate_unit = engineer
+    }
+}
+congreve_rocket = {
+    limit = { rocket_artillery = 1 }
+    chance = {
+        base = 2
+        modifier = {
+            factor = -2
+            NOT = { year = 1804 }
+        }
+    }
+    effect = {
+        artillery = {
+            attack = 0.25
+        }
+    }
+}

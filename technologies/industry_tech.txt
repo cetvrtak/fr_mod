@@ -1,4 +1,14 @@
 #tech_power
+tech_power_0 = {
+    area = tech_power
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 piston_steam_engine = {
     area = tech_power
     year = 1836
@@ -316,6 +326,16 @@ electrical_power_generation = {
 
 
 #mechanization
+mechanization_0 = {
+    area = mechanization
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 mechanical_production = {
     area = mechanization
     year = 1836
@@ -569,6 +589,16 @@ shift_work = {
 
 
 #metallurgy
+
+metallurgy_0 = {
+    area = metallurgy
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
 
 hot_blast = {
     area = metallurgy
@@ -1142,6 +1172,16 @@ electric_furnace = {
 }
 
 #tech_infrastructure
+tech_infrastructure_0 = {
+    area = tech_infrastructure
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 experimental_railroad = {
     area = tech_infrastructure
     year = 1836
@@ -1367,6 +1407,16 @@ limited_access_roads = {
 
 
 #chemistry_and_electricity
+chemistry_and_electricity_0 = {
+    area = chemistry_and_electricity
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 basic_chemistry = {
     area = chemistry_and_electricity
     year = 1836

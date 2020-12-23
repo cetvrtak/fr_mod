@@ -1,4 +1,14 @@
 #financial_institutions
+financial_institutions_0 = {
+    area = financial_institutions
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 private_banks = {
     area = financial_institutions
     year = 1836
@@ -185,6 +195,16 @@ mutual_funds = {
 
 
 #monetary_system
+monetary_system_0 = {
+    area = monetary_system
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 no_standard = {
     area = monetary_system
     year = 1836
@@ -341,6 +361,16 @@ market_determined_exchange_rates = {
 
 
 #economic_thought_and_critique
+economic_thought_and_critique_0 = {
+    area = economic_thought_and_critique
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 early_classical_theory_and_critique = {
     area = economic_thought_and_critique
     year = 1836
@@ -571,6 +601,16 @@ keynesian_economics = {
 
 
 #market_functionality
+market_functionality_0 = {
+    area = market_functionality
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 freedom_of_trade = {
     area = market_functionality
     year = 1836
@@ -854,6 +894,16 @@ government_interventionism = {
 
 
 #tech_organization
+tech_organization_0 = {
+    area = tech_organization
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 guild_based_production = {
     area = tech_organization
     year = 1836

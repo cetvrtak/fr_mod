@@ -1,4 +1,15 @@
 #naval_doctrine
+naval_doctrine_0 = {
+    area = naval_doctrine
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 post_nelsonian_thought = {
     area = naval_doctrine
     year = 1836
@@ -533,6 +544,17 @@ modern_naval_doctrine = {
 
 
 #ship_construction
+ship_construction_0 = {
+    area = ship_construction
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 clipper_design = {
     area = ship_construction
     year = 1836
@@ -1111,6 +1133,17 @@ oil_driven_ships = {
 }
 
 #naval_engineering
+naval_engineering_0 = {
+    area = naval_engineering
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 naval_design_bureaus = {
     area = naval_engineering
     year = 1836
@@ -1676,6 +1709,17 @@ modern_naval_design = {
 }
 
 #naval_science
+naval_science_0 = {
+    area = naval_science
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 alphabetic_flag_signaling = {
     area = naval_science
     year = 1836
@@ -1995,6 +2039,17 @@ naval_integration = {
 
 
 #naval_leadership
+naval_leadership_0 = {
+    area = naval_leadership
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 the_command_principle = {
     area = naval_leadership
     year = 1836

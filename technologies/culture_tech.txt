@@ -1,4 +1,14 @@
 #aesthetics
+aesthetics_0 = {
+    area = aesthetics
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 classicism_n_early_romanticism = {
     area = aesthetics
     year = 1836
@@ -168,6 +178,16 @@ mass_culture_n_the_avant_garde = {
 
 
 #philosophy
+philosophy_0 = {
+    area = philosophy
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 late_enlightenment_philosophy = {
     area = philosophy
     year = 1836
@@ -396,6 +416,16 @@ anti__rationalism = {
 
 
 #social_thought
+social_thought_0 = {
+    area = social_thought
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 malthusian_thought = {
     area = social_thought
     year = 1836
@@ -666,6 +696,16 @@ social_alienation = {
 
 
 #political_thought
+political_thought_0 = {
+    area = political_thought
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 enlightenment_thought = {
     area = political_thought
     year = 1836
@@ -947,6 +987,16 @@ mass_politics = {
 
 
 #psychology
+psychology_0 = {
+    area = psychology
+    year = 1783
+    cost = 1800
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 introspectionism = {
     area = psychology
     year = 1836

@@ -1,11 +1,21 @@
 #army_doctrine
+army_doctrine_0 = {
+    area = army_doctrine
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 post_napoleonic_thought = {
     area = army_doctrine
-    year = 1836
+    year = 1815
     cost = 3600
     unciv_military = yes
 
-    activate_building = fort
     army_base = {
         default_organisation = 5
         supply_consumption = 0.10
@@ -805,11 +815,14 @@ modern_army_doctrine = {
 #light_armament
 flintlock_rifles = {
     area = light_armament
-    year = 1836
-    cost = 3600
+    year = 1722
+    cost = 1800
     unciv_military = yes
 
     activate_unit = infantry
+    army_base = {
+        supply_consumption = 0.10   #To level the replaceable_parts decrease
+    }
 
     ai_chance = {
         factor = 2
@@ -937,12 +950,26 @@ flintlock_rifles = {
         }
     }
 }
+replaceable_parts = {
+    area = light_armament
+    year = 1777
+    cost = 3600
+    unciv_military = yes
+
+    army_base = {
+        supply_consumption = -0.1
+    }
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 muzzle_loaded_rifles = {
     area = light_armament
     year = 1836
     cost = 7200
     unciv_military = yes
-    activate_unit = engineer
 
     combat_width = -2
 
@@ -1619,12 +1646,30 @@ modern_divisional_structure = {
 
 
 #heavy_armament
+rocket_artillery = {
+    area = heavy_armament
+    year = 1780
+    cost = 1800
+    unciv_military = yes
+
+    activate_unit = artillery
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 bronze_muzzle_loaded_artillery = {
     area = heavy_armament
     year = 1836
     cost = 3600
     unciv_military = yes
-    activate_unit = artillery
+
+    artillery = {
+        attack = 0.25
+        support = 0.5
+        supply_consumption = 0.15
+    }
 
     ai_chance = {
         factor = 4
@@ -2348,6 +2393,19 @@ heavy_armament_dunno = {
 
 
 #military_science
+polygonal_fort = {
+    area = military_science
+    year = 1776
+    cost = 1800
+    unciv_military = yes
+
+    max_fort = 1
+
+    ai_chance = {
+        factor = 1
+    }
+}
+
 military_staff_system = {
     area = military_science
     year = 1836
@@ -3173,6 +3231,17 @@ aeronautics = {
 
 
 #army_leadership
+army_leadership_0 = {
+    area = army_leadership
+    year = 1783
+    cost = 1800
+    unciv_military = yes
+
+    ai_chance = {
+        factor = 2
+    }
+}
+
 army_command_principle = {
     area = army_leadership
     year = 1836
