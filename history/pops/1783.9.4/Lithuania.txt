@@ -312,7 +312,7 @@
 	}
 
 }
-# Marjampole
+# Marijampole
 362 = {
 	aristocrats=
 	{

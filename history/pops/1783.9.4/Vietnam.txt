@@ -134,7 +134,7 @@
 	}
 
 }
-# Haiphong
+# Hai Phong
 1370 = {
 	aristocrats=
 	{
@@ -938,7 +938,7 @@
 	}
 
 }
-# Quinhon
+# Qui Nhon
 1379 = {
 	aristocrats=
 	{
@@ -1133,7 +1133,7 @@
 	}
 
 }
-# Dongquai
+# Dong Quai
 1381 = {
 	aristocrats=
 	{

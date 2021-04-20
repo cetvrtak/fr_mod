@@ -197,7 +197,7 @@
 	}
 
 }
-# Szatmar
+# Szatmár
 651 = {
 	aristocrats=
 	{
@@ -623,7 +623,7 @@
 	}
 
 }
-# Resita
+# Resicabánya
 653 = {
 	aristocrats=
 	{

@@ -134,7 +134,7 @@
 	}
 
 }
-# Suhar
+# Sohar
 1169 = {
 	aristocrats=
 	{

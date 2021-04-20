@@ -4201,7 +4201,7 @@
 	}
 
 }
-# Mariopol
+# Mariupol
 976 = {
 	aristocrats=
 	{

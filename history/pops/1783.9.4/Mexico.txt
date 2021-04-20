@@ -1159,7 +1159,7 @@
 	}
 
 }
-# Santa Maria del Oro
+# Santa María del Oro
 2154 = {
 	aristocrats=
 	{
@@ -1232,7 +1232,7 @@
 	}
 
 }
-# Torreon
+# Torreón
 2155 = {
 	aristocrats=
 	{
@@ -1298,7 +1298,7 @@
 	}
 
 }
-# Mazatlan
+# Mazatlán
 2156 = {
 	aristocrats=
 	{
@@ -1350,7 +1350,7 @@
 	}
 
 }
-# Culiacan
+# Culiacán
 2157 = {
 	aristocrats=
 	{
@@ -1496,7 +1496,7 @@
 	}
 
 }
-# San Luis Potosi
+# San Luis Potosí
 2159 = {
 	aristocrats=
 	{
@@ -1868,7 +1868,7 @@
 	}
 
 }
-# Minatitlan
+# Minatitlán
 2164 = {
 	aristocrats=
 	{
@@ -2546,7 +2546,7 @@
 	}
 
 }
-# Queretaro
+# Querétaro
 2173 = {
 	aristocrats=
 	{
@@ -3276,7 +3276,7 @@
 	}
 
 }
-# Merida
+# Mérida
 2183 = {
 	aristocrats=
 	{

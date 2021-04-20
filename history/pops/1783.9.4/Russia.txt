@@ -3759,7 +3759,7 @@
 	}
 
 }
-# Sarapol
+# Sarapul
 1031 = {
 	aristocrats=
 	{
@@ -8756,7 +8756,7 @@
 	}
 
 }
-# Amgun
+# Saghalian Oula
 2617 = {
 	artisans=
 	{

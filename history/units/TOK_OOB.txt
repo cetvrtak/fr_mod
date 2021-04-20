@@ -1196,14 +1196,14 @@ army = {
 	name="1st Army"
 	location=1374
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Hanoi Irregulars"
 		type=irregular
-		home=1372
+		home=1369
 	}
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Thanh Hoa Irregulars"
 		type=irregular
-		home=1376
+		home=1374
 	}
 }
 
@@ -1211,15 +1211,15 @@ navy = {
 	name="1st Fleet"
 	location=1374
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Thanh Hoa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Thanh Hoa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd  Clipper Transport"
+		name="3rd Thanh Hoa Clipper Transport"
 		type=clipper_transport
 	}
 }

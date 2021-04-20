@@ -237,7 +237,7 @@
 	}
 
 }
-# Christiansand
+# Christianssand
 310 = {
 	aristocrats=
 	{

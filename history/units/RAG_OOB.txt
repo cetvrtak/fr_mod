@@ -1265,15 +1265,15 @@ navy = {
 	name="2nd Fleet"
 	location=782
 	ship = {
-		name="1st  Frigate"
+		name="1st Dubrovnik Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Dubrovnik Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd  Frigate"
+		name="3rd Dubrovnik Frigate"
 		type=frigate
 	}
 }

@@ -656,7 +656,7 @@
 	}
 
 }
-# Zombo
+# Zumbo
 2056 = {
 	aristocrats=
 	{
@@ -1109,7 +1109,7 @@
 	}
 
 }
-# Mocambique
+# Moçambique
 2060 = {
 	aristocrats=
 	{

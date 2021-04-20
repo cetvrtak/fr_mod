@@ -1258,12 +1258,12 @@ army = {
 	name="1st Army"
 	location=1155
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Sana'a Irregulars"
 		type=irregular
-		home=1179
+		home=1178
 	}
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Taizz Irregulars"
 		type=irregular
 		home=1180
 	}
@@ -1273,11 +1273,11 @@ navy = {
 	name="1st Fleet"
 	location=1179
 	ship = {
-		name="1st  Frigate"
+		name="1st Abha Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Abha Frigate"
 		type=frigate
 	}
 }
@@ -1286,11 +1286,11 @@ navy = {
 	name="2nd Fleet"
 	location=1179
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Abha Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd  Clipper Transport"
+		name="3rd Abha Clipper Transport"
 		type=clipper_transport
 	}
 }

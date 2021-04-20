@@ -148,7 +148,7 @@
 	}
 
 }
-# Valmeira
+# Valmiera
 355 = {
 	aristocrats=
 	{

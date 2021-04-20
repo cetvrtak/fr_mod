@@ -106,7 +106,7 @@
 	}
 
 }
-# Ghayran
+# Gharyan
 1732 = {
 	aristocrats=
 	{

@@ -1322,7 +1322,7 @@
 	}
 
 }
-# Larisa
+# Larissa
 831 = {
 	aristocrats=
 	{

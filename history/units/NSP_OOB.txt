@@ -1249,34 +1249,34 @@ army = {
 	name="1st Army"
 	location=2172
 	regiment = {
-		name="1st Cololo Infantry"
+		name="1st Tulancingo Infantry"
 		type=infantry
-		home=2171
+		home=2175
 	}
 	regiment = {
-		name="2nd Cololo Infantry"
+		name="1st Tepic Infantry"
 		type=infantry
-		home=2171
+		home=2161
 	}
 	regiment = {
-		name="1st  Infantry"
+		name="1st Veracruz Infantry"
 		type=infantry
-		home=2163
+		home=2162
 	}
 	regiment = {
-		name="1st  Cavalry"
+		name="1st Ciudad Victoria Cavalry"
 		type=cavalry
-		home=2158
+		home=2150
 	}
 	regiment = {
-		name="3rd Cololo Infantry"
+		name="1st Morelia Infantry"
 		type=infantry
-		home=2171
+		home=2170
 	}
 	regiment = {
-		name="1st  Cavalry"
+		name="1st Monclova Cavalry"
 		type=cavalry
-		home=2159
+		home=2152
 	}
 }
 

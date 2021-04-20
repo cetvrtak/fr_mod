@@ -866,7 +866,7 @@
 	}
 
 }
-# Newcastle On Tyne
+# Newcastle-upon-Tyne
 280 = {
 	aristocrats=
 	{
@@ -1255,7 +1255,7 @@
 	}
 
 }
-# Shrewesbury
+# Shrewsbury
 286 = {
 	aristocrats=
 	{

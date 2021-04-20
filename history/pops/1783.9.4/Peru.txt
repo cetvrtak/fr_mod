@@ -558,7 +558,7 @@
 	}
 
 }
-# Huanuco
+# Huánuco
 2293 = {
 	aristocrats=
 	{

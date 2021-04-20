@@ -411,7 +411,7 @@
 	}
 
 }
-# Nugouses
+# Nu-gouses
 2085 = {
 	aristocrats=
 	{

@@ -803,7 +803,7 @@
 	}
 
 }
-# Lopnur
+# Lop Nur
 2607 = {
 	aristocrats=
 	{

@@ -85,7 +85,7 @@
 	}
 
 }
-# Paysandu
+# Paysandú
 2345 = {
 	aristocrats=
 	{

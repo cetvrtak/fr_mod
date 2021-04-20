@@ -1,4 +1,4 @@
-# Fernando Po
+# Fernando Pó
 1955 = {
 	aristocrats=
 	{

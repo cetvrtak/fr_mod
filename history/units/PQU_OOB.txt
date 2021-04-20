@@ -1153,14 +1153,14 @@ army = {
 	name="1st Army"
 	location=65
 	regiment = {
-		name="1st  Infantry"
+		name="1st Ungava Infantry"
 		type=infantry
-		home=58
+		home=2592
 	}
 	regiment = {
-		name="1st  Infantry"
+		name="1st Montreal Infantry"
 		type=infantry
-		home=65
+		home=58
 	}
 }
 
@@ -1168,23 +1168,23 @@ navy = {
 	name="1st Fleet"
 	location=65
 	ship = {
-		name="1st  Man'o'war"
+		name="1st Quebec City Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Quebec City Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Quebec City Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd  Clipper Transport"
+		name="3rd Quebec City Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Man'o'war"
+		name="2nd Quebec City Man'o'war"
 		type=manowar
 	}
 }
@@ -1193,11 +1193,11 @@ navy = {
 	name="2nd Fleet"
 	location=65
 	ship = {
-		name="1st  Frigate"
+		name="1st Quebec City Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Quebec City Frigate"
 		type=frigate
 	}
 }

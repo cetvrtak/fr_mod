@@ -1249,19 +1249,19 @@ army = {
 	name="1st Army"
 	location=2436
 	regiment = {
-		name="1st  Infantry"
+		name="1st Desterro Infantry"
 		type=infantry
-		home=2465
+		home=2461
 	}
 	regiment = {
-		name="1st  Infantry"
+		name="1st Santa Maria Infantry"
 		type=infantry
-		home=2443
+		home=2466
 	}
 	regiment = {
-		name="1st  Infantry"
+		name="1st Uberaba Infantry"
 		type=infantry
-		home=2458
+		home=2445
 	}
 }
 

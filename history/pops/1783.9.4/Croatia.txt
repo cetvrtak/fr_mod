@@ -517,7 +517,7 @@
 	}
 
 }
-# Varadzin
+# Varadin
 775 = {
 	aristocrats=
 	{
@@ -705,7 +705,7 @@
 	}
 
 }
-# Pozega
+# Poega
 777 = {
 	aristocrats=
 	{

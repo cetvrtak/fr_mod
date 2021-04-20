@@ -1249,19 +1249,19 @@ army = {
 	name="1st Army"
 	location=2279
 	regiment = {
-		name="1st  Infantry"
+		name="1st Tunja Infantry"
 		type=infantry
-		home=2252
+		home=2249
 	}
 	regiment = {
-		name="2nd  Infantry"
+		name="1st San José del Guaviare Infantry"
 		type=infantry
-		home=2252
+		home=2260
 	}
 	regiment = {
-		name="1st  Infantry"
+		name="1st Bogotá Infantry"
 		type=infantry
-		home=2277
+		home=2247
 	}
 }
 

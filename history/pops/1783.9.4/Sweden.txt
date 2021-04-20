@@ -1,4 +1,4 @@
-# Gavle
+# Gävle
 317 = {
 	aristocrats=
 	{
@@ -88,7 +88,7 @@
 	}
 
 }
-# Ostersund
+# Östersund
 319 = {
 	artisans=
 	{
@@ -126,7 +126,7 @@
 	}
 
 }
-# Umea
+# Umeå
 320 = {
 	artisans=
 	{
@@ -164,7 +164,7 @@
 	}
 
 }
-# Lulea
+# Luleå
 321 = {
 	artisans=
 	{
@@ -365,7 +365,7 @@
 	}
 
 }
-# Norrkoping
+# Norrköping
 325 = {
 	aristocrats=
 	{
@@ -403,7 +403,7 @@
 	}
 
 }
-# Vasteras
+# Västerås
 326 = {
 	aristocrats=
 	{
@@ -441,7 +441,7 @@
 	}
 
 }
-# Orebro
+# Örebro
 327 = {
 	aristocrats=
 	{
@@ -517,7 +517,7 @@
 	}
 
 }
-# Gothenburg
+# Göteborg
 329 = {
 	aristocrats=
 	{
@@ -569,7 +569,7 @@
 	}
 
 }
-# Boras
+# Borås
 330 = {
 	aristocrats=
 	{
@@ -683,7 +683,7 @@
 	}
 
 }
-# Vaxjo
+# Växjö
 333 = {
 	aristocrats=
 	{
@@ -721,7 +721,7 @@
 	}
 
 }
-# Malmo
+# Malmö
 334 = {
 	aristocrats=
 	{

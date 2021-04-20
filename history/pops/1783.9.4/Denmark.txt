@@ -251,7 +251,7 @@
 	}
 
 }
-# Abenra
+# Aabenraa
 371 = {
 	aristocrats=
 	{

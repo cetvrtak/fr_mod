@@ -296,7 +296,7 @@
 	}
 
 }
-# Wallis And Futuna
+# Wallis and Futuna
 2542 = {
 	aristocrats=
 	{

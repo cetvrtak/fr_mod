@@ -88,7 +88,7 @@
 	}
 
 }
-# Leon
+# León
 2199 = {
 	aristocrats=
 	{

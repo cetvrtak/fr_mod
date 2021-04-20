@@ -1,4 +1,4 @@
-# Nuuk
+# Godthab
 251 = {
 	artisans=
 	{
@@ -29,7 +29,7 @@
 	}
 
 }
-# Aasiaat
+# Egedesminde
 2636 = {
 	farmers=
 	{

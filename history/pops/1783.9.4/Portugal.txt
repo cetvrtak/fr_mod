@@ -88,7 +88,7 @@
 	}
 
 }
-# Covilha
+# Covilhã
 520 = {
 	aristocrats=
 	{
@@ -299,7 +299,7 @@
 	}
 
 }
-# Evora
+# Évora
 525 = {
 	aristocrats=
 	{

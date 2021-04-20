@@ -403,7 +403,7 @@
 	}
 
 }
-# Pecs
+# Pécs
 640 = {
 	aristocrats=
 	{
@@ -958,7 +958,7 @@
 	}
 
 }
-# Szekesfehevar
+# Székesfehérvár
 643 = {
 	aristocrats=
 	{
@@ -1080,7 +1080,7 @@
 	}
 
 }
-# Kaposvar
+# Kaposvár
 644 = {
 	aristocrats=
 	{
@@ -1209,7 +1209,7 @@
 	}
 
 }
-# Kecskemet
+# Kecskemét
 645 = {
 	aristocrats=
 	{
@@ -1760,7 +1760,7 @@
 	}
 
 }
-# Bekescsab
+# Békéscsaba
 650 = {
 	aristocrats=
 	{

@@ -959,7 +959,7 @@
 	}
 
 }
-# Suez Canal
+# Suez
 1755 = {
 	aristocrats=
 	{
@@ -1084,7 +1084,7 @@
 	}
 
 }
-# Sharm al Shaykh
+# Sharm al-Shaykh
 1757 = {
 	aristocrats=
 	{

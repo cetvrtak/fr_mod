@@ -478,7 +478,7 @@
 	}
 
 }
-# Galapagos
+# Galápagos
 2285 = {
 	artisans=
 	{

@@ -1254,21 +1254,21 @@ ZZZ = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=1430
+	location=1431
 	ship = {
-		name="1st  Frigate"
+		name="1st Makassar Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Frigate"
+		name="1st Bone Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Makassar Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Bone Frigate"
 		type=frigate
 	}
 }
@@ -1277,11 +1277,11 @@ navy = {
 	name="2nd Fleet"
 	location=1431
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Bone Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Makassar Clipper Transport"
 		type=clipper_transport
 	}
 }

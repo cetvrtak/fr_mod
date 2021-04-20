@@ -197,7 +197,7 @@
 	}
 
 }
-# Hradec Kralove
+# Hradec Králové
 626 = {
 	aristocrats=
 	{

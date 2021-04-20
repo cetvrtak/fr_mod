@@ -224,7 +224,7 @@
 	}
 
 }
-# Camaguey
+# Camagüey
 2211 = {
 	aristocrats=
 	{

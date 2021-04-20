@@ -1257,7 +1257,7 @@ navy = {
 	name="1st Fleet"
 	location=1155
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Abha Clipper Transport"
 		type=clipper_transport
 	}
 }

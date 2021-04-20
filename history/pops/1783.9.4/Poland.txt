@@ -186,7 +186,7 @@
 	}
 
 }
-# Koslin
+# Köslin
 680 = {
 	aristocrats=
 	{
@@ -280,7 +280,7 @@
 	}
 
 }
-# Kustrin
+# Küstrin
 681 = {
 	aristocrats=
 	{
@@ -2793,7 +2793,7 @@
 	}
 
 }
-# Skierniewicz
+# Skierniewice
 710 = {
 	aristocrats=
 	{

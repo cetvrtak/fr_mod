@@ -175,7 +175,7 @@
 	}
 
 }
-# Hobye
+# Hobyo
 1871 = {
 	aristocrats=
 	{
@@ -220,7 +220,7 @@
 	}
 
 }
-# Busaso
+# Bosaso
 1872 = {
 	aristocrats=
 	{

@@ -635,7 +635,7 @@
 	}
 
 }
-# sia\1337  Prome
+# Prome
 1337 = {
 	aristocrats=
 	{
@@ -673,7 +673,7 @@
 	}
 
 }
-# Taunggye
+# Taunggyi
 1338 = {
 	aristocrats=
 	{

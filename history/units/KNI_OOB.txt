@@ -1296,23 +1296,23 @@ navy = {
 	name="1st Fleet"
 	location=854
 	ship = {
-		name="1st  Frigate"
+		name="1st Malta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Malta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd  Frigate"
+		name="3rd Malta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Malta Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Malta Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1321,11 +1321,11 @@ navy = {
 	name="2nd Fleet"
 	location=854
 	ship = {
-		name="4th  Frigate"
+		name="4th Malta Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th  Frigate"
+		name="5th Malta Frigate"
 		type=frigate
 	}
 }

@@ -675,7 +675,7 @@
 	}
 
 }
-# Uskudar
+# Üsküdar
 861 = {
 	aristocrats=
 	{
@@ -1267,7 +1267,7 @@
 	}
 
 }
-# Kutahya
+# Kütahya
 867 = {
 	aristocrats=
 	{

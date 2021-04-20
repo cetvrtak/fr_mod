@@ -1,4 +1,4 @@
-# Luangprabang
+# Luang Prabang
 1356 = {
 	aristocrats=
 	{
@@ -318,7 +318,7 @@
 	}
 
 }
-# Satavan
+# Salavan
 1362 = {
 	aristocrats=
 	{

@@ -792,7 +792,7 @@
 	}
 
 }
-# Liege
+# Liège
 395 = {
 	aristocrats=
 	{

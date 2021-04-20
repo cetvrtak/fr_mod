@@ -1973,7 +1973,7 @@
 	}
 
 }
-# Sept
+# Sept-Îles
 62 = {
 	aristocrats=
 	{
@@ -2105,7 +2105,7 @@
 	}
 
 }
-# Trois Rivieres
+# Trois-Rivières
 64 = {
 	artisans=
 	{
@@ -2950,7 +2950,7 @@
 	}
 
 }
-# FortResolution
+# Fort Resolution
 2596 = {
 	aristocrats=
 	{
@@ -2995,7 +2995,7 @@
 	}
 
 }
-# Fort Chipewyan
+# Fort Vermilion
 2597 = {
 	aristocrats=
 	{

@@ -468,7 +468,7 @@
 	}
 
 }
-# Neuchatel
+# Neuchâtel
 608 = {
 	aristocrats=
 	{

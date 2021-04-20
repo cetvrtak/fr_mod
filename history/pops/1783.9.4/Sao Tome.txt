@@ -1,4 +1,4 @@
-# Sao Tome
+# São Tomé
 1954 = {
 	aristocrats=
 	{

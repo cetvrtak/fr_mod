@@ -276,7 +276,7 @@
 	}
 
 }
-# Copiapo
+# Copiapó
 2322 = {
 	aristocrats=
 	{
@@ -425,7 +425,7 @@
 	}
 
 }
-# Valparaiso
+# Valparaíso
 2325 = {
 	aristocrats=
 	{
@@ -744,7 +744,7 @@
 	}
 
 }
-# Chillan
+# Chillán
 2331 = {
 	aristocrats=
 	{
@@ -904,7 +904,7 @@
 	}
 
 }
-# Puerto Aisen
+# Puerto Aisén
 2333 = {
 	aristocrats=
 	{

@@ -596,7 +596,7 @@
 	}
 
 }
-# Sankt Polten
+# Sankt Pölten
 620 = {
 	aristocrats=
 	{

@@ -1268,29 +1268,29 @@ army = {
 	name="Armata di Napoli"
 	location=754
 	regiment = {
-		name="1st  Infantry"
-		type=infantry
-		home=760
-	}
-	regiment = {
-		name="1st  Infantry"
+		name="1st Palermo Infantry"
 		type=infantry
 		home=762
 	}
 	regiment = {
-		name="1st  Cavalry"
-		type=cavalry
-		home=761
-	}
-	regiment = {
-		name="2nd  Infantry"
+		name="2nd Palermo Infantry"
 		type=infantry
 		home=762
 	}
 	regiment = {
-		name="2nd  Cavalry"
+		name="1st Messina Cavalry"
 		type=cavalry
-		home=761
+		home=763
+	}
+	regiment = {
+		name="1st Pescara Infantry"
+		type=infantry
+		home=10
+	}
+	regiment = {
+		name="1st Reggio di Calabria Cavalry"
+		type=cavalry
+		home=759
 	}
 }
 
@@ -1298,39 +1298,39 @@ navy = {
 	name="1st Fleet"
 	location=754
 	ship = {
-		name="1st  Frigate"
+		name="1st Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd  Frigate"
+		name="3rd Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd  Clipper Transport"
+		name="3rd Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th  Clipper Transport"
+		name="4th Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th  Clipper Transport"
+		name="5th Naples Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th  Clipper Transport"
+		name="6th Naples Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1339,11 +1339,11 @@ navy = {
 	name="2nd Fleet"
 	location=754
 	ship = {
-		name="4th  Frigate"
+		name="4th Naples Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th  Frigate"
+		name="5th Naples Frigate"
 		type=frigate
 	}
 }

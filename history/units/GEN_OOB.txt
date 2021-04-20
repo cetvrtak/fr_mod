@@ -1268,19 +1268,19 @@ navy = {
 	name="1st Fleet"
 	location=724
 	ship = {
-		name="1st  Frigate"
+		name="1st Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Genoa Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Genoa Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1289,19 +1289,19 @@ navy = {
 	name="2nd Fleet"
 	location=724
 	ship = {
-		name="3rd  Frigate"
+		name="3rd Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="4th  Frigate"
+		name="4th Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="5th  Frigate"
+		name="5th Genoa Frigate"
 		type=frigate
 	}
 	ship = {
-		name="6th  Frigate"
+		name="6th Genoa Frigate"
 		type=frigate
 	}
 }

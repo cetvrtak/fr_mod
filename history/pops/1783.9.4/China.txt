@@ -1823,7 +1823,7 @@
 	}
 
 }
-# Gansu
+# Jiayuguan
 1488 = {
 	aristocrats=
 	{
@@ -3194,7 +3194,7 @@
 	}
 
 }
-# Waizao
+# Huizhou
 1497 = {
 	aristocrats=
 	{
@@ -5025,7 +5025,7 @@
 	}
 
 }
-# Henan
+# Luoyang
 1510 = {
 	aristocrats=
 	{
@@ -5133,7 +5133,7 @@
 	}
 
 }
-# Huaiqing
+# Zhengzhou
 1511 = {
 	aristocrats=
 	{

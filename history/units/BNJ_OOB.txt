@@ -1256,19 +1256,19 @@ navy = {
 	name="1st Fleet"
 	location=1424
 	ship = {
-		name="1st  Frigate"
+		name="1st Pasir Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Frigate"
+		name="1st Banjarmasin Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Banjarmasin Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="3rd Banjarmasin Frigate"
 		type=frigate
 	}
 }
@@ -1277,11 +1277,11 @@ navy = {
 	name="2nd Fleet"
 	location=1424
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Banjarmasin Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Pasir Clipper Transport"
 		type=clipper_transport
 	}
 }

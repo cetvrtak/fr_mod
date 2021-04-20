@@ -1220,19 +1220,19 @@ army = {
 	name="1st Army"
 	location=1301
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Kolhapur Irregulars"
 		type=irregular
 		home=1301
 	}
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Hoshangabad Irregulars"
 		type=irregular
-		home=1299
+		home=1276
 	}
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Gwalior Irregulars"
 		type=irregular
-		home=1272
+		home=1270
 	}
 }
 
@@ -1240,15 +1240,15 @@ navy = {
 	name="1st Fleet"
 	location=1301
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Kolhapur Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Kolhapur Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd  Clipper Transport"
+		name="3rd Kolhapur Clipper Transport"
 		type=clipper_transport
 	}
 }

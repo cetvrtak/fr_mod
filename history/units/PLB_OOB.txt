@@ -1256,19 +1256,19 @@ navy = {
 	name="1st Fleet"
 	location=1399
 	ship = {
-		name="1st  Man'o'war"
+		name="1st Palembang Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Palembang Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd  Man'o'war"
+		name="2nd Palembang Man'o'war"
 		type=manowar
 	}
 	ship = {
-		name="2nd  Clipper Transport"
+		name="2nd Palembang Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -1277,15 +1277,15 @@ navy = {
 	name="2nd Fleet"
 	location=1399
 	ship = {
-		name="1st  Frigate"
+		name="1st Palembang Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="2nd Palembang Frigate"
 		type=frigate
 	}
 	ship = {
-		name="3rd  Frigate"
+		name="3rd Palembang Frigate"
 		type=frigate
 	}
 }

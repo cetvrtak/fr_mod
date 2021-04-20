@@ -609,7 +609,7 @@
 	}
 
 }
-# Sharawrah
+# Sharurah
 1161 = {
 	aristocrats=
 	{
@@ -814,7 +814,7 @@
 	}
 
 }
-# AlAhsa
+# Al-Ahsa
 2586 = {
 	aristocrats=
 	{

@@ -1,4 +1,4 @@
-# La Coruna
+# La Coruña
 474 = {
 	aristocrats=
 	{
@@ -147,7 +147,7 @@
 	}
 
 }
-# Leon
+# León
 477 = {
 	aristocrats=
 	{
@@ -438,7 +438,7 @@
 	}
 
 }
-# Avila
+# Ávila
 483 = {
 	aristocrats=
 	{
@@ -566,7 +566,7 @@
 	}
 
 }
-# Caceres
+# Cáceres
 486 = {
 	aristocrats=
 	{
@@ -705,7 +705,7 @@
 	}
 
 }
-# Siguenza
+# Sigüenza
 488 = {
 	aristocrats=
 	{
@@ -1038,7 +1038,7 @@
 	}
 
 }
-# Logrono
+# Logroño
 494 = {
 	aristocrats=
 	{
@@ -1455,7 +1455,7 @@
 	}
 
 }
-# Lerida
+# Lérida
 500 = {
 	aristocrats=
 	{
@@ -1789,7 +1789,7 @@
 	}
 
 }
-# Castellon
+# Castellón
 504 = {
 	aristocrats=
 	{
@@ -2129,7 +2129,7 @@
 	}
 
 }
-# Cordoba
+# Córdoba
 510 = {
 	aristocrats=
 	{
@@ -2205,7 +2205,7 @@
 	}
 
 }
-# Cadiz
+# Cádiz
 512 = {
 	aristocrats=
 	{
@@ -2309,7 +2309,7 @@
 	}
 
 }
-# Malaga
+# Málaga
 514 = {
 	aristocrats=
 	{
@@ -2354,7 +2354,7 @@
 	}
 
 }
-# Almeria
+# Almería
 515 = {
 	aristocrats=
 	{
@@ -2392,7 +2392,7 @@
 	}
 
 }
-# Jaen
+# Jaén
 516 = {
 	aristocrats=
 	{

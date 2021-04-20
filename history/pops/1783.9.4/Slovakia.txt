@@ -260,7 +260,7 @@
 	}
 
 }
-# Trencin
+# Trencín
 634 = {
 	aristocrats=
 	{
@@ -602,7 +602,7 @@
 	}
 
 }
-# Banska Bystrica
+# Banská Bystrica
 636 = {
 	artisans=
 	{
@@ -766,7 +766,7 @@
 	}
 
 }
-# Kosice
+# Košice
 637 = {
 	aristocrats=
 	{

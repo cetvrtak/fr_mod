@@ -1,4 +1,4 @@
-# Bogota
+# Bogotá
 2247 = {
 	aristocrats=
 	{
@@ -113,7 +113,7 @@
 	}
 
 }
-# Ibague
+# Ibagué
 2248 = {
 	aristocrats=
 	{
@@ -318,7 +318,7 @@
 	}
 
 }
-# Cucuta
+# Cúcuta
 2251 = {
 	aristocrats=
 	{
@@ -384,7 +384,7 @@
 	}
 
 }
-# Medellin
+# Medellín
 2252 = {
 	aristocrats=
 	{
@@ -499,7 +499,7 @@
 	}
 
 }
-# Quibdo
+# Quibdó
 2253 = {
 	aristocrats=
 	{
@@ -889,7 +889,7 @@
 	}
 
 }
-# Popayan
+# Popayán
 2257 = {
 	aristocrats=
 	{
@@ -1094,7 +1094,7 @@
 	}
 
 }
-# San Jose del Guaviare
+# San José del Guaviare
 2260 = {
 	aristocrats=
 	{

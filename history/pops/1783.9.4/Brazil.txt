@@ -463,7 +463,7 @@
 	}
 
 }
-# Belem
+# Belém
 2410 = {
 	aristocrats=
 	{
@@ -585,7 +585,7 @@
 	}
 
 }
-# Santarem
+# Santarém
 2411 = {
 	aristocrats=
 	{
@@ -658,7 +658,7 @@
 	}
 
 }
-# Obidos
+# Óbidos
 2412 = {
 	aristocrats=
 	{
@@ -724,7 +724,7 @@
 	}
 
 }
-# Maraba
+# Marabá
 2413 = {
 	aristocrats=
 	{
@@ -790,7 +790,7 @@
 	}
 
 }
-# Macapa
+# Macapá
 2415 = {
 	aristocrats=
 	{
@@ -1009,7 +1009,7 @@
 	}
 
 }
-# Cuiaba
+# Cuiabá
 2418 = {
 	aristocrats=
 	{
@@ -1110,7 +1110,7 @@
 	}
 
 }
-# Corumba
+# Corumbá
 2419 = {
 	aristocrats=
 	{
@@ -1461,7 +1461,7 @@
 	}
 
 }
-# Sao Luis
+# São Luís
 2424 = {
 	aristocrats=
 	{
@@ -1753,7 +1753,7 @@
 	}
 
 }
-# Paraiba
+# Paraíba
 2428 = {
 	aristocrats=
 	{
@@ -2219,7 +2219,7 @@
 	}
 
 }
-# Maceio
+# Maceió
 2434 = {
 	aristocrats=
 	{
@@ -2692,7 +2692,7 @@
 	}
 
 }
-# Vitoria da Conquista
+# Vitória da Conquista
 2440 = {
 	aristocrats=
 	{
@@ -2852,7 +2852,7 @@
 	}
 
 }
-# Sabara
+# Sabará
 2442 = {
 	aristocrats=
 	{
@@ -2925,7 +2925,7 @@
 	}
 
 }
-# Januaria
+# Januária
 2443 = {
 	aristocrats=
 	{
@@ -3144,7 +3144,7 @@
 	}
 
 }
-# Sao Joao del Rey
+# São João del Rey
 2446 = {
 	aristocrats=
 	{
@@ -3398,7 +3398,7 @@
 	}
 
 }
-# Vitoria
+# Vitória
 2449 = {
 	aristocrats=
 	{
@@ -3471,7 +3471,7 @@
 	}
 
 }
-# Sao Paulo
+# São Paulo
 2450 = {
 	aristocrats=
 	{
@@ -4010,7 +4010,7 @@
 	}
 
 }
-# Garapuava
+# Guarapuava
 2458 = {
 	aristocrats=
 	{
@@ -4393,7 +4393,7 @@
 	}
 
 }
-# Sao Miguel
+# São Miguel
 2462 = {
 	aristocrats=
 	{
@@ -4873,7 +4873,7 @@
 	}
 
 }
-# Forte Sao Joaquim
+# Forte São Joaquim
 2532 = {
 	aristocrats=
 	{
@@ -4925,7 +4925,7 @@
 	}
 
 }
-# Tarauaca
+# Tarauacá
 2549 = {
 	aristocrats=
 	{
@@ -4963,7 +4963,7 @@
 	}
 
 }
-# Forte do Principe
+# Forte do Príncipe
 2550 = {
 	aristocrats=
 	{

@@ -426,7 +426,7 @@
 	}
 
 }
-# Uzice
+# Užice
 797 = {
 	aristocrats=
 	{
@@ -464,7 +464,7 @@
 	}
 
 }
-# Nis
+# Niš
 798 = {
 	aristocrats=
 	{

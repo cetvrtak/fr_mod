@@ -2973,7 +2973,7 @@
 	}
 
 }
-# Sabzevan
+# Sabzevar
 1149 = {
 	aristocrats=
 	{

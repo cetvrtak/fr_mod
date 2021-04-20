@@ -301,7 +301,7 @@
 	}
 
 }
-# Lubeck
+# Lübeck
 530 = {
 	aristocrats=
 	{
@@ -454,7 +454,7 @@
 	}
 
 }
-# Luneburg
+# Lüneburg
 532 = {
 	aristocrats=
 	{
@@ -763,7 +763,7 @@
 	}
 
 }
-# Gottingen
+# Göttingen
 537 = {
 	aristocrats=
 	{
@@ -801,7 +801,7 @@
 	}
 
 }
-# Osnabruck
+# Osnabrück
 538 = {
 	aristocrats=
 	{
@@ -3452,7 +3452,7 @@
 	}
 
 }
-# Kaiserlautern
+# Kaiserslautern
 571 = {
 	aristocrats=
 	{
@@ -3647,7 +3647,7 @@
 	}
 
 }
-# Saarbrucken
+# Saarbrücken
 573 = {
 	aristocrats=
 	{
@@ -4002,7 +4002,7 @@
 	}
 
 }
-# Kleves
+# Cleves
 577 = {
 	aristocrats=
 	{
@@ -4075,7 +4075,7 @@
 	}
 
 }
-# Dusseldorf
+# Düsseldorf
 578 = {
 	aristocrats=
 	{
@@ -4476,7 +4476,7 @@
 	}
 
 }
-# Munster
+# Münster
 581 = {
 	aristocrats=
 	{
@@ -5262,7 +5262,7 @@
 	}
 
 }
-# Tubingen
+# Tübingen
 591 = {
 	aristocrats=
 	{
@@ -5491,7 +5491,7 @@
 	}
 
 }
-# Nuremburg
+# Nuremberg
 595 = {
 	aristocrats=
 	{
@@ -5658,7 +5658,7 @@
 	}
 
 }
-# Wurzburg
+# Würzburg
 597 = {
 	aristocrats=
 	{
@@ -6012,7 +6012,7 @@
 	}
 
 }
-# Gorlitz
+# Görlitz
 687 = {
 	aristocrats=
 	{
@@ -6078,7 +6078,7 @@
 	}
 
 }
-# Konigsberg
+# Königsberg
 695 = {
 	aristocrats=
 	{

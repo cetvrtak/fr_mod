@@ -231,7 +231,7 @@
 	}
 
 }
-# Penonome
+# Penonomé
 2206 = {
 	aristocrats=
 	{

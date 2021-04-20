@@ -1184,7 +1184,7 @@
 	}
 
 }
-# Epinal
+# Épinal
 414 = {
 	aristocrats=
 	{
@@ -1316,7 +1316,7 @@
 	}
 
 }
-# Evreux
+# Évreux
 416 = {
 	aristocrats=
 	{
@@ -1354,7 +1354,7 @@
 	}
 
 }
-# Alencon
+# Alençon
 417 = {
 	aristocrats=
 	{
@@ -2159,7 +2159,7 @@
 	}
 
 }
-# Besancon
+# Besançon
 432 = {
 	aristocrats=
 	{
@@ -2422,7 +2422,7 @@
 	}
 
 }
-# Orleans
+# Orléans
 438 = {
 	aristocrats=
 	{
@@ -2685,7 +2685,7 @@
 	}
 
 }
-# Angouleme
+# Angoulême
 444 = {
 	aristocrats=
 	{
@@ -2775,7 +2775,7 @@
 	}
 
 }
-# Chateauroux
+# Châteauroux
 446 = {
 	aristocrats=
 	{
@@ -2851,7 +2851,7 @@
 	}
 
 }
-# Clermont
+# Clermont-Ferrand
 448 = {
 	aristocrats=
 	{
@@ -3136,7 +3136,7 @@
 	}
 
 }
-# St Etienne
+# St Étienne
 452 = {
 	aristocrats=
 	{
@@ -3750,7 +3750,7 @@
 	}
 
 }
-# Carcassone
+# Carcassonne
 463 = {
 	aristocrats=
 	{
@@ -3868,7 +3868,7 @@
 	}
 
 }
-# Annency
+# Annecy
 465 = {
 	aristocrats=
 	{
@@ -3927,7 +3927,7 @@
 	}
 
 }
-# Chambery
+# Chambéry
 466 = {
 	aristocrats=
 	{

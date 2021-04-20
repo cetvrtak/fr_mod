@@ -1258,16 +1258,16 @@ ZZZ = {
 #Armies
 army = {
 	name="1st Army"
-	location=1827
+	location=1828
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Fashoda Irregulars"
 		type=irregular
-		home=1829
+		home=1832
 	}
 	regiment = {
-		name="1st  Irregulars"
+		name="1st Kaduqli Irregulars"
 		type=irregular
-		home=1830
+		home=1840
 	}
 }
 

@@ -378,7 +378,7 @@
 	}
 
 }
-# Akihaltsikle
+# Akhaltsikhe
 1093 = {
 	aristocrats=
 	{

@@ -245,7 +245,7 @@
 	}
 
 }
-# Cumana
+# Cumaná
 2267 = {
 	aristocrats=
 	{
@@ -391,7 +391,7 @@
 	}
 
 }
-# Guiria
+# Güiria
 2269 = {
 	aristocrats=
 	{
@@ -746,7 +746,7 @@
 	}
 
 }
-# Barquisimento
+# Barquisimeto
 2273 = {
 	aristocrats=
 	{
@@ -1160,7 +1160,7 @@
 	}
 
 }
-# San Fernado de Atabapo
+# San Fernando de Atabapo
 2278 = {
 	aristocrats=
 	{

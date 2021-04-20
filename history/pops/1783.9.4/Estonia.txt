@@ -270,7 +270,7 @@
 	}
 
 }
-# Parnu
+# Pärnu
 351 = {
 	aristocrats=
 	{

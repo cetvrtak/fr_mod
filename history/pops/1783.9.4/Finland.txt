@@ -470,7 +470,7 @@
 	}
 
 }
-# Hameenlinna
+# Hämeenlinna
 344 = {
 	aristocrats=
 	{
@@ -734,7 +734,7 @@
 	}
 
 }
-# Aland Islands
+# Åland Islands
 348 = {
 	artisans=
 	{

@@ -36,7 +36,7 @@
 	}
 
 }
-# Puerto Guarani
+# Puerto Guaraní
 2338 = {
 	aristocrats=
 	{
@@ -283,7 +283,7 @@
 	}
 
 }
-# Encarnacion
+# Encarnación
 2341 = {
 	aristocrats=
 	{
@@ -478,7 +478,7 @@
 	}
 
 }
-# Concepcion
+# Concepción
 2343 = {
 	aristocrats=
 	{

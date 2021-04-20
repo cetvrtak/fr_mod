@@ -424,7 +424,7 @@
 	}
 
 }
-# Brest
+# Brest-Litovsk
 937 = {
 	aristocrats=
 	{

@@ -1151,30 +1151,30 @@ ZNI = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=2233
+	location=2409
 	ship = {
-		name="1st  Frigate"
+		name="1st Grenada Frigate"
 		type=frigate
 	}
 	ship = {
-		name="1st  Frigate"
+		name="2nd Grenada Frigate"
 		type=frigate
 	}
 	ship = {
-		name="2nd  Frigate"
+		name="1st Saint Vincent Frigate"
 		type=frigate
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=2233
+	location=2409
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Grenada Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st  Clipper Transport"
+		name="1st Saint Vincent Clipper Transport"
 		type=clipper_transport
 	}
 }

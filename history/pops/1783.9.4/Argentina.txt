@@ -109,7 +109,7 @@
 	}
 
 }
-# Junin
+# Junín
 2349 = {
 	aristocrats=
 	{
@@ -219,7 +219,7 @@
 	}
 
 }
-# Trenque Lanquen
+# Trenque Lauquen
 2353 = {
 	aristocrats=
 	{
@@ -257,7 +257,7 @@
 	}
 
 }
-# Bahia Blanca
+# Bahía Blanca
 2354 = {
 	aristocrats=
 	{
@@ -413,7 +413,7 @@
 	}
 
 }
-# Curuzu Cuatia
+# Curuzú Cuatiá
 2357 = {
 	aristocrats=
 	{
@@ -451,7 +451,7 @@
 	}
 
 }
-# Santo Tomas
+# Santo Tomás
 2358 = {
 	aristocrats=
 	{
@@ -503,7 +503,7 @@
 	}
 
 }
-# Colon
+# Colón
 2359 = {
 	aristocrats=
 	{
@@ -527,7 +527,7 @@
 	}
 
 }
-# Parana
+# Paraná
 2360 = {
 	aristocrats=
 	{
@@ -579,7 +579,7 @@
 	}
 
 }
-# Santa Espiritu
+# Sancti Spiritu
 2361 = {
 	aristocrats=
 	{
@@ -766,7 +766,7 @@
 	}
 
 }
-# Villa Angela
+# Villa Ángela
 2365 = {
 	aristocrats=
 	{
@@ -1112,7 +1112,7 @@
 	}
 
 }
-# Tucuman
+# Tucumán
 2373 = {
 	aristocrats=
 	{
@@ -1292,7 +1292,7 @@
 	}
 
 }
-# Anatuya
+# Añatuya
 2377 = {
 	aristocrats=
 	{
@@ -1344,7 +1344,7 @@
 	}
 
 }
-# Mailin
+# Mailín
 2378 = {
 	aristocrats=
 	{
@@ -1375,7 +1375,7 @@
 	}
 
 }
-# Cordoba de Argentina
+# Córdoba de Argentina
 2379 = {
 	aristocrats=
 	{
@@ -1465,7 +1465,7 @@
 	}
 
 }
-# Rio Cuarto
+# Río Cuarto
 2381 = {
 	aristocrats=
 	{
@@ -1866,7 +1866,7 @@
 	}
 
 }
-# Neuquen
+# Neuquén
 2391 = {
 	aristocrats=
 	{
@@ -1949,7 +1949,7 @@
 	}
 
 }
-# Telen
+# Telén
 2393 = {
 	aristocrats=
 	{
@@ -2032,7 +2032,7 @@
 	}
 
 }
-# Curaco
+# Curacó
 2395 = {
 	aristocrats=
 	{
@@ -2156,7 +2156,7 @@
 	}
 
 }
-# Rio Gallegos
+# Río Gallegos
 2399 = {
 	aristocrats=
 	{
@@ -2187,7 +2187,7 @@
 	}
 
 }
-# Rio Grande
+# Río Grande
 2400 = {
 	aristocrats=
 	{

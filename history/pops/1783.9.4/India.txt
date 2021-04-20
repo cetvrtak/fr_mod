@@ -1362,7 +1362,7 @@
 	}
 
 }
-# Firuzapur
+# Firozpur
 1234 = {
 	aristocrats=
 	{
@@ -5535,7 +5535,7 @@
 	}
 
 }
-# Rewali
+# Rewa
 1274 = {
 	aristocrats=
 	{
@@ -5643,7 +5643,7 @@
 	}
 
 }
-# Jubulpore
+# Jubbulpore
 1275 = {
 	aristocrats=
 	{
@@ -7565,7 +7565,7 @@
 	}
 
 }
-# Beroda
+# Baroda
 1295 = {
 	aristocrats=
 	{
