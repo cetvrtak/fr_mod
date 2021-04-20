@@ -36,6 +36,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = JOH_conservative
 upper_house = {
     fascist = 0
@@ -47,11 +49,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
-foreign_weapons = yes_foreign_weapons
-flintlock_rifles = 1
 
-# Inventions
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
 
 # Starting Consciousness
 consciousness = 0

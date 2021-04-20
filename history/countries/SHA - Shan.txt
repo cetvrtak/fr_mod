@@ -1,7 +1,7 @@
 capital = 1338
 primary_culture = shan
-culture = thai
 culture = kachin
+culture = thai
 religion = theravada
 government = absolute_monarchy
 plurality = 0.0
@@ -48,9 +48,10 @@ upper_house = {
     communist = 0
 }
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

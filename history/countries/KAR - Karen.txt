@@ -26,7 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
@@ -48,22 +48,13 @@ upper_house = {
 }
 
 
-#Military Reforms
 foreign_weapons = yes_foreign_weapons
 
-#Technologies
-flintlock_rifles = 1
+# Technologies
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 oob = "BUR_oob.txt"
 1861.1.1 = {

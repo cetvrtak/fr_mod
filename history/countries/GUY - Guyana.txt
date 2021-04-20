@@ -36,12 +36,10 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
-set_country_flag = new_world_nation
-
 ruling_party = GUY_conservative
-last_election = 1835.1.1
 upper_house = {
     fascist = 0
     liberal = 25
@@ -51,3 +49,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

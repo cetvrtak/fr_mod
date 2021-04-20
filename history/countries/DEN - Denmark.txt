@@ -3,7 +3,7 @@ primary_culture = danish
 culture = icelandic
 religion = protestant
 government = absolute_monarchy
-plurality = 25.0
+plurality = 25
 nationalvalue = nv_order
 literacy = 0.8
 non_state_culture_literacy = 0.02
@@ -29,7 +29,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = one_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -38,6 +38,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
+decision = 1836_denmark_setup
 
 ruling_party = DAN_conservative
 upper_house = {
@@ -50,49 +51,43 @@ upper_house = {
     communist = 0
 }
 
-decision = 1836_denmark_setup
+
 
 # Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
+aesthetics_0 = 1
+army_leadership_0 = 1
+chemistry_and_electricity_0 = 1
 clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-private_banks = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
+economic_thought_and_critique_0 = 1
+financial_institutions_0 = 1
+flintlock_rifles = 1
+market_functionality_0 = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+napoleonic_tactics = 1
+naval_doctrine_0 = 1
+naval_engineering_0 = 1
+naval_leadership_0 = 1
+naval_science_0 = 1
+philosophy_0 = 1
 piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-basic_chemistry = 1
-
-#Inventions
-#corvettes = yes
-commerce_raiders = yes
-steamer_transports = yes
+polygonal_fort = 1
+post_nelsonian_thought = 1
+rocket_artillery = 1
+ship_construction_0 = 1
+tech_infrastructure_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
 
 # Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
 
 oob = "DEN_oob.txt"
-
 1850.1.1 = {
 decision = danmarks_riges_grundlov
 }
-
 1861.1.1 = {
     oob = "/1861/DEN_oob.txt"
     plurality = 60

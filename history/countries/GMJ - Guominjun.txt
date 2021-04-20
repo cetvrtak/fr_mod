@@ -46,3 +46,11 @@ upper_house = {
     socialist = 40
     communist = 10
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

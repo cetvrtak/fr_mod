@@ -1,10 +1,10 @@
 capital = 1999
 primary_culture = bakongo
-culture = ovimbundu
+culture = chokwe
+culture = herero
 culture = kavango
 culture = lunda
-culture = herero
-culture = chokwe
+culture = ovimbundu
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
@@ -30,7 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
@@ -39,7 +39,6 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
-
 set_country_flag = post_colonial_country
 
 ruling_party = ANG_communist
@@ -52,3 +51,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

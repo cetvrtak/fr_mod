@@ -36,6 +36,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
+set_country_flag = new_world_nation
 
 ruling_party = DOM_conservative_3
 upper_house = {
@@ -48,17 +49,15 @@ upper_house = {
     communist = 0
 }
 
-schools = developing_tech_school
-set_country_flag = new_world_nation
+
 
 # Technologies
 
-# Inventions
-
-#Starting Consciousness
+# Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
 
+schools = developing_tech_school
 1861.1.1 = {
     oob = "/1861/DOM_oob.txt"
     plurality = 50

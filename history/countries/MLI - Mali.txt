@@ -1,12 +1,12 @@
 capital = 1803
 primary_culture = fulbe
 culture = bambara
-culture = mande
-culture = songhai
-culture = senufo
-culture = gur
-culture = tuareg
 culture = dyula
+culture = gur
+culture = mande
+culture = senufo
+culture = songhai
+culture = tuareg
 religion = sunni
 government = democracy
 plurality = 0.0
@@ -32,7 +32,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -40,8 +40,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
 set_country_flag = post_colonial_country
+set_country_flag = sunni_country
 
 ruling_party = MLI_conservative
 upper_house = {
@@ -53,3 +53,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

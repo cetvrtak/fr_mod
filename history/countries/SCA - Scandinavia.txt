@@ -1,8 +1,8 @@
 capital = 322
 primary_culture = swedish
+culture = danish
 culture = finnish
 culture = norwegian
-culture = danish
 religion = protestant
 government = hms_government
 plurality = 0.05
@@ -30,7 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -51,6 +51,13 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

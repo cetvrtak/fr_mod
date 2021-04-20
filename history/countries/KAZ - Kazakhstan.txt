@@ -34,6 +34,8 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = KAZ_conservative
 upper_house = {
     fascist = 0
@@ -45,10 +47,12 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-set_country_flag = sunni_country
 
 oob = "KAZ_oob.txt"

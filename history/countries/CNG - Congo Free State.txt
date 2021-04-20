@@ -1,16 +1,16 @@
 capital = 1982
 primary_culture = bakongo
-culture = mongo
-culture = kingwana
-culture = lunda
-culture = kuba
-culture = lendu
-culture = luba
 culture = azande
 culture = chokwe
 culture = forest_bantu
-culture = south_forest_bantu
+culture = kingwana
+culture = kuba
+culture = lendu
+culture = luba
+culture = lunda
+culture = mongo
 culture = ruanda
+culture = south_forest_bantu
 culture = ubangian
 religion = catholic
 government = absolute_monarchy
@@ -46,16 +46,13 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
-
 set_country_flag = post_colonial_country
-
 govt_flag = {
     government = presidential_dictatorship
     flag = theocracy
 }
 
 ruling_party = CNG_reactionary
-
 upper_house = {
     fascist = 0
     liberal = 35
@@ -66,12 +63,13 @@ upper_house = {
     communist = 0
 }
 
+
+
 # Technologies
 
-
-#Inventions
-
 # Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

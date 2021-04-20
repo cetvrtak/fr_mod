@@ -7,22 +7,7 @@ nationalvalue = nv_tradition
 literacy = 0.04
 non_state_culture_literacy = 0.02
 
-ruling_party = SXI_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 0
-    reactionary = 100
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
-}
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-
+# Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
@@ -32,6 +17,7 @@ trade_unions = no_trade_unions
 voting_system = jefferson_method
 political_parties = underground_parties
 
+# Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -50,9 +36,21 @@ border_policy = closed_borders
 
 set_country_flag = mahayana_country
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+ruling_party = SXI_reactionary
+upper_house = {
+    fascist = 0
+    liberal = 10
+    conservative = 0
+    reactionary = 100
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

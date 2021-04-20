@@ -4,10 +4,8 @@ religion = protestant
 government = prussian_constitutionalism
 plurality = 30
 nationalvalue = nv_productivity
-literacy = 0.70
+literacy = 0.7
 civilized = yes
-
-#GreaterPowers = prestige
 prestige = 10
 
 # Political reforms
@@ -38,6 +36,7 @@ citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
+decision = literacy_NET
 
 ruling_party = HOL_conservative
 upper_house = {
@@ -50,43 +49,41 @@ upper_house = {
     communist = 0
 }
 
-decision = literacy_NET
+
 
 # Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
+aesthetics_0 = 1
+army_leadership_0 = 1
+chemistry_and_electricity_0 = 1
 classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-private_banks = 1
-stock_exchange = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
+economic_thought_and_critique_0 = 1
+financial_institutions_0 = 1
+flintlock_rifles = 1
+market_functionality_0 = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+napoleonic_tactics = 1
+naval_doctrine_0 = 1
+naval_engineering_0 = 1
+naval_leadership_0 = 1
+philosophy_0 = 1
 piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-basic_chemistry = 1
-
-#Inventions
+political_thought_0 = 1
+private_banks = 1
+psychology_0 = 1
+rocket_artillery = 1
+ship_construction_0 = 1
+social_thought_0 = 1
+tech_infrastructure_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
 
 oob = "NET_oob.txt"
-
 1861.1.1 = {
     oob = "/1861/NET_oob.txt"
     set_country_flag = signed_treaty_of_london

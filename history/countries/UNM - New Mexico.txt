@@ -1,14 +1,13 @@
 capital = 100
 primary_culture = dixie
-culture = texan
 culture = mexican
+culture = texan
 religion = protestant
 government = democracy
 plurality = 0.1
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.5
 civilized = yes
-
 
 # Political reforms
 slavery = yes_slavery
@@ -37,10 +36,10 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = UNM_liberal
-last_election = 1836.1.1
 upper_house = {
     fascist = 0
     liberal = 55
@@ -51,4 +50,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = new_world_nation
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

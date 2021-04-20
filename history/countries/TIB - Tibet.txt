@@ -35,6 +35,7 @@ citizens_rights = primary_culture_only
 border_policy = closed_borders
 
 set_country_flag = gelugpa_country
+set_country_flag = theocratic_government
 
 ruling_party = TIB_conservative
 upper_house = {
@@ -47,18 +48,13 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = theocratic_government
+
+
+# Technologies
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 oob = "TIB_oob.txt"
 1861.1.1 = {

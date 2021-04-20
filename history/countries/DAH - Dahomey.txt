@@ -1,8 +1,8 @@
 capital = 1920
 primary_culture = fon
 culture = east_kwa
-culture = yoruba
 culture = gur
+culture = yoruba
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -29,7 +29,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -38,6 +38,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = DAH_conservative
 upper_house = {
@@ -50,11 +51,9 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
+
 
 # Technologies
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

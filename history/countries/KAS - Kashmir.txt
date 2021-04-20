@@ -8,34 +8,7 @@ nationalvalue = nv_tradition
 literacy = 0.01
 non_state_culture_literacy = 0.01
 
-ruling_party = KAS_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
-}
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
-
-oob = "KAS_oob.txt"
-1861.1.1 = {
-    oob = "/1861/KAS_oob.txt"
-}
-
-
+# Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
@@ -45,6 +18,7 @@ trade_unions = no_trade_unions
 voting_system = jefferson_method
 political_parties = underground_parties
 
+# Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -62,3 +36,27 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = hindu_country
+
+ruling_party = KAS_conservative
+upper_house = {
+    fascist = 0
+    liberal = 15
+    conservative = 75
+    reactionary = 10
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+oob = "KAS_oob.txt"
+1861.1.1 = {
+    oob = "/1861/KAS_oob.txt"
+}

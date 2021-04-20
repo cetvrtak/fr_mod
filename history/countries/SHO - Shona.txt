@@ -1,13 +1,12 @@
 capital = 2070
 primary_culture = shona
-culture = sena
 culture = nyasa
+culture = sena
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
-
 
 # Political reforms
 slavery = yes_slavery
@@ -37,6 +36,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = SHO_conservative
 upper_house = {
@@ -48,4 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
-set_country_flag = lacking_writing_system
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

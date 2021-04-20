@@ -1,9 +1,9 @@
 capital = 1965
 primary_culture = ubangian
 culture = azande
-culture = sara
-culture = fur
 culture = fulbe
+culture = fur
+culture = sara
 religion = animist
 government = democracy
 plurality = 0.0
@@ -29,7 +29,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
@@ -38,7 +38,6 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
-
 set_country_flag = post_colonial_country
 
 ruling_party = CAR_conservative
@@ -51,3 +50,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

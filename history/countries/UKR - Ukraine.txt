@@ -8,7 +8,6 @@ nationalvalue = nv_autocracy
 literacy = 0.15
 civilized = yes
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -28,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -37,6 +36,10 @@ citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = orthodox_country
+govt_flag = {
+    government = presidential_dictatorship
+    flag = theocracy
+}
 
 ruling_party = UKR_conservative
 upper_house = {
@@ -49,11 +52,13 @@ upper_house = {
     communist = 0
 }
 
-govt_flag = {
-    government = presidential_dictatorship
-    flag = theocracy
-}
 
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

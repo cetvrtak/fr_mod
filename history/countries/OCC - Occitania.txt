@@ -8,7 +8,6 @@ nationalvalue = nv_equality
 literacy = 0.48
 civilized = yes
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -28,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = one_year_draft
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -48,3 +47,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

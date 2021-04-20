@@ -9,7 +9,6 @@ literacy = 0.28
 non_state_culture_literacy = 0.15
 civilized = yes
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -50,10 +49,16 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
     oob = "/1861/ITA_oob.txt"
 }
-
 1861.1.1 = {
     prestige = 75
     plurality = 60

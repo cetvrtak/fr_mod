@@ -37,6 +37,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = orthodox_country
+decision = abkhazia_1836_setup
 
 ruling_party = ABK_conservative
 upper_house = {
@@ -49,23 +50,13 @@ upper_house = {
     communist = 0
 }
 
-decision = abkhazia_1836_setup
+
 
 # Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-piston_steam_engine = 1
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
 1861.1.1 = {
 # Technologies
     flintlock_rifles = 1

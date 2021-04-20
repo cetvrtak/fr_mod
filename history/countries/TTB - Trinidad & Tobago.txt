@@ -1,21 +1,20 @@
-capital = 2237
-primary_culture = afro_caribbean
-religion = protestant
-government = hms_government
-plurality = 0.1
-nationalvalue = nv_order
-literacy = 0.15
+primary_culture = 
+religion = 
+government = 
+plurality = 0.0
+nationalvalue = 
+literacy = 0
 civilized = yes
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = wealth_voting
-public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = non_secret_ballots
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=state_equal_weight
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -26,25 +25,22 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
-conscription = no_draft
-debt_law = peonage
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = protestant_country
-
-set_country_flag = new_world_nation
-
-ruling_party = TTB_liberal
-upper_house = {
-    fascist = 0
-    liberal = 59
-    conservative = 29
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = 
+upper_house = 
+{
+	fascist = 0
+	liberal = 25
+	conservative = 65
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

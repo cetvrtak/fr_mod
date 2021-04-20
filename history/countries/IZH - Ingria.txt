@@ -1,5 +1,5 @@
 capital = 996
-primary_culture = finnish #izhorian
+primary_culture = finnish
 culture = estonian
 culture = ugrian
 religion = orthodox
@@ -48,3 +48,11 @@ upper_house = {
     socialist = 35
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

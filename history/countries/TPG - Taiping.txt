@@ -9,6 +9,7 @@ literacy = 0.02
 non_state_culture_literacy = 0.01
 is_releasable_vassal = no
 
+# Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
@@ -35,6 +36,9 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = closed_borders
 
+set_country_flag = protestant_country
+set_country_flag = theocratic_government
+
 ruling_party = TPG_conservative
 upper_house = {
     fascist = 0
@@ -46,23 +50,13 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = protestant_country
-set_country_flag = theocratic_government
 
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+# Technologies
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
 1861.1.1 = {
     oob = "/1861/TPG_oob.txt"
     literacy = 0.07

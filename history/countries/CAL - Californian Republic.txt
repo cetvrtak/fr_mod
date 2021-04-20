@@ -1,10 +1,10 @@
-capital = 104 # Sonoma
+capital = 104
 primary_culture = yankee
 religion = protestant
 government = democracy
 plurality = 0.5
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.5
 civilized = yes
 
 # Political reforms
@@ -26,7 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -34,6 +34,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = CAL_liberal
@@ -47,8 +48,13 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = new_world_nation
 
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

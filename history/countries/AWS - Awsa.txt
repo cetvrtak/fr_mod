@@ -27,13 +27,15 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
+
+set_country_flag = sunni_country
 
 ruling_party = AWS_conservative
 upper_house = {
@@ -46,11 +48,9 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+
 
 # Technologies
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

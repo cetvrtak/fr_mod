@@ -1,37 +1,23 @@
 capital = 1251
 primary_culture = marathi
+culture = assamese
 culture = avadhi
-culture = bihari
-culture = tamil
-culture = kanauji
-culture = rajput
 culture = bengali
-culture = panjabi
+culture = bihari
+culture = kanauji
 culture = kashmiri
 culture = manipuri
-culture = assamese
 culture = oriya
+culture = panjabi
+culture = rajput
+culture = tamil
 religion = hindu
 government = democracy
 plurality = 0.0
 nationalvalue = nv_equality
 literacy = 0.02
 
-ruling_party = HND_conservative
-upper_house = {
-    fascist = 0
-    liberal = 11
-    conservative = 73
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
-}
-
-# Starting Consciousness
-consciousness = 0
-nonstate_consciousness = 0
-
+# Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
 vote_franschise = none_voting
@@ -41,6 +27,7 @@ trade_unions = no_trade_unions
 voting_system = jefferson_method
 political_parties = underground_parties
 
+# Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -59,11 +46,23 @@ border_policy = open_borders
 
 set_country_flag = hindu_country
 
-schools = developing_tech_school
+ruling_party = HND_conservative
+upper_house = {
+    fascist = 0
+    liberal = 11
+    conservative = 73
+    reactionary = 16
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
+}
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+schools = developing_tech_school

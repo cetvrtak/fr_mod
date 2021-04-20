@@ -36,7 +36,6 @@ citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = animist_country
-
 set_country_flag = new_world_nation
 
 ruling_party = PTG_conservative
@@ -49,3 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

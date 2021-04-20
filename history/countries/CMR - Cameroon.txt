@@ -1,15 +1,15 @@
 capital = 1959
 primary_culture = forest_bantu
-culture = tiv
+culture = baguirmi
+culture = bedouin
 culture = fang
 culture = fulbe
 culture = hausa
-culture = baguirmi
-culture = ubangian
-culture = bedouin
 culture = ibibio
-culture = sara
 culture = kanuri
+culture = sara
+culture = tiv
+culture = ubangian
 religion = protestant
 government = democracy
 plurality = 0.0
@@ -35,7 +35,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -43,9 +43,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
 set_country_flag = post_colonial_country
+set_country_flag = protestant_country
 
 ruling_party = CMR_reactionary
 upper_house = {
@@ -57,3 +56,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

@@ -1,8 +1,8 @@
 capital = 1852
 primary_culture = amhara
-culture = tigray
-culture = oromo
 culture = cushitic
+culture = oromo
+culture = tigray
 religion = coptic
 government = absolute_monarchy
 plurality = 0.0
@@ -51,18 +51,11 @@ upper_house = {
 }
 
 
-oob = "GON_oob.txt"
-
 
 # Technologies
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+oob = "GON_oob.txt"

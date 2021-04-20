@@ -6,7 +6,7 @@ government = democracy
 plurality = 10
 nationalvalue = nv_autocracy
 literacy = 0.6
-non_state_culture_literacy = 0.30
+non_state_culture_literacy = 0.3
 civilized = yes
 prestige = 2
 
@@ -50,10 +50,13 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
-
 1861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons

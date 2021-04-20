@@ -1,7 +1,7 @@
 capital = 1745
 primary_culture = misri
-culture = mashriqi
 culture = bedouin
+culture = mashriqi
 religion = sunni
 government = absolute_monarchy
 plurality = 0.0
@@ -36,6 +36,10 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+decision = EGY_1836_setup
+decision = LEB_1836_setup
+
 ruling_party = EGY_conservative
 upper_house = {
     fascist = 0
@@ -47,27 +51,11 @@ upper_house = {
     communist = 0
 }
 
-decision = EGY_1836_setup
-decision = LEB_1836_setup
-
-
-set_country_flag = sunni_country
 
 foreign_artillery = yes_foreign_artillery
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-
-# Inventions
-
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
-
 
 # Starting Consciousness
 consciousness = 0

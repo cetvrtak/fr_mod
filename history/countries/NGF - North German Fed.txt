@@ -28,7 +28,7 @@ unemployment_subsidies = low_subsidies
 pensions = good_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = mandatory_service
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -48,3 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

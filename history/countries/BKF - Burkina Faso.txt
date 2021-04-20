@@ -1,11 +1,11 @@
 capital = 1901
 primary_culture = mossi
+culture = bambara
+culture = dyula
+culture = fulbe
 culture = gur
 culture = mande
-culture = bambara
-culture = fulbe
 culture = senufo
-culture = dyula
 religion = sunni
 government = democracy
 plurality = 0.0
@@ -39,9 +39,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
 set_country_flag = post_colonial_country
-
+set_country_flag = sunni_country
 govt_flag = {
     government = presidential_dictatorship
     flag = theocracy
@@ -57,3 +56,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

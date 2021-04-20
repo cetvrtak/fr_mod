@@ -1,9 +1,9 @@
 capital = 2108
 primary_culture = nguni
-culture = tswana
 culture = shona
 culture = sotho
 culture = southern_bantu
+culture = tswana
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -39,6 +39,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = MAT_conservative
 upper_house = {
@@ -51,9 +52,11 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
 
-#Starting Consciousness
+
+# Technologies
+
+# Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 

@@ -1,6 +1,5 @@
 capital = 57
 primary_culture = anglo_canadian
-#culture = british
 culture = french_canadian
 religion = protestant
 government = hms_government
@@ -28,7 +27,7 @@ unemployment_subsidies = trinket_subsidies
 pensions = no_pensions
 school_reforms = low_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -36,6 +35,7 @@ child_labor = child_labor_restricted
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = CAN_conservative
@@ -49,4 +49,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = new_world_nation
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

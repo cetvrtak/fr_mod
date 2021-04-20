@@ -1,15 +1,14 @@
 capital = 1058
 primary_culture = russian
 culture = byelorussian
-culture = ukrainian
 culture = ugrian
+culture = ukrainian
 religion = orthodox
 government = democracy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.01
 civilized = yes
-# is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -50,3 +49,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

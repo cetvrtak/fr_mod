@@ -34,6 +34,10 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = protestant_country
+govt_flag = {
+    government = bourgeois_dictatorship
+    flag = theocracy
+}
 
 ruling_party = HAW_conservative
 upper_house = {
@@ -46,10 +50,10 @@ upper_house = {
     communist = 0
 }
 
-# Inventions
-#bottling_process = yes
 
-govt_flag = {
-    government = bourgeois_dictatorship
-    flag = theocracy
-}
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

@@ -36,9 +36,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
 set_country_flag = post_colonial_country
+set_country_flag = protestant_country
 
 ruling_party = MLW_reactionary
 upper_house = {
@@ -50,3 +49,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

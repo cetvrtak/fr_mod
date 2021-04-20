@@ -1,8 +1,8 @@
 capital = 2058
 primary_culture = nguni
-culture = tonga
 culture = sena
 culture = southern_bantu
+culture = tonga
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -38,6 +38,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = GAZ_conservative
 upper_house = {
@@ -50,7 +51,9 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
+
+
+# Technologies
 
 # Starting Consciousness
 consciousness = 0

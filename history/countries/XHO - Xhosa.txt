@@ -1,7 +1,7 @@
 capital = 2100
 primary_culture = xhosa
-culture = nguni
 culture = khoisan
+culture = nguni
 religion = animist
 government = absolute_monarchy
 plurality = 0.0
@@ -37,6 +37,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = XHO_conservative
 upper_house = {
@@ -49,13 +50,11 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
 
-#Technologies
 
-#Inventions
+# Technologies
 
-#Starting Consciousness
+# Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
 

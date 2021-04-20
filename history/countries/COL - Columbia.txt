@@ -8,7 +8,6 @@ literacy = 0.6
 civilized = yes
 prestige = 1
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight
@@ -28,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -36,6 +35,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = quota_immigration
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = COL_conservative
@@ -49,8 +49,13 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = new_world_nation
 
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

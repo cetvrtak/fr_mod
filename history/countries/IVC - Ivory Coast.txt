@@ -1,9 +1,9 @@
 capital = 1892
 primary_culture = dyula
 culture = akan
-culture = senufo
 culture = kru
 culture = mande
+culture = senufo
 culture = western_nigritic
 religion = protestant
 government = democracy
@@ -38,9 +38,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
 set_country_flag = post_colonial_country
+set_country_flag = protestant_country
 
 ruling_party = IVC_conservative
 upper_house = {
@@ -52,3 +51,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

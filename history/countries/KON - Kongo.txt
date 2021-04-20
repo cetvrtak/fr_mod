@@ -36,6 +36,8 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
+set_country_flag = delay_unciv_annexation
+set_country_flag = lacking_writing_system
 
 ruling_party = KON_conservative
 upper_house = {
@@ -48,12 +50,9 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
-set_country_flag = delay_unciv_annexation
+
 
 # Technologies
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

@@ -1,9 +1,9 @@
 capital = 1288
 primary_culture = panjabi
 culture = baluchi
+culture = kashmiri
 culture = pashtun
 culture = sindi
-culture = kashmiri
 religion = sunni
 government = democracy
 plurality = 0.0
@@ -38,6 +38,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = PAK_conservative
 upper_house = {
     fascist = 0
@@ -49,13 +51,12 @@ upper_house = {
     communist = 0
 }
 
-schools = developing_tech_school
-set_country_flag = sunni_country
+
 
 # Technologies
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+
+schools = developing_tech_school

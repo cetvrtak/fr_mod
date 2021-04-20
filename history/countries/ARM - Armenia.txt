@@ -26,7 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -48,6 +48,22 @@ upper_house = {
 }
 
 
+
+# Technologies
+aesthetics_0 = 1
+flintlock_rifles = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+philosophy_0 = 1
+political_thought_0 = 1
+rocket_artillery = 1
+tech_organization_0 = 1
+tech_power_0 = 1
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

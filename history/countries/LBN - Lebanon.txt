@@ -34,8 +34,9 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = LBN_conservative
-last_election = 1834.1.1
 upper_house = {
     fascist = 0
     liberal = 35
@@ -46,4 +47,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

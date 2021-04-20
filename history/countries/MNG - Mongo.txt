@@ -6,7 +6,6 @@ plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
 
-
 # Political reforms
 slavery = yes_slavery
 upper_house_composition = appointed
@@ -35,6 +34,7 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = animist_country
+set_country_flag = lacking_writing_system
 
 ruling_party = MNG_conservative
 upper_house = {
@@ -47,4 +47,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = lacking_writing_system
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

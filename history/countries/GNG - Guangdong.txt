@@ -1,7 +1,7 @@
 capital = 1493
 primary_culture = yue
-culture = nanfaren
 culture = hakka
+culture = nanfaren
 religion = mahayana
 government = absolute_monarchy
 plurality = 0.0
@@ -37,6 +37,10 @@ citizens_rights = primary_culture_only
 border_policy = closed_borders
 
 set_country_flag = mahayana_country
+govt_flag = {
+    government = presidential_dictatorship
+    flag = theocracy
+}
 
 ruling_party = GNG_conservative
 upper_house = {
@@ -49,29 +53,14 @@ upper_house = {
     communist = 0
 }
 
-govt_flag = {
-    government = presidential_dictatorship
-    flag = theocracy
-}
 
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 0
-
 1861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons

@@ -6,7 +6,6 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.22
 civilized = yes
-prestige = 0
 
 # Political reforms
 slavery = no_slavery
@@ -27,7 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -48,6 +47,13 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
 # Technologies
 

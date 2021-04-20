@@ -1,7 +1,7 @@
 capital = 552
 primary_culture = western_slavic
-culture = polish
 culture = czech
+culture = polish
 religion = protestant
 government = democracy
 plurality = 0.0
@@ -48,3 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

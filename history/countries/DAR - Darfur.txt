@@ -5,7 +5,6 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.01
-non_state_culture_literacy = 0
 
 # Political reforms
 slavery = yes_slavery
@@ -25,14 +24,16 @@ health_care = no_health_care
 unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
-border_policy = open_borders
 
-#New Reforms
+# New Reforms
+border_policy = open_borders
 conscription = no_draft
 debt_law = serfdom
 penal_system = capital_punishment
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
+
+set_country_flag = sunni_country
 
 ruling_party = DAR_conservative
 upper_house = {
@@ -45,12 +46,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
-foreign_weapons = yes_foreign_weapons
-# Technologies
-flintlock_rifles = 1
 
-# Inventions
+foreign_weapons = yes_foreign_weapons
+
+# Technologies
 
 # Starting Consciousness
 consciousness = 0

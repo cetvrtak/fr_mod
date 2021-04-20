@@ -1,10 +1,10 @@
 capital = 1818
 primary_culture = sara
-culture = bedouin
-culture = teda
-culture = kanuri
 culture = baguirmi
+culture = bedouin
 culture = fur
+culture = kanuri
+culture = teda
 culture = ubangian
 religion = sunni
 government = democracy
@@ -31,7 +31,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = no_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -39,8 +39,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = sunni_country
 set_country_flag = post_colonial_country
+set_country_flag = sunni_country
 
 ruling_party = CHD_conservative
 upper_house = {
@@ -52,3 +52,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

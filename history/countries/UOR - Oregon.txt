@@ -9,7 +9,6 @@ literacy = 0.6
 civilized = yes
 prestige = 1
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = state_equal_weight
@@ -37,6 +36,7 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = UOR_conservative
@@ -50,4 +50,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = new_world_nation
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

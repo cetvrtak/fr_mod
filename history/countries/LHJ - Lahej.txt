@@ -19,6 +19,7 @@ trade_unions = no_trade_unions
 voting_system = jefferson_method
 political_parties = underground_parties
 
+# Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
 safety_regulations = no_safety
@@ -35,6 +36,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = YEM_conservative
 upper_house = {
     fascist = 0
@@ -46,18 +49,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
-
-# Inventions
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 # Starting Consciousness
 consciousness = 0

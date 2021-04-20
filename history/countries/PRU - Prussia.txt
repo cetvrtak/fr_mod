@@ -3,16 +3,13 @@ primary_culture = north_german
 culture = south_german
 religion = protestant
 government = absolute_monarchy
-plurality = 25.0
+plurality = 25
 nationalvalue = nv_order
-literacy = 0.80
+literacy = 0.8
 non_state_culture_literacy = 0.25
 civilized = yes
-is_releasable_vassal = no
-
-
-#GreaterPowers = prestige
 prestige = 80
+is_releasable_vassal = no
 
 # Political reforms
 slavery = no_slavery
@@ -33,7 +30,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = low_schools
 
-#New Reforms
+# New Reforms
 conscription = mandatory_service
 debt_law = debtors_prisons
 penal_system = capital_punishment
@@ -41,10 +38,9 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
 set_country_flag = claiming_neuchatel
+set_country_flag = protestant_country
 set_country_flag = prussian_germany
-
 decision = literacy_PRU
 
 ruling_party = PRU_conservative_2
@@ -58,37 +54,36 @@ upper_house = {
     communist = 0
 }
 
-# Technologies
-post_napoleonic_thought = 1
-flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-private_banks = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
-piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-basic_chemistry = 1
-army_professionalism = 1
-interchangeable_parts = 1
-romanticism = 1
-high_pressure_steam_engine = 1
 
-#Inventions
+
+# Technologies
+aesthetics_0 = 1
+army_leadership_0 = 1
+chemistry_and_electricity_0 = 1
+classicism_n_early_romanticism = 1
+economic_thought_and_critique_0 = 1
+financial_institutions_0 = 1
+flintlock_rifles = 1
+market_functionality_0 = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+napoleonic_tactics = 1
+naval_doctrine_0 = 1
+naval_engineering_0 = 1
+naval_leadership_0 = 1
+naval_science_0 = 1
+philosophy_0 = 1
+piston_steam_engine = 1
+political_thought_0 = 1
+private_banks = 1
+psychology_0 = 1
+rocket_artillery = 1
+ship_construction_0 = 1
+social_thought_0 = 1
+tech_infrastructure_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
 
 # Starting Consciousness
 consciousness = 2
@@ -205,3 +200,4 @@ school_reforms = acceptable_schools
 
 #Inventions
 }
+set_country_flag = member_hre

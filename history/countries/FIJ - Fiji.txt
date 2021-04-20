@@ -5,7 +5,6 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.02
-non_state_culture_literacy = 0
 
 # Political reforms
 slavery = yes_slavery
@@ -37,7 +36,6 @@ border_policy = open_borders
 set_country_flag = protestant_country
 
 ruling_party = FSM_conservative
-last_election = 1834.1.1
 upper_house = {
     fascist = 0
     liberal = 35
@@ -48,9 +46,10 @@ upper_house = {
     communist = 0
 }
 
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

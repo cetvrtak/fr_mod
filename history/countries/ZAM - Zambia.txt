@@ -1,10 +1,10 @@
 capital = 2012
 primary_culture = lunda
-culture = south_forest_bantu
-culture = nyasa
 culture = kavango
 culture = nguni
+culture = nyasa
 culture = sena
+culture = south_forest_bantu
 religion = protestant
 government = democracy
 plurality = 0.0
@@ -38,9 +38,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
 set_country_flag = post_colonial_country
+set_country_flag = protestant_country
 
 ruling_party = ZAM_communist
 upper_house = {
@@ -52,3 +51,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

@@ -2,13 +2,11 @@ capital = 860
 primary_culture = turkish
 religion = sunni
 government = absolute_monarchy
-plurality = 5.0
+plurality = 5
 nationalvalue = nv_autocracy
 literacy = 0.03
 non_state_culture_literacy = 0.01
 civilized = yes
-
-#GreaterPowers = prestige
 prestige = 70
 
 # Political reforms
@@ -38,6 +36,11 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = closed_borders
 
+set_country_flag = christian_oppression
+set_country_flag = istanbul_not_renamed
+set_country_flag = sunni_country
+decision = ottoman_1836_setup
+
 ruling_party = TUR_conservative
 upper_house = {
     fascist = 0
@@ -49,34 +52,20 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
-set_country_flag = christian_oppression
-set_country_flag = istanbul_not_renamed
 
-decision = ottoman_1836_setup
 
 # Technologies
-post_napoleonic_thought = 1
+aesthetics_0 = 1
+army_leadership_0 = 1
 flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-piston_steam_engine = 1
-#mechanical_production = 1
-clipper_design = 1
-malthusian_thought = 1
-basic_chemistry = 1
+mechanization_0 = 1
+monetary_system_0 = 1
+napoleonic_tactics = 1
+philosophy_0 = 1
+rocket_artillery = 1
+tech_power_0 = 1
 
-# Inventions
-
-#Starting Consciousness
+# Starting Consciousness
 consciousness = 1
 nonstate_consciousness = 0
 

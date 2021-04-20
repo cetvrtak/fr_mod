@@ -1,7 +1,7 @@
 capital = 1775
 primary_culture = maures
-culture = berber
 culture = bedouin
+culture = berber
 culture = fulbe
 culture = wolof
 religion = sunni
@@ -38,6 +38,8 @@ child_labor = child_labor_legal
 citizens_rights = primary_culture_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = TRZ_conservative
 upper_house = {
     fascist = 0
@@ -49,11 +51,9 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+
 
 # Technologies
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

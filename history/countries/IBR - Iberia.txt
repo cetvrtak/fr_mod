@@ -1,7 +1,7 @@
 capital = 487
 primary_culture = spanish
-culture = catalan
 culture = basque
+culture = catalan
 culture = portuguese
 religion = catholic
 government = hms_government
@@ -38,9 +38,12 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
+govt_flag = {
+    government = hms_government
+    flag = democracy
+}
 
 ruling_party = SPA_conservative
-last_election = 1834.1.1
 upper_house = {
     fascist = 0
     liberal = 35
@@ -51,7 +54,10 @@ upper_house = {
     communist = 0
 }
 
-govt_flag = {
-    government = hms_government
-    flag = democracy
-}
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

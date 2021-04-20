@@ -7,7 +7,6 @@ nationalvalue = nv_autocracy
 literacy = 0.21
 civilized = yes
 
-
 # Political reforms
 slavery = no_slavery
 upper_house_composition = appointed
@@ -48,6 +47,13 @@ upper_house = {
     communist = 0
 }
 
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
 1861.1.1 = {
     oob = "/1861/ROM_oob.txt"
     plurality = 60

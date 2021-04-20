@@ -1,7 +1,7 @@
 capital = 1731
 primary_culture = maghrebi
-culture = berber
 culture = bedouin
+culture = berber
 culture = tuareg
 religion = sunni
 government = absolute_monarchy
@@ -37,6 +37,8 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
+set_country_flag = sunni_country
+
 ruling_party = CYR_conservative
 upper_house = {
     fascist = 0
@@ -48,20 +50,10 @@ upper_house = {
     communist = 0
 }
 
-set_country_flag = sunni_country
+
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-military_staff_system = 1
-flintlock_rifles = 1
-
-small_arms_production = yes
-ammunition_production = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
-
-# Inventions
 
 # Starting Consciousness
 consciousness = 0

@@ -1,8 +1,8 @@
 capital = 1064
 primary_culture = russian
 culture = byelorussian
-culture = ukrainian
 culture = siberian
+culture = ukrainian
 religion = orthodox
 government = democracy
 plurality = 0.0
@@ -49,3 +49,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

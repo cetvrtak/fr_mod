@@ -1,13 +1,13 @@
 capital = 2049
 primary_culture = shona
 culture = makua
-culture = yao
-culture = tonga
 culture = nguni
-culture = sena
 culture = nyasa
+culture = sena
 culture = southern_bantu
 culture = swahili
+culture = tonga
+culture = yao
 religion = catholic
 government = presidential_dictatorship
 plurality = 0.0
@@ -33,7 +33,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = one_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
@@ -42,7 +42,6 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 set_country_flag = catholic_country
-
 set_country_flag = post_colonial_country
 
 ruling_party = MOZ_communist
@@ -55,3 +54,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

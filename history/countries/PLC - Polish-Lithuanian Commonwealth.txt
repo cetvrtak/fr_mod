@@ -1,23 +1,20 @@
-capital = 703 #Krakow
-primary_culture = polish
-culture = lithuanian
-religion = catholic
-government = hms_government
-plurality = 0.5
-nationalvalue = nv_equality
-literacy = 0.5
+primary_culture = 
+religion = 
+government = 
+plurality = 0.0
+nationalvalue = 
+literacy = 0
 civilized = yes
-is_releasable_vassal = no
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = wealth_weighted_voting
-public_meetings = yes_meeting
-press_rights = censored_press
-trade_unions = non_socialist
-voting_system = first_past_the_post
-political_parties = gerrymandering
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -28,23 +25,35 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
-conscription = two_year_draft
-debt_law = debtors_prisons
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = open_borders
-
-set_country_flag = catholic_country
-
-ruling_party = PLC_conservative
-upper_house = {
-    fascist = 0
-    liberal = 30
-    conservative = 40
-    reactionary = 25
-    anarcho_liberal = 5
-    socialist = 0
-    communist = 0
+ruling_party = 
+upper_house = 
+{
+	fascist = 0
+	liberal = 10
+	conservative = 85
+	reactionary = 5
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
+
+
+
+# Technologies
+aesthetics_0 = 1
+classicism_n_early_romanticism = 1
+flintlock_rifles = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+philosophy_0 = 1
+political_thought_0 = 1
+psychology_0 = 1
+rocket_artillery = 1
+social_thought_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

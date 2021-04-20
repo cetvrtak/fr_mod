@@ -5,9 +5,8 @@ religion = protestant
 government = democracy
 plurality = 0.1
 nationalvalue = nv_liberty
-literacy = 0.50
+literacy = 0.5
 civilized = yes
-
 
 # Political reforms
 slavery = no_slavery
@@ -36,9 +35,8 @@ child_labor = child_labor_legal
 citizens_rights = culture_voting_only
 border_policy = open_borders
 
-set_country_flag = protestant_country
-
 set_country_flag = new_world_nation
+set_country_flag = protestant_country
 
 ruling_party = UIL_conservative
 upper_house = {
@@ -50,3 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

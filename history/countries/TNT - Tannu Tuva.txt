@@ -38,7 +38,6 @@ border_policy = open_borders
 set_country_flag = gelugpa_country
 
 ruling_party = TNT_conservative
-last_election = 1834.1.1
 upper_house = {
     fascist = 0
     liberal = 35
@@ -53,4 +52,7 @@ upper_house = {
 foreign_weapons = yes_foreign_weapons
 
 # Technologies
-flintlock_rifles = 1
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

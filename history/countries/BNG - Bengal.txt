@@ -26,7 +26,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = four_year_draft
 debt_law = serfdom
 penal_system = capital_punishment
@@ -35,13 +35,6 @@ citizens_rights = culture_voting_only
 border_policy = open_borders
 
 set_country_flag = hindu_country
-
-# Inventions
-#bottling_process = yes
-modern_winemaking = yes
-#big_sail_ships = yes
-#sail_ships_transport = yes
-#big_sail_support = yes
 
 ruling_party = BNG_conservative
 upper_house = {
@@ -53,3 +46,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0

@@ -2,7 +2,7 @@ capital = 555
 primary_culture = north_german
 religion = protestant
 government = absolute_monarchy
-plurality = 25.0
+plurality = 25
 nationalvalue = nv_order
 literacy = 0.8
 civilized = yes
@@ -27,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -49,35 +49,26 @@ upper_house = {
 }
 
 
-## Western
 
 # Technologies
-post_napoleonic_thought = 1
+aesthetics_0 = 1
+army_leadership_0 = 1
+chemistry_and_electricity_0 = 1
+financial_institutions_0 = 1
 flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-military_staff_system = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-clipper_design = 1
-naval_design_bureaus = 1
-alphabetic_flag_signaling = 1
-the_command_principle = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-enlightenment_thought = 1
-introspectionism = 1
-private_banks = 1
-no_standard = 1
-early_classical_theory_and_critique = 1
-freedom_of_trade = 1
-guild_based_production = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+napoleonic_tactics = 1
+naval_doctrine_0 = 1
+philosophy_0 = 1
 piston_steam_engine = 1
-mechanical_production = 1
-hot_blast = 1
-basic_chemistry = 1
-
-#Inventions
+political_thought_0 = 1
+polygonal_fort = 1
+rocket_artillery = 1
+tech_infrastructure_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
 
 # Starting Consciousness
 consciousness = 3
@@ -163,3 +154,4 @@ oob = "ANH_oob.txt"
 
 #Inventions
 }
+set_country_flag = member_hre

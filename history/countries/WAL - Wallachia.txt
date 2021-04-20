@@ -2,7 +2,7 @@ capital = 664
 primary_culture = romanian
 religion = orthodox
 government = absolute_monarchy
-plurality = 25.0
+plurality = 25
 nationalvalue = nv_autocracy
 literacy = 0.04
 non_state_culture_literacy = 0.01
@@ -50,30 +50,26 @@ upper_house = {
 }
 
 
+
 # Technologies
-post_napoleonic_thought = 1
+aesthetics_0 = 1
 flintlock_rifles = 1
-bronze_muzzle_loaded_artillery = 1
-army_command_principle = 1
-post_nelsonian_thought = 1
-the_command_principle = 1
-private_banks = 1
-no_standard = 1
-guild_based_production = 1
-classicism_n_early_romanticism = 1
-late_enlightenment_philosophy = 1
-enlightenment_thought = 1
-piston_steam_engine = 1
-mechanical_production = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+philosophy_0 = 1
+political_thought_0 = 1
+psychology_0 = 1
+rocket_artillery = 1
+social_thought_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
 
-# Inventions
-
-#Starting Consciousness
+# Starting Consciousness
 consciousness = 2
 nonstate_consciousness = 0
 
 oob = "WAL_oob.txt"
-
 1861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1

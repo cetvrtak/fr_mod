@@ -1,6 +1,41 @@
-oob = "REB_oob.txt"
+capital = 175841341
+primary_culture = 
+religion = 
+government = 
+plurality = 6.01347e-154
+nationalvalue = 
+literacy = 2.2826e+243
 
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+ruling_party = 
+upper_house = 
+{
+	fascist = 0
+	liberal = 25
+	conservative = 65
+	reactionary = 10
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
+}
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+oob = "REB_oob.txt"
 1861.1.1 = {
     oob = "/1861/REB_oob.txt"
 }
-set_global_flag = mulhausen_german

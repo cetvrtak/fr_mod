@@ -7,7 +7,6 @@ government = absolute_monarchy
 plurality = 0.0
 nationalvalue = nv_autocracy
 literacy = 0.03
-non_state_culture_literacy = 0
 
 # Political reforms
 slavery = no_slavery
@@ -28,7 +27,7 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-#New Reforms
+# New Reforms
 conscription = two_year_draft
 debt_law = peonage
 penal_system = capital_punishment
@@ -49,3 +48,11 @@ upper_house = {
     socialist = 0
     communist = 0
 }
+
+
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
