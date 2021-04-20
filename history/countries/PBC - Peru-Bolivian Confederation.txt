@@ -1,20 +1,23 @@
-primary_culture = 
-religion = 
-government = 
-plurality = 0.0
-nationalvalue = 
-literacy = 0
+capital = 2310
+primary_culture = south_andean
+religion = catholic
+government = presidential_dictatorship
+plurality = 25
+nationalvalue = nv_equality
+literacy = 0.05
+non_state_culture_literacy = 0.01
 civilized = yes
+prestige = 3
 
-# political reforms
-slavery=yes_slavery
-vote_franschise=landed_voting
-upper_house_composition=state_equal_weight
-voting_system=jefferson_method
-public_meetings=no_meeting
-press_rights=censored_press
-trade_unions=non_socialist
-political_parties=gerrymandering
+# Political reforms
+slavery = no_slavery
+upper_house_composition = appointed
+vote_franschise = none_voting
+public_meetings = no_meeting
+press_rights = state_press
+trade_unions = no_trade_unions
+voting_system = first_past_the_post
+political_parties = underground_parties
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -25,16 +28,27 @@ unemployment_subsidies = no_subsidies
 pensions = no_pensions
 school_reforms = no_schools
 
-ruling_party = 
-upper_house = 
-{
-	fascist = 0
-	liberal = 25
-	conservative = 65
-	reactionary = 10
-	anarcho_liberal = 0
-	socialist = 0
-	communist = 0
+# New Reforms
+conscription = no_draft
+debt_law = peonage
+penal_system = capital_punishment
+child_labor = child_labor_legal
+citizens_rights = culture_voting_only
+border_policy = open_borders
+
+set_country_flag = catholic_country
+set_country_flag = new_world_nation
+decision = BOL_1836_setup
+
+ruling_party = PEU_conservative
+upper_house = {
+    fascist = 0
+    liberal = 29
+    conservative = 57
+    reactionary = 14
+    anarcho_liberal = 0
+    socialist = 0
+    communist = 0
 }
 
 
@@ -42,5 +56,7 @@ upper_house =
 # Technologies
 
 # Starting Consciousness
-consciousness = 0
+consciousness = 2
 nonstate_consciousness = 0
+
+oob = "PBC_oob.txt"
