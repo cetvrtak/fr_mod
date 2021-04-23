@@ -1,12 +1,64 @@
-#flintlock_rifles
-levee_en_masse = {
-    limit = { flintlock_rifles = 1 }
+#napoleonic_tactics
+napoleonic_square = {
+    limit = { napoleonic_tactics = 1 }
     chance = {
         base = 2
-        modifier = {
-            factor = -2
-            NOT = { year = 1793 }   #To be tied to liberal ideology
+    }
+    effect = {
+        infantry = {
+            defence = 1
         }
+        guard = {
+            defence = 1
+        }
+        engineer = {
+            defence = 1
+        }
+        irregular = {
+            defence = 1
+        }
+    }
+}
+napoleonic_combined_arms = {
+    limit = { napoleonic_tactics = 1 }
+    chance = {
+        base = 2
+    }
+    effect = {
+        infantry = {
+            attack = 1
+        }
+        guard = {
+            attack = 1
+        }
+        engineer = {
+            attack = 1
+        }
+        cuirassier = {
+            attack = 1
+        }
+        dragoon = {
+            attack = 1
+        }
+        hussar = {
+            attack = 1
+        }
+        cavalry = {
+            attack = 1
+        }
+        irregular = {
+            attack = 1
+        }
+    }
+}
+#flintlock_rifles
+levee_en_masse = {
+    limit = {
+        flintlock_rifles = 1
+        year = 1793   #To be tied to liberal ideology
+    }
+    chance = {
+        base = 2
     }
     effect = {
         mobilisation_size = 0.1
@@ -24,17 +76,34 @@ vauban = {
     }
 }
 congreve_rocket = {
-    limit = { rocket_artillery = 1 }
+    limit = {
+        rocket_artillery = 1
+        year = 1804
+    }
+    chance = {
+        base = 2
+    }
+    effect = {
+        artillery = {
+            attack = 0.25
+        }
+    }
+}
+semi_autonomous_artillery = {
+    limit = { artillery_officers = 1 }
     chance = {
         base = 2
         modifier = {
-            factor = -2
-            NOT = { year = 1804 }
+            factor = 2
+            napoleonic_tactics = 1
         }
     }
     effect = {
         artillery = {
             attack = 0.25
+            defence = 1
+            support = 0.1
+            supply_consumption = 0.25
         }
     }
 }

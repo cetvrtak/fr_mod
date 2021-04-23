@@ -56,7 +56,7 @@ upper_house = {
 
 # Technologies
 aesthetics_0 = 1
-army_leadership_0 = 1
+artillery_officers = 1
 chemistry_and_electricity_0 = 1
 financial_institutions_0 = 1
 flintlock_rifles = 1

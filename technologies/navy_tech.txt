@@ -1,25 +1,26 @@
 #naval_doctrine
 naval_doctrine_0 = {
-    area = naval_doctrine
-    year = 1783
-    cost = 1800
-    unciv_military = yes
+	area = naval_doctrine
+	year = 1783
+	cost = 1800
+	unciv_military = yes
 
-    ai_chance = {
+
+	ai_chance = {
         factor = 2
     }
 }
 
 post_nelsonian_thought = {
-    area = naval_doctrine
-    year = 1836
-    cost = 3600
-    unciv_military = yes
-    activate_building = naval_base
-    colonial_points = 100
+	area = naval_doctrine
+	year = 1836
+	cost = 3600
+	unciv_military = yes
 
+	activate_building = naval_base
+	colonial_points = 100
 
-    ai_chance = {
+	ai_chance = {
         factor = 1.5
         # Land-locked countries don't research this
         modifier = {
@@ -81,16 +82,16 @@ post_nelsonian_thought = {
         }
     }
 }
+
 battleship_column_doctrine = {
-    area = naval_doctrine
-    year = 1836
-    cost = 7200
-    unciv_military = yes
-    max_naval_base = 1
-    #colonial_points = 200 #no free lunch!
+	area = naval_doctrine
+	year = 1836
+	cost = 7200
+	unciv_military = yes
 
+	max_naval_base = 1
 
-    ai_chance = {
+	ai_chance = {
         factor = 4
         # Land-locked countries don't research this
         modifier = {
@@ -173,13 +174,16 @@ battleship_column_doctrine = {
         }
     }
 }
+
 raider_group_doctrine = {
-    area = naval_doctrine
-    year = 1855
-    cost = 10800
-    unciv_military = yes
-    max_naval_base = 1
-    ai_chance = {
+	area = naval_doctrine
+	year = 1855
+	cost = 10800
+	unciv_military = yes
+
+	max_naval_base = 1
+
+	ai_chance = {
         factor = 4
         # Land-locked countries don't research this
         modifier = {
@@ -280,13 +284,16 @@ raider_group_doctrine = {
         }
     }
 }
+
 blue_and_brown_water_schools = {
-    area = naval_doctrine
-    year = 1875
-    cost = 14400
-    unciv_military = yes
-    max_naval_base = 1
-    ai_chance = {
+	area = naval_doctrine
+	year = 1875
+	cost = 14400
+	unciv_military = yes
+
+	max_naval_base = 1
+
+	ai_chance = {
         factor = 2
         # Land-locked countries don't research this
         modifier = {
@@ -382,13 +389,14 @@ blue_and_brown_water_schools = {
 }
 
 high_sea_battle_fleet = {
-    area = naval_doctrine
-    year = 1895
-    cost = 18000
-    unciv_military = yes
-    max_naval_base = 1
+	area = naval_doctrine
+	year = 1895
+	cost = 18000
+	unciv_military = yes
 
-    ai_chance = {
+	max_naval_base = 1
+
+	ai_chance = {
         factor = 2
         # Land-locked countries don't research this
         modifier = {
@@ -467,13 +475,16 @@ high_sea_battle_fleet = {
         }
     }
 }
+
 modern_naval_doctrine = {
-    area = naval_doctrine
-    year = 1914
-    cost = 21600
-    unciv_military = yes
-    max_naval_base = 1
-    ai_chance = {
+	area = naval_doctrine
+	year = 1914
+	cost = 21600
+	unciv_military = yes
+
+	max_naval_base = 1
+
+	ai_chance = {
         factor = 1.5
         # Land-locked countries don't research this
         modifier = {
@@ -542,34 +553,36 @@ modern_naval_doctrine = {
     }
 }
 
-
 #ship_construction
 ship_construction_0 = {
-    area = ship_construction
-    year = 1783
-    cost = 1800
-    unciv_military = yes
+	area = ship_construction
+	year = 1783
+	cost = 1800
+	unciv_military = yes
 
-    ai_chance = {
+
+	ai_chance = {
         factor = 2
     }
 }
 
 clipper_design = {
-    area = ship_construction
-    year = 1836
-    cost = 3600
-    unciv_military = yes
-    clipper_transport = {
+	area = ship_construction
+	year = 1836
+	cost = 3600
+	unciv_military = yes
+
+	clipper_transport = {
         maximum_speed = 1
     }
-    frigate = {
+	frigate = {
         maximum_speed = 1
     }
-    manowar = {
+	manowar = {
         maximum_speed = 1
     }
-    ai_chance = {
+
+	ai_chance = {
         factor = 1.5
         # Land-locked countries don't research this
         modifier = {
@@ -641,17 +654,18 @@ clipper_design = {
         }
     }
 }
+
 steamers = {
-    area = ship_construction
-    year = 1836
-    cost = 7200
-    unciv_military = yes
+	area = ship_construction
+	year = 1836
+	cost = 7200
+	unciv_military = yes
 
-    clipper_transport = { maximum_speed = 2 }
-    frigate = { maximum_speed = 2 }
-    manowar = { maximum_speed = 2 }
+	clipper_transport = { maximum_speed = 2 }
+	frigate = { maximum_speed = 2 }
+	manowar = { maximum_speed = 2 }
 
-    ai_chance = {
+	ai_chance = {
         factor = 4
         # Land-locked countries don't research this
         modifier = {
@@ -746,17 +760,17 @@ steamers = {
         }
     }
 }
+
 iron_steamers = {
-    area = ship_construction
-    year = 1855
-    cost = 10800
-    unciv_military = yes
+	area = ship_construction
+	year = 1855
+	cost = 10800
+	unciv_military = yes
 
-    steam_transport = { maximum_speed = 3 } #19
-    commerce_raider = { maximum_speed = 2 } #19
+	steam_transport = { maximum_speed = 3 }
+	commerce_raider = { maximum_speed = 2 }
 
-
-    ai_chance = {
+	ai_chance = {
         factor = 4
 
         # Land-locked countries don't research this
@@ -856,18 +870,19 @@ iron_steamers = {
         }
     }
 }
+
 steel_steamers = {
-    area = ship_construction
-    year = 1880
-    cost = 14400
-    unciv_military = yes
+	area = ship_construction
+	year = 1880
+	cost = 14400
+	unciv_military = yes
 
-    steam_transport = { maximum_speed = 2 } #21
-    commerce_raider = { maximum_speed = 2 } #22
-    ironclad = { maximum_speed = 1 }         #22
-    monitor = { maximum_speed = 1 }         #10
+	steam_transport = { maximum_speed = 2 }
+	commerce_raider = { maximum_speed = 2 }
+	ironclad = { maximum_speed = 1 }
+	monitor = { maximum_speed = 1 }
 
-    ai_chance = {
+	ai_chance = {
         factor = 2
         # Land-locked countries don't research this
         modifier = {
@@ -951,18 +966,19 @@ steel_steamers = {
         }
     }
 }
+
 steam_turbine_ships = {
-    area = ship_construction
-    year = 1900
-    cost = 18000
-    unciv_military = yes
+	area = ship_construction
+	year = 1900
+	cost = 18000
+	unciv_military = yes
 
-    steam_transport = { maximum_speed = 6 } #29
-    monitor = { maximum_speed = 6 }         #18
-    cruiser = { maximum_speed = 5 }         #33
-    battleship = { maximum_speed = 3 }         #30
+	steam_transport = { maximum_speed = 6 }
+	monitor = { maximum_speed = 6 }
+	cruiser = { maximum_speed = 5 }
+	battleship = { maximum_speed = 3 }
 
-    ai_chance = {
+	ai_chance = {
         factor = 4
         # Land-locked countries don't research this
         modifier = {
@@ -1047,17 +1063,18 @@ steam_turbine_ships = {
         }
     }
 }
+
 oil_driven_ships = {
-    area = ship_construction
-    year = 1919
-    cost = 21600
-    unciv_military = yes
+	area = ship_construction
+	year = 1919
+	cost = 21600
+	unciv_military = yes
 
-    steam_transport = { maximum_speed = 7 } #34
-    cruiser = { maximum_speed = 5 }         #39
-    dreadnought = { maximum_speed = 4 }        #37
+	steam_transport = { maximum_speed = 7 }
+	cruiser = { maximum_speed = 5 }
+	dreadnought = { maximum_speed = 4 }
 
-    ai_chance = {
+	ai_chance = {
         factor = 1.25
         # Land-locked countries don't research this
         modifier = {
@@ -1134,23 +1151,26 @@ oil_driven_ships = {
 
 #naval_engineering
 naval_engineering_0 = {
-    area = naval_engineering
-    year = 1783
-    cost = 1800
-    unciv_military = yes
+	area = naval_engineering
+	year = 1783
+	cost = 1800
+	unciv_military = yes
 
-    ai_chance = {
+
+	ai_chance = {
         factor = 2
     }
 }
 
 naval_design_bureaus = {
-    area = naval_engineering
-    year = 1836
-    cost = 3600
-    navy_base = { build_time = -10 }
-    unciv_military = yes
-    ai_chance = {
+	area = naval_engineering
+	year = 1836
+	cost = 3600
+	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1229,16 +1249,17 @@ naval_design_bureaus = {
         }
     }
 }
+
 fire_control_systems = {
-    area = naval_engineering
-    year = 1836
-    cost = 7200
-    unciv_military = yes
-    navy_base = { build_time = -10 }
+	area = naval_engineering
+	year = 1836
+	cost = 7200
+	unciv_military = yes
 
-    colonial_prestige = 0.1
+	navy_base = { build_time = -10 }
+	colonial_prestige = 0.1
 
-    ai_chance = {
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1328,14 +1349,15 @@ fire_control_systems = {
 }
 
 weapon_platforms = {
-    area = naval_engineering
-    year = 1850
-    cost = 10800
-    unciv_military = yes
-    navy_base = { build_time = -10 }
-    colonial_prestige = 0.1
+	area = naval_engineering
+	year = 1850
+	cost = 10800
+	unciv_military = yes
 
-    ai_chance = {
+	navy_base = { build_time = -10 }
+	colonial_prestige = 0.1
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1423,15 +1445,17 @@ weapon_platforms = {
         }
     }
 }
-main_armament = {
-    area = naval_engineering
-    year = 1870
-    cost = 14400
-    unciv_military = yes
-    navy_base = { build_time = -10 }
-    colonial_prestige = 0.1
 
-    ai_chance = {
+main_armament = {
+	area = naval_engineering
+	year = 1870
+	cost = 14400
+	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+	colonial_prestige = 0.1
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1524,13 +1548,16 @@ main_armament = {
         }
     }
 }
+
 advanced_naval_design = {
-    area = naval_engineering
-    year = 1900
-    cost = 18000
-    unciv_military = yes
-    navy_base = { build_time = -10 }
-    ai_chance = {
+	area = naval_engineering
+	year = 1900
+	cost = 18000
+	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1618,13 +1645,16 @@ advanced_naval_design = {
         }
     }
 }
+
 modern_naval_design = {
-    area = naval_engineering
-    year = 1919
-    cost = 21600
-    unciv_military = yes
-    navy_base = { build_time = -10 }
-    ai_chance = {
+	area = naval_engineering
+	year = 1919
+	cost = 21600
+	unciv_military = yes
+
+	navy_base = { build_time = -10 }
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -1710,24 +1740,26 @@ modern_naval_design = {
 
 #naval_science
 naval_science_0 = {
-    area = naval_science
-    year = 1783
-    cost = 1800
-    unciv_military = yes
+	area = naval_science
+	year = 1783
+	cost = 1800
+	unciv_military = yes
 
-    ai_chance = {
+
+	ai_chance = {
         factor = 2
     }
 }
 
 alphabetic_flag_signaling = {
-    area = naval_science
-    year = 1836
-    cost = 3600
-    unciv_military = yes
-    supply_range = 0.5
+	area = naval_science
+	year = 1836
+	cost = 3600
+	unciv_military = yes
 
-    ai_chance = {
+	supply_range = 0.5
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -1767,14 +1799,16 @@ alphabetic_flag_signaling = {
         }
     }
 }
-naval_plans = {
-    area = naval_science
-    year = 1836
-    cost = 7200
-    unciv_military = yes
-    supply_range = 0.5
 
-    ai_chance = {
+naval_plans = {
+	area = naval_science
+	year = 1836
+	cost = 7200
+	unciv_military = yes
+
+	supply_range = 0.5
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -1819,13 +1853,16 @@ naval_plans = {
         }
     }
 }
+
 naval_statistics = {
-    area = naval_science
-    year = 1850
-    cost = 10800
-    unciv_military = yes
-    supply_range = 0.5
-        ai_chance = {
+	area = naval_science
+	year = 1850
+	cost = 10800
+	unciv_military = yes
+
+	supply_range = 0.5
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -1878,13 +1915,16 @@ naval_statistics = {
         }
     }
 }
+
 naval_logistics = {
-    area = naval_science
-    year = 1870
-    cost = 14400
-    unciv_military = yes
-    supply_range = 1.0
-        ai_chance = {
+	area = naval_science
+	year = 1870
+	cost = 14400
+	unciv_military = yes
+
+	supply_range = 1.0
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -1928,13 +1968,16 @@ naval_logistics = {
         }
     }
 }
+
 naval_directionism = {
-    area = naval_science
-    year = 1900
-    cost = 18000
-    unciv_military = yes
-    supply_range = 1.0
-        ai_chance = {
+	area = naval_science
+	year = 1900
+	cost = 18000
+	unciv_military = yes
+
+	supply_range = 1.0
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -1978,13 +2021,16 @@ naval_directionism = {
         }
     }
 }
+
 naval_integration = {
-    area = naval_science
-    year = 1919
-    cost = 21600
-    unciv_military = yes
-    supply_range = 1.0
-        ai_chance = {
+	area = naval_science
+	year = 1919
+	cost = 21600
+	unciv_military = yes
+
+	supply_range = 1.0
+
+	ai_chance = {
         factor = 0.25
         modifier = {
             factor = 0
@@ -2037,28 +2083,30 @@ naval_integration = {
     }
 }
 
-
 #naval_leadership
 naval_leadership_0 = {
-    area = naval_leadership
-    year = 1783
-    cost = 1800
-    unciv_military = yes
+	area = naval_leadership
+	year = 1783
+	cost = 1800
+	unciv_military = yes
 
-    ai_chance = {
+
+	ai_chance = {
         factor = 2
     }
 }
 
 the_command_principle = {
-    area = naval_leadership
-    year = 1836
-    cost = 3600
-    unciv_military = yes
-    navy_base = {
+	area = naval_leadership
+	year = 1836
+	cost = 3600
+	unciv_military = yes
+
+	navy_base = {
         default_organisation = 10
     }
-    ai_chance = {
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -2137,15 +2185,17 @@ the_command_principle = {
         }
     }
 }
-naval_professionalism = {
-    area = naval_leadership
-    year = 1836
-    cost = 7200
-    unciv_military = yes
-    navy_base = { default_organisation = 5 }
-    colonial_prestige = 0.1
 
-    ai_chance = {
+naval_professionalism = {
+	area = naval_leadership
+	year = 1836
+	cost = 7200
+	unciv_military = yes
+
+	navy_base = { default_organisation = 5 }
+	colonial_prestige = 0.1
+
+	ai_chance = {
         factor = 0.75
         # Land-locked countries don't research this
         modifier = {
@@ -2228,15 +2278,17 @@ naval_professionalism = {
         }
     }
 }
+
 naval_decision_making = {
-    area = naval_leadership
-    year = 1850
-    cost = 10800
-    unciv_military = yes
-    navy_base = { default_organisation = 5 }
-    colonial_prestige = 0.1
+	area = naval_leadership
+	year = 1850
+	cost = 10800
+	unciv_military = yes
 
-    ai_chance = {
+	navy_base = { default_organisation = 5 }
+	colonial_prestige = 0.1
+
+	ai_chance = {
         factor = 0.75
         # Land-locked countries don't research this
         modifier = {
@@ -2319,15 +2371,17 @@ naval_decision_making = {
         }
     }
 }
+
 naval_risk_management = {
-    area = naval_leadership
-    year = 1870
-    cost = 14400
-    unciv_military = yes
-    navy_base = { default_organisation = 5 }
-    colonial_prestige = 0.1
+	area = naval_leadership
+	year = 1870
+	cost = 14400
+	unciv_military = yes
 
-    ai_chance = {
+	navy_base = { default_organisation = 5 }
+	colonial_prestige = 0.1
+
+	ai_chance = {
         factor = 0.75
         # Land-locked countries don't research this
         modifier = {
@@ -2410,15 +2464,18 @@ naval_risk_management = {
         }
     }
 }
+
 naval_nco_training = {
-    area = naval_leadership
-    year = 1900
-    cost = 18000
-    unciv_military = yes
-    navy_base = {
+	area = naval_leadership
+	year = 1900
+	cost = 18000
+	unciv_military = yes
+
+	navy_base = {
         default_organisation = 5
     }
-    ai_chance = {
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -2501,15 +2558,18 @@ naval_nco_training = {
         }
     }
 }
+
 modern_naval_training = {
-    area = naval_leadership
-    year = 1919
-    cost = 21600
-    unciv_military = yes
-    navy_base = {
+	area = naval_leadership
+	year = 1919
+	cost = 21600
+	unciv_military = yes
+
+	navy_base = {
         default_organisation = 5
     }
-    ai_chance = {
+
+	ai_chance = {
         factor = 0.25
         # Land-locked countries don't research this
         modifier = {
@@ -2592,3 +2652,4 @@ modern_naval_training = {
         }
     }
 }
+

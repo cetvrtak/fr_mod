@@ -54,7 +54,7 @@ upper_house = {
 
 # Technologies
 aesthetics_0 = 1
-army_leadership_0 = 1
+artillery_officers = 1
 chemistry_and_electricity_0 = 1
 classicism_n_early_romanticism = 1
 economic_thought_and_critique_0 = 1
