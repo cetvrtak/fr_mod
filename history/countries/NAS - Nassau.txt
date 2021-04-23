@@ -54,14 +54,12 @@ upper_house = {
 
 # Technologies
 aesthetics_0 = 1
-artillery_officers = 1
 chemistry_and_electricity_0 = 1
 financial_institutions_0 = 1
 flintlock_rifles = 1
 mechanization_0 = 1
 metallurgy_0 = 1
 monetary_system_0 = 1
-napoleonic_tactics = 1
 philosophy_0 = 1
 piston_steam_engine = 1
 political_thought_0 = 1
