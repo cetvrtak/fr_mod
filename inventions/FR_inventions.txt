@@ -107,3 +107,40 @@ semi_autonomous_artillery = {
         }
     }
 }
+#concentrated_force
+doubling_the_rear = {
+    limit = { concentrated_force = 1 }
+    chance = {
+        base = 2
+        modifier = {
+            factor = 2
+            tag = ENG
+        }
+        modifier = {
+            factor = 2
+            tag = FRA
+        }
+    }
+    effect = {
+        navy_base = {
+            maximum_speed = 1   # translates into combat speed to simulate willingness to engage
+        }
+    }
+}
+#copper_sheathing
+muntz_metal = {
+    limit = {
+        copper_sheathing = 1
+        year = 1832
+    }
+    chance = {
+        base = 2
+        modifier = {
+            factor = 2
+            tag = ENG
+        }
+    }
+    effect = {
+        naval_attrition = -0.1
+    }
+}

@@ -1,24 +1,83 @@
 #naval_doctrine
-naval_doctrine_0 = {
+concentrated_force = {
 	area = naval_doctrine
 	year = 1783
 	cost = 1800
 	unciv_military = yes
 
+	activate_building = naval_base
+	colonial_points = 100
 
 	ai_chance = {
-        factor = 2
+        factor = 1.5
+        # Land-locked countries don't research this
+        modifier = {
+            factor = 0
+            NOT = { total_num_of_ports = 1 }
+        }
+        # GPs with 9 or more coastal provinces (Prussia+)
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 9
+            is_greater_power = yes
+        }
+        # GPs and SPs with more than 12 ports
+        modifier = {
+            factor = 2
+            total_num_of_ports = 12
+            rank = 16
+        }
+        # Bigger navy, more weight
+        modifier = {
+            factor = 1.05
+            total_amount_of_ships = 20
+        }
+        modifier = {
+            factor = 1.05
+            total_amount_of_ships = 40
+        }
+        modifier = {
+            factor = 1.05
+            total_amount_of_ships = 60
+        }
+        modifier = {
+            factor = 1.05
+            total_amount_of_ships = 80
+        }
+        # Big country with more than 1/4 coastal provinces
+        modifier = {
+            factor = 1.1
+            total_num_of_ports = 10
+            not = { num_of_cities = 40 }
+        }
+        modifier = {
+            factor = 1.1
+            total_num_of_ports = 20
+            not = { num_of_cities = 80 }
+        }
+        modifier = {
+            factor = 1.1
+            total_num_of_ports = 30
+            not = { num_of_cities = 120 }
+        }
+        modifier = {
+            factor = 1.1
+            total_num_of_ports = 40
+        }
+        modifier = {
+            factor = 2
+            any_owned_province = { is_overseas = yes }
+        }
     }
 }
 
 post_nelsonian_thought = {
 	area = naval_doctrine
-	year = 1836
+	year = 1815
 	cost = 3600
 	unciv_military = yes
 
-	activate_building = naval_base
-	colonial_points = 100
+	max_naval_base = 1
 
 	ai_chance = {
         factor = 1.5
@@ -568,7 +627,7 @@ ship_construction_0 = {
 
 clipper_design = {
 	area = ship_construction
-	year = 1836
+	year = 1815
 	cost = 3600
 	unciv_military = yes
 
@@ -1150,21 +1209,97 @@ oil_driven_ships = {
 }
 
 #naval_engineering
-naval_engineering_0 = {
+copper_sheathing = {
 	area = naval_engineering
 	year = 1783
 	cost = 1800
 	unciv_military = yes
 
+	navy_base = { build_time = -10 }
 
 	ai_chance = {
-        factor = 2
+        factor = 0.25
+        # Land-locked countries don't research this
+        modifier = {
+            factor = 0
+            NOT = { total_num_of_ports = 1 }
+        }
+        # Low LIT countries should pay less attention here (0.2 = Craftsmen ceiling)
+        modifier = {
+            factor = 0.8
+            NOT = { literacy = 0.2 }
+        }
+        # Valuable to naval tech school countries (UK)
+        modifier = {
+            factor = 4
+            OR = { tech_school = naval_tech_school tech_school = japanese_tech_school }
+        }
+        # GPs with 9 or more coastal provinces (Prussia+)
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 9
+            is_greater_power = yes
+            clipper_design = 1
+        }
+        # GPs and SPs with more than 12 ports
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 12
+            rank = 16
+            clipper_design = 1
+        }
+        # We're late with this!
+        modifier = {
+            factor = 1.25
+            year = 1860
+        }
+        # Bigger navy, more weight
+        modifier = {
+            factor = 1.1
+            total_amount_of_ships = 20
+        }
+        modifier = {
+            factor = 1.1
+            total_amount_of_ships = 40
+        }
+        modifier = {
+            factor = 1.1
+            total_amount_of_ships = 60
+        }
+        modifier = {
+            factor = 1.1
+            total_amount_of_ships = 80
+        }
+        # Big country with more than 1/4 coastal provinces
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 10
+            not = { num_of_cities = 40 }
+        }
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 20
+            not = { num_of_cities = 80 }
+        }
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 30
+            not = { num_of_cities = 120 }
+        }
+        modifier = {
+            factor = 1.05
+            total_num_of_ports = 40
+        }
+        modifier = {
+            factor = 0.25
+            NOT = { literacy = 0.4 }
+        }
     }
 }
 
 naval_design_bureaus = {
 	area = naval_engineering
-	year = 1836
+	year = 1815
 	cost = 3600
 	unciv_military = yes
 
@@ -1753,7 +1888,7 @@ naval_science_0 = {
 
 alphabetic_flag_signaling = {
 	area = naval_science
-	year = 1836
+	year = 1815
 	cost = 3600
 	unciv_military = yes
 
@@ -2098,7 +2233,7 @@ naval_leadership_0 = {
 
 the_command_principle = {
 	area = naval_leadership
-	year = 1836
+	year = 1815
 	cost = 3600
 	unciv_military = yes
 

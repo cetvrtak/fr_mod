@@ -70,7 +70,6 @@ market_functionality_0 = 1
 mechanization_0 = 1
 metallurgy_0 = 1
 monetary_system_0 = 1
-naval_doctrine_0 = 1
 naval_leadership_0 = 1
 no_standard = 1
 philosophy_0 = 1
