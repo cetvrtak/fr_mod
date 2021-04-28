@@ -60,3 +60,6 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "RGS_oob.txt"
+1836.1.1 = {
+	oob = "/1836/RGS_oob.txt"
+}

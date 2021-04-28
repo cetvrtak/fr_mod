@@ -55,3 +55,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	oob = "/1836/SHI_oob.txt"
+}

@@ -60,6 +60,9 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "BRZ_oob.txt"
+1836.1.1 = {
+	oob = "/1836/BRZ_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/BRZ_oob.txt"
     literacy = 0.14

@@ -58,6 +58,9 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "HOL_oob.txt"
+1836.1.1 = {
+	oob = "/1836/HOL_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/HOL_oob.txt"
     plurality = 60

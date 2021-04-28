@@ -62,6 +62,9 @@ nonstate_consciousness = 0
 schools = developing_tech_school
 
 oob = "HAI_oob.txt"
+1836.1.1 = {
+	oob = "/1836/HAI_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/HAI_oob.txt"
     plurality = 50

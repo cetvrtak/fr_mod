@@ -78,6 +78,9 @@ nonstate_consciousness = 1
 schools = industrial_tech_school
 
 oob = "SWI_oob.txt"
+1836.1.1 = {
+	oob = "/1836/SWI_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/SWI_oob.txt"
     plurality = 60

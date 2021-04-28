@@ -59,6 +59,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "PRK_oob.txt"
+1836.1.1 = {
+	oob = "/1836/PRK_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/PRK_oob.txt"
 }

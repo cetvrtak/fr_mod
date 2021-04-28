@@ -58,3 +58,6 @@ consciousness = 2
 nonstate_consciousness = 0
 
 schools = culture_tech_school
+1836.1.1 = {
+	oob = "/1836/KRA_oob.txt"
+}

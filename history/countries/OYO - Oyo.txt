@@ -58,6 +58,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "OYO_oob.txt"
+1836.1.1 = {
+	oob = "/1836/OYO_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/OYO_oob.txt"
     foreign_weapons = yes_foreign_weapons

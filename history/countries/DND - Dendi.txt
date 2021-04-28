@@ -59,6 +59,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "DND_oob.txt"
+1836.1.1 = {
+	oob = "/1836/DND_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/DND_oob.txt"
 }

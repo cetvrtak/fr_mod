@@ -63,6 +63,9 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "MEX_oob.txt"
+1836.1.1 = {
+	oob = "/1836/MEX_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/MEX_oob.txt"
 

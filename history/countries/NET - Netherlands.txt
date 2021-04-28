@@ -80,6 +80,9 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "NET_oob.txt"
+1836.1.1 = {
+	oob = "/1836/NET_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/NET_oob.txt"
     set_country_flag = signed_treaty_of_london

@@ -94,6 +94,9 @@ foreign_investment = {
 }
 
 oob = "FRA_oob.txt"
+1836.1.1 = {
+	oob = "/1836/FRA_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/FRA_oob.txt"
     prestige = 140

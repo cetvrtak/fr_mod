@@ -62,3 +62,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "DAG_oob.txt"
+1836.1.1 = {
+	oob = "/1836/DAG_oob.txt"
+}

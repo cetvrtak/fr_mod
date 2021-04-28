@@ -60,6 +60,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "CAM_oob.txt"
+1836.1.1 = {
+	oob = "/1836/CAM_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/CAM_oob.txt"
     literacy = 0.05

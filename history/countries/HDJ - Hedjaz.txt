@@ -58,6 +58,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "HDJ_oob.txt"
+1836.1.1 = {
+	oob = "/1836/HDJ_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/HDJ_oob.txt"
     literacy = 0.13

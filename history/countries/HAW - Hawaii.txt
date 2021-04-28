@@ -57,6 +57,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "HAW_oob.txt"
+1836.1.1 = {
+	oob = "/1836/HAW_oob.txt"
+}
 1861.1.1 = {
 
     literacy = 0.83

@@ -55,3 +55,6 @@ foreign_weapons = yes_foreign_weapons
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	oob = "/1836/BHP_oob.txt"
+}

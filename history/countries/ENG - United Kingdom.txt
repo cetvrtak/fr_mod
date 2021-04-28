@@ -90,6 +90,9 @@ foreign_investment = {
 }
 
 oob = "ENG_oob.txt"
+1836.1.1 = {
+	oob = "/1836/ENG_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/ENG_oob.txt"
     ruling_party = ENG_liberal_2

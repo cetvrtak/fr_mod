@@ -59,6 +59,9 @@ consciousness = 2
 nonstate_consciousness = 0
 
 oob = "ION_oob.txt"
+1836.1.1 = {
+	oob = "/1836/ION_oob.txt"
+}
 1861.1.1 = {
     plurality = 60
     literacy = 0.27

@@ -88,6 +88,9 @@ foreign_investment = {
 }
 
 oob = "USA_oob.txt"
+1836.1.1 = {
+	oob = "/1836/USA_oob.txt"
+}
 1838.1.1 = {
 decision = trail_of_tears
 }

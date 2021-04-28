@@ -61,6 +61,9 @@ consciousness = 3
 nonstate_consciousness = 6
 
 oob = "DAI_oob.txt"
+1836.1.1 = {
+	oob = "/1836/DAI_oob.txt"
+}
 1861.1.1 = {
     oob = "/1861/DAI_oob.txt"
     literacy = 0.08

@@ -58,3 +58,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "SIN_oob.txt"
+1836.1.1 = {
+	oob = "/1836/SIN_oob.txt"
+}
