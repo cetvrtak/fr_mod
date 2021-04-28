@@ -1,23 +1,12 @@
 capital = 395
 primary_culture = wallonian
 culture = flemish
-culture = zzz_religion_catholic
 religion = catholic
 government = theocracy
-plurality = 0
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.272917
-
 civilized = yes
-
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions
-school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
@@ -29,13 +18,23 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-#Mod Reforms
-border_policy=closed_borders
-child_labor=child_labor_legal
-citizens_rights=primary_culture_only
-conscription=mandatory_service
-debt_law=serfdom
-penal_system=capital_punishment
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# New Reforms
+border_policy = closed_borders
+child_labor = child_labor_legal
+citizens_rights = primary_culture_only
+conscription = mandatory_service
+debt_law = serfdom
+penal_system = capital_punishment
+
 
 ruling_party = FLA_reactionary
 upper_house = 
@@ -49,35 +48,35 @@ upper_house =
 	communist = 0
 }
 
-# Starting Consciousness
-consciousness = 2
-nonstate_consciousness= 0.05
+
 
 # Technologies
-army_command_principle = 1
-basic_chemistry = 1
-bronze_muzzle_loaded_artillery = 1
+aesthetics_0 = 1
+chemistry_and_electricity_0 = 1
 classicism_n_early_romanticism = 1
-early_classical_theory_and_critique = 1
-enlightenment_thought = 1
-experimental_railroad = 1
+economic_thought_and_critique_0 = 1
+financial_institutions_0 = 1
 flintlock_rifles = 1
-freedom_of_trade = 1
-guild_based_production = 1
-high_pressure_steam_engine = 1
-hot_blast = 1
-introspectionism = 1
-late_enlightenment_philosophy = 1
-malthusian_thought = 1
-mechanical_production = 1
-no_standard = 1
+market_functionality_0 = 1
+mechanization_0 = 1
+metallurgy_0 = 1
+monetary_system_0 = 1
+philosophy_0 = 1
 piston_steam_engine = 1
-post_napoleonic_thought = 1
-post_nelsonian_thought = 1
+political_thought_0 = 1
 private_banks = 1
-romanticism = 1
-stock_exchange = 1
-prestige=0
+psychology_0 = 1
+rocket_artillery = 1
+social_thought_0 = 1
+tech_infrastructure_0 = 1
+tech_organization_0 = 1
+tech_power_0 = 1
+
+# Starting Consciousness
+consciousness = 0
+nonstate_consciousness = 0
+
+schools = culture_tech_school
+
 oob = "LIG_OOB.txt"
 set_country_flag = member_hre
-set_country_flag = religi

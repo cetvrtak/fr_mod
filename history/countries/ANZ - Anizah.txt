@@ -1,21 +1,10 @@
 capital = 1156
 primary_culture = bedouin
-culture = zzz_religion_sunni
 religion = sunni
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.0556512
-
-
-# Social Reforms
-wage_reform = no_minimum_wage
-work_hours = no_work_hour_limit
-safety_regulations = no_safety
-health_care = no_health_care
-unemployment_subsidies = no_subsidies
-pensions = no_pensions
-school_reforms = no_schools
 
 # political reforms
 slavery=yes_slavery
@@ -27,12 +16,22 @@ press_rights=censored_press
 trade_unions=state_controlled
 political_parties=harassment
 
-#Mod Reforms
-firearms_production=no_firearms_production
-foreign_artillery=no_foreign_artillery
-monetary_reform=no_monetary_reform
-research_reform=no_research_reform
-western_shipyards=no_western_shipyards
+# Social Reforms
+wage_reform = no_minimum_wage
+work_hours = no_work_hour_limit
+safety_regulations = no_safety
+health_care = no_health_care
+unemployment_subsidies = no_subsidies
+pensions = no_pensions
+school_reforms = no_schools
+
+# New Reforms
+firearms_production = no_firearms_production
+foreign_artillery = no_foreign_artillery
+monetary_reform = no_monetary_reform
+research_reform = no_research_reform
+western_shipyards = no_western_shipyards
+
 
 ruling_party = ANZ_reactionary
 upper_house = 
@@ -46,11 +45,7 @@ upper_house =
 	communist = 0
 }
 
-# Starting Consciousness
-consciousness = 2.5
-nonstate_consciousness= 0
 
-# Technologies
 land_reform=yes_land_reform
 admin_reform=no_admin_reform
 finance_reform=no_finance_reform
@@ -66,6 +61,13 @@ army_schools=no_army_schools
 foreign_naval_officers=no_foreign_naval_officers
 naval_schools=no_naval_schools
 foreign_navies=no_foreign_navies
-prestige=0
+
+# Technologies
+
+# Starting Consciousness
+consciousness = 2.5
+nonstate_consciousness = 0
+
+schools = traditional_academic
+
 oob = "ANZ_OOB.txt"
-set_country_flag = religi
