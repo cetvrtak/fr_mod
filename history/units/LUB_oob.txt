@@ -1,9 +1,37 @@
-army = {
-    name = "Lubeck's Militia"
-    location = 530
-    regiment = {
-        name= "1st Division"
-        type = infantry
-        home = 530
-    }
+#Sphere of Influence
+
+SWE = {
+	value = -15
 }
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=530
+	ship = {
+		name="1st Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lübeck Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Lübeck Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=530
+	ship = {
+		name="2nd Lübeck Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Lübeck Frigate"
+		type=frigate
+	}
+}
+

@@ -1,27 +1,51 @@
+#Sphere of Influence
+
+ABE = {
+	value = -15
+}
+AUS = {
+	value = -30
+}
+BAV = {
+	value = -15
+}
+DEN = {
+	value = 50
+	level = 3
+}
+ENG = {
+	value = 50
+	level = 3
+}
+FRA = {
+	value = -15
+}
+MAI = {
+	value = -15
+}
+RUS = {
+	value = -15
+}
+SAX = {
+	value = -30
+}
+SPA = {
+	value = -45
+}
+SWE = {
+	value = -15
+}
+WBG = {
+	value = -15
+}
+
+#Leaders
 leader = {
-    name = "Prince Georg"
-    date = 1820.1.1
-    type = land
-    personality = mediocre
-    background = old_school
-    prestige = 0.2
+	name="W. von Knyphausen"
+	date="1760.1.1"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
 }
 
-leader = {
-    name = "Prince Karl"
-    date = 1836.1.1
-    type = land
-    personality = indifferent
-    background = aristocrat
-}
 
-army = {
-    name = "Groﬂherzogliche Armee"
-    location = 2560
-    regiment = {
-        name= "1. Groﬂherzogliche Infanterie"
-        type = infantry
-        home = 2560
-    }
-
-}

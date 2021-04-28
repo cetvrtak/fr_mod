@@ -1,22 +1,51 @@
-army = {
-    name = "Army of the Wadiyar of Mysore"
-    location = 1314
-    regiment = {
-        name= "1.Mysore Contingent"
-        type = irregular
-        home = 1314
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.Mysore Contingent"
-        type = irregular
-        home = 1313
-    }
-
-    regiment = {
-        name= "3.Mysore Contingent"
-        type = irregular
-        home = 1315
-    }
-
+DEC = {
+	value = -15
 }
+ENG = {
+	value = -15
+}
+FRA = {
+	military_access = yes
+}
+
+#Leaders
+leader = {
+	name="Tippoo Sahib"
+	date="1782.12.8"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=1314
+	regiment = {
+		name="1st Mysore Irregulars"
+		type=irregular
+		home=1314
+	}
+	regiment = {
+		name="1st Madurai Irregulars"
+		type=irregular
+		home=1310
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1317
+	ship = {
+		name="1st Mysorian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mysorian Clipper Transport"
+		type=clipper_transport
+	}
+}
+

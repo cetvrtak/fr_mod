@@ -1,9 +1,18 @@
-army = {
-    name = "Armies of the Sheikhs"
-    location = 1167
-    regiment = {
-        name= "1.al Nahyah"
-        type = irregular
-        home = 1167
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1168
+	ship = {
+		name="1st Dubai Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Dubai Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dubai Frigate"
+		type=frigate
+	}
 }
+

@@ -1,0 +1,9 @@
+#Sphere of Influence
+
+KAC = {
+	value = -15
+}
+MUG = {
+	value = -60
+}
+

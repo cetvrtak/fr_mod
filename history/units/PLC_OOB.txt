@@ -1,0 +1,89 @@
+#Sphere of Influence
+
+AUS = {
+	value = -15
+}
+CRI = {
+	value = -30
+}
+KUR = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+MOL = {
+	value = -45
+}
+RAG = {
+	value = -15
+}
+RUS = {
+	value = -75
+}
+SAX = {
+	value = -15
+}
+SWE = {
+	value = -120
+}
+TUR = {
+	value = -45
+}
+WAL = {
+	value = -30
+}
+
+#Armies
+army = {
+	name="Armia z Warszawa"
+	location=706
+	regiment = {
+		name="1st Pastavy Infantry"
+		type=infantry
+		home=947
+	}
+	regiment = {
+		name="1st Skierniewice Infantry"
+		type=infantry
+		home=710
+	}
+	regiment = {
+		name="1st Lodz Infantry"
+		type=infantry
+		home=712
+	}
+	regiment = {
+		name="1st Kalisz Cavalry"
+		type=cavalry
+		home=717
+	}
+	regiment = {
+		name="1st Grodno Infantry"
+		type=infantry
+		home=936
+	}
+	regiment = {
+		name="1st Lublin Cavalry"
+		type=cavalry
+		home=715
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=690
+	ship = {
+		name="1st Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Commonwealth Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,12 +1,35 @@
-SPA = { value = 100 }
-JAP = { value = 100 }
-NET = { value = 50 }
-
-army = {
-    name = "Royal army of Sulu"
-    location = 1464
-    regiment = {
-        name= "The Sultan's Elite"
-        type = irregular
-        home = 1464    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1464
+	ship = {
+		name="1st Jolo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Jolo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Jolo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Jolo Frigate"
+		type=frigate
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=1464
+	ship = {
+		name="1st Jolo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Jolo Clipper Transport"
+		type=clipper_transport
+	}
+}
+

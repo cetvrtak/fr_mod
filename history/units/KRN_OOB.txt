@@ -1,0 +1,20 @@
+#Sphere of Influence
+
+ENG = {
+	value = -15
+	military_access = yes
+}
+MRT = {
+	value = -30
+}
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1307
+	ship = {
+		name="1st Pondicherry Clipper Transport"
+		type=clipper_transport
+	}
+}
+

@@ -1,22 +1,33 @@
-army = {
-    name = "Army of the Maharaja of Travancore"
-    location = 1319
-    regiment = {
-        name= "1.Kerala Division"
-        type = irregular
-        home = 1319
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.Kerala Division"
-        type = irregular
-        home = 1319
-    }
-
-    regiment = {
-        name= "3.Kerala Division"
-        type = irregular
-        home = 1319
-    }
-
+NET = {
+	value = -15
 }
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1319
+	ship = {
+		name="1st Trivandrum Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Trivandrum Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1319
+	ship = {
+		name="1st Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Trivandrum Clipper Transport"
+		type=clipper_transport
+	}
+}
+

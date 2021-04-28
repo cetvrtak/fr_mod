@@ -1,9 +1,6 @@
-army = {
-    name = "Army of the Maharawal of Jaisalmer"
-    location = 1265
-    regiment = {
-        name= "1. Infantry"
-        type = irregular
-        home = 1265
-    }
+#Sphere of Influence
+
+MUG = {
+	value = -45
 }
+

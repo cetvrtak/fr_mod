@@ -1,29 +1,27 @@
-JAL = {
-    value = 60
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1783
+	ship = {
+		name="1st Kahone Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Mboul Frigate"
+		type=frigate
+	}
 }
 
-TOO = {
-    value = 60
+navy = {
+	name="2nd Fleet"
+	location=1788
+	ship = {
+		name="1st Saint-Louis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mboul Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-GBU = { value = -200 }
-SEG = { value = -200 }
-MOS = { value = -200 }
-ASH = { value = -200 }
-
-army = {
-    name = "Army of the Wolof Kingdoms"
-        location = 1786
-regiment = {
-        name= "Buur-ba Jolof's Guards"
-        type = irregular
-
-    home = 1786    }
-
-
-regiment = {
-        name= "Wolof Warriors"
-            type = irregular
-    home = 2573
-    }
-}

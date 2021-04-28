@@ -1,0 +1,6 @@
+#Sphere of Influence
+
+AUS = {
+	value = -15
+}
+

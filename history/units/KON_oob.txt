@@ -1,47 +1,14 @@
-POR = {
-    value = 125
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1999
+	ship = {
+		name="1st Mbanza Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mbanza Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-NET = {
-    value = 40
-}
-
-LOA = {
-    value = 50
-}
-
-LBA = {
-    value = 30
-}
-
-KZB = {
-    value = 30
-}
-
-KUB = {
-    value = 30
-}
-
-LUN = {
-    value = 50
-}
-
-army = {
-    name = "Army of the Kongo Kingdom"
-    location = 1983
-regiment = {
-        name= "MweneKongo's Guards"
-    type = irregular
-    home = 1983    }
-
-
-regiment = {
-        name= "1st Kongo Warriors"
-    type = irregular
-    home = 1982    }
-regiment = {
-        name= "2nd Kongo Warriors"
-    type = irregular
-    home = 2001
-    }
-}

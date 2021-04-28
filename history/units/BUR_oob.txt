@@ -1,117 +1,47 @@
-#Relations
+#Sphere of Influence
 
+QNG = {
+	value = -15
+}
 SIA = {
-    value = -200        #relation
+	value = -165
 }
 
-ENG = {
-    value = -5        #relation
-}
-
-leader = {
-    name = "Tharrawaddy Min"
-    type = land
-    date = 1836.1.1
-    personality = balanced_p
-    background = armchair_general
-}
-
+#Armies
 army = {
-    name = "Army of Burma"
-    location = 1334
-    regiment = {
-        name= "1. Brigade"
-        type = irregular
-        home = 1330
-    }
-
-    regiment = {
-        name= "2. Brigade"
-        type = irregular
-        home = 1330
-    }
-
-    regiment = {
-        name= "3. Brigade"
-        type = irregular
-        home = 1332
-    }
-
-    regiment = {
-        name= "4. Brigade"
-        type = irregular
-        home = 1332
-    }
-
-    regiment = {
-        name= "5. Brigade"
-        type = irregular
-        home = 1333
-    }
-
-    regiment = {
-        name= "6. Brigade"
-        type = irregular
-        home = 1333
-    }
-
-    regiment = {
-        name= "7. Brigade"
-        type = irregular
-        home = 1335
-    }
-
-    regiment = {
-        name= "8. Brigade"
-        type = irregular
-        home = 1335
-    }
-
-    regiment = {
-        name= "9. Brigade"
-        type = irregular
-        home = 1337
-    }
-
+	name="1st Army"
+	location=1332
+	regiment = {
+		name="1st Myitkyina Irregulars"
+		type=irregular
+		home=1342
+	}
+	regiment = {
+		name="1st Pegu Irregulars"
+		type=irregular
+		home=1332
+	}
+	regiment = {
+		name="1st Lashio Irregulars"
+		type=irregular
+		home=1340
+	}
 }
 
-army = {
-    name = "Army of South Burma"
-    location = 1333
-    regiment = {
-        name= "10. Brigade"
-        type = irregular
-        home = 1334
-    }
-
-    regiment = {
-        name= "11. Brigade"
-        type = irregular
-        home = 1334
-    }
-
-    regiment = {
-        name= "12. Brigade"
-        type = irregular
-        home = 1339
-    }
-
-    regiment = {
-        name= "13. Brigade"
-        type = irregular
-        home = 1336
-    }
-
-    regiment = {
-        name= "15. Brigade"
-        type = irregular
-        home = 1342
-    }
-
-    regiment = {
-        name= "16. Brigade"
-        type = irregular
-        home = 1342
-    }
-
+navy = {
+	name="1st Fleet"
+	location=1332
+	ship = {
+		name="1st Pegu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rangoon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pegu Clipper Transport"
+		type=clipper_transport
+	}
 }
+

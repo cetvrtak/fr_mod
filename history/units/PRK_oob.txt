@@ -1,23 +1,31 @@
-ENG = {
-    value = 150
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2575
+	ship = {
+		name="1st Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Ipoh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Ipoh Frigate"
+		type=frigate
+	}
 }
 
-army = {
-    name = "Army of the Sultan of Perak"
-    location = 2575
-    regiment = {
-        name= "Perak State Troops"
-        type = irregular
-        home = 2575
-    }
-
+navy = {
+	name="2nd Fleet"
+	location=2575
+	ship = {
+		name="1st Ipoh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ipoh Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-leader = {
-    name = "Sultan Shahabuddin Riayat"
-    date = 1822.1.1
-    type = land
-    personality = stouthearted
-    background = aristocrat
-    prestige = 0.0
-}

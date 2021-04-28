@@ -1,0 +1,54 @@
+#Sphere of Influence
+
+AFG = {
+	value = -15
+}
+ASM = {
+	value = -60
+}
+BIK = {
+	value = -30
+}
+BUK = {
+	value = -15
+}
+BUN = {
+	value = -15
+}
+ENG = {
+	value = -15
+}
+JAS = {
+	value = -45
+}
+JOD = {
+	value = -30
+}
+KAT = {
+	value = -15
+}
+KCX = {
+	value = -15
+}
+KGR = {
+	value = -15
+}
+MEW = {
+	value = -75
+}
+MRT = {
+	value = -15
+}
+MWT = {
+	value = 60
+	military_access = yes
+	influence_value = 52
+	level = 5
+}
+PER = {
+	value = -90
+}
+RJP = {
+	value = -30
+}
+

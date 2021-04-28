@@ -1,22 +1,43 @@
-army = {
-    name = "Armata Principatul Moldovei"
-    location = 673
-    regiment = {
-        name= "1. Infanterie Moldovei"
-        type = infantry
-        home = 670
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2. Infanterie Moldovei"
-        type = infantry
-        home = 672
-    }
-
-    regiment = {
-        name= "3. Infanterie Moldovei"
-        type = infantry
-        home = 673
-    }
-
+AUS = {
+	value = -75
 }
+DEN = {
+	value = -15
+}
+GEN = {
+	value = -15
+}
+KNI = {
+	value = -15
+}
+KUR = {
+	value = -15
+}
+PAP = {
+	value = -15
+}
+PER = {
+	value = -30
+}
+PLC = {
+	value = -45
+}
+RUS = {
+	value = -60
+}
+SAX = {
+	value = -15
+}
+SPA = {
+	value = -30
+}
+TUR = {
+	value = -30
+	military_access = yes
+}
+VEN = {
+	value = -30
+}
+

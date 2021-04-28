@@ -1,0 +1,11 @@
+#Armies
+army = {
+	name="1st Army"
+	location=1227
+	regiment = {
+		name="1st Lahore Irregulars"
+		type=irregular
+		home=1227
+	}
+}
+

@@ -1,0 +1,16 @@
+#Armies
+army = {
+	name="1st Army"
+	location=1853
+	regiment = {
+		name="1st Antalo Irregulars"
+		type=irregular
+		home=1857
+	}
+	regiment = {
+		name="1st Hawassa Irregulars"
+		type=irregular
+		home=1860
+	}
+}
+

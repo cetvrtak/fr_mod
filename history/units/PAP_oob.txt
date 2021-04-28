@@ -1,59 +1,102 @@
-leader = {
-    name = "Filippo Resta"
-    date = 1815.1.1
-    type = land
-    personality = doughty
-    background = old_school
-    prestige = 0.5
+#Sphere of Influence
+
+AUS = {
+	value = -30
+}
+CRI = {
+	value = -15
+}
+FRA = {
+	value = 30
+}
+GEN = {
+	value = -15
+}
+MOD = {
+	value = -45
+}
+MOL = {
+	value = -15
+}
+NAP = {
+	value = -15
+}
+PAR = {
+	value = -15
+}
+POR = {
+	value = 75
+	influence_value = 6
+}
+RAG = {
+	value = -15
+}
+SPA = {
+	value = 60
+	influence_value = 2
+}
+TUN = {
+	value = -15
+}
+TUR = {
+	value = -45
+}
+TUS = {
+	value = -45
+}
+VEN = {
+	value = -75
+}
+WAL = {
+	value = -15
 }
 
-leader = {
-    name = "Alessandro Cialdi"
-    date = 1836.1.1
-    type = sea
-    personality = balanced_p
-    background = old_school
-}
-
+#Armies
 army = {
-    name = "Esercito Pontificio"
-    location = 749
-    regiment = {
-        name= "Zuavi Pontifici - Sancti Patricii"
-        type = infantry
-        home = 749
-    }
-
-    regiment = {
-        name= "Zuavi Pontifici - Sancti Pauli"
-        type = infantry
-        home = 741
-    }
-
-    regiment = {
-        name= "Guardia Svizzera Pontificia"
-        type = guard
-        home = 749
-    }
-
-    regiment = {
-        name= "Compagnia di Artiglieria"
-        type = artillery
-        home = 751
-    }
+	name="Armata di Roma"
+	location=749
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Bologna Infantry"
+		type=infantry
+		home=741
+	}
 }
 
 navy = {
-    name = "Marina Pontificia"
-    location = 749
-
-    ship = {
-        name= "San Pietro"
-        type = frigate
-    }
-
-    ship = {
-        name= "Roma"
-        type = steam_transport
-    }
+	name="1st Fleet"
+	location=749
+	ship = {
+		name="1st Viterbo Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Viterbo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rome Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Viterbo Clipper Transport"
+		type=clipper_transport
+	}
 }
+

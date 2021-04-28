@@ -1,26 +1,35 @@
-army = {
-    name = "Army of the King of Bali"
-    location = 1438
-    regiment = {
-        name= "1.Karangasem Militia"
-        type = irregular
-        home = 1438
-    }
-
-    regiment = {
-        name= "2.Karangasem Militia"
-        type = irregular
-        home = 1438
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1438
+	ship = {
+		name="1st Bali Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bali Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bali Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Bali Frigate"
+		type=frigate
+	}
 }
 
-army = {
-    name = "Army of the King of Lombok"
-    location = 1442
-
-    regiment = {
-        name= "3.Karangasem Militia"
-        type = irregular
-        home = 1442
-    }
+navy = {
+	name="2nd Fleet"
+	location=1438
+	ship = {
+		name="1st Bali Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bali Clipper Transport"
+		type=clipper_transport
+	}
 }
+

@@ -1,9 +1,56 @@
-army = {
-    name = "Mecklenburgische Armee"
-    location = 545
-    regiment = {
-        name= "1. Mecklenburgische Infanterie-Brigade"
-        type = infantry
-        home = 545
-    }
+#Sphere of Influence
+
+AUS = {
+	value = -30
 }
+BAV = {
+	value = -30
+}
+BRA = {
+	value = -15
+}
+BRE = {
+	value = -15
+}
+DEN = {
+	value = -15
+}
+MAI = {
+	value = -30
+}
+SPA = {
+	value = -30
+}
+SWE = {
+	value = -15
+}
+WBG = {
+	value = -30
+}
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=544
+	ship = {
+		name="1st Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Schwerin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Schwerin Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Schwerin Frigate"
+		type=frigate
+	}
+}
+

@@ -1,198 +1,184 @@
+#Sphere of Influence
+
+AUS = {
+	value = -45
+}
+BAV = {
+	value = -15
+}
+DEN = {
+	value = -130
+	level = 3
+}
+ENG = {
+	value = -15
+}
+FRA = {
+	value = -15
+}
+HAN = {
+	value = -30
+}
+HES = {
+	value = -15
+}
+KUR = {
+	value = -60
+}
+LUB = {
+	value = -15
+}
+MAI = {
+	value = -15
+}
+MEC = {
+	value = -15
+}
+NET = {
+	value = -30
+}
+OLD = {
+	value = 50
+	level = 3
+}
+PLC = {
+	value = -120
+}
+POR = {
+	value = -15
+}
+PRU = {
+	value = -30
+}
+RUS = {
+	value = -90
+}
+SAX = {
+	value = -45
+}
+SPA = {
+	value = -30
+}
+WBG = {
+	value = -15
+}
+
+#Leaders
 leader = {
-    name = "Carl Nordenskjöld"
-    date = 1834.1.1
-    type = sea
-    personality = disciplined
-    background = adventurer
-    prestige = 0.1
+	name="Gustav III"
+	date="1771.2.13"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
 }
 
 leader = {
-    name = "Carl XIV Johan"
-    date = 1818.1.1
-    type = land
-    personality = charismatic
-    background = elderly
-    prestige = 0.5
+	name="Georg C. von Döbeln"
+	date="1781.1.1"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
 }
 
-leader = {
-    name = "Johan Tawast"
-    date = 1807.1.1
-    type = land
-    personality = soldierly
-    background = old_school
-    prestige = 0.3
-}
 
-leader = {
-    name = "Axel Mörner"
-    date = 1818.1.1
-    type = land
-    personality = unruly
-    background = generals_aide
-    prestige = 0.2
-}
-
-leader = {
-    name = "Baltzar von Platen"
-    date = 1834.1.1
-    type = sea
-    personality = able
-    background = adventurer
-    prestige = 0.1
-}
-
-leader = {
-    name = "C. Cederström"
-    date = 1824.1.1
-    type = land
-    personality = strange
-    background = hated
-    prestige = 0.1
-}
-
-leader = {
-    name = "af Billbergh"
-    date = 1814.1.1
-    type = land
-    personality = diplomatic
-    background = toady
-    prestige = 0.2
-}
-
-leader = {
-    name = "Gustaf Peyron"
-    date = 1827.1.1
-    type = land
-    personality = imperious
-    background = exranker
-    prestige = 0.1
-}
-
+#Armies
 army = {
-    name = "Svenska Armén"
-    location = 322
-    regiment = {
-        name= "Svea Livgarde"
-        type = guard
-        home = 322
-    }
-
-    regiment = {
-        name= "Södermanlands Regemente"
-        type = infantry
-        home = 326
-    }
-
-    regiment = {
-        name= "Första Livgrenadjärregementet"
-        type = infantry
-        home = 325
-    }
-
-    regiment = {
-        name= "Upplands Regemente"
-        type = infantry
-        home = 324
-    }
-
-    regiment = {
-        name= "Västgöta Regemente"
-        type = infantry
-        home = 330
-    }
-
-    regiment = {
-        name= "Kalmar Regemente"
-        type = infantry
-        home = 332
-    }
-
-    regiment = {
-        name= "Jönköpings Regemente"
-        type = infantry
-        home = 333
-    }
-
-    regiment = {
-        name= "Södra Skånska Infanteriregementet"
-        type = infantry
-        home = 334
-    }
-
-    regiment = {
-        name= "Kronprinsens Husarregemente"
-        type = hussar
-        home = 335
-    }
-
-    regiment = {
-        name= "Norrlands Dragonregemente"
-        type = dragoon
-        home = 321
-    }
-
+	name="Kungliga Arméen"
+	location=322
+	regiment = {
+		name="1st Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Örebro Infantry"
+		type=infantry
+		home=327
+	}
+	regiment = {
+		name="1st Luleå Cavalry"
+		type=cavalry
+		home=321
+	}
+	regiment = {
+		name="2nd Malmö Infantry"
+		type=infantry
+		home=334
+	}
+	regiment = {
+		name="1st Västerås Cavalry"
+		type=cavalry
+		home=326
+	}
 }
 
 navy = {
-    name = "Swedish Navy"
-    location = 322
-    ship = {
-        name= "Karl XIII"
-        type = manowar
-    }
-
-    ship = {
-        name= "Karl XIV Johan"
-        type = manowar
-    }
-
-    ship = {
-        name= "Fäderneslandet"
-        type = manowar
-    }
-
-    ship = {
-        name= "Manligheten"
-        type = manowar
-    }
-
-
-    ship = {
-        name= "Camilla"
-        type = frigate
-    }
-
-    ship = {
-        name= "Af Chapman"
-        type = frigate
-    }
-
-    ship = {
-        name= "Eurydice"
-        type = frigate
-    }
-
-    ship = {
-        name= "Galatea"
-        type = frigate
-    }
-
-
-    ship = {
-        name= "1st Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "2nd Transport Flotilla"
-        type = clipper_transport
-    }
-
-    ship = {
-        name= "3rd Transport Flotilla"
-        type = clipper_transport
-    }
-
+	name="Högsjöflottan"
+	location=324
+	ship = {
+		name="1st Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stockholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Stockholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Stockholm Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Uppsala Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Västerås Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Västerås Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Uppsala Clipper Transport"
+		type=clipper_transport
+	}
 }
+
+navy = {
+	name="Skärgårdsflottan"
+	location=322
+	ship = {
+		name="3rd Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Västerås Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Uppsala Frigate"
+		type=frigate
+	}
+}
+

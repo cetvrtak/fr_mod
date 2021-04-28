@@ -1,9 +1,31 @@
-army = {
-    name = "Hamburger Armee"
-    location = 528
-    regiment = {
-        name= "1. Hamburger Infanterie-Brigade"
-        type = infantry
-        home = 528
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=528
+	ship = {
+		name="1st Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Hamburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Hamburg Frigate"
+		type=frigate
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=528
+	ship = {
+		name="1st Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Hamburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

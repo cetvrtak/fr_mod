@@ -1,17 +1,22 @@
-army = {
-    name = "The Middle Juz Army"
-    location = 1185
-    regiment = {
-        name= "Juz Cavalry"
-        type = cavalry
-        home = 1185
-    }
+#Sphere of Influence
+
+RUS = {
+	military_access = yes
 }
 
-leader = {
-    name = "Kenesary Khan"
-    type = land
-    date = 1836.1.1
-    background = aristocrat
-    personality = mediocre
-    }
+#Armies
+army = {
+	name="1st Army"
+	location=2612
+	regiment = {
+		name="1st Alty-Kuduk Irregulars"
+		type=irregular
+		home=2702
+	}
+	regiment = {
+		name="1st Kokshetau Irregulars"
+		type=irregular
+		home=1184
+	}
+}
+

@@ -1,12 +1,33 @@
-QNG = { value = 125 }
-JAP = { value = 125 }
+#Sphere of Influence
 
-army = {
-    name = "Royal Army of Ryukyu"
-    location = 1678
-    regiment = {
-        name= "Ryukyuan Warriors"
-        type = irregular
-        home = 1678
-    }
+TKG = {
+	value = -15
+	military_access = yes
 }
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1679
+	ship = {
+		name="1st Amami Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Okinawa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Okinawa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Amami Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Okinawa Clipper Transport"
+		type=clipper_transport
+	}
+}
+

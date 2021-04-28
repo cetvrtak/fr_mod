@@ -1,18 +1,22 @@
-leader = {
-    name = "Carlo di Borbone-Parma"
-    date = 1815.1.1
-    type = land
-    personality = polite
-    background = cursed_luck
-    prestige = 0.5
+#Armies
+navy = {
+	name="1st Fleet"
+	location=746
+	ship = {
+		name="1st Lucca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Lucca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lucca Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Lucca Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-army = {
-    name = "Esercito di Lucca"
-    location = 746
-    regiment = {
-        name= "1. Fanteria di Linea"
-        type = infantry
-        home = 746
-    }
-}

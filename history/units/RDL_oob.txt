@@ -1,9 +1,24 @@
-army = {
-    name = "Army of the Kurdish Emir"
-    location = 1118
-    regiment = {
-        name= "Kurdish Warriors"
-        type = irregular
-        home = 1118
-    }
+#Sphere of Influence
+
+ALD = {
+	value = -15
 }
+CRI = {
+	value = -15
+}
+KHO = {
+	value = -15
+}
+PER = {
+	military_access = yes
+}
+TRI = {
+	value = -15
+}
+TUN = {
+	value = -15
+}
+TUR = {
+	value = -15
+}
+

@@ -1,76 +1,157 @@
-ENG = {
-    value = 0
+#Sphere of Influence
+
+AUS = {
+	value = -15
+}
+BAV = {
+	value = -15
+}
+FRA = {
+	value = -15
+}
+HES = {
+	value = 50
+	level = 3
+}
+MAI = {
+	value = -15
+}
+MEC = {
+	value = -15
+}
+MOL = {
+	value = -15
+}
+RUS = {
+	value = -15
+}
+SPA = {
+	value = -15
+}
+SWE = {
+	value = -130
+	level = 3
+}
+TUR = {
+	value = -15
+}
+WBG = {
+	value = -15
 }
 
-PRU = {
-    value = 49
-}
-
+#Leaders
 leader = {
-    name = "Rye"
-    date = 1836.1.1
-    type = land
-    personality = daring
-    background = adventurer
+	name="Steen Bille"
+	date="1780.1.1"
+	type=sea
+	personality="stalwart"
+	background="uncommonly_young"
 }
 
+
+#Armies
 army = {
-    name = "Danske Haeren"
-    location = 372
-    regiment = {
-        name= "1.1. Infanteridivision"
-        type = infantry
-        home = 372
-    }
-
-    regiment = {
-        name= "2.1. Infanteridivision"
-        type = infantry
-        home = 372
-    }
-
-    regiment = {
-        name= "3.1. Infanteridivision"
-        type = infantry
-        home = 367
-    }
-
-    regiment = {
-        name= "1.2. Infanteridivision"
-        type = infantry
-        home = 366
-    }
-
-    regiment = {
-        name= "1.1. Artilleridivision"
-        type = artillery
-        home = 368
-    }
-
-    regiment = {
-        name= "1.2. Artilleridivision"
-        type = artillery
-        home = 2557
-    }
-
-    regiment = {
-        name= "1.1. Kavalleridivision"
-        type = dragoon
-        home = 373
-    }
-
+	name="1st Army"
+	location=372
+	regiment = {
+		name="1st Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
+	regiment = {
+		name="2nd Copenhagen Infantry"
+		type=infantry
+		home=372
+	}
 }
 
 navy = {
-    name = "Royal Navy"
-    location = 372
-    ship = {
-        name= "Danmark"
-        type = manowar
-    }
-
-    ship = {
-        name= "Dronning Marie"
-        type = manowar
-    }
+	name="1st Fleet"
+	location=372
+	ship = {
+		name="1st Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="6th Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Copenhagen Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="5th Copenhagen Clipper Transport"
+		type=clipper_transport
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=372
+	ship = {
+		name="1st Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="5th Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="6th Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="7th Copenhagen Frigate"
+		type=frigate
+	}
+	ship = {
+		name="8th Copenhagen Frigate"
+		type=frigate
+	}
+}
+

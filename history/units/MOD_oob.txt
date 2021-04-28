@@ -1,24 +1,15 @@
-leader = {
-    name = "Francesco IV"
-    date = 1815.1.1
-    type = land
-    personality = arrogant
-    background = hated
-    prestige = 0.5
+#Sphere of Influence
+
+AUS = {
+	value = -15
+}
+PAP = {
+	value = -45
+}
+SWI = {
+	value = -15
+}
+VEN = {
+	value = -30
 }
 
-army = {
-    name = "Esercito di Modena"
-    location = 739
-    regiment = {
-        name= "1. Fanteria di Linea"
-        type = infantry
-        home = 739
-    }
-
-    regiment = {
-        name= "2. Fanteria di Linea"
-        type = infantry
-        home = 740
-    }
-}

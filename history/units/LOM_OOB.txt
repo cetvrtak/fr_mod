@@ -1,0 +1,6 @@
+#Sphere of Influence
+
+VEN = {
+	value = -15
+}
+

@@ -1,9 +1,35 @@
-army = {
-    name = "Army of the Sultan of Brunei"
-    location = 1394
-    regiment = {
-        name= "1.Sultan's Guard"
-        type = irregular
-        home = 1394
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1393
+	ship = {
+		name="1st Bintulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bintulu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Bintulu Clipper Transport"
+		type=clipper_transport
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=1395
+	ship = {
+		name="1st Brunei Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Bintulu Frigate"
+		type=frigate
+	}
+}
+

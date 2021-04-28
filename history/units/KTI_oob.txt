@@ -1,9 +1,35 @@
-army = {
-    name = "Army of Kutei"
-    location = 1429
-    regiment = {
-        name= "Kutei Army"
-        type = irregular
-        home = 1429
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1429
+	ship = {
+		name="1st Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Samarinda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Samarinda Frigate"
+		type=frigate
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=1429
+	ship = {
+		name="1st Samarinda Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Samarinda Clipper Transport"
+		type=clipper_transport
+	}
+}
+

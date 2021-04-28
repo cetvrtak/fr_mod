@@ -1,74 +1,46 @@
-leader = {
-    name = "von Alten"
-    date = 1810.1.1
-    type = land
-    personality = stout
-    background = gifted_administrator
-    prestige = 0.3
+#Sphere of Influence
+
+ABE = {
+	value = -15
+}
+AUS = {
+	value = -15
+}
+BAV = {
+	value = -15
+}
+ENG = {
+	military_access = yes
+}
+FRA = {
+	value = -30
+}
+KOL = {
+	value = -15
+}
+POR = {
+	value = -15
+}
+RUS = {
+	value = -15
+}
+SAX = {
+	value = -15
+}
+SPA = {
+	value = -30
+}
+SWE = {
+	value = -30
 }
 
-leader = {
-    name = "Victor von Prott"
-    date = 1815.1.1
-    type = land
-    personality = intelligent
-    background = engineer
-    prestige = 0.3
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=531
+	ship = {
+		name="1st Hanoverian Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-leader = {
-    name = "Julius von Hartmann"
-    date = 1825.1.1
-    type = land
-    personality = spirited
-    background = artillerist
-    prestige = 0.2
-}
-
-leader = {
-    name = "Hugh Halkett"
-    date = 1834.1.1
-    type = land
-    personality = heroic
-    background = school_of_offense
-    prestige = 0.1
-}
-
-army = {
-    name = "Hannöversche Heer"
-    location = 534
-    regiment = {
-        name= "1. Hannöversche Infanteriebrigade"
-        type = infantry
-        home = 534
-    }
-
-    regiment = {
-        name= "2. Hannöversche Infanteriebrigade"
-        type = infantry
-        home = 535
-    }
-
-    regiment = {
-        name= "3. Hannöversche Infanteriebrigade"
-        type = infantry
-        home = 531
-    }
-
-    regiment = {
-        name= "1. Hannöversche Artilleriebrigade"
-        type = artillery
-        home = 532
-    }
-}
-
-army = {
-    name = "Korps Göttingen"
-    location = 537
-
-    regiment = {
-        name = "4. Hannöversche Infanteriebrigade"
-        type = infantry
-        home = 537
-    }
-}

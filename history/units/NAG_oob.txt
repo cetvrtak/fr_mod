@@ -1,22 +1,39 @@
-army = {
-    name = "Army of Nagpur"
-    location = 1277
-    regiment = {
-        name= "1.Nagpur Contingent"
-        type = irregular
-        home = 1277
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.Nagpur Contingent"
-        type = irregular
-        home = 1280
-    }
-
-    regiment = {
-        name= "3.Nagpur Contingent"
-        type = irregular
-        home = 1281
-    }
-
+AFG = {
+	value = -15
 }
+
+#Armies
+army = {
+	name="1st Army"
+	location=1277
+	regiment = {
+		name="1st Sambalpur Irregulars"
+		type=irregular
+		home=1263
+	}
+	regiment = {
+		name="1st Rewa Irregulars"
+		type=irregular
+		home=1274
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1261
+	ship = {
+		name="1st Nagpuri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Nagpuri Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Nagpuri Clipper Transport"
+		type=clipper_transport
+	}
+}
+

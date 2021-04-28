@@ -1,9 +1,6 @@
-army = {
-    name = "Provincial Army of Bhutan"
-    location = 1329
-    regiment = {
-        name= "1.Tongsa Militia"
-        type = irregular
-        home = 1329
-    }
+#Sphere of Influence
+
+KCX = {
+	value = -15
 }
+

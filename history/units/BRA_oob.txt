@@ -1,9 +1,32 @@
-army = {
-    name = "Braunschweigische Armee"
-    location = 536
-    regiment = {
-        name= "1. Braunschweigische Infanterie-Brigade"
-        type = infantry
-        home = 536
-    }
+#Sphere of Influence
+
+AUS = {
+	value = -45
 }
+BAV = {
+	value = -45
+}
+ENG = {
+	value = 50
+	level = 3
+}
+MAI = {
+	value = -15
+}
+MEC = {
+	value = -15
+}
+PRU = {
+	value = 50
+	level = 3
+}
+SAX = {
+	value = -15
+}
+SPA = {
+	value = -60
+}
+WBG = {
+	value = -15
+}
+

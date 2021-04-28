@@ -1,22 +1,21 @@
-army = {
-    name = "Royal Cambodian Army"
-    location = 1364
-    regiment = {
-        name= "1.1st Division"
-        type = irregular
-        home = 1364
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.1st Division"
-        type = irregular
-        home = 1364
-    }
-
-    regiment = {
-        name= "3.1st Division"
-        type = irregular
-        home = 1367
-    }
-
+SIA = {
+	value = -15
+	military_access = yes
 }
+
+#Armies
+navy = {
+	name="2nd Fleet"
+	location=1367
+	ship = {
+		name="1st Kampot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kampot Clipper Transport"
+		type=clipper_transport
+	}
+}
+

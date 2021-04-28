@@ -1,30 +1,47 @@
-army = {
-    name = "Army of the Sultan of Atjeh"
-    location = 1405
-    regiment = {
-        name= "1st Infantry"
-        type = irregular
-        home = 1405
-    }
-
-    regiment = {
-        name= "2nd Infantry"
-        type = irregular
-        home = 1406
-    }
-
-    regiment = {
-        name= "3rd Infantry"
-        type = irregular
-        home = 1407
-    }
-
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1405
+	ship = {
+		name="1st Banda Aceh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Banda Aceh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Banda Aceh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Banda Aceh Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-leader = {
-    name = "Sultan Alauddin Syah"
-    date = 1836.1.1
-    type = land
-    personality = bigoted
-    background = powerful_friends
+navy = {
+	name="2nd Fleet"
+	location=1405
+	ship = {
+		name="1st Banda Aceh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Banda Aceh Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Banda Aceh Frigate"
+		type=frigate
+	}
 }
+

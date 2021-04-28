@@ -1,36 +1,65 @@
-leader = {
-        name = "Leopoldo II"
-        date = 1824.1.1
-        type = land
-        personality = soft
-        background = gifted_administrator
-        prestige = 0.5
-    }
+#Sphere of Influence
 
-army = {
-    name = "Esercito Toscano"
-    location = 744
-    regiment = {
-        name= "1. Fanteria di Linea"
-        type = infantry
-        home = 744
-    }
-
-    regiment = {
-        name= "2. Fanteria di Linea"
-        type = infantry
-        home = 745
-    }
-
-    regiment = {
-        name= "3. Fanteria di Linea"
-        type = infantry
-        home = 748
-    }
-
-    regiment = {
-        name= "1. Guardia Civica"
-        type = infantry
-        home = 747
-    }
+AUS = {
+	value = -15
 }
+FRA = {
+	value = -15
+}
+GEN = {
+	value = -15
+}
+NAP = {
+	value = -15
+}
+PAP = {
+	value = -45
+}
+SPA = {
+	value = -15
+}
+VEN = {
+	value = -15
+}
+
+#Armies
+army = {
+	name="Armata di Firenze"
+	location=744
+	regiment = {
+		name="1st Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="1st Leghorn Infantry"
+		type=infantry
+		home=745
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=748
+	ship = {
+		name="1st Tuscan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tuscan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tuscan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tuscan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tuscan Clipper Transport"
+		type=clipper_transport
+	}
+}
+

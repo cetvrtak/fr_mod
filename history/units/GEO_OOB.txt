@@ -1,0 +1,6 @@
+#Sphere of Influence
+
+RUS = {
+	military_access = yes
+}
+

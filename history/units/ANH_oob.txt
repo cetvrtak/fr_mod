@@ -1,3 +1,18 @@
-PRU = {
-    value = 125
+#Sphere of Influence
+
+AUS = {
+	value = -15
 }
+BAV = {
+	value = -15
+}
+MAI = {
+	value = -15
+}
+SPA = {
+	value = -30
+}
+WBG = {
+	value = -15
+}
+

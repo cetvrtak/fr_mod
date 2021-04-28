@@ -1,31 +1,39 @@
-NET = {
-    value = -100
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1401
+	ship = {
+		name="1st Siak Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Siak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Siak Man'o'war"
+		type=manowar
+	}
 }
 
-army = {
-
-    name = "Army of the Sultan of Siak"
-
-    location = 1401
-
-    regiment = {
-
-        name= "1st irregular"
-
-        type = irregular
-        home = 1401
-
-    }
-
-
-    regiment = {
-
-        name= "2nd irregular"
-
-        type = irregular
-        home = 1401
-
-    }
-
-
+navy = {
+	name="2nd Fleet"
+	location=1401
+	ship = {
+		name="1st Siak Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Siak Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Siak Frigate"
+		type=frigate
+	}
 }
+

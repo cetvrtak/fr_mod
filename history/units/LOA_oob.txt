@@ -1,36 +1,27 @@
-POR = {
-    value = 75
+#Armies
+navy = {
+	name="1st Fleet"
+	location=2624
+	ship = {
+		name="1st Loango Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Loango Frigate"
+		type=frigate
+	}
 }
 
-NET = {
-    value = 30
+navy = {
+	name="2nd Fleet"
+	location=2624
+	ship = {
+		name="1st Loango Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Loango Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-KON = {
-    value = 50
-}
-
-LBA = {
-    value = 30
-}
-
-KUB = {
-    value = 30
-}
-
-LUN = {
-    value = 40
-}
-
-army = {
-    name = "Army of the Loango Kingdom"
-    location = 2624
-regiment = {
-        name= "Ma Lw„„gu's Guards"
-    type = irregular
-    home = 2624    }
-regiment = {
-        name= "Warriors of Loango"
-    type = irregular
-    home = 1977    }
-}

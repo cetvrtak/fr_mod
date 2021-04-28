@@ -1,103 +1,49 @@
-FRA = {
-    value = -150
+#Sphere of Influence
+
+KBA = {
+	value = -15
+}
+MGR = {
+	value = -15
+}
+MSY = {
+	value = -15
+}
+PER = {
+	value = -15
+}
+RDL = {
+	value = -15
+}
+TGT = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+TUR = {
+	military_access = yes
 }
 
-leader = {
-    name = "Emir Abdelkader"
-    type = land
-    date = 1836.1.1
-    personality = stalwart
-    background = school_of_offense
-    prestige = 0.1
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1700
+	ship = {
+		name="1st Algiers Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Algiers Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Algiers Frigate"
+		type=frigate
+	}
 }
 
-leader = {
-    name = "Ahmed Bey"
-    type = land
-    date = 1780.1.1
-    personality = stalwart
-    background = elderly
-    prestige = 0.1
-}
-
-army = {
-    name = "Army of Emir Abdelkader"
-    location = 1707
-    regiment = {
-        name= "1.Askäris"
-        type = infantry
-        home = 1707
-    }
-
-    regiment = {
-        name= "2.Askäris"
-        type = irregular
-        home = 1702
-    }
-
-    regiment = {
-        name= "3.Askäris"
-        type = irregular
-        home = 1705
-    }
-
-    regiment = {
-        name= "1.Spahis"
-        type = cavalry
-        home = 1705
-    }
-
-    regiment = {
-        name= "2.Spahis"
-        type = cavalry
-        home = 1715
-    }
-
-    regiment = {
-        name= "3.Spahis"
-        type = cavalry
-        home = 1713
-    }
-
-}
-
-army = {
-    name = "Army of the Bey of Constantine"
-    location = 1713
-    regiment = {
-        name= "4.Askäris"
-        type = irregular
-        home = 1708
-    }
-
-    regiment = {
-        name= "5.Askäris"
-        type = irregular
-        home = 1703
-    }
-
-    regiment = {
-        name= "6.Askäris"
-        type = irregular
-        home = 1702
-    }
-
-    regiment = {
-        name= "7.Askäris"
-        type = irregular
-        home = 1703
-    }
-
-    regiment = {
-        name= "3.Spahis"
-        type = irregular
-        home = 1708
-    }
-
-    regiment = {
-        name= "4.Spahis"
-        type = irregular
-        home = 1710
-    }
-
-}

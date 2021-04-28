@@ -1,54 +1,31 @@
-GON = {
-    value = -200
+#Armies
+navy = {
+	name="Fleet of Hafun"
+	location=1872
+	ship = {
+		name="1st Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bosaso Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bosaso Frigate"
+		type=frigate
+	}
 }
 
-SHW = {
-    value = -200
+navy = {
+	name="1st Fleet"
+	location=1872
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-TIG = {
-    value = -200
-}
-
-KAF = {
-    value = -200
-}
-
-WRL = {
-    value = -200
-}
-
-TUR = {
-    value = 50
-}
-
-EGY = {
-    value = 60
-}
-
-GEL = {
-    value = 50
-}
-
-AWS = {
-    value = 60
-}
-
-HAR = {
-    value = 75
-}
-
-army = {
-    name = "Army of the Majeerteen Sultanate"
-    location = 1872
-    regiment = {
-        name= "Shaykh's Guards"
-        type = irregular
-        home = 1872
-    }
-    regiment = {
-        name= "Berbera Warriors"
-        type = irregular
-        home = 1872
-    }
-}

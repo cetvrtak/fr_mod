@@ -1,34 +1,27 @@
-EGY = {
-    value = 75
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1875
+	ship = {
+		name="1st Aussa Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Aussa Frigate"
+		type=frigate
+	}
 }
 
-SHW = {
-    value = 40
+navy = {
+	name="2nd Fleet"
+	location=1875
+	ship = {
+		name="1st Aussa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Aussa Clipper Transport"
+		type=clipper_transport
+	}
 }
 
-GON = {
-    value = 50
-}
-
-HAR = {
-    value = 100
-}
-
-MAJ = {
-    value = 60
-}
-
-TIG = {
-    value = 40
-}
-
-army = {
-    name = "Army of the Sultan of Awsa"
-    location = 1858
-    regiment = {
-        name= "Sultan's Guards"
-        type = irregular
-        home = 1858
-    }
-
-}

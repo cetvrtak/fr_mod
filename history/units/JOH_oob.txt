@@ -1,23 +1,35 @@
-ENG = {
-    value = 50
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1384
+	ship = {
+		name="1st Tanjung Puteri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Singapore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Singapore Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tanjung Puteri Man'o'war"
+		type=manowar
+	}
 }
 
-army = {
-    name = "Army of the Sultan of Johore"
-    location = 1385
-    regiment = {
-        name= "Johore State Troops"
-        type = irregular
-        home = 1385
-    }
-
+navy = {
+	name="2nd Fleet"
+	location=1384
+	ship = {
+		name="1st Singapore Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tanjung Puteri Frigate"
+		type=frigate
+	}
 }
 
-leader = {
-    name = "Sultan Ali Iskandar"
-    date = 1824.1.1
-    type = land
-    personality = gutsy
-    background = aristocrat
-    prestige = 0.0
-}

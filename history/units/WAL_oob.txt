@@ -1,22 +1,40 @@
-army = {
-    name = "Army of the Principality of Wallachia"
-    location = 669
-    regiment = {
-        name= "1st Wallachia Infantry"
-        type = infantry
-        home = 664
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2nd Wallachia Infantry"
-        type = infantry
-        home = 668
-    }
-
-    regiment = {
-        name= "3rd Wallachia Infantry"
-        type = infantry
-        home = 669
-    }
-
+AUS = {
+	value = -60
 }
+GEN = {
+	value = -15
+}
+KNI = {
+	value = -15
+}
+MON = {
+	value = -15
+}
+PAP = {
+	value = -15
+}
+PER = {
+	value = -30
+}
+PLC = {
+	value = -30
+}
+POR = {
+	value = -15
+}
+RUS = {
+	value = -15
+}
+SPA = {
+	value = -30
+}
+TUR = {
+	value = -45
+	military_access = yes
+}
+VEN = {
+	value = -45
+}
+

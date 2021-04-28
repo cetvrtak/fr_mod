@@ -1,40 +1,35 @@
-army = {
-    name = "Army of the Maharaja of Beroda"
-    location = 1295
-    regiment = {
-        name= "1st Baroda"
-        type = irregular
-        home = 1295
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2nd Baroda"
-        type = irregular
-        home = 1295
-    }
-
-    regiment = {
-        name= "3rd Baroda"
-        type = irregular
-        home = 1295
-    }
-
-    regiment = {
-        name= "1st Patan"
-        type = irregular
-        home = 1294
-    }
-
-    regiment = {
-        name= "2nd Patan"
-        type = irregular
-        home = 1294
-    }
-
-    regiment = {
-        name= "1st Rajkot"
-        type = irregular
-        home = 1292
-    }
-
+ENG = {
+	value = 50
+	level = 3
 }
+JGD = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+KAT = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+
+#Armies
+army = {
+	name="1st Army"
+	location=1295
+	regiment = {
+		name="1st Baroda Irregulars"
+		type=irregular
+		home=1295
+	}
+	regiment = {
+		name="2nd Baroda Irregulars"
+		type=irregular
+		home=1295
+	}
+}
+

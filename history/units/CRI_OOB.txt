@@ -1,0 +1,42 @@
+#Sphere of Influence
+
+AUS = {
+	value = -75
+}
+GEN = {
+	value = -15
+}
+KNI = {
+	value = -15
+}
+MGR = {
+	value = -15
+}
+MSY = {
+	value = -15
+}
+PAP = {
+	value = -15
+}
+PER = {
+	value = -45
+}
+PLC = {
+	value = -30
+}
+POR = {
+	value = -15
+}
+RDL = {
+	value = -15
+}
+RUS = {
+	value = -60
+}
+SPA = {
+	value = -30
+}
+VEN = {
+	value = -30
+}
+

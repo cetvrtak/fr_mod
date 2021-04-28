@@ -1,108 +1,85 @@
-BAD = {
-    value = 150
-    military_access = yes
+#Sphere of Influence
+
+ANH = {
+	value = -15
+}
+AUS = {
+	value = -30
+}
+BRA = {
+	value = -45
+}
+BRE = {
+	value = -15
+}
+DEN = {
+	value = -15
+}
+ENG = {
+	value = -30
+}
+FRA = {
+	value = -30
+}
+HAN = {
+	value = -15
+}
+HES = {
+	value = -15
+}
+MEC = {
+	value = -30
+}
+NET = {
+	value = -30
+}
+PAL = {
+	value = -30
+}
+POR = {
+	value = -15
+}
+PRU = {
+	value = -15
+}
+SAX = {
+	value = -30
+}
+SWE = {
+	value = -15
 }
 WUR = {
-    value = 150
-    military_access = yes
+	value = -15
 }
 
-
-leader = {
-    name = "Pappenheim"
-    date = 1815.1.1
-    type = land
-    personality = careful
-    background = elderly
-    prestige = 0.3
-}
-
-leader = {
-    name = "von Washington"
-    date = 1825.1.1
-    type = land
-    personality = gallant
-    background = powerful_friends
-    prestige = 0.1
-}
-
-leader = {
-    name = "Karl von Heideck"
-    date = 1832.1.1
-    type = land
-    personality = polite
-    background = poet
-    prestige = 0.1
-}
-
-leader = {
-    name = "Prinz Karl"
-    date = 1825.1.1
-    type = land
-    personality = mediocre
-    background = aristocrat
-    prestige = 0.1
-}
-
+#Armies
 army = {
-    name = "I. Korps"
-    location = 599
-    regiment = {
-        name= "1. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 599
-    }
-
-    regiment = {
-        name= "2. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 592
-    }
-
-    regiment = {
-        name= "3. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 602
-    }
-
-    regiment = {
-        name= "4. Kgl. Bayer. Infanteriebrigade"
-        type = artillery
-        home = 601
-    }
-
+	name="Armee von Landshut"
+	location=600
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="2nd Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Munich Cavalry"
+		type=cavalry
+		home=599
+	}
+	regiment = {
+		name="1st Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="2nd Munich Cavalry"
+		type=cavalry
+		home=599
+	}
 }
 
-army = {
-    name = "II. Korps"
-    location = 595
-    regiment = {
-        name= "5. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 595
-    }
-
-    regiment = {
-        name= "6. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 595
-    }
-
-    regiment = {
-        name= "7. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 597
-    }
-
-}
-
-army = {
-    name = "III. Korps"
-    location = 571
-
-    regiment = {
-        name = "8. Kgl. Bayer. Infanteriebrigade"
-        type = infantry
-        home = 571
-    }
-}

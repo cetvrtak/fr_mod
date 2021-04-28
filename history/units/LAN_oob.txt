@@ -1,9 +1,31 @@
-army = {
-    name = "Army of Lanfang"
-    location = 1426
-    regiment = {
-        name= "Lanfang Army"
-        type = irregular
-        home = 1426
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1426
+	ship = {
+		name="1st Natuna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Natuna Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Pontianak Frigate"
+		type=frigate
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=1426
+	ship = {
+		name="1st Pontianak Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pontianak Clipper Transport"
+		type=clipper_transport
+	}
+}
+

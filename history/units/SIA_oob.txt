@@ -1,78 +1,94 @@
-#Relations
-
-USA = {
-    value = 10        #relation
-}
+#Sphere of Influence
 
 BUR = {
-    value = -200        #relation
+	value = -165
+}
+CAM = {
+	value = 60
+	military_access = yes
+	influence_value = 52
+	level = 5
+}
+CHK = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+LNA = {
+	value = 60
+	military_access = yes
+	influence_value = 52
+	level = 5
+}
+PAT = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+WIA = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
 }
 
-ENG = {
-    value = 75        #relation
+#Leaders
+leader = {
+	name="Rama I"
+	date="1782.4.8"
+	type=land
+	personality="coolminded"
+	background="natural_born_leader"
 }
 
-DAI = {
-    value = -50
-    truce_until = 1840.1.1
-}
 
-
+#Armies
 army = {
-    name = "Royal Siamese Army"
-    location = 1346
-    regiment = {
-        name= "1. Brigade"
-        type = irregular
-        home = 1346
-    }
-
-    regiment = {
-        name= "2. Brigade"
-        type = irregular
-        home = 1347
-    }
-
-    regiment = {
-        name= "3. Brigade"
-        type = irregular
-        home = 1348
-    }
-
-    regiment = {
-        name= "4. Brigade"
-        type = irregular
-        home = 1349
-    }
-
-    regiment = {
-        name= "5. Brigade"
-        type = irregular
-        home = 1350
-    }
-
-    regiment = {
-        name= "6. Brigade"
-        type = irregular
-        home = 1351
-    }
-
-    regiment = {
-        name= "7. Brigade"
-        type = irregular
-        home = 1352
-    }
-
-    regiment = {
-        name= "8. Brigade"
-        type = irregular
-        home = 1353
-    }
-
-    regiment = {
-        name= "9. Brigade"
-        type = irregular
-        home = 1354
-    }
-
+	name="1st Army"
+	location=1346
+	regiment = {
+		name="1st Nakhon Ratchasima Irregulars"
+		type=irregular
+		home=1350
+	}
+	regiment = {
+		name="2nd Nakhon Ratchasima Irregulars"
+		type=irregular
+		home=1350
+	}
+	regiment = {
+		name="1st Ratchaburi Cavalry"
+		type=cavalry
+		home=1353
+	}
+	regiment = {
+		name="1st Bangkok Irregulars"
+		type=irregular
+		home=1346
+	}
+	regiment = {
+		name="2nd Ratchaburi Cavalry"
+		type=cavalry
+		home=1353
+	}
 }
+
+navy = {
+	name="1st Fleet"
+	location=1346
+	ship = {
+		name="1st Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bangkok Clipper Transport"
+		type=clipper_transport
+	}
+}
+

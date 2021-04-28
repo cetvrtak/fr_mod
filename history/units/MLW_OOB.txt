@@ -1,0 +1,9 @@
+#Sphere of Influence
+
+LDU = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+

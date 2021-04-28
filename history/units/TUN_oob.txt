@@ -1,45 +1,76 @@
-army = {
-    name = "Army of the Bey of Tunis"
-    location = 1725
-    regiment = {
-        name= "1.Askäris"
-        type = infantry
-        home = 1725
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.Askäris"
-        type = infantry
-        home = 1725
-    }
-
-    regiment = {
-        name= "3.Askäris"
-        type = infantry
-        home = 1726
-    }
-
+AUS = {
+	value = -30
+}
+GEN = {
+	value = -15
+}
+KNI = {
+	value = -15
+}
+MGR = {
+	value = -15
+}
+MSY = {
+	value = -15
+}
+PAP = {
+	value = -15
+}
+PER = {
+	value = -30
+}
+RDL = {
+	value = -15
+}
+SPA = {
+	value = -30
+}
+VEN = {
+	value = -15
 }
 
-army = {
-    name = "Army of Ifriqiya"
-    location = 1730
-    regiment = {
-        name= "1.Kroumir"
-        type = irregular
-        home = 1727
-    }
-
-    regiment = {
-        name= "2.Kroumir"
-        type = irregular
-        home = 1728
-    }
-
-    regiment = {
-        name= "3.Kroumir"
-        type = irregular
-        home = 1730
-    }
-
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1725
+	ship = {
+		name="1st Tunis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tunis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tunis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tunis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tunis Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Tunis Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Tunis Clipper Transport"
+		type=clipper_transport
+	}
 }
+
+navy = {
+	name="2nd Fleet"
+	location=1725
+	ship = {
+		name="4th Tunis Frigate"
+		type=frigate
+	}
+}
+

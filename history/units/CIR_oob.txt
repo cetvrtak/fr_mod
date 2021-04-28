@@ -1,44 +1,22 @@
-army = {
-    name = "Circassian Army"
-    location = 1051
-
-
-    regiment = {
-        name= "1. Brigade"
-        type = infantry
-        home = 1051
-    }
-
-    regiment = {
-        name= "2. Brigade"
-        type = infantry
-        home = 1049
-    }
-
-    regiment = {
-        name= "3. Brigade"
-        type = infantry
-        home = 1051
-    }
-
-    regiment = {
-        name= "4. Cavalry"
-        type = cavalry
-        home = 1051
-    }
-
-    regiment = {
-        name= "5. Cavalry"
-        type = cavalry
-        home = 1049
-    }
-
-    leader = {
-        name = "Tuguzhuko Kyzbech"
-        picture = arab_general_4
-        type = land
-        date = 1836.1.1
-        background = cursed_luck
-        personality = resolute
-    }
+#Armies
+navy = {
+	name="1st Fleet"
+	location=1049
+	ship = {
+		name="1st Circassian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Circassian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Circassian Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Circassian Clipper Transport"
+		type=clipper_transport
+	}
 }
+

@@ -1,9 +1,34 @@
-army = {
-    name = "Oldenburgische Armee"
-    location = 540
-    regiment = {
-        name= "1. Oldenburgische Infanteriebrigade"
-        type = infantry
-        home = 540
-    }
+#Sphere of Influence
+
+SWE = {
+	value = 50
+	level = 3
 }
+
+#Armies
+navy = {
+	name="1st Fleet"
+	location=540
+	ship = {
+		name="1st Oldenburg Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Oldenburg Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=540
+	ship = {
+		name="1st Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Oldenburg Clipper Transport"
+		type=clipper_transport
+	}
+}
+

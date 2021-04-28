@@ -1,22 +1,6 @@
-army = {
-    name = "Army of the Chogyal of Ladakh"
-    location = 1226
-    regiment = {
-        name= "1.1st Infantry"
-        type = irregular
-        home = 1226
-    }
+#Sphere of Influence
 
-    regiment = {
-        name= "2.1st Infantry"
-        type = irregular
-        home = 1226
-    }
-
-    regiment = {
-        name= "3.1st Infantry"
-        type = irregular
-        home = 1226
-    }
-
+AFG = {
+	military_access = yes
 }
+
