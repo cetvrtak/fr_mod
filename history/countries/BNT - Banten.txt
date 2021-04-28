@@ -2,7 +2,7 @@ capital = 1414
 primary_culture = javan
 religion = sunni
 government = absolute_monarchy
-plurality = 1.77814e-320
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.0380079
 

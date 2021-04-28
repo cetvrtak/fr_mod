@@ -2,7 +2,7 @@ capital = 119
 primary_culture = dakota
 religion = totemism
 government = absolute_monarchy
-plurality = 1.49949e-320
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.0291524
 

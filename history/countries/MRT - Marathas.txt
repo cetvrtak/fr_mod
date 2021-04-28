@@ -2,7 +2,7 @@ capital = 1301
 primary_culture = marathi
 religion = hindu
 government = absolute_monarchy
-plurality = 1.2905e-320
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.0441239
 

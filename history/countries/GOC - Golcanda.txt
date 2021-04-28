@@ -2,7 +2,7 @@ capital = 1283
 primary_culture = telegu
 religion = shiite
 government = absolute_monarchy
-plurality = 1.08151e-320
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.0291524
 

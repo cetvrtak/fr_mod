@@ -2,7 +2,7 @@ capital = 1300
 primary_culture = kannada
 religion = sunni
 government = absolute_monarchy
-plurality = 1.01185e-320
+plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.0291524
 
