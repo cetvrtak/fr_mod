@@ -1,8 +1,8 @@
-graphical_culture = EuropeanGC
-color = { 116  107  140 }
+graphical_culture = Generic
+color = { 255  211  56 }
 
 party = {
-	name = "BUL_liberal"
+	name = "NEW_liberal"
 	start_date = 1836.1.1
 	end_date = 2000.1.1
 
@@ -12,12 +12,12 @@ party = {
 	economic_policy = interventionism
 	religious_policy = pluralism
 	social_policy = no_position_set
-	trade_policy = protectionism
-	war_policy = pro_military
+	trade_policy = free_trade
+	war_policy = anti_military
 }
 
 party = {
-	name = "BUL_conservative"
+	name = "NEW_conservative"
 	start_date = 1783.9.4
 	end_date = 2000.1.1
 
@@ -25,29 +25,29 @@ party = {
 
 	citizenship_policy = residency
 	economic_policy = interventionism
-	religious_policy = pluralism
+	religious_policy = moralism
 	social_policy = no_position_set
 	trade_policy = protectionism
-	war_policy = jingoism
+	war_policy = pro_military
 }
 
 party = {
-	name = "BUL_socialist"
+	name = "NEW_socialist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist
 
-	citizenship_policy = full_citizenship
+	citizenship_policy = limited_citizenship
 	economic_policy = state_capitalism
-	religious_policy = secularized
+	religious_policy = pluralism
 	social_policy = welfare_state
 	trade_policy = protectionism
 	war_policy = anti_military
 }
 
 party = {
-	name = "BUL_reactionary"
+	name = "NEW_reactionary"
 	start_date = 1790.1.1
 	end_date = 2000.1.1
 
@@ -62,7 +62,7 @@ party = {
 }
 
 party = {
-	name = "BUL_anarcho_liberal"
+	name = "NEW_anarcho_liberal"
 	start_date = 1830.1.1
 	end_date = 2000.1.1
 
@@ -77,7 +77,7 @@ party = {
 }
 
 party = {
-	name = "BUL_communist"
+	name = "NEW_communist"
 	start_date = 1848.1.1
 	end_date = 2000.1.1
 
@@ -92,7 +92,7 @@ party = {
 }
 
 party = {
-	name = "BUL_fascist"
+	name = "NEW_fascist"
 	start_date = 1900.1.1
 	end_date = 2000.1.1
 
@@ -107,32 +107,47 @@ party = {
 }
 unit_names= {
     dreadnought = {
-        Sofia Varna Burgas Plovdiv "Stara Zagora"
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
     }
     ironclad = {
-        Krum "Ivan Aleksandar" Levski Botev Aleksandrov
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
+
+
     }
     manowar = {
-        "Lyuben Karavelov" "Stoykov Rakovski" "Panayot Hitov" Karavelo "Stefan Karadzha"
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
+
     }
     cruiser = {
-        Maritsa Iskar Vit Osam Yantra
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
     }
     frigate = {
-        Musala Ruy Belasica "Vrah Botev" Bilo
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
     }
     monitor = {
-        Konstantinov Dalchev Debelyanov Voykikov Vazov
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
     }
     clipper_transport = {
-
 
     }
     steam_transport = {
 
-
     }
     commerce_raider = {
-        Kaliakra Vratsa "Veliko Turnovo" Sliven Kopriva
+        Newfoundland Labrador "John Cabot" Hudson Kirke Bristol "Prince Edward" "Saint John" "Saint Lawrence" "Belle Isle" Placentia
+        Dominion Discovery Atlantis "Leif Ericson"
+
     }
 }
