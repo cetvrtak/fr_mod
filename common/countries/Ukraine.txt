@@ -105,34 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Ostap Dashkevych" Kozaky "Stenka Razin" "Kondraty Bulavin" "Yemelyan Pugachev"
-    }
-    ironclad = {
-        Donets Sevastopol Kyiv Odessa Kharkiv
-    }
-    manowar = {
-        Krym Zaporiz'ka Khersonshchyna Mykolaiv Dnipropetrovsk
-    }
-    cruiser = {
-        Kyi Schek Khoryv Bravlin Oleg
-    }
-    frigate = {
-        Dniester Dnipro Desna Prypiat Prut
-    }
-    monitor = {
-        Sofyivsky "Pechers’ka lavra" "Kam’ianets’-Podil’s’kyi" Khotyn Khortyts'a
-    }
-    clipper_transport = {
 
-
-    }
-    steam_transport = {
-
-
-    }
-    commerce_raider = {
-        Oksana Oleksandra Yulia Nadiya Mariya
-    }
+unit_names = {
+	dreadnought = {
+		"Ostap Dashkevych" Kozaky "Stenka Razin" "Kondraty Bulavin" "Yemelyan Pugachev"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Donets Sevastopol Kyiv Odessa Kharkiv
+	}
+	manowar = {
+		Krym Zaporiz'ka Khersonshchyna Mykolaiv Dnipropetrovsk
+	}
+	cruiser = {
+		Kyi Schek Khoryv Bravlin Oleg
+	}
+	frigate = {
+		Dniester Dnipro Desna Prypiat Prut
+	}
+	monitor = {
+		Sofyivsky "Pechers’ka lavra" Kam’ianets’-Podil’s’kyi Khotyn Khortyts'a
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Oksana Oleksandra Yulia Nadiya Mariya
+	}
 }

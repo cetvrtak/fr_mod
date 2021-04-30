@@ -62,9 +62,9 @@ army = {
 		home=599
 	}
 	regiment = {
-		name="2nd Munich Infantry"
+		name="1st Kaiserslautern Infantry"
 		type=infantry
-		home=599
+		home=571
 	}
 	regiment = {
 		name="1st Munich Cavalry"
@@ -72,14 +72,14 @@ army = {
 		home=599
 	}
 	regiment = {
-		name="1st Ingolstadt Infantry"
+		name="1st Düsseldorf Infantry"
 		type=infantry
-		home=601
+		home=578
 	}
 	regiment = {
-		name="2nd Munich Cavalry"
+		name="1st Cleves Cavalry"
 		type=cavalry
-		home=599
+		home=577
 	}
 }
 

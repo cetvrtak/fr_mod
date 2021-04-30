@@ -28,19 +28,19 @@ army = {
 	name="1st Army"
 	location=1301
 	regiment = {
-		name="1st Nizamabad Irregulars"
+		name="1st Bombay Irregulars"
 		type=irregular
-		home=1285
+		home=1297
 	}
 	regiment = {
-		name="1st Gwalior Irregulars"
+		name="2nd Bombay Irregulars"
 		type=irregular
-		home=1270
+		home=1297
 	}
 	regiment = {
-		name="1st Bijapur Irregulars"
+		name="1st Amarati Irregulars"
 		type=irregular
-		home=1300
+		home=1278
 	}
 }
 

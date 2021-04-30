@@ -7,16 +7,16 @@ SPA = {
 #Armies
 army = {
 	name="1st Army"
-	location=2301
+	location=2302
 	regiment = {
-		name="1st Pucallpa Infantry"
+		name="1st La Paz Infantry"
 		type=infantry
-		home=2300
+		home=2310
 	}
 	regiment = {
-		name="1st Puno Infantry"
+		name="1st Cochabamba Infantry"
 		type=infantry
-		home=2303
+		home=2311
 	}
 }
 

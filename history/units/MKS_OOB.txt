@@ -9,28 +9,28 @@ navy = {
 	name="1st Fleet"
 	location=1431
 	ship = {
-		name="1st Bone Frigate"
+		name="Apolinario Mabini"
 		type=frigate
 	}
 	ship = {
-		name="2nd Bone Frigate"
+		name="Artemio Ricarte"
 		type=frigate
 	}
 	ship = {
-		name="1st Makassar Frigate"
+		name="Datu Bantilan"
 		type=frigate
 	}
 	ship = {
-		name="2nd Makassar Frigate"
+		name="4th Bone Frigate"
 		type=frigate
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=1430
+	location=1431
 	ship = {
-		name="1st Bone Clipper Transport"
+		name="Alam"
 		type=clipper_transport
 	}
 	ship = {

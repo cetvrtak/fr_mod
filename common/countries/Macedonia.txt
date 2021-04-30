@@ -105,34 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Skopje Bitola Thessaloniki Kumanovo Struga
-    }
-    ironclad = {
-        Krum "Ivan Aleksandar" Levski Botev Aleksandrov
-    }
-    manowar = {
-        "Lyuben Karavelov" "Stoykov Rakovski" "Panayot Hitov" Karavelo "Stefan Karadzha"
-    }
-    cruiser = {
-        Maritsa Iskar Vit Osam Yantra
-    }
-    frigate = {
-        Musala Ruy Belasica "Vrah Botev" Bilo
-    }
-    monitor = {
-        Konstantinov Dalchev Debelyanov Voykikov Vazov
-    }
-    clipper_transport = {
 
-
-    }
-    steam_transport = {
-
-
-    }
-    commerce_raider = {
-        Kaliakra Vratsa "Veliko Turnovo" Sliven Kopriva
-    }
+unit_names = {
+	dreadnought = {
+		Skopje Bitola Thessaloniki Kumanovo Struga
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Krum "Ivan Aleksandar" Levski Botev Aleksandrov
+	}
+	manowar = {
+		"Lyuben Karavelov" "Stoykov Rakovski" "Panayot Hitov" Karavelo "Stefan Karadzha"
+	}
+	cruiser = {
+		Maritsa Iskar Vit Osam Yantra
+	}
+	frigate = {
+		Musala Ruy Belasica "Vrah Botev" Bilo
+	}
+	monitor = {
+		Konstantinov Dalchev Debelyanov Voykikov Vazov
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Kaliakra Vratsa "Veliko Turnovo" Sliven Kopriva
+	}
 }

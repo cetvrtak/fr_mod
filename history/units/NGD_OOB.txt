@@ -9,19 +9,19 @@ army = {
 	name="1st Army"
 	location=2279
 	regiment = {
-		name="1st Casanare Infantry"
-		type=infantry
-		home=2262
-	}
-	regiment = {
-		name="1st El Jobal Infantry"
-		type=infantry
-		home=2277
-	}
-	regiment = {
 		name="1st Bogotá Infantry"
 		type=infantry
 		home=2247
+	}
+	regiment = {
+		name="1st Medellín Infantry"
+		type=infantry
+		home=2252
+	}
+	regiment = {
+		name="1st Quito Infantry"
+		type=infantry
+		home=2279
 	}
 }
 

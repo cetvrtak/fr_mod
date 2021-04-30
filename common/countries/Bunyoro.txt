@@ -105,9 +105,12 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
 		"Shaka Zulu" KwaZulu Assegai Dingane Dziva Mwari Dzivaguru Mulungu Mbonga Svikiro Mazendere "Mai Vedu" Musikavanhu Mutorwa
+	}
+	battleship = {
 		
 	}
 	ironclad = {

@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=746
 	ship = {
-		name="1st Lucca Frigate"
+		name="Carlo Ludovico"
 		type=frigate
 	}
 	ship = {
@@ -11,7 +11,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Lucca Frigate"
+		name="Castruccio Castracani"
 		type=frigate
 	}
 	ship = {

@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=2119
 	ship = {
-		name="1st Toamasina Frigate"
+		name="Shaka Zulu"
 		type=frigate
 	}
 	ship = {

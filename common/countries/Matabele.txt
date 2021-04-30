@@ -105,33 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
 
-    }
-    ironclad = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
-    manowar = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
-    cruiser = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
-    frigate = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
-    monitor = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
-    }
+unit_names = {
+	dreadnought = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	manowar = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	cruiser = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	frigate = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	monitor = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Mwami Karyenda Nzambi Bulawayo Upemba Mwari Mulopwe Mulungu Mbonga Bambudye Mazendere Mboko Musikavanhu Mutorwa
+	}
 }

@@ -195,9 +195,13 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
 		Baden Bayern Derfflinger "Friedrich der Grosse" Goeben "Grosser Kurfürst" Helgoland Hindenburg Kaiser Kaiserin König "König Albert" Kronprinz Lützow Mackensen Markgraf Moltke Nassau Oldenburg Ostfriesland Posen "Prinzregent Luitpold" Rheinland Sachsen Seydlitz Thüringen "Von der Tann" Westfalen Württemberg
+	}
+	battleship = {
+		
 	}
 	ironclad = {
 		Arminius Bremen Carola Charlotte Frankfurt "Friedrich Carl" "Friedrich der Grosse" "Grosser Kurfürst" Hamburg Hansa Kaiser "König Wilhelm" Kronprinz Leipzig Lübeck Marie Medusa Möwe Moltke Nixe Oldenburg Olga Otter Pfeil Preussen "Preussischer Adler" "Prinz Adalbert" Sophie

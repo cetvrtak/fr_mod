@@ -9,14 +9,14 @@ army = {
 	name="1st Army"
 	location=2612
 	regiment = {
-		name="1st Alty-Kuduk Irregulars"
+		name="1st Tashkent Irregulars"
 		type=irregular
-		home=2702
+		home=1195
 	}
 	regiment = {
-		name="1st Kokshetau Irregulars"
+		name="1st Chimkent Irregulars"
 		type=irregular
-		home=1184
+		home=1197
 	}
 }
 

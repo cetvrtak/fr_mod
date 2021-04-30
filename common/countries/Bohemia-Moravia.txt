@@ -105,32 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel"
-    }
-    ironclad = {
-        Praha Brno Ostrava Plzen Liberec
-    }
-    manowar = {
-        Milešovka Lovos Hazmburk Koštálov "Ceské Stredohorí"
-    }
-    cruiser = {
-        Jizera Metuje Morava Svratka Olza
-    }
-    frigate = {
-        "Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek"
-    }
-    monitor = {
-        "Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta"
-    }
-    clipper_transport = {
 
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        "Pražský hrad" Vyšehrad Zbraslav Kolodeje Chvaly
-    }
+unit_names = {
+	dreadnought = {
+		"Jan Hus" "Karel IV" "Prokop Veliký" "Jan Žižka" "Josef Ressel"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Praha Brno Ostrava Plzen Liberec
+	}
+	manowar = {
+		Milešovka Lovos Hazmburk Koštálov "Ceské Stredohorí"
+	}
+	cruiser = {
+		Jizera Metuje Morava Svratka Olza
+	}
+	frigate = {
+		"Jan Dismas Zelenka" "Šimon Brixi" "František Tuma" "Antonín Kraft" "František Xaver Dušek"
+	}
+	monitor = {
+		"Petr Brandl" "Václav Hollar" "Jan Jahn" "Jan Kupecký" "Karel Škréta"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"Pražský hrad" Vyšehrad Zbraslav Kolodeje Chvaly
+	}
 }

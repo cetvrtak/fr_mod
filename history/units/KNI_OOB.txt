@@ -42,15 +42,15 @@ navy = {
 	name="1st Fleet"
 	location=854
 	ship = {
-		name="1st Malta Frigate"
+		name="Hellas"
 		type=frigate
 	}
 	ship = {
-		name="2nd Malta Frigate"
+		name="Navarino"
 		type=frigate
 	}
 	ship = {
-		name="3rd Malta Frigate"
+		name="Psara"
 		type=frigate
 	}
 	ship = {
@@ -67,7 +67,7 @@ navy = {
 	name="2nd Fleet"
 	location=854
 	ship = {
-		name="4th Malta Frigate"
+		name="Prinkips Maximilianos"
 		type=frigate
 	}
 	ship = {

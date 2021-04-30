@@ -105,32 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Anton Bernolák" "Ludovít Štúr" "Michal Miloslav Hodža" "Ján Hollý" Povstanie
-    }
-    ironclad = {
-        Bratislava Košice Prešov Žilina Nitra
-    }
-    manowar = {
-        Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
-    }
-    cruiser = {
-        Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
-    }
-    frigate = {
-        Hron Bodrog Dunajec Ipel Tisa
-    }
-    monitor = {
-        "Majster košického oltára" "Josef Czauczik" "Lajos Csordák" "Karol Ludovít Libay" "Július Jakoby"
-    }
-    clipper_transport = {
 
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        "Bojnický zámok" "Bratislavsky hrad" "Devínsky hrad" "Nový zámok" "Starý zámok"
-    }
+unit_names = {
+	dreadnought = {
+		"Anton Bernolák" "Ludovít Štúr" "Michal Miloslav Hodža" "Ján Hollý" Povstanie
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Bratislava Košice Prešov Žilina Nitra
+	}
+	manowar = {
+		Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
+	}
+	cruiser = {
+		Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
+	}
+	frigate = {
+		Hron Bodrog Dunajec Ipel Tisa
+	}
+	monitor = {
+		"Majster košického oltára" "Josef Czauczik" "Lajos Csordák" "Karol Ludovít Libay" "Július Jakoby"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"Bojnický zámok" "Bratislavsky hrad" "Devínsky hrad" "Nový zámok" "Starý zámok"
+	}
 }

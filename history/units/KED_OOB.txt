@@ -1,7 +1,7 @@
 #Armies
 navy = {
 	name="1st Fleet"
-	location=1389
+	location=1388
 	ship = {
 		name="1st Penang Frigate"
 		type=frigate
@@ -11,7 +11,7 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Alor Setar Frigate"
+		name="3rd Penang Frigate"
 		type=frigate
 	}
 }

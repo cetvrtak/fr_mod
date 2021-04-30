@@ -10,23 +10,23 @@ navy = {
 	name="1st Fleet"
 	location=1679
 	ship = {
-		name="1st Amami Frigate"
+		name="Shunten"
 		type=frigate
 	}
 	ship = {
-		name="1st Okinawa Clipper Transport"
+		name="1st Amami Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Okinawa Frigate"
+		name="Shunbajunki"
 		type=frigate
 	}
 	ship = {
-		name="2nd Amami Frigate"
+		name="Sai On"
 		type=frigate
 	}
 	ship = {
-		name="2nd Okinawa Clipper Transport"
+		name="2nd Amami Clipper Transport"
 		type=clipper_transport
 	}
 }

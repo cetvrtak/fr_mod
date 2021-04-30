@@ -1,9 +1,9 @@
 #Armies
 navy = {
 	name="1st Fleet"
-	location=1393
+	location=1395
 	ship = {
-		name="1st Bintulu Man'o'war"
+		name="Rajah Brooke"
 		type=manowar
 	}
 	ship = {
@@ -11,7 +11,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bintulu Man'o'war"
+		name="Sungai Tembureng"
 		type=manowar
 	}
 	ship = {
@@ -24,11 +24,11 @@ navy = {
 	name="2nd Fleet"
 	location=1395
 	ship = {
-		name="1st Brunei Frigate"
+		name="Sungai Belait"
 		type=frigate
 	}
 	ship = {
-		name="1st Bintulu Frigate"
+		name="Sungai Tutong"
 		type=frigate
 	}
 }

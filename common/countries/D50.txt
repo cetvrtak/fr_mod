@@ -105,6 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    #inherit
+
+unit_names = {
+	dreadnought = {
+		
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		
+	}
+	manowar = {
+		
+	}
+	cruiser = {
+		
+	}
+	frigate = {
+		
+	}
+	monitor = {
+		
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		
+	}
 }

@@ -7,7 +7,7 @@ ENG = {
 #Armies
 navy = {
 	name="1st Fleet"
-	location=2233
+	location=2409
 	ship = {
 		name="1st Saint Vincent Frigate"
 		type=frigate
@@ -17,20 +17,20 @@ navy = {
 		type=frigate
 	}
 	ship = {
-		name="1st Grenada Frigate"
+		name="3rd Saint Vincent Frigate"
 		type=frigate
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=2233
+	location=2409
 	ship = {
 		name="1st Saint Vincent Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Grenada Clipper Transport"
+		name="2nd Saint Vincent Clipper Transport"
 		type=clipper_transport
 	}
 }

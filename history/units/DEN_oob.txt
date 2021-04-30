@@ -59,9 +59,9 @@ army = {
 		home=372
 	}
 	regiment = {
-		name="2nd Copenhagen Infantry"
+		name="1st Aarhus Infantry"
 		type=infantry
-		home=372
+		home=366
 	}
 }
 
@@ -69,27 +69,27 @@ navy = {
 	name="1st Fleet"
 	location=372
 	ship = {
-		name="1st Copenhagen Man'o'war"
+		name="Prins Christian Frederik"
 		type=manowar
 	}
 	ship = {
-		name="2nd Copenhagen Man'o'war"
+		name="Skjold"
 		type=manowar
 	}
 	ship = {
-		name="3rd Copenhagen Man'o'war"
+		name="Absalon"
 		type=manowar
 	}
 	ship = {
-		name="4th Copenhagen Man'o'war"
+		name="Ingolf"
 		type=manowar
 	}
 	ship = {
-		name="5th Copenhagen Man'o'war"
+		name="Dannebrog"
 		type=manowar
 	}
 	ship = {
-		name="6th Copenhagen Man'o'war"
+		name="Dagmar"
 		type=manowar
 	}
 	ship = {
@@ -109,7 +109,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="7th Copenhagen Man'o'war"
+		name="Gesjer"
 		type=manowar
 	}
 	ship = {
@@ -122,35 +122,35 @@ navy = {
 	name="2nd Fleet"
 	location=372
 	ship = {
-		name="1st Copenhagen Frigate"
+		name="Najaden"
 		type=frigate
 	}
 	ship = {
-		name="2nd Copenhagen Frigate"
+		name="Hummer"
 		type=frigate
 	}
 	ship = {
-		name="3rd Copenhagen Frigate"
+		name="Stralsund"
 		type=frigate
 	}
 	ship = {
-		name="4th Copenhagen Frigate"
+		name="Søridder"
 		type=frigate
 	}
 	ship = {
-		name="5th Copenhagen Frigate"
+		name="Leopard"
 		type=frigate
 	}
 	ship = {
-		name="6th Copenhagen Frigate"
+		name="Raae"
 		type=frigate
 	}
 	ship = {
-		name="7th Copenhagen Frigate"
+		name="Esbern Snare"
 		type=frigate
 	}
 	ship = {
-		name="8th Copenhagen Frigate"
+		name="Ørnen"
 		type=frigate
 	}
 }

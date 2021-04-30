@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=1152
 	ship = {
-		name="1st Hejazi Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
@@ -15,7 +15,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hejazi Frigate"
+		name="Atif"
 		type=frigate
 	}
 }

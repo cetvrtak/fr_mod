@@ -150,34 +150,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
 
-
-    }
-    ironclad = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
-    manowar = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
-    cruiser = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
-    frigate = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
-    monitor = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        "Nan'Shin" "Pao'Nim" "Ying'Ching" "Ton'Chi" "Hai'Yung" "Hai'Shew" "Hai'Shen" "Fei'Hung" "Chao'Ho" "Hai'Chi" "Ying'Swei" "Chao'Ho" "Ning'Hai"
-    }
+unit_names = {
+	dreadnought = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	manowar = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	cruiser = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	frigate = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	monitor = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Nan'Shin Pao'Nim Ying'Ching Ton'Chi Hai'Yung Hai'Shew Hai'Shen Fei'Hung Chao'Ho Hai'Chi Ying'Swei Chao'Ho Ning'Hai
+	}
 }

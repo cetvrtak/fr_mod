@@ -105,30 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Talpur "Fathali Khan" "Ghulam Ali Khan" "Karam Ali Khan" "Nur Mohammed Khan"
-        }
-    cruiser = {
-        Narain Akbar Amid Fardin Shahnawaz
-    }
-    ironclad = {
-        Ishayu Nasir Javed
-    }
-    monitor = {
-        Azhar Fateh Nitin
-        }
-    manowar = {
-        Sindh Thatta Haydarabad Khudabad
-    }
-    frigate = {
-        Amar Anil Feroz Jaidip Pratap Nirmal
-    }
-    clipper_transport = {
-    }
-    steam_transport = {
-    }
-    commerce_raider = {
-        Amanat Manik Ratan Rohan Iqbal Kalyan Sonu Sunil
-    }
+
+unit_names = {
+	dreadnought = {
+		Talpur "Fathali Khan" "Ghulam Ali Khan" "Karam Ali Khan" "Nur Mohammed Khan"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Ishayu Nasir Javed
+	}
+	manowar = {
+		Sindh Thatta Haydarabad Khudabad
+	}
+	cruiser = {
+		Narain Akbar Amid Fardin Shahnawaz
+	}
+	frigate = {
+		Amar Anil Feroz Jaidip Pratap Nirmal
+	}
+	monitor = {
+		Azhar Fateh Nitin
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Amanat Manik Ratan Rohan Iqbal Kalyan Sonu Sunil
+	}
 }

@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=1049
 	ship = {
-		name="1st Circassian Frigate"
+		name="Circassia"
 		type=frigate
 	}
 	ship = {
@@ -11,7 +11,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Circassian Frigate"
+		name="Nader Shah"
 		type=frigate
 	}
 	ship = {

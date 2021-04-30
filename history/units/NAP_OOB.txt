@@ -28,29 +28,29 @@ army = {
 	name="Armata di Napoli"
 	location=754
 	regiment = {
-		name="1st Palermo Infantry"
+		name="1st Naples Infantry"
 		type=infantry
+		home=754
+	}
+	regiment = {
+		name="2nd Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="1st Palermo Cavalry"
+		type=cavalry
 		home=762
 	}
 	regiment = {
-		name="1st Pescara Infantry"
+		name="1st Catania Infantry"
 		type=infantry
-		home=10
+		home=764
 	}
 	regiment = {
-		name="1st Potenza Cavalry"
+		name="1st Salerno Cavalry"
 		type=cavalry
-		home=761
-	}
-	regiment = {
-		name="1st Aquila Infantry"
-		type=infantry
-		home=753
-	}
-	regiment = {
-		name="2nd Potenza Cavalry"
-		type=cavalry
-		home=761
+		home=755
 	}
 }
 
@@ -58,15 +58,15 @@ navy = {
 	name="1st Fleet"
 	location=754
 	ship = {
-		name="1st Naples Frigate"
+		name="Fulmine"
 		type=frigate
 	}
 	ship = {
-		name="2nd Naples Frigate"
+		name="Lampo"
 		type=frigate
 	}
 	ship = {
-		name="3rd Naples Frigate"
+		name="Freccia"
 		type=frigate
 	}
 	ship = {
@@ -99,7 +99,7 @@ navy = {
 	name="2nd Fleet"
 	location=754
 	ship = {
-		name="4th Naples Frigate"
+		name="Dardo"
 		type=frigate
 	}
 	ship = {

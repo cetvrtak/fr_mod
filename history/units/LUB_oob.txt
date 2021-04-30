@@ -9,7 +9,7 @@ navy = {
 	name="1st Fleet"
 	location=530
 	ship = {
-		name="1st Lübeck Frigate"
+		name="Lübeck"
 		type=frigate
 	}
 	ship = {
@@ -17,7 +17,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Lübeck Frigate"
+		name="Großvogtei"
 		type=frigate
 	}
 }
@@ -26,11 +26,11 @@ navy = {
 	name="2nd Fleet"
 	location=530
 	ship = {
-		name="2nd Lübeck Frigate"
+		name="Hansa"
 		type=frigate
 	}
 	ship = {
-		name="3rd Lübeck Frigate"
+		name="Vulkan"
 		type=frigate
 	}
 }

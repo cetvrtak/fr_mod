@@ -36,7 +36,7 @@ navy = {
 	name="2nd Fleet"
 	location=782
 	ship = {
-		name="1st Dubrovnik Frigate"
+		name="Mirko"
 		type=frigate
 	}
 	ship = {

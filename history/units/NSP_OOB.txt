@@ -9,34 +9,34 @@ army = {
 	name="1st Army"
 	location=2172
 	regiment = {
-		name="1st Chilpancingo Infantry"
+		name="1st Manila Infantry"
 		type=infantry
-		home=2180
+		home=1455
 	}
 	regiment = {
-		name="1st Morelia Infantry"
+		name="1st Vigan Infantry"
 		type=infantry
-		home=2170
+		home=1456
 	}
 	regiment = {
-		name="2nd Chilpancingo Infantry"
+		name="1st Legazpi Infantry"
 		type=infantry
-		home=2180
+		home=1457
 	}
 	regiment = {
-		name="1st Ciudad Victoria Cavalry"
+		name="1st Mexico City Cavalry"
 		type=cavalry
-		home=2150
+		home=2172
 	}
 	regiment = {
-		name="2nd Morelia Infantry"
+		name="1st Puebla Infantry"
 		type=infantry
-		home=2170
+		home=2176
 	}
 	regiment = {
-		name="1st Zacatecas Cavalry"
+		name="1st Santo Domingo Cavalry"
 		type=cavalry
-		home=2158
+		home=2214
 	}
 }
 

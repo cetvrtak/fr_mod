@@ -12,19 +12,19 @@ army = {
 	name="1st Army"
 	location=1332
 	regiment = {
-		name="1st Myitkyina Irregulars"
-		type=irregular
-		home=1342
-	}
-	regiment = {
 		name="1st Pegu Irregulars"
 		type=irregular
 		home=1332
 	}
 	regiment = {
-		name="1st Lashio Irregulars"
+		name="1st Kyaukse Irregulars"
 		type=irregular
-		home=1340
+		home=1335
+	}
+	regiment = {
+		name="1st Taunggyi Irregulars"
+		type=irregular
+		home=1338
 	}
 }
 
@@ -36,11 +36,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Rangoon Clipper Transport"
+		name="2nd Pegu Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Pegu Clipper Transport"
+		name="3rd Pegu Clipper Transport"
 		type=clipper_transport
 	}
 }

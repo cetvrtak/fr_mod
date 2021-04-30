@@ -36,11 +36,11 @@ navy = {
 	name="1st Fleet"
 	location=724
 	ship = {
-		name="1st Genoa Frigate"
+		name="Fulmine"
 		type=frigate
 	}
 	ship = {
-		name="2nd Genoa Frigate"
+		name="Lampo"
 		type=frigate
 	}
 	ship = {
@@ -57,15 +57,15 @@ navy = {
 	name="2nd Fleet"
 	location=724
 	ship = {
-		name="3rd Genoa Frigate"
+		name="Freccia"
 		type=frigate
 	}
 	ship = {
-		name="4th Genoa Frigate"
+		name="Dardo"
 		type=frigate
 	}
 	ship = {
-		name="5th Genoa Frigate"
+		name="Strale"
 		type=frigate
 	}
 	ship = {

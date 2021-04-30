@@ -120,42 +120,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-    }
-    ironclad = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
 
-    }
-    manowar = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-    }
-    cruiser = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-    }
-    frigate = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-    }
-    monitor = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        "New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence
-        Montpelier "John Smith" Champlain
-
-    }
+unit_names = {
+	dreadnought = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	manowar = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	cruiser = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	frigate = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	monitor = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		"New England" Connecticut Maine Massachusetts "New Hampshire" "Rhode Island" Vermont Boston Hartford Augusta Concord Providence Montpelier "John Smith" Champlain
+	}
 }

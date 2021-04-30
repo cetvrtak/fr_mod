@@ -39,34 +39,34 @@ army = {
 	name="Armia z Warszawa"
 	location=706
 	regiment = {
-		name="1st Pastavy Infantry"
+		name="1st Warsaw Infantry"
 		type=infantry
-		home=947
+		home=706
 	}
 	regiment = {
-		name="1st Skierniewice Infantry"
+		name="1st Posen Infantry"
 		type=infantry
-		home=710
+		home=699
 	}
 	regiment = {
-		name="1st Lodz Infantry"
+		name="1st Gniezno Infantry"
 		type=infantry
-		home=712
+		home=701
 	}
 	regiment = {
-		name="1st Kalisz Cavalry"
+		name="1st Proskorov Cavalry"
 		type=cavalry
-		home=717
+		home=955
 	}
 	regiment = {
-		name="1st Grodno Infantry"
+		name="1st Vinnitsa Infantry"
 		type=infantry
-		home=936
+		home=954
 	}
 	regiment = {
-		name="1st Lublin Cavalry"
+		name="1st Minsk Cavalry"
 		type=cavalry
-		home=715
+		home=718
 	}
 }
 

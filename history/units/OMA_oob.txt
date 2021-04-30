@@ -3,14 +3,14 @@ army = {
 	name="1st Army"
 	location=1170
 	regiment = {
-		name="1st Duqm Irregulars"
+		name="1st Mogadishu Irregulars"
 		type=irregular
-		home=1172
+		home=1868
 	}
 	regiment = {
-		name="1st Nizwa Irregulars"
+		name="1st Mzizima Irregulars"
 		type=irregular
-		home=1170
+		home=2036
 	}
 }
 
@@ -18,7 +18,7 @@ navy = {
 	name="1st Fleet"
 	location=1166
 	ship = {
-		name="1st Omani Man'o'war"
+		name="Masqat"
 		type=manowar
 	}
 	ship = {
@@ -34,24 +34,24 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Omani Man'o'war"
+		name="Suhar"
 		type=manowar
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=2640
+	location=1166
 	ship = {
-		name="1st Omani Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Omani Frigate"
+		name="Atif"
 		type=frigate
 	}
 	ship = {
-		name="3rd Omani Frigate"
+		name="Ayman"
 		type=frigate
 	}
 }

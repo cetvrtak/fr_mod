@@ -150,41 +150,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
 
-    }
-    ironclad = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-    }
-    manowar = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-
-
-    }
-    cruiser = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-    }
-    frigate = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-    }
-    monitor = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
-
-    }
+unit_names = {
+	dreadnought = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	manowar = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	cruiser = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	frigate = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	monitor = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Shqipëria Skënderbeu "Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+	}
 }

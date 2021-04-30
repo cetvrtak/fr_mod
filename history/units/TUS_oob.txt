@@ -42,7 +42,7 @@ navy = {
 	name="1st Fleet"
 	location=748
 	ship = {
-		name="1st Tuscan Frigate"
+		name="Toscana"
 		type=frigate
 	}
 	ship = {
@@ -54,7 +54,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tuscan Frigate"
+		name="Etruria"
 		type=frigate
 	}
 	ship = {

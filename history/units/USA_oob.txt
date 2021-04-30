@@ -77,34 +77,34 @@ army = {
 	name="1st Army"
 	location=223
 	regiment = {
-		name="1st Fredericksburg Infantry"
+		name="1st New York Infantry"
 		type=infantry
-		home=213
+		home=232
 	}
 	regiment = {
-		name="1st Norfolk Infantry"
+		name="1st Philadelphia Infantry"
 		type=infantry
-		home=214
+		home=223
 	}
 	regiment = {
-		name="1st Dover Infantry"
+		name="1st Boston Infantry"
 		type=infantry
-		home=222
+		home=243
 	}
 	regiment = {
-		name="1st Raleigh Cavalry"
+		name="1st New York Cavalry"
 		type=cavalry
-		home=208
+		home=232
 	}
 	regiment = {
-		name="1st Pittsburgh Infantry"
+		name="2nd New York Infantry"
 		type=infantry
-		home=227
+		home=232
 	}
 	regiment = {
-		name="2nd Raleigh Cavalry"
+		name="2nd New York Cavalry"
 		type=cavalry
-		home=208
+		home=232
 	}
 }
 
@@ -112,43 +112,43 @@ navy = {
 	name="1st Fleet"
 	location=243
 	ship = {
-		name="1st American Man'o'war"
+		name="America"
 		type=manowar
 	}
 	ship = {
-		name="2nd American Man'o'war"
+		name="Columbus"
 		type=manowar
 	}
 	ship = {
-		name="1st American Clipper Transport"
+		name="Martha Custis Washington"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd American Clipper Transport"
+		name="Abigail Adams"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd American Clipper Transport"
+		name="Martha Jefferson"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th American Clipper Transport"
+		name="Dolley Todd Madison"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th American Clipper Transport"
+		name="Elizabeth Monroe"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th American Clipper Transport"
+		name="Louisa Catherine Adams"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd American Man'o'war"
+		name="Franklin"
 		type=manowar
 	}
 	ship = {
-		name="7th American Clipper Transport"
+		name="Rachel Robards Jackson"
 		type=clipper_transport
 	}
 }
@@ -157,19 +157,19 @@ navy = {
 	name="2nd Fleet"
 	location=243
 	ship = {
-		name="1st American Frigate"
+		name="Adams"
 		type=frigate
 	}
 	ship = {
-		name="2nd American Frigate"
+		name="Boston"
 		type=frigate
 	}
 	ship = {
-		name="3rd American Frigate"
+		name="Brandywine"
 		type=frigate
 	}
 	ship = {
-		name="4th American Frigate"
+		name="Chesapeake"
 		type=frigate
 	}
 }

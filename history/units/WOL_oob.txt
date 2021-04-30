@@ -3,24 +3,24 @@ navy = {
 	name="1st Fleet"
 	location=1783
 	ship = {
-		name="1st Kahone Frigate"
+		name="Abuja"
 		type=frigate
 	}
 	ship = {
-		name="1st Mboul Frigate"
+		name="Ede"
 		type=frigate
 	}
 }
 
 navy = {
 	name="2nd Fleet"
-	location=1788
+	location=1783
 	ship = {
-		name="1st Saint-Louis Clipper Transport"
+		name="1st Dakar Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Mboul Clipper Transport"
+		name="2nd Dakar Clipper Transport"
 		type=clipper_transport
 	}
 }

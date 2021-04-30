@@ -15,7 +15,7 @@ navy = {
 	name="1st Fleet"
 	location=1370
 	ship = {
-		name="1st Hai Phong Frigate"
+		name="Tran Canh"
 		type=frigate
 	}
 	ship = {
@@ -23,15 +23,15 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Lang Son Clipper Transport"
+		name="2nd Hai Phong Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Lang Son Frigate"
+		name="Tran Hoang"
 		type=frigate
 	}
 	ship = {
-		name="2nd Lang Son Clipper Transport"
+		name="3rd Hai Phong Clipper Transport"
 		type=clipper_transport
 	}
 }

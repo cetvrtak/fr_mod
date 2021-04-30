@@ -49,27 +49,27 @@ army = {
 	name="1st Army"
 	location=1346
 	regiment = {
-		name="1st Nakhon Ratchasima Irregulars"
-		type=irregular
-		home=1350
-	}
-	regiment = {
-		name="2nd Nakhon Ratchasima Irregulars"
-		type=irregular
-		home=1350
-	}
-	regiment = {
-		name="1st Ratchaburi Cavalry"
-		type=cavalry
-		home=1353
-	}
-	regiment = {
 		name="1st Bangkok Irregulars"
 		type=irregular
 		home=1346
 	}
 	regiment = {
-		name="2nd Ratchaburi Cavalry"
+		name="2nd Bangkok Irregulars"
+		type=irregular
+		home=1346
+	}
+	regiment = {
+		name="1st Lopburi Cavalry"
+		type=cavalry
+		home=1347
+	}
+	regiment = {
+		name="1st Nakhon Sawan Irregulars"
+		type=irregular
+		home=1348
+	}
+	regiment = {
+		name="1st Ratchaburi Cavalry"
 		type=cavalry
 		home=1353
 	}

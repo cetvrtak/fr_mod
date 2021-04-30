@@ -105,14 +105,16 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
 		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
+	}
+	battleship = {
 		
 	}
 	ironclad = {
 		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria
-		
 	}
 	manowar = {
 		Abuja Ede Enugu Kaduna Kano Katsina Jos Owo Sokoto Zaria

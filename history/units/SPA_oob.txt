@@ -141,24 +141,24 @@ army = {
 	name="Guardia Real"
 	location=487
 	regiment = {
-		name="1st León Infantry"
+		name="1st La Coruña Infantry"
 		type=infantry
-		home=477
+		home=474
 	}
 	regiment = {
-		name="2nd León Infantry"
+		name="1st Barcelona Infantry"
 		type=infantry
-		home=477
+		home=498
 	}
 	regiment = {
-		name="1st Gerona Infantry"
+		name="1st Valencia Infantry"
 		type=infantry
-		home=499
+		home=503
 	}
 	regiment = {
-		name="1st Zaragoza Infantry"
+		name="1st Seville Infantry"
 		type=infantry
-		home=495
+		home=509
 	}
 }
 
@@ -166,29 +166,29 @@ army = {
 	name="Ejército de Asturias"
 	location=475
 	regiment = {
-		name="1st Toledo Infantry"
+		name="1st Málaga Infantry"
 		type=infantry
-		home=489
+		home=514
 	}
 	regiment = {
-		name="1st Jaén Infantry"
+		name="1st Madrid Infantry"
 		type=infantry
-		home=516
+		home=487
 	}
 	regiment = {
-		name="1st Badajoz Cavalry"
+		name="1st Alicante Cavalry"
 		type=cavalry
-		home=484
+		home=505
 	}
 	regiment = {
-		name="1st Valladolid Cavalry"
+		name="1st Granada Cavalry"
 		type=cavalry
-		home=480
+		home=513
 	}
 	regiment = {
-		name="1st Seville Cavalry"
+		name="1st Cuenca Cavalry"
 		type=cavalry
-		home=509
+		home=490
 	}
 }
 
@@ -196,75 +196,75 @@ navy = {
 	name="Armada Real"
 	location=499
 	ship = {
-		name="1st Spanish Man'o'war"
+		name="América"
 		type=manowar
 	}
 	ship = {
-		name="2nd Spanish Man'o'war"
+		name="Ángel de la Guarda"
 		type=manowar
 	}
 	ship = {
-		name="3rd Spanish Man'o'war"
+		name="Aquíles"
 		type=manowar
 	}
 	ship = {
-		name="4th Spanish Man'o'war"
+		name="Argonauta"
 		type=manowar
 	}
 	ship = {
-		name="5th Spanish Man'o'war"
+		name="Buen Consejo"
 		type=manowar
 	}
 	ship = {
-		name="6th Spanish Man'o'war"
+		name="Conquistador"
 		type=manowar
 	}
 	ship = {
-		name="1st Spanish Clipper Transport"
+		name="Águila"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Spanish Clipper Transport"
+		name="Águila de Nantes"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Spanish Clipper Transport"
+		name="Águila Volante"
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Spanish Clipper Transport"
+		name="Astrolabio"
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Spanish Clipper Transport"
+		name="Aurora"
 		type=clipper_transport
 	}
 	ship = {
-		name="6th Spanish Clipper Transport"
+		name="Concepción"
 		type=clipper_transport
 	}
 	ship = {
-		name="7th Spanish Clipper Transport"
+		name="Cornelia"
 		type=clipper_transport
 	}
 	ship = {
-		name="8th Spanish Clipper Transport"
+		name="Cortes"
 		type=clipper_transport
 	}
 	ship = {
-		name="9th Spanish Clipper Transport"
+		name="Diana"
 		type=clipper_transport
 	}
 	ship = {
-		name="10th Spanish Clipper Transport"
+		name="Esmeralda"
 		type=clipper_transport
 	}
 	ship = {
-		name="7th Spanish Man'o'war"
+		name="Firme"
 		type=manowar
 	}
 	ship = {
-		name="11th Spanish Clipper Transport"
+		name="Esperanza"
 		type=clipper_transport
 	}
 }
@@ -273,35 +273,35 @@ navy = {
 	name="Flota de Gerona"
 	location=499
 	ship = {
-		name="1st Spanish Frigate"
+		name="Almirante Cervera"
 		type=frigate
 	}
 	ship = {
-		name="2nd Spanish Frigate"
+		name="Andalucía"
 		type=frigate
 	}
 	ship = {
-		name="3rd Spanish Frigate"
+		name="Asturias"
 		type=frigate
 	}
 	ship = {
-		name="4th Spanish Frigate"
+		name="Atrevida"
 		type=frigate
 	}
 	ship = {
-		name="5th Spanish Frigate"
+		name="Baleares"
 		type=frigate
 	}
 	ship = {
-		name="6th Spanish Frigate"
+		name="Blas de Lezo"
 		type=frigate
 	}
 	ship = {
-		name="7th Spanish Frigate"
+		name="Canarias"
 		type=frigate
 	}
 	ship = {
-		name="8th Spanish Frigate"
+		name="Eolo"
 		type=frigate
 	}
 }

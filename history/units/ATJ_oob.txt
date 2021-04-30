@@ -3,11 +3,11 @@ navy = {
 	name="1st Fleet"
 	location=1405
 	ship = {
-		name="1st Banda Aceh Man'o'war"
+		name="Aceh"
 		type=manowar
 	}
 	ship = {
-		name="2nd Banda Aceh Man'o'war"
+		name="Samandara"
 		type=manowar
 	}
 	ship = {
@@ -19,7 +19,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Banda Aceh Man'o'war"
+		name="Teunom"
 		type=manowar
 	}
 	ship = {
@@ -32,15 +32,15 @@ navy = {
 	name="2nd Fleet"
 	location=1405
 	ship = {
-		name="1st Banda Aceh Frigate"
+		name="Malik ul Salih"
 		type=frigate
 	}
 	ship = {
-		name="2nd Banda Aceh Frigate"
+		name="Malik Al-Salih"
 		type=frigate
 	}
 	ship = {
-		name="3rd Banda Aceh Frigate"
+		name="Peusangen"
 		type=frigate
 	}
 }

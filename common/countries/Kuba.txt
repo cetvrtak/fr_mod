@@ -105,33 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
 
-    }
-    ironclad = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
-    manowar = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
-    cruiser = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
-    frigate = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
-    monitor = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
-    }
+unit_names = {
+	dreadnought = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	manowar = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	cruiser = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	frigate = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	monitor = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Bumba Bushoong Nzambi Kuba Kaam Mwari Mulopwe Mulungu Mbonga Kasai Mazendere Mboko Musikavanhu Mutorwa
+	}
 }

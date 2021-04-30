@@ -33,7 +33,7 @@ navy = {
 	name="1st Fleet"
 	location=544
 	ship = {
-		name="1st Schwerin Frigate"
+		name="Mecklenburg"
 		type=frigate
 	}
 	ship = {
@@ -45,11 +45,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Schwerin Frigate"
+		name="Groﬂherzog Friedrich"
 		type=frigate
 	}
 	ship = {
-		name="3rd Schwerin Frigate"
+		name="Graf Moltke"
 		type=frigate
 	}
 }

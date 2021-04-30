@@ -21,29 +21,29 @@ army = {
 	name="1st Army"
 	location=1612
 	regiment = {
-		name="1st Ningguo Irregulars"
+		name="1st Jian Irregulars"
 		type=irregular
-		home=1475
+		home=1547
 	}
 	regiment = {
-		name="1st Huizhou Irregulars"
+		name="1st Chengde Irregulars"
 		type=irregular
-		home=1497
+		home=1613
 	}
 	regiment = {
-		name="1st Ulaan Chab Chuulghan Artillery"
+		name="1st Jian Artillery"
 		type=artillery
-		home=1534
+		home=1547
 	}
 	regiment = {
-		name="1st Quanzhou Irregulars"
+		name="1st Nantong Irregulars"
 		type=irregular
-		home=1484
+		home=1540
 	}
 	regiment = {
-		name="1st Daming Artillery"
+		name="1st Anqing Artillery"
 		type=artillery
-		home=1614
+		home=1470
 	}
 }
 
@@ -51,59 +51,59 @@ army = {
 	name="2nd Army"
 	location=1496
 	regiment = {
-		name="1st Urumqi Irregulars"
+		name="1st Changzhou Irregulars"
 		type=irregular
-		home=1600
+		home=1537
 	}
 	regiment = {
-		name="1st Nanning Irregulars"
+		name="1st Jiayuguan Irregulars"
 		type=irregular
-		home=1502
+		home=1488
 	}
 	regiment = {
-		name="1st Hainan Irregulars"
+		name="2nd Chengde Irregulars"
 		type=irregular
-		home=1499
+		home=1613
 	}
 	regiment = {
-		name="1st Changsha Cavalry"
+		name="1st Tianjin Cavalry"
 		type=cavalry
-		home=1524
+		home=1617
 	}
 	regiment = {
-		name="1st Guiyang Irregulars"
+		name="1st Tongzhou Irregulars"
 		type=irregular
-		home=1505
+		home=1541
 	}
 	regiment = {
-		name="1st Dean Cavalry"
+		name="1st Zhongding Cavalry"
 		type=cavalry
-		home=1517
+		home=1618
 	}
 }
 
 army = {
 	name="3rd Army"
-	location=1605
+	location=1606
 	regiment = {
-		name="1st Ili Irregulars"
+		name="1st Jinan Irregulars"
 		type=irregular
-		home=1595
+		home=1563
 	}
 	regiment = {
-		name="1st Taiping Cavalry"
+		name="1st Changzhou Cavalry"
 		type=cavalry
-		home=1477
+		home=1537
 	}
 	regiment = {
-		name="2nd Taiping Cavalry"
+		name="1st Jiayuguan Cavalry"
 		type=cavalry
-		home=1477
+		home=1488
 	}
 	regiment = {
-		name="1st Yazhou Irregulars"
+		name="1st Tianjin Irregulars"
 		type=irregular
-		home=1586
+		home=1617
 	}
 	regiment = {
 		name="1st Jinan Cavalry"
@@ -116,15 +116,15 @@ navy = {
 	name="1st Fleet"
 	location=1616
 	ship = {
-		name="1st Peking Man'o'war"
+		name="Nan Shin"
 		type=manowar
 	}
 	ship = {
-		name="2nd Peking Man'o'war"
+		name="Pao Nim"
 		type=manowar
 	}
 	ship = {
-		name="1st Peking Frigate"
+		name="Ying Ching"
 		type=frigate
 	}
 	ship = {
@@ -164,11 +164,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Peking Man'o'war"
+		name="Hai Yung"
 		type=manowar
 	}
 	ship = {
-		name="3rd Peking Frigate"
+		name="Hai Shew"
 		type=frigate
 	}
 }
@@ -177,11 +177,11 @@ navy = {
 	name="2nd Fleet"
 	location=1616
 	ship = {
-		name="2nd Peking Frigate"
+		name="Ton Chi"
 		type=frigate
 	}
 	ship = {
-		name="4th Peking Frigate"
+		name="Hai Shen"
 		type=frigate
 	}
 }

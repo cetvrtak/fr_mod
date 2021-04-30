@@ -3,15 +3,15 @@ navy = {
 	name="1st Fleet"
 	location=1176
 	ship = {
-		name="1st Aden Frigate"
-		type=frigate
-	}
-	ship = {
-		name="2nd Aden Frigate"
-		type=frigate
-	}
-	ship = {
 		name="1st Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Bayda Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Bayda Frigate"
 		type=frigate
 	}
 }
@@ -24,7 +24,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Aden Clipper Transport"
+		name="2nd Bayda Clipper Transport"
 		type=clipper_transport
 	}
 }

@@ -3,11 +3,11 @@ navy = {
 	name="Fleet of Berbera"
 	location=1873
 	ship = {
-		name="1st Berbera Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Berbera Frigate"
+		name="Atif"
 		type=frigate
 	}
 }

@@ -16,29 +16,29 @@ army = {
 	name="1st Army"
 	location=1283
 	regiment = {
-		name="1st Hyderabad Irregulars"
-		type=irregular
-		home=1283
-	}
-	regiment = {
-		name="1st Gulbarga Irregulars"
-		type=irregular
-		home=1286
-	}
-	regiment = {
-		name="1st Gulbarga Cavalry"
-		type=cavalry
-		home=1286
-	}
-	regiment = {
 		name="1st Warangal Irregulars"
 		type=irregular
 		home=1287
 	}
 	regiment = {
-		name="1st Warangal Cavalry"
-		type=cavalry
+		name="2nd Warangal Irregulars"
+		type=irregular
 		home=1287
+	}
+	regiment = {
+		name="1st Hyderabad Cavalry"
+		type=cavalry
+		home=1283
+	}
+	regiment = {
+		name="1st Hyderabad Irregulars"
+		type=irregular
+		home=1283
+	}
+	regiment = {
+		name="1st Gulbarga Cavalry"
+		type=cavalry
+		home=1286
 	}
 }
 

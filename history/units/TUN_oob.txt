@@ -36,15 +36,15 @@ navy = {
 	name="1st Fleet"
 	location=1725
 	ship = {
-		name="1st Tunis Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Tunis Frigate"
+		name="Atif"
 		type=frigate
 	}
 	ship = {
-		name="3rd Tunis Frigate"
+		name="Ayman"
 		type=frigate
 	}
 	ship = {
@@ -56,7 +56,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="5th Tunis Frigate"
+		name="Fadil"
 		type=frigate
 	}
 	ship = {
@@ -69,7 +69,7 @@ navy = {
 	name="2nd Fleet"
 	location=1725
 	ship = {
-		name="4th Tunis Frigate"
+		name="Bahir"
 		type=frigate
 	}
 }

@@ -9,11 +9,11 @@ navy = {
 	name="1st Fleet"
 	location=1319
 	ship = {
-		name="1st Trivandrum Frigate"
+		name="Abhay"
 		type=frigate
 	}
 	ship = {
-		name="2nd Trivandrum Frigate"
+		name="Akhilesh"
 		type=frigate
 	}
 }

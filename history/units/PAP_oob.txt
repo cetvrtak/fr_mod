@@ -56,14 +56,14 @@ army = {
 	name="Armata di Roma"
 	location=749
 	regiment = {
-		name="1st Gaeta Infantry"
+		name="1st Rome Infantry"
 		type=infantry
-		home=2567
+		home=749
 	}
 	regiment = {
-		name="1st Bologna Infantry"
+		name="2nd Rome Infantry"
 		type=infantry
-		home=741
+		home=749
 	}
 }
 
@@ -71,12 +71,8 @@ navy = {
 	name="1st Fleet"
 	location=749
 	ship = {
-		name="1st Viterbo Frigate"
+		name="San Paolo"
 		type=frigate
-	}
-	ship = {
-		name="1st Viterbo Clipper Transport"
-		type=clipper_transport
 	}
 	ship = {
 		name="1st Rome Clipper Transport"
@@ -87,15 +83,19 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Rome Frigate"
+		name="3rd Rome Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="San Pietro"
 		type=frigate
 	}
 	ship = {
-		name="2nd Rome Frigate"
+		name="San Giovanni"
 		type=frigate
 	}
 	ship = {
-		name="2nd Viterbo Clipper Transport"
+		name="4th Rome Clipper Transport"
 		type=clipper_transport
 	}
 }

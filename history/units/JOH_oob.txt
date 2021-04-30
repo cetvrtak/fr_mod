@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=1384
 	ship = {
-		name="1st Tanjung Puteri Man'o'war"
+		name="Parameswara"
 		type=manowar
 	}
 	ship = {
@@ -15,7 +15,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Tanjung Puteri Man'o'war"
+		name="Laksamana"
 		type=manowar
 	}
 }
@@ -24,11 +24,11 @@ navy = {
 	name="2nd Fleet"
 	location=1384
 	ship = {
-		name="1st Singapore Frigate"
+		name="Sultan Iskandar"
 		type=frigate
 	}
 	ship = {
-		name="1st Tanjung Puteri Frigate"
+		name="Bendahara"
 		type=frigate
 	}
 }

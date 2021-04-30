@@ -127,41 +127,41 @@ leader = {
 #Armies
 army = {
 	name="K.u.K Armee"
-	location=624
+	location=619
 	regiment = {
-		name="1st Budejovice Infantry"
+		name="1st Prague Infantry"
 		type=infantry
-		home=630
+		home=625
 	}
 	regiment = {
-		name="1st Aussig Infantry"
+		name="2nd Prague Infantry"
 		type=infantry
-		home=628
+		home=625
 	}
 	regiment = {
-		name="1st Hradec Králové Infantry"
+		name="3rd Prague Infantry"
 		type=infantry
-		home=626
+		home=625
 	}
 	regiment = {
-		name="1st Nowy Sacz Infantry"
+		name="1st Vienna Infantry"
 		type=infantry
-		home=704
+		home=619
 	}
 	regiment = {
-		name="1st Debrecen Artillery"
+		name="1st Brno Artillery"
 		type=artillery
-		home=648
+		home=631
 	}
 	regiment = {
-		name="1st Maribor Infantry"
+		name="1st Karlsbad Infantry"
 		type=infantry
-		home=767
+		home=627
 	}
 	regiment = {
-		name="1st Graz Artillery"
+		name="1st Temesvar Artillery"
 		type=artillery
-		home=616
+		home=652
 	}
 }
 
@@ -169,39 +169,39 @@ army = {
 	name="Habsburgische Armee"
 	location=625
 	regiment = {
-		name="1st Linz Infantry"
+		name="1st Temesvar Infantry"
 		type=infantry
+		home=652
+	}
+	regiment = {
+		name="1st Zalaegerszeg Infantry"
+		type=infantry
+		home=639
+	}
+	regiment = {
+		name="2nd Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="1st Brno Cavalry"
+		type=cavalry
+		home=631
+	}
+	regiment = {
+		name="1st Pest Cavalry"
+		type=cavalry
+		home=641
+	}
+	regiment = {
+		name="1st Szeged Cavalry"
+		type=cavalry
+		home=649
+	}
+	regiment = {
+		name="1st Linz Cavalry"
+		type=cavalry
 		home=622
-	}
-	regiment = {
-		name="1st Krems Infantry"
-		type=infantry
-		home=621
-	}
-	regiment = {
-		name="1st Innsbruck Infantry"
-		type=infantry
-		home=612
-	}
-	regiment = {
-		name="1st Oradea Cavalry"
-		type=cavalry
-		home=647
-	}
-	regiment = {
-		name="1st Resicabánya Cavalry"
-		type=cavalry
-		home=653
-	}
-	regiment = {
-		name="1st Košice Cavalry"
-		type=cavalry
-		home=637
-	}
-	regiment = {
-		name="1st Ljubljana Cavalry"
-		type=cavalry
-		home=768
 	}
 }
 
@@ -209,31 +209,31 @@ navy = {
 	name="Adriatik Flotte"
 	location=778
 	ship = {
-		name="1st Austrian Frigate"
+		name="Guerriera"
 		type=frigate
 	}
 	ship = {
-		name="1st Austrian Clipper Transport"
+		name="1. Klipperflottille"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Austrian Clipper Transport"
+		name="2. Klipperflottille"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Austrian Clipper Transport"
+		name="3. Klipperflottille"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Austrian Frigate"
+		name="Bellona"
 		type=frigate
 	}
 	ship = {
-		name="3rd Austrian Frigate"
+		name="Medea"
 		type=frigate
 	}
 	ship = {
-		name="4th Austrian Clipper Transport"
+		name="4. Klipperflottille"
 		type=clipper_transport
 	}
 }

@@ -105,30 +105,28 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+	}
+	battleship = {
+		
 	}
 	ironclad = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 	manowar = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 	cruiser = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 	frigate = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 	monitor = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 	clipper_transport = {
 		
@@ -137,7 +135,6 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" "Jaxartes"
-		"Syr Darya" "Khoqand" "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
+		Khwarezm Urganj "Din Muhammad" "Yelu Dashi" Kunya "Amu Darya" "Anush Tigin" "Ala Aziz" "Ahmed Sanjar" "Ala Takish" Jaxartes "Syr Darya" Khoqand "Jalal Mingburnu" "Abu Mamun" "Abu Hasan Ali" "Altun Yash" Harun "Ismail Khandan"
 	}
 }

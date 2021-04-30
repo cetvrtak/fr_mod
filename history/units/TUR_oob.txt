@@ -110,41 +110,41 @@ leader = {
 #Armies
 army = {
 	name="Anadolu Ordusu"
-	location=858
+	location=860
 	regiment = {
-		name="1st Suez Infantry"
+		name="1st Cairo Infantry"
 		type=infantry
-		home=1755
+		home=1745
 	}
 	regiment = {
-		name="1st Ras Gharib Infantry"
+		name="2nd Cairo Infantry"
 		type=infantry
-		home=1772
+		home=1745
 	}
 	regiment = {
-		name="1st Dumyat Infantry"
+		name="1st Alexandria Infantry"
 		type=infantry
+		home=1751
+	}
+	regiment = {
+		name="1st Dumyat Artillery"
+		type=artillery
 		home=1746
 	}
 	regiment = {
-		name="1st Karbala Artillery"
+		name="1st Kayseri Artillery"
 		type=artillery
-		home=929
+		home=878
 	}
 	regiment = {
-		name="1st Deir ez-Zor Artillery"
+		name="1st Istanbul Artillery"
 		type=artillery
-		home=907
+		home=860
 	}
 	regiment = {
-		name="2nd Karbala Artillery"
+		name="1st Volos Artillery"
 		type=artillery
-		home=929
-	}
-	regiment = {
-		name="1st Urfa Artillery"
-		type=artillery
-		home=899
+		home=832
 	}
 }
 
@@ -152,29 +152,29 @@ army = {
 	name="Balkan Ordusu"
 	location=1751
 	regiment = {
-		name="1st Denizli Infantry"
+		name="2nd Alexandria Infantry"
 		type=infantry
-		home=871
+		home=1751
 	}
 	regiment = {
-		name="1st Hasakah Infantry"
+		name="1st Istanbul Infantry"
 		type=infantry
-		home=1813
+		home=860
 	}
 	regiment = {
-		name="1st Tuzla Infantry"
+		name="1st Konya Infantry"
 		type=infantry
-		home=786
+		home=873
 	}
 	regiment = {
-		name="1st Silistre Cavalry"
+		name="1st Bursa Cavalry"
 		type=cavalry
-		home=818
+		home=863
 	}
 	regiment = {
-		name="2nd Tuzla Infantry"
+		name="1st Asyut Infantry"
 		type=infantry
-		home=786
+		home=1762
 	}
 }
 
@@ -182,34 +182,34 @@ army = {
 	name="Mîsîr Ordusu"
 	location=822
 	regiment = {
-		name="1st Bani Suwayf Infantry"
+		name="1st Tanta Infantry"
 		type=infantry
-		home=1763
+		home=1747
 	}
 	regiment = {
-		name="1st Kavala Infantry"
+		name="1st Janina Infantry"
 		type=infantry
-		home=823
+		home=824
 	}
 	regiment = {
-		name="1st Myteline Infantry"
+		name="1st Giza Infantry"
 		type=infantry
-		home=844
+		home=1750
 	}
 	regiment = {
-		name="1st Pleven Cavalry"
+		name="1st Dumyat Cavalry"
 		type=cavalry
-		home=812
+		home=1746
 	}
 	regiment = {
-		name="1st Foca Infantry"
+		name="1st Antep Infantry"
 		type=infantry
-		home=787
+		home=898
 	}
 	regiment = {
-		name="1st Tulcea Cavalry"
+		name="1st Manisa Cavalry"
 		type=cavalry
-		home=675
+		home=870
 	}
 }
 
@@ -217,64 +217,64 @@ army = {
 	name="Kîrîm Ordusu"
 	location=1755
 	regiment = {
-		name="1st Ruse Infantry"
+		name="1st Izmit Infantry"
 		type=infantry
-		home=811
+		home=862
 	}
 	regiment = {
-		name="1st Kütahya Infantry"
+		name="1st Salonika Infantry"
 		type=infantry
-		home=867
+		home=805
 	}
 	regiment = {
-		name="1st Amasya Infantry"
+		name="1st Denizli Infantry"
 		type=infantry
-		home=877
+		home=871
 	}
 	regiment = {
-		name="1st Izmir Cavalry"
+		name="1st Cairo Cavalry"
 		type=cavalry
-		home=869
+		home=1745
 	}
 	regiment = {
-		name="1st Polygyros Cavalry"
+		name="1st Ziqaziq Cavalry"
 		type=cavalry
-		home=822
+		home=1749
 	}
 }
 
 army = {
 	name="Kahire Ordusu"
-	location=1749
+	location=1745
 	regiment = {
-		name="1st Malatya Infantry"
+		name="1st Izmir Infantry"
 		type=infantry
-		home=889
+		home=869
 	}
 	regiment = {
-		name="1st Antalya Cavalry"
+		name="1st Kastamonu Cavalry"
 		type=cavalry
-		home=875
+		home=880
 	}
 	regiment = {
-		name="1st Sharm al-Shaykh Cavalry"
+		name="1st Kayseri Cavalry"
 		type=cavalry
-		home=1757
+		home=878
 	}
 	regiment = {
-		name="1st Sivas Cavalry"
+		name="1st Mansura Cavalry"
 		type=cavalry
-		home=879
+		home=1748
 	}
 	regiment = {
-		name="1st Trabzon Infantry"
+		name="1st Adana Infantry"
 		type=infantry
-		home=882
+		home=894
 	}
 	regiment = {
-		name="1st Izmail Cavalry"
+		name="1st Ankara Cavalry"
 		type=cavalry
-		home=678
+		home=876
 	}
 }
 
@@ -282,23 +282,23 @@ navy = {
 	name="Karadeniz Donanmasî"
 	location=860
 	ship = {
-		name="1st Kirklareli Man'o'war"
+		name="Osmaniye"
 		type=manowar
 	}
 	ship = {
-		name="2nd Kirklareli Man'o'war"
+		name="Mahmudiye"
 		type=manowar
 	}
 	ship = {
-		name="1st Istanbul Man'o'war"
+		name="Orhaniye"
 		type=manowar
 	}
 	ship = {
-		name="1st Istanbul Frigate"
+		name="Timsah"
 		type=frigate
 	}
 	ship = {
-		name="1st Kirklareli Frigate"
+		name="Simir-i Hidsum"
 		type=frigate
 	}
 	ship = {
@@ -306,23 +306,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Kirklareli Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="2nd Istanbul Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Kirklareli Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Istanbul Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="3rd Kirklareli Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
@@ -338,24 +326,36 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Istanbul Frigate"
+		name="7th Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Istanbul Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Ejder"
 		type=frigate
 	}
 	ship = {
-		name="4th Kirklareli Clipper Transport"
+		name="10th Istanbul Clipper Transport"
 		type=clipper_transport
 	}
 }
 
 navy = {
 	name="Ege Donanmasî"
-	location=858
+	location=860
 	ship = {
-		name="2nd Kirklareli Frigate"
+		name="Gilyom"
 		type=frigate
 	}
 	ship = {
-		name="3rd Kirklareli Frigate"
+		name="Nasir"
 		type=frigate
 	}
 }

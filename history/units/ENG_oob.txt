@@ -131,29 +131,9 @@ army = {
 	name="Royal Army"
 	location=300
 	regiment = {
-		name="1st Coventry Infantry"
+		name="1st London Infantry"
 		type=infantry
-		home=287
-	}
-	regiment = {
-		name="1st Ipswich Infantry"
-		type=infantry
-		home=292
-	}
-	regiment = {
-		name="1st Cardiff Infantry"
-		type=infantry
-		home=273
-	}
-	regiment = {
-		name="1st Birmingham Infantry"
-		type=infantry
-		home=284
-	}
-	regiment = {
-		name="1st Dumfries Artillery"
-		type=artillery
-		home=272
+		home=300
 	}
 	regiment = {
 		name="1st Cork Infantry"
@@ -161,9 +141,29 @@ army = {
 		home=260
 	}
 	regiment = {
-		name="1st Stirling Artillery"
+		name="1st Liverpool Infantry"
+		type=infantry
+		home=277
+	}
+	regiment = {
+		name="1st Dublin Infantry"
+		type=infantry
+		home=263
+	}
+	regiment = {
+		name="1st Limerick Artillery"
 		type=artillery
-		home=270
+		home=261
+	}
+	regiment = {
+		name="1st Birmingham Infantry"
+		type=infantry
+		home=284
+	}
+	regiment = {
+		name="1st London Artillery"
+		type=artillery
+		home=300
 	}
 }
 
@@ -171,39 +171,39 @@ army = {
 	name="Army of Scotland"
 	location=269
 	regiment = {
-		name="1st Dundee Infantry"
+		name="1st Plymouth Infantry"
 		type=infantry
-		home=268
+		home=299
 	}
 	regiment = {
-		name="1st Edinburgh Infantry"
+		name="1st Sligo Infantry"
 		type=infantry
-		home=269
+		home=259
 	}
 	regiment = {
-		name="1st Inverness Cavalry"
+		name="1st Manchester Cavalry"
 		type=cavalry
-		home=267
+		home=278
 	}
 	regiment = {
-		name="1st Orkney & Shetland Cavalry"
+		name="1st Ipswich Cavalry"
 		type=cavalry
-		home=1724
+		home=292
 	}
 	regiment = {
-		name="1st Limerick Infantry"
+		name="1st Glasgow Infantry"
 		type=infantry
-		home=261
+		home=271
 	}
 	regiment = {
-		name="1st Limerick Cavalry"
+		name="1st Sheffield Cavalry"
 		type=cavalry
-		home=261
+		home=283
 	}
 	regiment = {
-		name="2nd Inverness Cavalry"
+		name="1st Newcastle-upon-Tyne Cavalry"
 		type=cavalry
-		home=267
+		home=280
 	}
 }
 

@@ -18,11 +18,11 @@ navy = {
 	name="1st Fleet"
 	location=1731
 	ship = {
-		name="1st Tripoli Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Tripoli Frigate"
+		name="Atif"
 		type=frigate
 	}
 	ship = {
@@ -30,7 +30,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="4th Tripoli Frigate"
+		name="Bahir"
 		type=frigate
 	}
 	ship = {
@@ -43,11 +43,11 @@ navy = {
 	name="2nd Fleet"
 	location=1731
 	ship = {
-		name="3rd Tripoli Frigate"
+		name="Ayman"
 		type=frigate
 	}
 	ship = {
-		name="5th Tripoli Frigate"
+		name="Fadil"
 		type=frigate
 	}
 }

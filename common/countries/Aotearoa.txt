@@ -105,32 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Te Mana" "Te Kaha"
-    }
-    ironclad = {
-        "Te Mana" "Te Kaha"
-    }
-    manowar = {
-        "Te Mana" "Te Kaha"
-    }
-    cruiser = {
-        "Te Mana" "Te Kaha"
-    }
-    frigate = {
-        "Te Mana" "Te Kaha"
-    }
-    monitor = {
-        "Te Mana" "Te Kaha"
-    }
-    clipper_transport = {
-        "Te Mana" "Te Kaha"
-    }
-    steam_transport = {
-        "Te Mana" "Te Kaha"
-    }
-    commerce_raider = {
-        "Te Mana" "Te Kaha"
-    }
+
+unit_names = {
+	dreadnought = {
+		"Te Mana" "Te Kaha"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		"Te Mana" "Te Kaha"
+	}
+	manowar = {
+		"Te Mana" "Te Kaha"
+	}
+	cruiser = {
+		"Te Mana" "Te Kaha"
+	}
+	frigate = {
+		"Te Mana" "Te Kaha"
+	}
+	monitor = {
+		"Te Mana" "Te Kaha"
+	}
+	clipper_transport = {
+		"Te Mana" "Te Kaha"
+	}
+	steam_transport = {
+		"Te Mana" "Te Kaha"
+	}
+	commerce_raider = {
+		"Te Mana" "Te Kaha"
+	}
 }

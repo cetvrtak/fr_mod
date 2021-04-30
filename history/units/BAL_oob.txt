@@ -3,19 +3,19 @@ navy = {
 	name="1st Fleet"
 	location=1438
 	ship = {
-		name="1st Bali Frigate"
+		name="Pendet"
 		type=frigate
 	}
 	ship = {
-		name="2nd Bali Frigate"
+		name="Legong"
 		type=frigate
 	}
 	ship = {
-		name="3rd Bali Frigate"
+		name="Baris"
 		type=frigate
 	}
 	ship = {
-		name="4th Bali Frigate"
+		name="Topeng"
 		type=frigate
 	}
 }

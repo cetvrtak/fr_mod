@@ -3,15 +3,15 @@ navy = {
 	name="Fleet of Hafun"
 	location=1872
 	ship = {
-		name="1st Bosaso Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Bosaso Frigate"
+		name="Atif"
 		type=frigate
 	}
 	ship = {
-		name="3rd Bosaso Frigate"
+		name="Ayman"
 		type=frigate
 	}
 }

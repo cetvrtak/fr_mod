@@ -135,36 +135,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
 
-    }
-    ironclad = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-
-
-    }
-    manowar = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-    }
-    cruiser = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-    }
-    frigate = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-    }
-    monitor = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
-
-    }
+unit_names = {
+	dreadnought = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	manowar = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	cruiser = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	frigate = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	monitor = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Liberia Monrovia Freedom Abolition Grace Thrust "Free Man" Hope "Promised Land" "Joseph Roberts" "Stephen Benson" Commonwealth
+	}
 }

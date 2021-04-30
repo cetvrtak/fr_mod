@@ -9,14 +9,14 @@ army = {
 	name="1st Army"
 	location=1690
 	regiment = {
-		name="1st Tetouan Irregulars"
+		name="1st Marrakesh Irregulars"
 		type=irregular
-		home=1687
+		home=1690
 	}
 	regiment = {
-		name="1st Wujda Irregulars"
+		name="1st Fez Irregulars"
 		type=irregular
-		home=1684
+		home=1680
 	}
 }
 
@@ -24,7 +24,7 @@ navy = {
 	name="1st Fleet"
 	location=1686
 	ship = {
-		name="1st Moroccan Man'o'war"
+		name="Fas"
 		type=manowar
 	}
 	ship = {
@@ -48,7 +48,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Moroccan Man'o'war"
+		name="Murrakush"
 		type=manowar
 	}
 }
@@ -57,11 +57,11 @@ navy = {
 	name="2nd Fleet"
 	location=1686
 	ship = {
-		name="1st Moroccan Frigate"
+		name="Akram"
 		type=frigate
 	}
 	ship = {
-		name="2nd Moroccan Frigate"
+		name="Atif"
 		type=frigate
 	}
 }

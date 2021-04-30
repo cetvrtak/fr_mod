@@ -105,30 +105,28 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+	}
+	battleship = {
+		
 	}
 	ironclad = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	manowar = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	cruiser = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	frigate = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	monitor = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 	clipper_transport = {
 		
@@ -137,7 +135,6 @@ unit_names= {
 		
 	}
 	commerce_raider = {
-		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh"
-		Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
+		Alia Aurangabad Devki Fatimah Godvari Gulbargah Jalsena "Kala Jahazi" Khan "Lal Jahazi" Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Sagar Salima Suhalia Shameena Yasmine
 	}
 }

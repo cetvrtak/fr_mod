@@ -135,9 +135,13 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
+
+unit_names = {
 	dreadnought = {
 		"Te Mana" "Te Kaha"
+	}
+	battleship = {
+		
 	}
 	ironclad = {
 		"Te Mana" "Te Kaha"

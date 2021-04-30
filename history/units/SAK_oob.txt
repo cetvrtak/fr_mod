@@ -3,7 +3,7 @@ navy = {
 	name="1st Fleet"
 	location=1401
 	ship = {
-		name="1st Siak Man'o'war"
+		name="Palembang"
 		type=manowar
 	}
 	ship = {
@@ -15,7 +15,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Siak Man'o'war"
+		name="Lampung"
 		type=manowar
 	}
 }
@@ -24,15 +24,15 @@ navy = {
 	name="2nd Fleet"
 	location=1401
 	ship = {
-		name="1st Siak Frigate"
+		name="Siak"
 		type=frigate
 	}
 	ship = {
-		name="2nd Siak Frigate"
+		name="Sumatra"
 		type=frigate
 	}
 	ship = {
-		name="3rd Siak Frigate"
+		name="Pasir"
 		type=frigate
 	}
 }

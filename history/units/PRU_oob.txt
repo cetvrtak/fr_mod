@@ -85,44 +85,44 @@ army = {
 	name="Königliche Armee"
 	location=549
 	regiment = {
+		name="1st Breslau Infantry"
+		type=infantry
+		home=682
+	}
+	regiment = {
 		name="1st Berlin Infantry"
 		type=infantry
 		home=549
 	}
 	regiment = {
-		name="1st Oppeln Infantry"
+		name="2nd Breslau Infantry"
 		type=infantry
-		home=684
-	}
-	regiment = {
-		name="1st Stettin Infantry"
-		type=infantry
-		home=546
-	}
-	regiment = {
-		name="2nd Oppeln Infantry"
-		type=infantry
-		home=684
-	}
-	regiment = {
-		name="1st Berlin Cavalry"
-		type=cavalry
-		home=549
-	}
-	regiment = {
-		name="1st Breslau Cavalry"
-		type=cavalry
 		home=682
 	}
 	regiment = {
-		name="1st Allenstein Infantry"
+		name="1st Magdeburg Infantry"
 		type=infantry
-		home=696
+		home=553
 	}
 	regiment = {
-		name="1st Köslin Cavalry"
+		name="1st Stettin Cavalry"
 		type=cavalry
-		home=680
+		home=546
+	}
+	regiment = {
+		name="1st Waldenburg Cavalry"
+		type=cavalry
+		home=683
+	}
+	regiment = {
+		name="1st Kattowitz Infantry"
+		type=infantry
+		home=685
+	}
+	regiment = {
+		name="1st Königsberg Cavalry"
+		type=cavalry
+		home=695
 	}
 }
 
@@ -130,31 +130,31 @@ navy = {
 	name="Ost See Squadron"
 	location=695
 	ship = {
-		name="1st Prussian Frigate"
+		name="Carolus Secundus"
 		type=frigate
 	}
 	ship = {
-		name="1st Prussian Clipper Transport"
+		name="America"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Prussian Clipper Transport"
+		name="Elbe"
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Prussian Clipper Transport"
+		name="Europa"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Prussian Frigate"
+		name="Chur Prinz"
 		type=frigate
 	}
 	ship = {
-		name="3rd Prussian Frigate"
+		name="Dorothea"
 		type=frigate
 	}
 	ship = {
-		name="4th Prussian Clipper Transport"
+		name="Hansa"
 		type=clipper_transport
 	}
 }

@@ -9,19 +9,19 @@ army = {
 	name="1st Army"
 	location=2436
 	regiment = {
-		name="1st Desterro Infantry"
+		name="1st Rio de Janeiro Infantry"
 		type=infantry
-		home=2461
+		home=2447
 	}
 	regiment = {
-		name="1st Guarapuava Infantry"
+		name="2nd Rio de Janeiro Infantry"
 		type=infantry
-		home=2458
+		home=2447
 	}
 	regiment = {
-		name="2nd Guarapuava Infantry"
+		name="1st Salvador da Bahia Infantry"
 		type=infantry
-		home=2458
+		home=2436
 	}
 }
 

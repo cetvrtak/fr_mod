@@ -105,33 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku SaparuaSula Peruhumpenai Morotai Tukangbesi Tidore
 
-    }
-    ironclad = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
-    manowar = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
-    cruiser = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
-    frigate = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
-    monitor = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
-    }
+unit_names = {
+	dreadnought = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku SaparuaSula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	manowar = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	cruiser = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	frigate = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	monitor = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Ambon Maluku Ari Ceram Banda Sunda Buru Samarinda Parepare Krakatau Morowali Teku Saparua Sula Peruhumpenai Morotai Tukangbesi Tidore
+	}
 }

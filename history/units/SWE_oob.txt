@@ -86,53 +86,53 @@ army = {
 	name="Kungliga Arméen"
 	location=322
 	regiment = {
-		name="1st Malmö Infantry"
+		name="1st Turku Infantry"
 		type=infantry
-		home=334
+		home=345
 	}
 	regiment = {
-		name="1st Örebro Infantry"
+		name="1st Växjö Infantry"
 		type=infantry
-		home=327
+		home=333
 	}
 	regiment = {
-		name="1st Luleå Cavalry"
+		name="1st Vaasa Cavalry"
 		type=cavalry
-		home=321
+		home=346
 	}
 	regiment = {
-		name="2nd Malmö Infantry"
+		name="1st Norrköping Infantry"
 		type=infantry
-		home=334
+		home=325
 	}
 	regiment = {
-		name="1st Västerås Cavalry"
+		name="1st Borås Cavalry"
 		type=cavalry
-		home=326
+		home=330
 	}
 }
 
 navy = {
 	name="Högsjöflottan"
-	location=324
+	location=322
 	ship = {
-		name="1st Västerås Frigate"
+		name="Packa"
 		type=frigate
 	}
 	ship = {
-		name="1st Stockholm Frigate"
+		name="Svarta Örn"
 		type=frigate
 	}
 	ship = {
-		name="2nd Stockholm Frigate"
+		name="Jarramas"
 		type=frigate
 	}
 	ship = {
-		name="3rd Stockholm Frigate"
+		name="Vainqueur"
 		type=frigate
 	}
 	ship = {
-		name="2nd Västerås Frigate"
+		name="Delphin"
 		type=frigate
 	}
 	ship = {
@@ -144,23 +144,23 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="1st Uppsala Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="1st Västerås Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
-		name="2nd Västerås Clipper Transport"
-		type=clipper_transport
-	}
-	ship = {
 		name="3rd Stockholm Clipper Transport"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Uppsala Clipper Transport"
+		name="4th Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Stockholm Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Stockholm Clipper Transport"
 		type=clipper_transport
 	}
 }
@@ -169,15 +169,15 @@ navy = {
 	name="Skärgårdsflottan"
 	location=322
 	ship = {
-		name="3rd Västerås Frigate"
+		name="Illerim"
 		type=frigate
 	}
 	ship = {
-		name="4th Västerås Frigate"
+		name="Lilla Phoenix"
 		type=frigate
 	}
 	ship = {
-		name="1st Uppsala Frigate"
+		name="Växjö"
 		type=frigate
 	}
 }

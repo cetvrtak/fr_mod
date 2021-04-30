@@ -195,38 +195,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-    }
-    ironclad = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
 
-    }
-    manowar = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-
-    }
-    cruiser = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-
-    }
-    frigate = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-
-    }
-    monitor = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
-
-    }
+unit_names = {
+	dreadnought = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	manowar = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	cruiser = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	frigate = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	monitor = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Danzig Hansa "Peter von Danzig" Pommerellen Elbing "Paul Beneke" Kopernikus Kalckreuth Arnswalde Dirschau Stargard Teutonicus Marienwerder Thorn "Georg Giese"
+	}
 }

@@ -24,11 +24,11 @@ navy = {
 	name="1st Fleet"
 	location=539
 	ship = {
-		name="1st Bremen Frigate"
+		name="Wappen von Bremen"
 		type=frigate
 	}
 	ship = {
-		name="2nd Bremen Frigate"
+		name="Hansestadt Bremen"
 		type=frigate
 	}
 }
@@ -37,11 +37,11 @@ navy = {
 	name="2nd Fleet"
 	location=539
 	ship = {
-		name="1st Bremen Clipper Transport"
+		name="Hermann Meier"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Bremen Clipper Transport"
+		name="Eduard Crüsemann"
 		type=clipper_transport
 	}
 }

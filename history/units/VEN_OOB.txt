@@ -64,12 +64,12 @@ army = {
 	name="Armata di Venezia"
 	location=729
 	regiment = {
-		name="1st Padua Infantry"
+		name="1st Brescia Infantry"
 		type=infantry
-		home=731
+		home=728
 	}
 	regiment = {
-		name="2nd Padua Infantry"
+		name="1st Padua Infantry"
 		type=infantry
 		home=731
 	}
@@ -79,11 +79,11 @@ navy = {
 	name="1st Fleet"
 	location=729
 	ship = {
-		name="1st Venice Frigate"
+		name="Giove Fulminante"
 		type=frigate
 	}
 	ship = {
-		name="2nd Venice Frigate"
+		name="Costanza Guerriera"
 		type=frigate
 	}
 	ship = {
@@ -99,7 +99,7 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="7th Venice Frigate"
+		name="San Lorenzo Giustian"
 		type=frigate
 	}
 	ship = {
@@ -112,23 +112,23 @@ navy = {
 	name="2nd Fleet"
 	location=729
 	ship = {
-		name="3rd Venice Frigate"
+		name="San Vittorio"
 		type=frigate
 	}
 	ship = {
-		name="4th Venice Frigate"
+		name="San Giovanni Battista"
 		type=frigate
 	}
 	ship = {
-		name="5th Venice Frigate"
+		name="Redentor del Mondo"
 		type=frigate
 	}
 	ship = {
-		name="6th Venice Frigate"
+		name="Leon Coronato"
 		type=frigate
 	}
 	ship = {
-		name="8th Venice Frigate"
+		name="Stella Maris"
 		type=frigate
 	}
 }

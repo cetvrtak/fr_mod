@@ -105,34 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-    }
-    ironclad = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
 
-    }
-    manowar = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-
-    }
-    cruiser = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-    }
-    frigate = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-    }
-    monitor = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa "Simpang-kiri" "Peg Serbeulangit" "Peg Pusat"             "Gunung Peuetsagoe""Pulau we" "Pulau Breueh"
-    }
+unit_names = {
+	dreadnought = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	manowar = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	cruiser = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	frigate = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	monitor = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Sulu Samandara "Malik ul Salih" "Malik Al-Salih" Teunom Peusangen Jamboaye Alas Tripa Simpang-kiri "Peg Serbeulangit" "Peg Pusat" "Gunung Peuetsagoe" "Pulau we" "Pulau Breueh"
+	}
 }

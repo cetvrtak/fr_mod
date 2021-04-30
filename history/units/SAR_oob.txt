@@ -18,16 +18,16 @@ leader = {
 #Armies
 army = {
 	name="1st Army"
-	location=721
+	location=720
 	regiment = {
 		name="1st Turin Infantry"
 		type=infantry
 		home=720
 	}
 	regiment = {
-		name="1st Annecy Infantry"
+		name="2nd Turin Infantry"
 		type=infantry
-		home=465
+		home=720
 	}
 }
 
@@ -35,7 +35,7 @@ navy = {
 	name="1st Fleet"
 	location=472
 	ship = {
-		name="1st Sardinian Frigate"
+		name="Aquila"
 		type=frigate
 	}
 	ship = {
@@ -51,11 +51,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Sardinian Frigate"
+		name="Aurora"
 		type=frigate
 	}
 	ship = {
-		name="3rd Sardinian Frigate"
+		name="Azzardoso"
 		type=frigate
 	}
 	ship = {

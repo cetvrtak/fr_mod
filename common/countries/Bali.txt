@@ -105,47 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
 
-    Sanglang Kelatakan
-    }
-    ironclad = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-
-    }
-    manowar = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-    }
-    cruiser = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-    }
-    frigate = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-    }
-    monitor = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk
-
-        Sanglang Kelatakan
-    }
+unit_names = {
+	dreadnought = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	manowar = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	cruiser = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	frigate = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	monitor = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Pendet Legong Baris Topeng Barong Kecak Batur Catur Bratan Pohen Lesong Sangyang Batukaru Patas Musi Mesehe Agong Seraya Merbuk Sanglang Kelatakan
+	}
 }

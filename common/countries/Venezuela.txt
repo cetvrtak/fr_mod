@@ -150,34 +150,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        "Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simón Bolivar" Tamanaco Venezuela
-    }
-    ironclad = {
-        Bolívar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trópico "Veintitres de Mayo"
-    }
-    manowar = {
-        Brión Colombiana Conejo Eclipse Feliz Independencia Intrépido Mariño Piar Rita
-    }
-    cruiser = {
-        Aragua Caroní Casiquiare Cumaná "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
-    }
-    frigate = {
-        Caribe Cojedes Lara Mérida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
-    }
-    monitor = {
-        Cacique Carreño "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucía" Tovar Villegas
-    }
-    clipper_transport = {
-        Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas"
-        "San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
-    }
-    steam_transport = {
-        Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas"
-        "San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
-    }
-    commerce_raider = {
-        Aragua Constitución Federación "General Crespo" Independencia Libertad Marcay Maturín Miranda Patria
-    }
+
+unit_names = {
+	dreadnought = {
+		"Almirante Brión" "Francisco de Miranda" "General Falcón" "General Páez" "General Zamora" Guaicaipuro "Mariscal Sucre" "Simón Bolivar" Tamanaco Venezuela
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Bolívar Carabobo "General Soublette" "General Urdaneta" Maraparari Monagas Totumo Trópico "Veintitres de Mayo"
+	}
+	manowar = {
+		Brión Colombiana Conejo Eclipse Feliz Independencia Intrépido Mariño Piar Rita
+	}
+	cruiser = {
+		Aragua Caroní Casiquiare Cumaná "General Salom" Maracaibo Orinoco Restaurador Sucre Zulia
+	}
+	frigate = {
+		Caribe Cojedes Lara Mérida Monagas "Nueva Esparta" Portuguesa Trujillo Warao Yecuana
+	}
+	monitor = {
+		Cacique Carreño "Diego de Losada" "Gran Colombia" Gual Guayana Narvate "Nueva Andalucía" Tovar Villegas
+	}
+	clipper_transport = {
+		Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas" "San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
+	}
+	steam_transport = {
+		Diligente Móvil Navegante Neptuno Poderoso Reivindicador Remolcador República "San Juan" "San Lucas" "San Marcos" "San Mateo" "San Pablo" "San Pedro" Sirena Tormenta Tritón Veloz Ventoso Zamora
+	}
+	commerce_raider = {
+		Aragua Constitución Federación "General Crespo" Independencia Libertad Marcay Maturín Miranda Patria
+	}
 }

@@ -3,15 +3,15 @@ navy = {
 	name="1st Fleet"
 	location=528
 	ship = {
-		name="1st Hamburg Frigate"
+		name="Wappen von Hamburg"
 		type=frigate
 	}
 	ship = {
-		name="2nd Hamburg Frigate"
+		name="Leopoldus Primus"
 		type=frigate
 	}
 	ship = {
-		name="3rd Hamburg Frigate"
+		name="Bunte Kuh"
 		type=frigate
 	}
 }
@@ -20,11 +20,11 @@ navy = {
 	name="2nd Fleet"
 	location=528
 	ship = {
-		name="1st Hamburg Clipper Transport"
+		name="Rickmer Rickmers"
 		type=clipper_transport
 	}
 	ship = {
-		name="2nd Hamburg Clipper Transport"
+		name="Peter Rickmers"
 		type=clipper_transport
 	}
 }

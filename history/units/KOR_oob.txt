@@ -9,14 +9,14 @@ army = {
 	name="1st Army"
 	location=1624
 	regiment = {
-		name="1st Pohang Irregulars"
+		name="1st Hanseong Irregulars"
 		type=irregular
-		home=1634
+		home=1624
 	}
 	regiment = {
-		name="1st Chonchon Irregulars"
+		name="1st Pyongyang Irregulars"
 		type=irregular
-		home=1620
+		home=1619
 	}
 }
 
@@ -24,11 +24,11 @@ navy = {
 	name="1st Fleet"
 	location=1628
 	ship = {
-		name="1st Inchon Frigate"
+		name="Baekdu"
 		type=frigate
 	}
 	ship = {
-		name="2nd Inchon Frigate"
+		name="Baekje"
 		type=frigate
 	}
 	ship = {
@@ -44,11 +44,11 @@ navy = {
 		type=clipper_transport
 	}
 	ship = {
-		name="3rd Inchon Frigate"
+		name="Changbai"
 		type=frigate
 	}
 	ship = {
-		name="4th Inchon Frigate"
+		name="Duman"
 		type=frigate
 	}
 	ship = {

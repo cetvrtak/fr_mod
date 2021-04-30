@@ -9,14 +9,14 @@ army = {
 	name="1st Army"
 	location=2373
 	regiment = {
-		name="1st San Luis Infantry"
+		name="1st Asuncion Infantry"
 		type=infantry
-		home=2383
+		home=2339
 	}
 	regiment = {
-		name="1st San Juan Infantry"
+		name="1st Buenos Aires Infantry"
 		type=infantry
-		home=2387
+		home=2348
 	}
 }
 

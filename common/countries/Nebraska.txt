@@ -105,44 +105,36 @@ party = {
 	trade_policy = protectionism
 	war_policy = jingoism
 }
-unit_names= {
-    dreadnought = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-    }
-    ironclad = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
 
-    }
-    manowar = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-    }
-    cruiser = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-
-    }
-    frigate = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-
-    }
-    monitor = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-
-    }
-    clipper_transport = {
-
-    }
-    steam_transport = {
-
-    }
-    commerce_raider = {
-        Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine
-        "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
-
-    }
+unit_names = {
+	dreadnought = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	battleship = {
+		
+	}
+	ironclad = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	manowar = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	cruiser = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	frigate = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	monitor = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
+	clipper_transport = {
+		
+	}
+	steam_transport = {
+		
+	}
+	commerce_raider = {
+		Kansas Nebraska Colorado Wichita Meadowlark Topeka Sunflower Cottonwood Lincoln Omaha Columbine "Lewis and Clark" Cornhusker Goldenrod Denver Aurora "Lark Bunting" "Rocky Mountain"
+	}
 }
