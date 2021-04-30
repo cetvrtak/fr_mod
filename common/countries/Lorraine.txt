@@ -3,7 +3,7 @@ color = { 190  50  40 }
 
 party = {
 	name = "FRA_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 1883.1.1
 
 	ideology = reactionary
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "FRA_liberal"
-	start_date = 1836.1.1
+	start_date = 1830.1.1
 	end_date = 1870.1.1
 
 	ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "FRA_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 1870.1.1
 
 	ideology = conservative
@@ -168,7 +168,7 @@ party = {
 
 party = {
 	name = "FRA_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -228,7 +228,7 @@ party = {
 
 party = {
 	name = "FRA_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist

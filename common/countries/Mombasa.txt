@@ -3,7 +3,7 @@ color = { 169 54 54 }
 
 party = {
 	name = "MBA_anarcho_liberal"
-	start_date = 1710.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
 	name = "MBA_liberal"
-	start_date = 1680.1.1
+	start_date = 1820.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -78,7 +78,7 @@ party = {
 
 party = {
 	name = "MBA_reactionary"
-	start_date = 1680.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -93,7 +93,7 @@ party = {
 
 party = {
 	name = "MBA_socialist"
-	start_date = 1790.1.1
+	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist

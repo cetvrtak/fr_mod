@@ -3,7 +3,7 @@ color = { 117  165  188 }
 
 party = {
 	name = "NOR_liberal"
-	start_date = 1836.1.1
+	start_date = 1820.1.1
 	end_date = 1884.1.28
 
 	ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "NOR_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 1884.8.25
 
 	ideology = conservative
@@ -123,7 +123,7 @@ party = {
 
 party = {
 	name = "NOR_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -168,7 +168,7 @@ party = {
 
 party = {
 	name = "NOR_socialist"
-	start_date = 1830.1.1
+	start_date = 1848.1.1
 	end_date = 1887.8.21
 
 	ideology = socialist
@@ -228,7 +228,7 @@ party = {
 
 party = {
 	name = "NOR_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 1919.1.1
 
 	ideology = communist
@@ -273,7 +273,7 @@ party = {
 
 party = {
 	name = "NOR_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 1933.1.1
 
 	ideology = fascist

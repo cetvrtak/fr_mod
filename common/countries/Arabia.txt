@@ -3,7 +3,7 @@ color = { 107  147  37 }
 
 party = {
 	name = "ARA_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "ARA_liberal"
-	start_date = 1836.1.1
+	start_date = 1820.1.1
 	end_date = 1936.1.1
 
 	ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "ARA_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -63,7 +63,7 @@ party = {
 
 party = {
 	name = "ARA_anarcho_liberal"
-	start_date = 1810.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
@@ -78,7 +78,7 @@ party = {
 
 party = {
 	name = "ARA_socialist"
-	start_date = 1818.1.1
+	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist
@@ -93,7 +93,7 @@ party = {
 
 party = {
 	name = "ARA_communist"
-	start_date = 1818.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -108,7 +108,7 @@ party = {
 
 party = {
 	name = "ARA_fascist"
-	start_date = 1805.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist

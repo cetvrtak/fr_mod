@@ -3,7 +3,7 @@ color = { 51  104  204 }
 
 party = {
 	name = "DON_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "DON_liberal"
-	start_date = 1836.1.1
+	start_date = 1820.1.1
 	end_date = 1936.1.1
 
 	ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "DON_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -48,7 +48,7 @@ party = {
 
 party = {
 	name = "DON_anarcho_liberal"
-	start_date = 1800.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
 	name = "DON_socialist"
-	start_date = 1800.1.1
+	start_date = 1848.1.1
 	end_date = 2000.1.1
 
 	ideology = socialist
@@ -78,7 +78,7 @@ party = {
 
 party = {
 	name = "DON_communist"
-	start_date = 1800.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -93,7 +93,7 @@ party = {
 
 party = {
 	name = "DON_fascist"
-	start_date = 1800.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist

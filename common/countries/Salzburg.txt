@@ -48,7 +48,7 @@ party = {
 
 party = {
 	name = "AUS_socialist"
-	start_date = 1790.1.1
+	start_date = 1848.1.1
 	end_date = 1867.1.1
 
 	ideology = socialist
@@ -63,7 +63,7 @@ party = {
 
 party = {
 	name = "AUS_liberal"
-	start_date = 1680.1.1
+	start_date = 1820.1.1
 	end_date = 1867.1.1
 
 	ideology = liberal
@@ -168,7 +168,7 @@ party = {
 
 party = {
 	name = "AUS_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -198,7 +198,7 @@ party = {
 
 party = {
 	name = "AUS_anarcho_liberal"
-	start_date = 1710.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = anarcho_liberal

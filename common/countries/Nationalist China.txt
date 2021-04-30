@@ -3,7 +3,7 @@ color = { 250 150 68 }
 
 party = {
 	name = "KMT_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 1881.1.1
 
 	ideology = conservative
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "KMT_liberal"
-	start_date = 1836.1.1
+	start_date = 1830.1.1
 	end_date = 1921.1.1
 
 	ideology = liberal
@@ -108,7 +108,7 @@ party = {
 
 party = {
 	name = "KMT_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
@@ -138,7 +138,7 @@ party = {
 
 party = {
 	name = "KMT_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 1945.1.1
 
 	ideology = reactionary

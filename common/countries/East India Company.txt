@@ -3,7 +3,7 @@ color = { 207 20 43 }
 
 party = {
 	name = "ENG_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "ENG_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "ENG_liberal"
-	start_date = 1836.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal

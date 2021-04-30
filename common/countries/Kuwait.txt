@@ -3,7 +3,7 @@ color = { 129 81 124 }
 
 party = {
 	name = "IRQ_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "IRQ_liberal"
-	start_date = 1836.1.1
+	start_date = 1830.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "IRQ_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -78,7 +78,7 @@ party = {
 
 party = {
 	name = "IRQ_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -93,7 +93,7 @@ party = {
 
 party = {
 	name = "IRQ_fascist"
-	start_date = 1830.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist

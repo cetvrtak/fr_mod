@@ -3,7 +3,7 @@ color = { 27 130 137 }
 
 party = {
 	name = "ARM_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 1935.1.1
 
 	ideology = conservative
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "ARM_liberal"
-	start_date = 1836.1.1
+	start_date = 1863.1.1
 	end_date = 1895.1.1
 
 	ideology = liberal
@@ -108,7 +108,7 @@ party = {
 
 party = {
 	name = "ARM_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -138,7 +138,7 @@ party = {
 
 party = {
 	name = "ARM_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -153,7 +153,7 @@ party = {
 
 party = {
 	name = "ARM_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist

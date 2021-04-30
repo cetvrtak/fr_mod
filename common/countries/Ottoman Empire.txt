@@ -3,7 +3,7 @@ color = { 170  206  162 }
 
 party = {
 	name = "TUR_reactionary"
-	start_date = 1790.1.1
+	start_date = 1783.1.1
 	end_date = 2000.1.1
 
 	ideology = reactionary
@@ -18,7 +18,7 @@ party = {
 
 party = {
 	name = "TUR_conservative"
-	start_date = 1783.9.4
+	start_date = 1000.1.1
 	end_date = 2000.1.1
 
 	ideology = conservative
@@ -33,7 +33,7 @@ party = {
 
 party = {
 	name = "TUR_liberal"
-	start_date = 1836.1.1
+	start_date = 1856.1.1
 	end_date = 2000.1.1
 
 	ideology = liberal
@@ -63,7 +63,7 @@ party = {
 
 party = {
 	name = "TUR_communist"
-	start_date = 1848.1.1
+	start_date = 1849.1.1
 	end_date = 2000.1.1
 
 	ideology = communist
@@ -123,7 +123,7 @@ party = {
 
 party = {
 	name = "TUR_fascist"
-	start_date = 1900.1.1
+	start_date = 1905.1.1
 	end_date = 2000.1.1
 
 	ideology = fascist
