@@ -36,15 +36,16 @@ border_policy = closed_borders
 
 set_country_flag = sunni_country
 
-ruling_party = PGG_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 0
-    reactionary = 90
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = PGG_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,6 +56,9 @@ foreign_weapons = yes_foreign_weapons
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = PGG_conservative
+}
 1861.1.1 = {
 
 foreign_weapons = yes_foreign_weapons

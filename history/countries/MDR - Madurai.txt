@@ -37,9 +37,9 @@ ruling_party = MDR_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 9
-	conservative = 86
-	reactionary = 5
+	liberal = 0
+	conservative = 81
+	reactionary = 19
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

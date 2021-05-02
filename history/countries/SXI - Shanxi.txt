@@ -37,14 +37,15 @@ border_policy = closed_borders
 set_country_flag = mahayana_country
 
 ruling_party = SXI_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 0
-    reactionary = 100
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,3 +55,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = SXI_reactionary
+}

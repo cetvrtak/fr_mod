@@ -40,15 +40,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = MAS_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 21
-    reactionary = 63
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MAS_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "MAS_oob.txt"
 1836.1.1 = {
+	ruling_party = MAS_reactionary
 	oob = "/1836/MAS_oob.txt"
 }
 1861.1.1 = {

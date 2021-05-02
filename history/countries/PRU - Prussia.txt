@@ -43,15 +43,16 @@ set_country_flag = protestant_country
 set_country_flag = prussian_germany
 decision = literacy_PRU
 
-ruling_party = PRU_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 55
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = PRU_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -99,6 +100,7 @@ foreign_investment = {
 
 oob = "PRU_oob.txt"
 1836.1.1 = {
+	ruling_party = PRU_conservative_2
 	oob = "/1836/PRU_oob.txt"
 }
 1861.1.1 = {

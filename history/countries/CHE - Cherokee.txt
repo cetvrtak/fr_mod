@@ -37,15 +37,16 @@ border_policy = open_borders
 set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
-ruling_party = CHE_conservative
-upper_house = {
-    fascist = 0
-    liberal = 26
-    conservative = 62
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = CHE_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,3 +56,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CHE_conservative
+}

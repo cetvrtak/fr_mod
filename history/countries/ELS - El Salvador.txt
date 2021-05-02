@@ -39,14 +39,15 @@ set_country_flag = catholic_country
 set_country_flag = new_world_nation
 
 ruling_party = ELS_conservative
-upper_house = {
-    fascist = 0
-    liberal = 53
-    conservative = 35
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -56,6 +57,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = ELS_conservative
+}
 1861.1.1 = {
     oob = "/1861/ELS_oob.txt"
     plurality = 50

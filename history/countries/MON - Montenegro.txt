@@ -39,15 +39,16 @@ border_policy = open_borders
 set_country_flag = orthodox_country
 set_country_flag = theocratic_government
 
-ruling_party = MON_conservative
-upper_house = {
-    fascist = 0
-    liberal = 30
-    conservative = 58
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MON_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -67,6 +68,7 @@ nonstate_consciousness = 0
 
 oob = "MON_oob.txt"
 1836.1.1 = {
+	ruling_party = MON_conservative
 	oob = "/1836/MON_oob.txt"
 }
 1861.1.1 = {

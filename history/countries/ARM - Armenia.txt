@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = coptic_country
 
-ruling_party = ARM_conservative
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 75
-    reactionary = 9
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ARM_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -64,6 +65,9 @@ tech_power_0 = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = ARM_conservative
+}
 1861.1.1 = {
 # Technologies
 

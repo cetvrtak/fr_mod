@@ -44,14 +44,15 @@ set_country_flag = ubd_substate
 decision = UBD_1836_setup
 
 ruling_party = UBD_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -64,5 +65,6 @@ nonstate_consciousness = 0
 
 oob = "UBD_oob.txt"
 1836.1.1 = {
+	ruling_party = UBD_conservative
 	oob = "/1836/UBD_oob.txt"
 }

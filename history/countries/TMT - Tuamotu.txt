@@ -38,14 +38,15 @@ set_country_flag = cant_use_decisions
 set_country_flag = protestant_country
 
 ruling_party = HAW_conservative
-upper_house = {
-    fascist = 0
-    liberal = 28
-    conservative = 59
-    reactionary = 13
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,3 +56,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = HAW_conservative
+}

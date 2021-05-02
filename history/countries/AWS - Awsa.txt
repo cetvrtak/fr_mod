@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = AWS_conservative
-upper_house = {
-    fascist = 0
-    liberal = 13
-    conservative = 69
-    reactionary = 18
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = AWS_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,6 +59,7 @@ nonstate_consciousness = 0
 
 oob = "AWS_oob.txt"
 1836.1.1 = {
+	ruling_party = AWS_conservative
 	oob = "/1836/AWS_oob.txt"
 }
 1861.1.1 = {

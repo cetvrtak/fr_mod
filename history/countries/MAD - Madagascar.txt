@@ -37,14 +37,15 @@ border_policy = open_borders
 set_country_flag = animist_country
 
 ruling_party = MAD_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 79
-    reactionary = 9
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,7 @@ nonstate_consciousness = 0
 
 oob = "MAD_oob.txt"
 1836.1.1 = {
+	ruling_party = MAD_conservative
 	oob = "/1836/MAD_oob.txt"
 }
 1861.1.1 = {

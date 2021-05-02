@@ -37,9 +37,9 @@ ruling_party = YAN_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 10
-	conservative = 85
-	reactionary = 5
+	liberal = 0
+	conservative = 81
+	reactionary = 19
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

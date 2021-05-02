@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = orthodox_country
 
-ruling_party = ROM_liberal
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 5
-    anarcho_liberal = 5
-    socialist = 5
-    communist = 0
+ruling_party = ROM_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,6 +55,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = ROM_liberal
+}
 1861.1.1 = {
     oob = "/1861/ROM_oob.txt"
     plurality = 60

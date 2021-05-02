@@ -35,15 +35,16 @@ border_policy = open_borders
 
 set_country_flag = hindu_country
 
-ruling_party = ASM_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 77
-    reactionary = 11
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ASM_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,3 +55,6 @@ flintlock_rifles = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = ASM_conservative
+}

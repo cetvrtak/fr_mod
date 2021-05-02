@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = SIN_conservative
-upper_house = {
-    fascist = 0
-    liberal = 11
-    conservative = 73
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SIN_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 66
+	reactionary = 34
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,5 +60,6 @@ nonstate_consciousness = 0
 
 oob = "SIN_oob.txt"
 1836.1.1 = {
+	ruling_party = SIN_conservative
 	oob = "/1836/SIN_oob.txt"
 }

@@ -41,15 +41,16 @@ govt_flag = {
     flag = theocracy
 }
 
-ruling_party = JAM_liberal
-upper_house = {
-    fascist = 0
-    liberal = 59
-    conservative = 29
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = JAM_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,3 +60,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = JAM_liberal
+}

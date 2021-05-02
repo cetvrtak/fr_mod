@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = theravada_country
 
-ruling_party = SHA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 77
-    reactionary = 11
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SHA_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,3 +56,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = SHA_conservative
+}

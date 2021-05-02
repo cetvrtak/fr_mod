@@ -40,15 +40,16 @@ border_policy = open_borders
 set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
-ruling_party = MOS_conservative
-upper_house = {
-    fascist = 0
-    liberal = 20
-    conservative = 60
-    reactionary = 20
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MOS_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "MOS_oob.txt"
 1836.1.1 = {
+	ruling_party = MOS_conservative
 	oob = "/1836/MOS_oob.txt"
 }
 1861.1.1 = {

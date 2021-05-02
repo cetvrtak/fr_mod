@@ -40,15 +40,16 @@ border_policy = open_borders
 set_country_flag = catholic_country
 set_country_flag = new_world_nation
 
-ruling_party = ENT_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 31
-    conservative = 54
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ENT_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,5 +62,6 @@ nonstate_consciousness = 0
 
 oob = "CRT_oob.txt"
 1836.1.1 = {
+	ruling_party = ENT_conservative_2
 	oob = "/1836/CRT_oob.txt"
 }

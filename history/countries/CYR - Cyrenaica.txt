@@ -40,14 +40,15 @@ border_policy = open_borders
 set_country_flag = sunni_country
 
 ruling_party = CYR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 72
-    reactionary = 18
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,3 +59,6 @@ foreign_weapons = yes_foreign_weapons
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CYR_conservative
+}

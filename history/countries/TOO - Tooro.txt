@@ -37,14 +37,15 @@ border_policy = open_borders
 set_country_flag = sunni_country
 
 ruling_party = TOO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 61
-    reactionary = 23
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,7 @@ nonstate_consciousness = 0
 
 oob = "TOO_oob.txt"
 1836.1.1 = {
+	ruling_party = TOO_conservative
 	oob = "/1836/TOO_oob.txt"
 }
 1861.1.1 = {

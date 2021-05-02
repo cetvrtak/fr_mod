@@ -35,13 +35,13 @@ debt_law = serfdom
 penal_system = capital_punishment
 
 
-ruling_party = HOL_liberal
+ruling_party = HOL_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 16
-	conservative = 80
-	reactionary = 4
+	liberal = 0
+	conservative = 90
+	reactionary = 10
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

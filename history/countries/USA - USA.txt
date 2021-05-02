@@ -43,14 +43,15 @@ set_country_flag = protestant_country
 decision = USA_1836_setup
 
 ruling_party = USA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 37
-    conservative = 60
-    reactionary = 3
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -89,6 +90,7 @@ foreign_investment = {
 
 oob = "USA_oob.txt"
 1836.1.1 = {
+	ruling_party = USA_conservative
 	oob = "/1836/USA_oob.txt"
 }
 1838.1.1 = {

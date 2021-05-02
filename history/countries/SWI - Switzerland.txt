@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = protestant_country
 decision = declare_neutrality
 
-ruling_party = SWI_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 65
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SWI_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 89
+	reactionary = 11
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -79,6 +80,7 @@ schools = industrial_tech_school
 
 oob = "SWI_oob.txt"
 1836.1.1 = {
+	ruling_party = SWI_conservative
 	oob = "/1836/SWI_oob.txt"
 }
 1861.1.1 = {

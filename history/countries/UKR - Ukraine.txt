@@ -41,15 +41,16 @@ govt_flag = {
     flag = theocracy
 }
 
-ruling_party = UKR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 70
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = UKR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 78
+	reactionary = 22
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = UKR_conservative
+}
 1861.1.1 = {
 # Technologies
 

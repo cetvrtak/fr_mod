@@ -41,15 +41,16 @@ govt_flag = {
     flag = theocracy
 }
 
-ruling_party = BRU_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 75
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = BRU_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,6 +63,7 @@ nonstate_consciousness = 0
 
 oob = "BRU_oob.txt"
 1836.1.1 = {
+	ruling_party = BRU_conservative
 	oob = "/1836/BRU_oob.txt"
 }
 1861.1.1 = {

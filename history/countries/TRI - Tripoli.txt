@@ -39,15 +39,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = CYR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 22
-    conservative = 63
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = CYR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,5 +62,6 @@ nonstate_consciousness = 0
 
 oob = "TRI_oob.txt"
 1836.1.1 = {
+	ruling_party = CYR_conservative
 	oob = "/1836/TRI_oob.txt"
 }

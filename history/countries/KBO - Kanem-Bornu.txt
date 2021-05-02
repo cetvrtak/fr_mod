@@ -40,15 +40,16 @@ border_policy = open_borders
 set_country_flag = lacking_writing_system
 set_country_flag = sunni_country
 
-ruling_party = KBO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 80
-    reactionary = 20
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = KBO_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "KBO_oob.txt"
 1836.1.1 = {
+	ruling_party = KBO_conservative
 	oob = "/1836/KBO_oob.txt"
 }
 1861.1.1 = {

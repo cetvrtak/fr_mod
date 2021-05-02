@@ -38,15 +38,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = WEI_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 27
-    conservative = 19
-    reactionary = 54
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = WEI_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 1
 
 oob = "WEI_oob.txt"
 1836.1.1 = {
+	ruling_party = WEI_reactionary
 	oob = "/1836/WEI_oob.txt"
 }
 1861.1.1 = {

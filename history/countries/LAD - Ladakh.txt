@@ -35,15 +35,16 @@ border_policy = open_borders
 
 set_country_flag = gelugpa_country
 
-ruling_party = LAD_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = LAD_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,5 +58,6 @@ nonstate_consciousness = 0
 
 oob = "LAD_oob.txt"
 1836.1.1 = {
+	ruling_party = LAD_conservative
 	oob = "/1836/LAD_oob.txt"
 }

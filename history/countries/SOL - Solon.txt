@@ -37,9 +37,9 @@ ruling_party = SOL_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 10
-	conservative = 84
-	reactionary = 6
+	liberal = 0
+	conservative = 73
+	reactionary = 27
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

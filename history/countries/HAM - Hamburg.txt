@@ -38,15 +38,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = HAM_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 26
-    conservative = 59
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = HAM_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 75
+	reactionary = 25
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -76,6 +77,7 @@ nonstate_consciousness = 1
 
 oob = "HAM_oob.txt"
 1836.1.1 = {
+	ruling_party = HAM_conservative_2
 	oob = "/1836/HAM_oob.txt"
 }
 1861.1.1 = {

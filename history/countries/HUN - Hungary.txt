@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = HUN_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 58
-    reactionary = 12
-    anarcho_liberal = 5
-    socialist = 0
-    communist = 0
+ruling_party = HUN_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,3 +55,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = HUN_conservative
+}

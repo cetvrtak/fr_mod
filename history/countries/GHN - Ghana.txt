@@ -36,15 +36,16 @@ citizens_rights = primary_culture_only
 border_policy = open_borders
 
 
-ruling_party = ASH2_conservative
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 60
-    reactionary = 40
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ASH_conservative_2
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -56,6 +57,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "ASH_oob.txt"
+1836.1.1 = {
+	ruling_party = ASH2_conservative
+}
 1861.1.1 = {
     oob = "/1861/ASH_oob.txt"
 }

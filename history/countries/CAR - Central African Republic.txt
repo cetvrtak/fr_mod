@@ -41,14 +41,15 @@ set_country_flag = animist_country
 set_country_flag = post_colonial_country
 
 ruling_party = CAR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 63
-    reactionary = 21
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,3 +59,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CAR_conservative
+}

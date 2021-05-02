@@ -38,14 +38,15 @@ set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
 ruling_party = BRD_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 70
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,6 +59,7 @@ nonstate_consciousness = 0
 
 oob = "BRD_oob.txt"
 1836.1.1 = {
+	ruling_party = BRD_reactionary
 	oob = "/1836/BRD_oob.txt"
 }
 1861.1.1 = {

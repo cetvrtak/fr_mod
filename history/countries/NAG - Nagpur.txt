@@ -38,14 +38,15 @@ border_policy = open_borders
 set_country_flag = hindu_country
 
 ruling_party = NAG_conservative
-upper_house = {
-    fascist = 0
-    liberal = 11
-    conservative = 73
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -60,6 +61,7 @@ nonstate_consciousness = 0
 
 oob = "NAG_oob.txt"
 1836.1.1 = {
+	ruling_party = NAG_conservative
 	oob = "/1836/NAG_oob.txt"
 }
 1861.1.1 = {

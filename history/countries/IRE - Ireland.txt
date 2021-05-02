@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = IRE_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = IRE_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 66
+	reactionary = 34
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,6 +55,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = IRE_conservative
+}
 1861.1.1 = {
 # Technologies
 

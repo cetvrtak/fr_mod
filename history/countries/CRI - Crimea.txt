@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = CRI_conservative
-upper_house = {
-    fascist = 0
-    liberal = 13
-    conservative = 68
-    reactionary = 19
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = CRI_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,3 +55,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CRI_conservative
+}

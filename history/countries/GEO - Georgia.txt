@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = orthodox_country
 
-ruling_party = GEO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 68
-    reactionary = 17
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = GEO_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,6 +63,9 @@ tech_power_0 = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = GEO_conservative
+}
 1861.1.1 = {
 # Technologies
     flintlock_rifles = 1

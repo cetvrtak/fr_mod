@@ -39,9 +39,9 @@ ruling_party = IRE_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 10
-	conservative = 84
-	reactionary = 6
+	liberal = 0
+	conservative = 66
+	reactionary = 34
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

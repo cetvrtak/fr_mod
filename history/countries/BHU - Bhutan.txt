@@ -36,15 +36,16 @@ border_policy = closed_borders
 
 set_country_flag = gelugpa_country
 
-ruling_party = BHU_conservative
-upper_house = {
-    fascist = 0
-    liberal = 13
-    conservative = 74
-    reactionary = 13
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = BHU_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,7 @@ nonstate_consciousness = 0
 
 oob = "BHU_oob.txt"
 1836.1.1 = {
+	ruling_party = BHU_conservative
 	oob = "/1836/BHU_oob.txt"
 }
 1861.1.1 = {

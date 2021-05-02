@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = TUN_conservative
-upper_house = {
-    fascist = 0
-    liberal = 26
-    conservative = 61
-    reactionary = 13
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = TUN_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "TUN_oob.txt"
 1836.1.1 = {
+	ruling_party = TUN_conservative
 	oob = "/1836/TUN_oob.txt"
 }
 1861.1.1 = {

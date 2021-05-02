@@ -42,9 +42,9 @@ ruling_party = ANL_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 12
-	conservative = 83
-	reactionary = 5
+	liberal = 0
+	conservative = 77
+	reactionary = 23
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

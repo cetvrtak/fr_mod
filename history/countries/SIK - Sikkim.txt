@@ -37,15 +37,16 @@ border_policy = closed_borders
 
 set_country_flag = gelugpa_country
 
-ruling_party = SIK_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SIK_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "SIK_oob.txt"
 1836.1.1 = {
+	ruling_party = SIK_conservative
 	oob = "/1836/SIK_oob.txt"
 }
 1861.1.1 = {

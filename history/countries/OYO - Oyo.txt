@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
-ruling_party = OYO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 63
-    reactionary = 21
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = OYO_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "OYO_oob.txt"
 1836.1.1 = {
+	ruling_party = OYO_conservative
 	oob = "/1836/OYO_oob.txt"
 }
 1861.1.1 = {

@@ -41,15 +41,16 @@ govt_flag = {
     flag = theocracy
 }
 
-ruling_party = MOR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 14
-    conservative = 60
-    reactionary = 26
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MOR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -65,6 +66,7 @@ nonstate_consciousness = 0
 
 oob = "MOR_oob.txt"
 1836.1.1 = {
+	ruling_party = MOR_conservative
 	oob = "/1836/MOR_oob.txt"
 }
 1861.1.1 = {

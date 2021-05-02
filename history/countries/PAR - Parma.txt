@@ -38,14 +38,15 @@ border_policy = open_borders
 set_country_flag = catholic_country
 
 ruling_party = PAR_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -72,6 +73,7 @@ nonstate_consciousness = 1
 
 oob = "PAR_oob.txt"
 1836.1.1 = {
+	ruling_party = PAR_reactionary
 	oob = "/1836/PAR_oob.txt"
 }
 1861.1.1 = {

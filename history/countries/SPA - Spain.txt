@@ -45,15 +45,16 @@ govt_flag = {
 }
 decision = literacy_SPA
 
-ruling_party = SPA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 60
-    reactionary = 5
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SPA_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 75
+	reactionary = 25
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -78,6 +79,7 @@ nonstate_consciousness = 1
 
 oob = "SPA_oob.txt"
 1836.1.1 = {
+	ruling_party = SPA_conservative
 	oob = "/1836/SPA_oob.txt"
 }
 1837.1.1 = {

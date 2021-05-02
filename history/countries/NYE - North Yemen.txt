@@ -41,15 +41,16 @@ govt_flag = {
     flag = fascist_dictatorship
 }
 
-ruling_party = YEM_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 60
-    reactionary = 25
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = YEM_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -63,6 +64,7 @@ nonstate_consciousness = 0
 
 oob = "NYE_oob.txt"
 1836.1.1 = {
+	ruling_party = YEM_reactionary
 	oob = "/1836/NYE_oob.txt"
 }
 1861.1.1 = {

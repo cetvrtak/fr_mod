@@ -41,14 +41,15 @@ set_country_flag = new_world_nation
 decision = ECU_1836_setup
 
 ruling_party = ECU_conservative
-upper_house = {
-    fascist = 0
-    liberal = 39
-    conservative = 48
-    reactionary = 13
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "ECU_oob.txt"
 1836.1.1 = {
+	ruling_party = ECU_conservative
 	oob = "/1836/ECU_oob.txt"
 }
 1861.1.1 = {

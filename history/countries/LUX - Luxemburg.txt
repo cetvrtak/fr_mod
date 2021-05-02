@@ -39,14 +39,15 @@ border_policy = open_borders
 set_country_flag = catholic_country
 
 ruling_party = LUX_conservative
-upper_house = {
-    fascist = 0
-    liberal = 20
-    conservative = 65
-    reactionary = 5
-    anarcho_liberal = 5
-    socialist = 5
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -56,6 +57,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
+1836.1.1 = {
+	ruling_party = LUX_conservative
+}
 1861.1.1 = {
     oob = "/1861/LUX_oob.txt"
     plurality = 60

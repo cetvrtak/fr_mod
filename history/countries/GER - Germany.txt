@@ -39,14 +39,15 @@ border_policy = open_borders
 set_country_flag = protestant_country
 
 ruling_party = GER_conservative
-upper_house = {
-    fascist = 0
-    liberal = 55
-    conservative = 25
-    reactionary = 5
-    anarcho_liberal = 5
-    socialist = 5
-    communist = 5
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,3 +59,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 schools = army_tech_school
+1836.1.1 = {
+	ruling_party = GER_conservative
+}

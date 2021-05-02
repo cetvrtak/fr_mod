@@ -38,15 +38,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = SAX_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 33
-    conservative = 57
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SAX_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -79,6 +80,7 @@ nonstate_consciousness = 1
 
 oob = "SAX_oob.txt"
 1836.1.1 = {
+	ruling_party = SAX_conservative_2
 	oob = "/1836/SAX_oob.txt"
 }
 1861.1.1 = {

@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = BAY_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 55
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = BAY_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -80,6 +81,7 @@ schools = industrial_tech_school
 
 oob = "BAV_oob.txt"
 1836.1.1 = {
+	ruling_party = BAY_conservative_2
 	oob = "/1836/BAV_oob.txt"
 }
 1861.1.1 = {

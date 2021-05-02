@@ -39,15 +39,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = NAS_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 30
-    conservative = 55
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = NAS_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -74,6 +75,7 @@ nonstate_consciousness = 1
 
 oob = "NAS_oob.txt"
 1836.1.1 = {
+	ruling_party = NAS_conservative_2
 	oob = "/1836/NAS_oob.txt"
 }
 1861.1.1 = {

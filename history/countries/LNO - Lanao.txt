@@ -37,9 +37,9 @@ ruling_party = LNO_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 12
-	conservative = 82
-	reactionary = 6
+	liberal = 0
+	conservative = 75
+	reactionary = 25
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

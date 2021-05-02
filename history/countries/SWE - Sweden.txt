@@ -39,15 +39,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = SWE_conservative
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 60
-    reactionary = 5
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = SWE_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -85,6 +86,7 @@ schools = industrial_tech_school
 
 oob = "SWE_oob.txt"
 1836.1.1 = {
+	ruling_party = SWE_conservative
 	oob = "/1836/SWE_oob.txt"
 }
 1850.1.1 = {

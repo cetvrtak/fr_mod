@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
-ruling_party = KAF_conservative
-upper_house = {
-    fascist = 0
-    liberal = 13
-    conservative = 69
-    reactionary = 18
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = KAF_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "KAF_oob.txt"
 1836.1.1 = {
+	ruling_party = KAF_conservative
 	oob = "/1836/KAF_oob.txt"
 }
 1861.1.1 = {

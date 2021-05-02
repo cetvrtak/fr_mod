@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = hindu_country
 
-ruling_party = BAL_conservative
-upper_house = {
-    fascist = 0
-    liberal = 17
-    conservative = 75
-    reactionary = 8
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = BAL_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,6 +59,7 @@ nonstate_consciousness = 0
 
 oob = "BAL_oob.txt"
 1836.1.1 = {
+	ruling_party = BAL_conservative
 	oob = "/1836/BAL_oob.txt"
 }
 1861.1.1 = {

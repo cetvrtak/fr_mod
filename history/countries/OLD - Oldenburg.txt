@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = OLD_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 33
-    conservative = 55
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = OLD_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -72,6 +73,7 @@ nonstate_consciousness = 1
 
 oob = "OLD_oob.txt"
 1836.1.1 = {
+	ruling_party = OLD_conservative_2
 	oob = "/1836/OLD_oob.txt"
 }
 1861.1.1 = {

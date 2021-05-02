@@ -41,15 +41,16 @@ govt_flag = {
     flag = theocracy
 }
 
-ruling_party = KOR_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 18
-    conservative = 21
-    reactionary = 61
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = KOR_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -64,6 +65,7 @@ nonstate_consciousness = 0
 
 oob = "KOR_oob.txt"
 1836.1.1 = {
+	ruling_party = KOR_conservative_2
 	oob = "/1836/KOR_oob.txt"
 }
 1861.1.1 = {

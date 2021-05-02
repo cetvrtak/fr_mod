@@ -39,9 +39,9 @@ ruling_party = PRU_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 13
-	conservative = 81
-	reactionary = 6
+	liberal = 0
+	conservative = 75
+	reactionary = 25
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

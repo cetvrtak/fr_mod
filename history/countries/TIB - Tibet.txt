@@ -38,14 +38,15 @@ set_country_flag = gelugpa_country
 set_country_flag = theocratic_government
 
 ruling_party = TIB_conservative
-upper_house = {
-    fascist = 0
-    liberal = 9
-    conservative = 75
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,6 +59,7 @@ nonstate_consciousness = 0
 
 oob = "TIB_oob.txt"
 1836.1.1 = {
+	ruling_party = TIB_conservative
 	oob = "/1836/TIB_oob.txt"
 }
 1861.1.1 = {

@@ -40,14 +40,15 @@ set_country_flag = catholic_country
 set_country_flag = new_world_nation
 
 ruling_party = ARG_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 70
-    reactionary = 20
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -60,5 +61,6 @@ nonstate_consciousness = 0
 
 oob = "SBA_oob.txt"
 1836.1.1 = {
+	ruling_party = ARG_conservative
 	oob = "/1836/SBA_oob.txt"
 }

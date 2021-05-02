@@ -37,14 +37,15 @@ border_policy = open_borders
 set_country_flag = catholic_country
 
 ruling_party = LIT_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 10
-    anarcho_liberal = 5
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 69
+	reactionary = 31
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -54,6 +55,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = LIT_conservative
+}
 1861.1.1 = {
 # Technologies
 

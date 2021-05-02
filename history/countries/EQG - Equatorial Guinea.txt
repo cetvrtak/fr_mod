@@ -39,15 +39,16 @@ border_policy = open_borders
 set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
-ruling_party = EQG_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 16
-    conservative = 63
-    reactionary = 21
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = EQG_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,3 +60,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 schools = developing_tech_school
+1836.1.1 = {
+	ruling_party = EQG_reactionary
+}

@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = shiite_country
 decision = persia_1836_setup
 
-ruling_party = PER_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 60
-    reactionary = 28
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = PER_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 71
+	reactionary = 29
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "PER_oob.txt"
 1836.1.1 = {
+	ruling_party = PER_conservative
 	oob = "/1836/PER_oob.txt"
 }
 1861.1.1 = {

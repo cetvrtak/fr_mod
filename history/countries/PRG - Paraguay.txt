@@ -42,14 +42,15 @@ set_country_flag = isolationist
 set_country_flag = new_world_nation
 
 ruling_party = PRG_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 0
-    reactionary = 100
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,6 +63,7 @@ nonstate_consciousness = 0
 
 oob = "PRG_oob.txt"
 1836.1.1 = {
+	ruling_party = PRG_reactionary
 	oob = "/1836/PRG_oob.txt"
 }
 1861.1.1 = {

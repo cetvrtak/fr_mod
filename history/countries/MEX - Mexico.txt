@@ -44,14 +44,15 @@ govt_flag = {
 }
 
 ruling_party = MEX_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 63
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -64,6 +65,7 @@ nonstate_consciousness = 0
 
 oob = "MEX_oob.txt"
 1836.1.1 = {
+	ruling_party = MEX_conservative
 	oob = "/1836/MEX_oob.txt"
 }
 1861.1.1 = {

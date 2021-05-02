@@ -42,14 +42,15 @@ set_country_flag = orthodox_country
 decision = transcaucasia_1836_setup
 
 ruling_party = GEO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 68
-    reactionary = 17
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,5 +63,6 @@ nonstate_consciousness = 0
 
 oob = "TCA_oob.txt"
 1836.1.1 = {
+	ruling_party = GEO_conservative
 	oob = "/1836/TCA_oob.txt"
 }

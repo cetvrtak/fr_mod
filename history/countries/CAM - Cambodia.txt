@@ -41,14 +41,15 @@ govt_flag = {
 }
 
 ruling_party = CAM_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "CAM_oob.txt"
 1836.1.1 = {
+	ruling_party = CAM_conservative
 	oob = "/1836/CAM_oob.txt"
 }
 1861.1.1 = {

@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = exempt_from_vassal_contribution
 set_country_flag = protestant_country
 
-ruling_party = HAN_conservative_2
-upper_house = {
-    fascist = 0
-    liberal = 37
-    conservative = 58
-    reactionary = 5
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = HAN_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -75,6 +76,7 @@ nonstate_consciousness = 1
 
 oob = "HAN_oob.txt"
 1836.1.1 = {
+	ruling_party = HAN_conservative_2
 	oob = "/1836/HAN_oob.txt"
 }
 1861.1.1 = {

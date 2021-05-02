@@ -38,14 +38,15 @@ border_policy = open_borders
 set_country_flag = catholic_country
 
 ruling_party = SIC_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 85
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,3 +58,6 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "SIC_oob.txt"
+1836.1.1 = {
+	ruling_party = SIC_reactionary
+}

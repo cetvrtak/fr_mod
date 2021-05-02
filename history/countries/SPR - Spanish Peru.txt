@@ -35,13 +35,13 @@ debt_law = serfdom
 penal_system = capital_punishment
 
 
-ruling_party = SPR_liberal
+ruling_party = SPR_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 13
-	conservative = 82
-	reactionary = 5
+	liberal = 0
+	conservative = 79
+	reactionary = 21
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

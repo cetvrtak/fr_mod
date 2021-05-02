@@ -37,9 +37,9 @@ ruling_party = ZUL_reactionary
 upper_house = 
 {
 	fascist = 0
-	liberal = 8
-	conservative = 87
-	reactionary = 5
+	liberal = 0
+	conservative = 77
+	reactionary = 23
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

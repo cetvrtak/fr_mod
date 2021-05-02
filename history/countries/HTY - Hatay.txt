@@ -39,15 +39,16 @@ border_policy = closed_borders
 set_country_flag = sunni_country
 set_country_flag = unreleasable_country
 
-ruling_party = TUR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = TUR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,3 +60,6 @@ consciousness = 1
 nonstate_consciousness = 0
 
 schools = developing_tech_school
+1836.1.1 = {
+	ruling_party = TUR_conservative
+}

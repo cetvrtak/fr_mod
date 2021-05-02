@@ -37,15 +37,16 @@ border_policy = closed_borders
 
 set_country_flag = mahayana_country
 
-ruling_party = NIP_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 17
-    conservative = 35
-    reactionary = 48
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = NIP_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,6 +63,7 @@ nonstate_consciousness = 0
 
 oob = "TKG_oob.txt"
 1836.1.1 = {
+	ruling_party = NIP_reactionary
 	oob = "/1836/TKG_oob.txt"
 }
 1861.1.1 = {

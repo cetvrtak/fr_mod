@@ -38,15 +38,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = JOH_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = JOH_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 76
+	reactionary = 24
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -60,6 +61,7 @@ nonstate_consciousness = 0
 
 oob = "PRK_oob.txt"
 1836.1.1 = {
+	ruling_party = JOH_conservative
 	oob = "/1836/PRK_oob.txt"
 }
 1861.1.1 = {

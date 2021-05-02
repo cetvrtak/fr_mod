@@ -38,14 +38,15 @@ set_country_flag = fudai_daimyo
 set_country_flag = mahayana_country
 
 ruling_party = NIP_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 17
-    conservative = 35
-    reactionary = 48
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "YZW_oob.txt"
 1836.1.1 = {
+	ruling_party = NIP_reactionary
 	oob = "/1836/YZW_oob.txt"
 }
 1861.1.1 = {

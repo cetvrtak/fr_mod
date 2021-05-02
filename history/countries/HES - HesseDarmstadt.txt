@@ -39,14 +39,15 @@ border_policy = open_borders
 set_country_flag = protestant_country
 
 ruling_party = HED_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 55
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -73,6 +74,7 @@ nonstate_consciousness = 1
 
 oob = "HES_oob.txt"
 1836.1.1 = {
+	ruling_party = HED_reactionary
 	oob = "/1836/HES_oob.txt"
 }
 1861.1.1 = {

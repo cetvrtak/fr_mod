@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = MUG_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 75
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MUG_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,3 +58,6 @@ flintlock_rifles = 1
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = MUG_conservative
+}

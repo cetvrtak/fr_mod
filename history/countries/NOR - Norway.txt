@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = protestant_country
 
-ruling_party = NOR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 60
-    reactionary = 5
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = NOR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,9 @@ consciousness = 1
 nonstate_consciousness = 0
 
 schools = industrial_tech_school
+1836.1.1 = {
+	ruling_party = NOR_conservative
+}
 1861.1.1 = {
 
 # Political reforms

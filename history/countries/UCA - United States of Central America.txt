@@ -40,15 +40,16 @@ set_country_flag = catholic_country
 set_country_flag = new_world_nation
 decision = FRCA_1836_setup
 
-ruling_party = UCA_liberal
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 31
-    reactionary = 44
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = UCA_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "UCA_oob.txt"
 1836.1.1 = {
+	ruling_party = UCA_liberal
 	oob = "/1836/UCA_oob.txt"
 }
 1861.1.1 = {

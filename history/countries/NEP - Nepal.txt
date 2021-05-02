@@ -37,15 +37,16 @@ border_policy = closed_borders
 
 set_country_flag = mahayana_country
 
-ruling_party = NEP_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 78
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = NEP_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "NEP_oob.txt"
 1836.1.1 = {
+	ruling_party = NEP_conservative
 	oob = "/1836/NEP_oob.txt"
 }
 1861.1.1 = {

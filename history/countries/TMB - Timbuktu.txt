@@ -38,9 +38,9 @@ ruling_party = TMB_conservative
 upper_house = 
 {
 	fascist = 0
-	liberal = 11
-	conservative = 84
-	reactionary = 5
+	liberal = 0
+	conservative = 79
+	reactionary = 21
 	anarcho_liberal = 0
 	socialist = 0
 	communist = 0

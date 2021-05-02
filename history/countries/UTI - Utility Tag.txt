@@ -38,14 +38,15 @@ citizens_rights = primary_culture_only
 set_country_flag = protestant_country
 
 ruling_party = ENG_reactionary
-upper_house = {
-    fascist = 0
-    liberal = 33
-    conservative = 33
-    reactionary = 34
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,6 +56,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = ENG_reactionary
+}
 1861.1.1 = {
 # Technologies
 

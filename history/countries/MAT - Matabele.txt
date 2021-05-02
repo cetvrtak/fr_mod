@@ -42,14 +42,15 @@ set_country_flag = animist_country
 set_country_flag = lacking_writing_system
 
 ruling_party = MAT_conservative
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 100
-    reactionary = 0
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -62,6 +63,7 @@ nonstate_consciousness = 0
 
 oob = "MAT_oob.txt"
 1836.1.1 = {
+	ruling_party = MAT_conservative
 	oob = "/1836/MAT_oob.txt"
 }
 1861.1.1 = {

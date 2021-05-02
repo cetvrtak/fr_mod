@@ -44,15 +44,16 @@ govt_flag = {
 }
 decision = literacy_ENG
 
-ruling_party = ENG_liberal
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 83
-    reactionary = 5
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ENG_conservative
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -91,6 +92,7 @@ foreign_investment = {
 
 oob = "ENG_oob.txt"
 1836.1.1 = {
+	ruling_party = ENG_liberal
 	oob = "/1836/ENG_oob.txt"
 }
 1861.1.1 = {

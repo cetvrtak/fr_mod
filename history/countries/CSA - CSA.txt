@@ -40,14 +40,15 @@ set_country_flag = new_world_nation
 set_country_flag = protestant_country
 
 ruling_party = CSA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 78
-    reactionary = 12
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,9 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CSA_conservative
+}
 1861.1.1 = {
     oob = "/1861/CSA_oob.txt"
     set_country_flag = 1861CSAstart

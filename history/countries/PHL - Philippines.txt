@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = PHL_conservative
-upper_house = {
-    fascist = 0
-    liberal = 35
-    conservative = 55
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = PHL_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,9 @@ consciousness = 4
 nonstate_consciousness = 2
 
 schools = developing_tech_school
+1836.1.1 = {
+	ruling_party = PHL_conservative
+}
 1861.1.1 = {
 # Technologies
     post_napoleonic_thought = 1

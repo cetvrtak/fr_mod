@@ -47,14 +47,15 @@ govt_flag = {
 decision = france_1836_setup
 
 ruling_party = FRA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 70
-    reactionary = 18
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 82
+	reactionary = 18
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -95,6 +96,7 @@ foreign_investment = {
 
 oob = "FRA_oob.txt"
 1836.1.1 = {
+	ruling_party = FRA_conservative
 	oob = "/1836/FRA_oob.txt"
 }
 1861.1.1 = {

@@ -40,15 +40,16 @@ border_policy = open_borders
 set_country_flag = lacking_writing_system
 set_country_flag = sunni_country
 
-ruling_party = KNG_conservative
-upper_house = {
-    fascist = 0
-    liberal = 20
-    conservative = 40
-    reactionary = 40
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = KNG_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 73
+	reactionary = 27
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,6 +62,7 @@ nonstate_consciousness = 0
 
 oob = "KNG_oob.txt"
 1836.1.1 = {
+	ruling_party = KNG_conservative
 	oob = "/1836/KNG_oob.txt"
 }
 1861.1.1 = {

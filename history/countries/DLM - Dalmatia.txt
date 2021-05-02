@@ -37,15 +37,16 @@ border_policy = open_borders
 
 set_country_flag = catholic_country
 
-ruling_party = CRO_conservative
-upper_house = {
-    fascist = 0
-    liberal = 20
-    conservative = 65
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = CRO_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -55,3 +56,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 0
 nonstate_consciousness = 0
+1836.1.1 = {
+	ruling_party = CRO_conservative
+}

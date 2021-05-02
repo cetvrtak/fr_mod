@@ -37,14 +37,15 @@ border_policy = open_borders
 set_country_flag = theravada_country
 
 ruling_party = BUR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 12
-    conservative = 77
-    reactionary = 11
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -57,6 +58,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 oob = "BUR_oob.txt"
+1836.1.1 = {
+	ruling_party = BUR_conservative
+}
 1861.1.1 = {
     oob = "/1861/BUR_oob.txt"
     literacy = 0.07

@@ -39,14 +39,15 @@ border_policy = open_borders
 set_country_flag = sunni_country
 
 ruling_party = YEM_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 70
-    reactionary = 20
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -60,5 +61,6 @@ nonstate_consciousness = 0
 
 oob = "LHJ_oob.txt"
 1836.1.1 = {
+	ruling_party = YEM_conservative
 	oob = "/1836/LHJ_oob.txt"
 }

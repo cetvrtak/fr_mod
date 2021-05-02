@@ -46,14 +46,15 @@ border_policy = closed_borders
 set_country_flag = mahayana_country
 
 ruling_party = CHI_conservative
-upper_house = {
-    fascist = 0
-    liberal = 0
-    conservative = 75
-    reactionary = 25
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -66,6 +67,7 @@ nonstate_consciousness = 0
 
 oob = "CHI_oob.txt"
 1836.1.1 = {
+	ruling_party = CHI_conservative
 	oob = "/1836/CHI_oob.txt"
 }
 1861.1.1 = {

@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = sunni_country
 
-ruling_party = KOK_conservative
-upper_house = {
-    fascist = 0
-    liberal = 10
-    conservative = 68
-    reactionary = 22
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = KOK_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 77
+	reactionary = 23
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,6 +59,7 @@ nonstate_consciousness = 0
 
 oob = "KOK_oob.txt"
 1836.1.1 = {
+	ruling_party = KOK_conservative
 	oob = "/1836/KOK_oob.txt"
 }
 1861.1.1 = {

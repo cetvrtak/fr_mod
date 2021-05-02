@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = shiite_country
 
-ruling_party = AWA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 11
-    conservative = 73
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = AWA_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -58,5 +59,6 @@ nonstate_consciousness = 0
 
 oob = "AWA_oob.txt"
 1836.1.1 = {
+	ruling_party = AWA_conservative
 	oob = "/1836/AWA_oob.txt"
 }

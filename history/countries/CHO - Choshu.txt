@@ -37,15 +37,16 @@ border_policy = closed_borders
 set_country_flag = mahayana_country
 set_country_flag = tozama_daimyo
 
-ruling_party = NIP_conservative
-upper_house = {
-    fascist = 0
-    liberal = 17
-    conservative = 48
-    reactionary = 35
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = NIP_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -63,6 +64,7 @@ nonstate_consciousness = 0
 
 oob = "CHO_oob.txt"
 1836.1.1 = {
+	ruling_party = NIP_conservative
 	oob = "/1836/CHO_oob.txt"
 }
 1861.1.1 = {

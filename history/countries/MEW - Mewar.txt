@@ -36,15 +36,16 @@ border_policy = open_borders
 
 set_country_flag = hindu_country
 
-ruling_party = MEW_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 75
-    reactionary = 10
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = MEW_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 69
+	reactionary = 31
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,7 @@ nonstate_consciousness = 0
 
 oob = "MEW_oob.txt"
 1836.1.1 = {
+	ruling_party = MEW_conservative
 	oob = "/1836/MEW_oob.txt"
 }
 1861.1.1 = {

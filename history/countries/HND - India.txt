@@ -47,14 +47,15 @@ border_policy = open_borders
 set_country_flag = hindu_country
 
 ruling_party = HND_conservative
-upper_house = {
-    fascist = 0
-    liberal = 11
-    conservative = 73
-    reactionary = 16
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -66,3 +67,6 @@ consciousness = 0
 nonstate_consciousness = 0
 
 schools = developing_tech_school
+1836.1.1 = {
+	ruling_party = HND_conservative
+}

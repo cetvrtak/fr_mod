@@ -44,14 +44,15 @@ govt_flag = {
 }
 
 ruling_party = SPA_conservative
-upper_house = {
-    fascist = 0
-    liberal = 15
-    conservative = 40
-    reactionary = 45
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 100
+	reactionary = 0
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -61,3 +62,6 @@ upper_house = {
 # Starting Consciousness
 consciousness = 3
 nonstate_consciousness = 1
+1836.1.1 = {
+	ruling_party = SPA_conservative
+}

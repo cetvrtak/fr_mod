@@ -39,15 +39,16 @@ border_policy = open_borders
 
 set_country_flag = coptic_country
 
-ruling_party = ETH_conservative
-upper_house = {
-    fascist = 0
-    liberal = 13
-    conservative = 69
-    reactionary = 18
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = ETH_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 75
+	reactionary = 25
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -59,6 +60,9 @@ consciousness = 0
 nonstate_consciousness = 0
 
 schools = developing_tech_school
+1836.1.1 = {
+	ruling_party = ETH_conservative
+}
 1861.1.1 = {
     oob = "/1861/ETH_oob.txt"
     #set_global_flag = is_negusa_nagast

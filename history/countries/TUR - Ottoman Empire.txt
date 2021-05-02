@@ -41,15 +41,16 @@ set_country_flag = istanbul_not_renamed
 set_country_flag = sunni_country
 decision = ottoman_1836_setup
 
-ruling_party = TUR_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 60
-    reactionary = 15
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = TUR_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 81
+	reactionary = 19
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -69,6 +70,7 @@ nonstate_consciousness = 0
 
 oob = "TUR_oob.txt"
 1836.1.1 = {
+	ruling_party = TUR_conservative
 	oob = "/1836/TUR_oob.txt"
 }
 1861.1.1 = {

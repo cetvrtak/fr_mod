@@ -38,15 +38,16 @@ border_policy = open_borders
 set_country_flag = catholic_country
 decision = AUS_setup_1836
 
-ruling_party = AUS_conservative
-upper_house = {
-    fascist = 0
-    liberal = 25
-    conservative = 61
-    reactionary = 14
-    anarcho_liberal = 0
-    socialist = 0
-    communist = 0
+ruling_party = AUS_reactionary
+upper_house = 
+{
+	fascist = 0
+	liberal = 0
+	conservative = 75
+	reactionary = 25
+	anarcho_liberal = 0
+	socialist = 0
+	communist = 0
 }
 
 
@@ -79,6 +80,7 @@ foreign_investment = {
 
 oob = "AUS_oob.txt"
 1836.1.1 = {
+	ruling_party = AUS_conservative
 	oob = "/1836/AUS_oob.txt"
 }
 1861.1.1 = {
