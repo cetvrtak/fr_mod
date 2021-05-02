@@ -1281,6 +1281,14 @@ ideologies = {
     liberal = {
         factor = 1
         modifier = {
+            factor = 0.1
+            NOT = { has_global_flag = french_revolution_happened }
+        }
+        modifier = {
+            factor = 0.1
+            NOT = { has_country_flag = rise_of_liberalism }
+        }
+        modifier = {
             factor = 0.9
             OR = { is_accepted_culture = yes is_primary_culture = yes }
             OR = {
