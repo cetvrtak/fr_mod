@@ -1,6 +1,6 @@
 primary_culture = 
 religion = 
-government = 
+government = absolute_monarchy
 plurality = 0.0
 nationalvalue = 
 literacy = 0

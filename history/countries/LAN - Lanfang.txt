@@ -1,7 +1,7 @@
 capital = 1426
 primary_culture = yue
 religion = mahayana
-government = presidential_dictatorship
+government = democracy
 plurality = 0.0
 nationalvalue = nv_tradition
 literacy = 0.02
