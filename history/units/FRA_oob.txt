@@ -161,14 +161,14 @@ army = {
 		home=454
 	}
 	regiment = {
-		name="1st Caen Artillery"
-		type=artillery
+		name="1st Caen Infantry"
+		type=infantry
 		home=418
 	}
 	regiment = {
-		name="1st Tulle Infantry"
-		type=infantry
-		home=447
+		name="1st Valence Artillery"
+		type=artillery
+		home=453
 	}
 	regiment = {
 		name="1st Rennes Artillery"
@@ -181,11 +181,6 @@ army = {
 	name="Armée des Flandres"
 	location=443
 	regiment = {
-		name="1st Valence Infantry"
-		type=infantry
-		home=453
-	}
-	regiment = {
 		name="1st St Brieuc Infantry"
 		type=infantry
 		home=421
@@ -196,8 +191,8 @@ army = {
 		home=432
 	}
 	regiment = {
-		name="1st Lyon Cavalry"
-		type=cavalry
+		name="1st Lyon Infantry"
+		type=infantry
 		home=451
 	}
 	regiment = {
@@ -209,6 +204,11 @@ army = {
 		name="1st Bordeaux Cavalry"
 		type=cavalry
 		home=458
+	}
+	regiment = {
+		name="1st Tulle Cavalry"
+		type=cavalry
+		home=447
 	}
 	regiment = {
 		name="1st Montauban Infantry"

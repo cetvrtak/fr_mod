@@ -7,16 +7,6 @@ nationalvalue = nv_tradition
 literacy = 0.03
 civilized = yes
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = no_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = underground_parties
-
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
@@ -27,12 +17,12 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = no_draft
-debt_law = serfdom
-penal_system = capital_punishment
+border_policy = closed_borders
 child_labor = child_labor_legal
 citizens_rights = primary_culture_only
-border_policy = closed_borders
+conscription = mandatory_service
+debt_law = serfdom
+penal_system = capital_punishment
 
 set_country_flag = protestant_country
 

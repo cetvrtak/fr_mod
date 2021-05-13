@@ -10,16 +10,6 @@ plurality = 0.0
 nationalvalue = nv_order
 literacy = 0.04
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = landed_voting
-public_meetings = no_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = harassment
-
 # Social Reforms
 wage_reform = no_minimum_wage
 work_hours = no_work_hour_limit
@@ -30,12 +20,11 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = four_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = open_borders
+firearms_production = no_firearms_production
+foreign_artillery = no_foreign_artillery
+monetary_reform = no_monetary_reform
+research_reform = no_research_reform
+western_shipyards = no_western_shipyards
 
 set_country_flag = animist_country
 set_country_flag = post_colonial_country

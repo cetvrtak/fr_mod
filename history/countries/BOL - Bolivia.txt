@@ -10,15 +10,15 @@ civilized = yes
 prestige = 1
 is_releasable_vassal = no
 
-# Political reforms
-slavery = no_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = yes_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = first_past_the_post
-political_parties = underground_parties
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=state_equal_weight
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=non_socialist
+political_parties=gerrymandering
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -30,12 +30,12 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = two_year_draft
-debt_law = peonage
-penal_system = capital_punishment
+border_policy = closed_borders
 child_labor = child_labor_legal
-citizens_rights = culture_voting_only
-border_policy = open_borders
+citizens_rights = primary_culture_only
+conscription = mandatory_service
+debt_law = serfdom
+penal_system = capital_punishment
 
 set_country_flag = catholic_country
 set_country_flag = new_world_nation

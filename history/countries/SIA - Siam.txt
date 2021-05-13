@@ -7,15 +7,15 @@ nationalvalue = nv_tradition
 literacy = 0.02
 non_state_culture_literacy = 0.01
 
-# Political reforms
-slavery = yes_slavery
-upper_house_composition = appointed
-vote_franschise = none_voting
-public_meetings = no_meeting
-press_rights = state_press
-trade_unions = no_trade_unions
-voting_system = jefferson_method
-political_parties = underground_parties
+# political reforms
+slavery=yes_slavery
+vote_franschise=landed_voting
+upper_house_composition=appointed
+voting_system=jefferson_method
+public_meetings=no_meeting
+press_rights=censored_press
+trade_unions=state_controlled
+political_parties=harassment
 
 # Social Reforms
 wage_reform = no_minimum_wage
@@ -27,12 +27,11 @@ pensions = no_pensions
 school_reforms = no_schools
 
 # New Reforms
-conscription = one_year_draft
-debt_law = serfdom
-penal_system = capital_punishment
-child_labor = child_labor_legal
-citizens_rights = primary_culture_only
-border_policy = open_borders
+firearms_production = no_firearms_production
+foreign_artillery = no_foreign_artillery
+monetary_reform = no_monetary_reform
+research_reform = no_research_reform
+western_shipyards = no_western_shipyards
 
 set_country_flag = theravada_country
 govt_flag = {
@@ -53,7 +52,6 @@ upper_house =
 }
 
 
-foreign_weapons = yes_foreign_weapons
 
 # Technologies
 
