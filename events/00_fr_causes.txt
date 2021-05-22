@@ -1,0 +1,31 @@
+#Coffee houses and reading clubs
+province_event = {
+	id = 200
+	title = "EVTNAME200"
+	desc = "EVTDESC200"
+	picture = "coffee_house"
+
+	trigger = {
+		NOT = { has_province_modifier = coffee_houses }
+		any_pop = {
+            limit = { strata = middle }
+			literacy = 0.3
+		}
+		NOT = { consciousness = 5 }
+		is_primary_culture = yes
+		owner = { civilized = yes }
+		year = 1675
+	}
+
+	mean_time_to_happen = {
+		months = 48
+	}
+
+	option = {
+		name = "EVTOPTA200"
+		add_province_modifier = {
+			name = coffee_houses
+			duration = -1
+		}
+	}
+}
