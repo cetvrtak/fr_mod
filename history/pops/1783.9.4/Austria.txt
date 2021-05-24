@@ -476,28 +476,28 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 3000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 1100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = hungarian
 		religion = catholic
 		size= 300
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -789,14 +789,14 @@
 		size= 35
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = hungarian
 		religion = catholic

@@ -7712,7 +7712,7 @@
 		size= 50
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = cherokee
 		religion = protestant
@@ -9385,28 +9385,28 @@
 		size= 10
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 60
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = catholic
 		size= 5
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 1200
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = catholic
@@ -9739,7 +9739,7 @@
 		size= 50
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
@@ -10000,14 +10000,14 @@
 		size= 10
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 125
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
@@ -10391,14 +10391,14 @@
 		size= 25
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 50
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
@@ -10478,14 +10478,14 @@
 		size= 25
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 75
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
@@ -10607,28 +10607,28 @@
 		size= 75
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 825
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = catholic
 		size= 50
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 16250
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = catholic
@@ -10708,14 +10708,14 @@
 		size= 50
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 25
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
@@ -10878,14 +10878,14 @@
 		size= 1150
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant
 		size= 25
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = yankee
 		religion = protestant

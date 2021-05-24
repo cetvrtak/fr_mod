@@ -177,21 +177,21 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 400
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 8000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = catholic
@@ -316,21 +316,21 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 10850
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 55000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = irish
 		religion = catholic
@@ -427,14 +427,14 @@
 		size= 375
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 50
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -562,14 +562,14 @@
 		size= 250
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 150
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -663,28 +663,28 @@
 		size= 125
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 1750
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 30000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = catholic
 		size= 1100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = irish
 		religion = catholic
@@ -771,14 +771,14 @@
 		size= 75
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 1150
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -896,7 +896,7 @@
 		size= 750
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1066,7 +1066,7 @@
 		size= 875
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1153,14 +1153,14 @@
 		size= 1625
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 1100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1316,14 +1316,14 @@
 		size= 500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 1100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1382,14 +1382,14 @@
 		size= 500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 200
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1763,14 +1763,14 @@
 		size= 1625
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 600
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1829,7 +1829,7 @@
 		size= 625
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -1874,7 +1874,7 @@
 		size= 1625
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
@@ -2048,35 +2048,35 @@
 		size= 18250
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 12000
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = british
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = protestant
 		size= 116000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = british
 		religion = jewish
 		size= 1500
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = irish
 		religion = catholic

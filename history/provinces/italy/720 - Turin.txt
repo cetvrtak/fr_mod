@@ -4,16 +4,6 @@ add_core = SAR
 add_core = SVY
 trade_goods = fruit
 life_rating = 40
-state_building = {
-    level = 1
-    building = luxury_clothes_factory
-    upgrade = yes
-}
-state_building = {
-    level = 1
-    building = regular_clothes_factory
-    upgrade = yes
-}
 
 1836.1.1 = {
 	owner = SAR

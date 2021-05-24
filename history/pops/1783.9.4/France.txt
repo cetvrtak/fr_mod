@@ -1384,7 +1384,7 @@
 		size= 900
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = french
 		religion = catholic
@@ -1846,28 +1846,28 @@
 		size= 500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = french
 		religion = catholic
 		size= 1500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 1400
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = french
 		religion = catholic
 		size= 13500
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -3065,28 +3065,28 @@
 		size= 1500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = french
 		religion = catholic
 		size= 350
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = french
 		religion = catholic
 		size= 6500
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -3166,7 +3166,7 @@
 		size= 825
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = french
 		religion = catholic

@@ -91,21 +91,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 300
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 300
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -248,21 +248,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -377,21 +377,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -506,21 +506,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -635,21 +635,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -785,21 +785,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 300
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -921,21 +921,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = czech
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish

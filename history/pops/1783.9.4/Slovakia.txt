@@ -126,28 +126,28 @@
 		size= 150
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = hungarian
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -318,21 +318,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -482,28 +482,28 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = hungarian
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -667,28 +667,28 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = polish
 		religion = catholic
@@ -880,28 +880,28 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = hungarian
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = south_german
 		religion = catholic
@@ -1072,14 +1072,14 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = slovak
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish

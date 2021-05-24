@@ -70,42 +70,42 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = swiss
 		religion = catholic
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant
 		size= 21200
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = swiss
 		religion = catholic
 		size= 600
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -199,28 +199,28 @@
 		size= 250
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = swiss
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant
 		size= 750
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = swiss
 		religion = catholic
@@ -293,14 +293,14 @@
 		size= 625
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = swiss
 		religion = protestant

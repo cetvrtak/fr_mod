@@ -425,14 +425,14 @@
 		size= 350
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 125
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish

@@ -98,42 +98,42 @@
 		size= 250
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 300
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = flemish
 		religion = catholic
 		size= 2150
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
 		size= 300
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 600
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = flemish
 		religion = catholic
 		size= 5000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
@@ -380,14 +380,14 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = flemish
 		religion = catholic
 		size= 500
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -533,14 +533,14 @@
 		size= 75
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
 		size= 2000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
@@ -641,7 +641,7 @@
 		size= 125
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
@@ -742,7 +742,7 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
@@ -815,14 +815,14 @@
 		size= 500
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic
@@ -940,7 +940,7 @@
 		size= 225
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = wallonian
 		religion = catholic

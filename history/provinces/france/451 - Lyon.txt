@@ -4,11 +4,6 @@ add_core = FRA
 trade_goods = iron
 life_rating = 34
 railroad = 1
-state_building = {
-    level = 1
-    building = winery
-    upgrade = yes
-}
 
 1836.1.1 = {
 	owner = FRA

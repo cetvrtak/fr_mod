@@ -1624,28 +1624,28 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 600
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 16525
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 150
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = polish
 		religion = catholic
@@ -2386,28 +2386,28 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 135
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 1290
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -2501,28 +2501,28 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 135
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 1405
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -3893,14 +3893,14 @@
 		size= 100
 	}
 
-	clerks=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 2125
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
@@ -4161,21 +4161,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 5000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = protestant
 		size= 5000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
@@ -4398,21 +4398,21 @@
 		size= 100
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 4000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = north_german
 		religion = catholic
 		size= 4000
 	}
 
-	craftsmen=
+	farmers=
 	{
 		culture = ashkenazi
 		religion = jewish
